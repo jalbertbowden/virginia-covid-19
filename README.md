@@ -1,5 +1,5 @@
 # Virginia COVID 19 Open Data. 
-`virginia-covid19` is the repository for COVID 19 open data in the commonwealth of Virginia.
+`virginia-covid-19` is the repository for COVID 19 open data in the commonwealth of Virginia.
 
 Data source: [VDH Coronavirus](http://www.vdh.virginia.gov/coronavirus/).  
 
