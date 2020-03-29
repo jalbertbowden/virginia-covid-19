@@ -1,6 +1,6 @@
 # Virginia COVID 19 Open Data. 
 
-`virginia-covid-19` is the repository for COVID 19 open data in the commonwealth of Virginia.
+`virginia-covid-19` is the repository for COVID 19 open data in the commonwealth of Virginia, providing an archive and historical context.  
 Daily [datasets](https://github.com/jalbertbowden/virginia-covid-19/tree/master/data) in [CSV](https://github.com/jalbertbowden/virginia-covid-19/tree/master/data/csv) and [JSON](https://github.com/jalbertbowden/virginia-covid-19/tree/master/data/json). 
 
 Data source: [VDH Coronavirus](http://www.vdh.virginia.gov/coronavirus/).  
