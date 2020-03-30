@@ -11,6 +11,7 @@ This is a podcast about the response to COVID-19 in Charlottesville and Albemarl
 [from @jonahadkins](https://twitter.com/jonahadkins)  
 ### [COVID-19 VA Totals (Google Sheet)](https://docs.google.com/spreadsheets/d/1FgJpfYWxJi3xUhQnqnlGcyIlQ9Q5KmVJP9xLfPQexqg/edit#gid=0)  
 The original Virginia data archive, this Google Sheet is curated by [@alixbryan](https://twitter.com/alixbryan)  
+### [Virginia County Health Departments (Google Sheet)](https://docs.google.com/spreadsheets/d/1jQ2NgTLsTskAeONCNWNUw23F-xhoqq5bFgSRkJQUPQo/edit?usp=sharing)  
 
 ## Data Sources  
 Data source: [VDH Coronavirus](http://www.vdh.virginia.gov/coronavirus/).  
