@@ -12,6 +12,7 @@ This is a podcast about the response to COVID-19 in Charlottesville and Albemarl
 ### [COVID-19 VA Totals (Google Sheet)](https://docs.google.com/spreadsheets/d/1FgJpfYWxJi3xUhQnqnlGcyIlQ9Q5KmVJP9xLfPQexqg/edit#gid=0)  
 The original Virginia data archive, this Google Sheet is curated by [@alixbryan](https://twitter.com/alixbryan)  
 
+## Data Sources  
 Data source: [VDH Coronavirus](http://www.vdh.virginia.gov/coronavirus/).  
 Dataset sources:  
 [Cases - VDH COVID19 Public Use Dataset](http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv)  
