@@ -1,0 +1,247 @@
+[
+  {
+    "Report Date": "2020-04-14",
+    "Health District": "Alexandria",
+    "Number of Cases": 247,
+    "Number of Hospitalizations": 23,
+    "Number of Deaths": 2
+  },
+  {
+    "Report Date": "2020-04-14",
+    "Health District": "Alleghany",
+    "Number of Cases": 49,
+    "Number of Hospitalizations": 10,
+    "Number of Deaths": 2
+  },
+  {
+    "Report Date": "2020-04-14",
+    "Health District": "Arlington",
+    "Number of Cases": 401,
+    "Number of Hospitalizations": 36,
+    "Number of Deaths": 12
+  },
+  {
+    "Report Date": "2020-04-14",
+    "Health District": "Central Shenandoah",
+    "Number of Cases": 186,
+    "Number of Hospitalizations": 15,
+    "Number of Deaths": 1
+  },
+  {
+    "Report Date": "2020-04-14",
+    "Health District": "Central Virginia",
+    "Number of Cases": 77,
+    "Number of Hospitalizations": 6,
+    "Number of Deaths": 1
+  },
+  {
+    "Report Date": "2020-04-14",
+    "Health District": "Chesapeake",
+    "Number of Cases": 136,
+    "Number of Hospitalizations": 34,
+    "Number of Deaths": 3
+  },
+  {
+    "Report Date": "2020-04-14",
+    "Health District": "Chesterfield",
+    "Number of Cases": 262,
+    "Number of Hospitalizations": 24,
+    "Number of Deaths": 5
+  },
+  {
+    "Report Date": "2020-04-14",
+    "Health District": "Chickahominy",
+    "Number of Cases": 115,
+    "Number of Hospitalizations": 16,
+    "Number of Deaths": 4
+  },
+  {
+    "Report Date": "2020-04-14",
+    "Health District": "Crater",
+    "Number of Cases": 101,
+    "Number of Hospitalizations": 12,
+    "Number of Deaths": 6
+  },
+  {
+    "Report Date": "2020-04-14",
+    "Health District": "Cumberland Plateau",
+    "Number of Cases": 18,
+    "Number of Hospitalizations": 1,
+    "Number of Deaths": 0
+  },
+  {
+    "Report Date": "2020-04-14",
+    "Health District": "Eastern Shore",
+    "Number of Cases": 19,
+    "Number of Hospitalizations": 10,
+    "Number of Deaths": 1
+  },
+  {
+    "Report Date": "2020-04-14",
+    "Health District": "Fairfax",
+    "Number of Cases": 1207,
+    "Number of Hospitalizations": 235,
+    "Number of Deaths": 21
+  },
+  {
+    "Report Date": "2020-04-14",
+    "Health District": "Hampton",
+    "Number of Cases": 73,
+    "Number of Hospitalizations": 19,
+    "Number of Deaths": 1
+  },
+  {
+    "Report Date": "2020-04-14",
+    "Health District": "Henrico",
+    "Number of Cases": 432,
+    "Number of Hospitalizations": 40,
+    "Number of Deaths": 33
+  },
+  {
+    "Report Date": "2020-04-14",
+    "Health District": "Lenowisco",
+    "Number of Cases": 23,
+    "Number of Hospitalizations": 7,
+    "Number of Deaths": 1
+  },
+  {
+    "Report Date": "2020-04-14",
+    "Health District": "Lord Fairfax",
+    "Number of Cases": 144,
+    "Number of Hospitalizations": 11,
+    "Number of Deaths": 0
+  },
+  {
+    "Report Date": "2020-04-14",
+    "Health District": "Loudoun",
+    "Number of Cases": 344,
+    "Number of Hospitalizations": 37,
+    "Number of Deaths": 5
+  },
+  {
+    "Report Date": "2020-04-14",
+    "Health District": "Mount Rogers",
+    "Number of Cases": 50,
+    "Number of Hospitalizations": 12,
+    "Number of Deaths": 4
+  },
+  {
+    "Report Date": "2020-04-14",
+    "Health District": "New River",
+    "Number of Cases": 43,
+    "Number of Hospitalizations": 6,
+    "Number of Deaths": 0
+  },
+  {
+    "Report Date": "2020-04-14",
+    "Health District": "Norfolk",
+    "Number of Cases": 97,
+    "Number of Hospitalizations": 24,
+    "Number of Deaths": 1
+  },
+  {
+    "Report Date": "2020-04-14",
+    "Health District": "Peninsula",
+    "Number of Cases": 282,
+    "Number of Hospitalizations": 83,
+    "Number of Deaths": 11
+  },
+  {
+    "Report Date": "2020-04-14",
+    "Health District": "Piedmont",
+    "Number of Cases": 60,
+    "Number of Hospitalizations": 11,
+    "Number of Deaths": 2
+  },
+  {
+    "Report Date": "2020-04-14",
+    "Health District": "Pittsylvania-Danville",
+    "Number of Cases": 26,
+    "Number of Hospitalizations": 16,
+    "Number of Deaths": 1
+  },
+  {
+    "Report Date": "2020-04-14",
+    "Health District": "Portsmouth",
+    "Number of Cases": 59,
+    "Number of Hospitalizations": 21,
+    "Number of Deaths": 4
+  },
+  {
+    "Report Date": "2020-04-14",
+    "Health District": "Prince William",
+    "Number of Cases": 570,
+    "Number of Hospitalizations": 68,
+    "Number of Deaths": 10
+  },
+  {
+    "Report Date": "2020-04-14",
+    "Health District": "Rappahannock",
+    "Number of Cases": 188,
+    "Number of Hospitalizations": 38,
+    "Number of Deaths": 2
+  },
+  {
+    "Report Date": "2020-04-14",
+    "Health District": "Rappahannock Rapidan",
+    "Number of Cases": 75,
+    "Number of Hospitalizations": 14,
+    "Number of Deaths": 2
+  },
+  {
+    "Report Date": "2020-04-14",
+    "Health District": "Richmond",
+    "Number of Cases": 175,
+    "Number of Hospitalizations": 20,
+    "Number of Deaths": 7
+  },
+  {
+    "Report Date": "2020-04-14",
+    "Health District": "Roanoke",
+    "Number of Cases": 21,
+    "Number of Hospitalizations": 3,
+    "Number of Deaths": 0
+  },
+  {
+    "Report Date": "2020-04-14",
+    "Health District": "Southside",
+    "Number of Cases": 73,
+    "Number of Hospitalizations": 12,
+    "Number of Deaths": 1
+  },
+  {
+    "Report Date": "2020-04-14",
+    "Health District": "Thomas Jefferson",
+    "Number of Cases": 163,
+    "Number of Hospitalizations": 29,
+    "Number of Deaths": 3
+  },
+  {
+    "Report Date": "2020-04-14",
+    "Health District": "Three Rivers",
+    "Number of Cases": 50,
+    "Number of Hospitalizations": 7,
+    "Number of Deaths": 0
+  },
+  {
+    "Report Date": "2020-04-14",
+    "Health District": "Virginia Beach",
+    "Number of Cases": 252,
+    "Number of Hospitalizations": 51,
+    "Number of Deaths": 5
+  },
+  {
+    "Report Date": "2020-04-14",
+    "Health District": "West Piedmont",
+    "Number of Cases": 23,
+    "Number of Hospitalizations": 3,
+    "Number of Deaths": 0
+  },
+  {
+    "Report Date": "2020-04-14",
+    "Health District": "Western Tidewater",
+    "Number of Cases": 130,
+    "Number of Hospitalizations": 24,
+    "Number of Deaths": 3
+  }
+]
