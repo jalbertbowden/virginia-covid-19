@@ -3,6 +3,11 @@
 `virginia-covid-19` is the repository for COVID 19 open data in the commonwealth of Virginia, providing an archive and historical context.  
 Daily [datasets](https://github.com/jalbertbowden/virginia-covid-19/tree/master/data) in [CSV](https://github.com/jalbertbowden/virginia-covid-19/tree/master/data/csv) and [JSON](https://github.com/jalbertbowden/virginia-covid-19/tree/master/data/json). 
 
+## Virginia VA COVID 19 Data  
+[Google Sheet](https://docs.google.com/spreadsheets/d/1OE224UzFx022XQFYlkXmWyRXy8YBAABE5jDKa7zfJZQ/edit#gid=1363155774)
+## VHHA Data Archive  
+[Google Sheet](https://docs.google.com/spreadsheets/d/1ahR_kq-oYTCkCeTM3YfoF_mQyGq4JrwRdS7oeIOEWf4/edit#gid=0)
+
 ## Virginia COVID 19 Community Resources  
 ### [COVID-19 in Charlottesville](https://covid-19-in-charlottesville.simplecast.com/)  
 This is a podcast about the response to COVID-19 in Charlottesville and Albemarle County.  
@@ -22,3 +27,8 @@ Dataset sources:
 [Cases by Age Group - VDH COVID19 Public Use Dataset](http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases_By-Age-Group.csv)  
 [Cases by Sex - VDH COVID19 Public Use Dataset](http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases_By-Sex.csv)  
 [Cases by Race - VDH COVID19 Public Use Dataset](http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases_By-Race.csv)  
+[VDH Weekly Report](http://www.vdh.virginia.gov/coronavirus/weekly-report/)  
+[VDH Weekly Report CSV](http://www.vdh.virginia.gov/content/uploads/sites/182/2020/04/Long-Data.csv)  
+[VDH Weekly Report PDF](http://www.vdh.virginia.gov/content/uploads/sites/182/2020/04/Virginia-Weekly-COVID-19-Activity-Report.pdf)  
+[VA COVID Data](https://www.publichealth.va.gov/n-coronavirus/)  
+[VHHA Dashboard](https://www.vhha.com/communications/virginia-hospital-covid-19-data-dashboard/)
