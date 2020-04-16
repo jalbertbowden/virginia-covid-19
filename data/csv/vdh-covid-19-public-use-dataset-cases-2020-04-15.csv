@@ -1,0 +1,134 @@
+﻿Report Date,FIPS,Locality,Health District,Total Cases
+2020-04-15,51003,Albemarle,Thomas Jefferson,53
+2020-04-15,51009,Amherst,Central Virginia,10
+2020-04-15,51011,Appomattox,Central Virginia,7
+2020-04-15,51013,Arlington,Arlington,420
+2020-04-15,51015,Augusta,Central Shenandoah,18
+2020-04-15,51019,Bedford,Central Virginia,16
+2020-04-15,51021,Bland,Mount Rogers,0
+2020-04-15,51025,Brunswick,Southside,9
+2020-04-15,51027,Buchanan,Cumberland Plateau,12
+2020-04-15,51029,Buckingham,Piedmont,22
+2020-04-15,51031,Campbell,Central Virginia,11
+2020-04-15,51033,Caroline,Rappahannock,9
+2020-04-15,51035,Carroll,Mount Rogers,3
+2020-04-15,51036,Charles City,Chickahominy,9
+2020-04-15,51037,Charlotte,Piedmont,5
+2020-04-15,51043,Clarke,Lord Fairfax,6
+2020-04-15,51047,Culpeper,Rappahannock Rapidan,25
+2020-04-15,51049,Cumberland,Piedmont,8
+2020-04-15,51053,Dinwiddie,Crater,7
+2020-04-15,51057,Essex,Three Rivers,0
+2020-04-15,51077,Grayson,Mount Rogers,0
+2020-04-15,51079,Greene,Thomas Jefferson,5
+2020-04-15,51081,Greensville,Crater,16
+2020-04-15,51083,Halifax,Southside,7
+2020-04-15,51085,Hanover,Chickahominy,53
+2020-04-15,51087,Henrico,Henrico,453
+2020-04-15,51091,Highland,Central Shenandoah,0
+2020-04-15,51093,Isle of Wight,Western Tidewater,60
+2020-04-15,51097,King and Queen,Three Rivers,2
+2020-04-15,51105,Lee,Lenowisco,6
+2020-04-15,51109,Louisa,Thomas Jefferson,29
+2020-04-15,51111,Lunenburg,Piedmont,3
+2020-04-15,51113,Madison,Rappahannock Rapidan,8
+2020-04-15,51115,Mathews,Three Rivers,3
+2020-04-15,51119,Middlesex,Three Rivers,3
+2020-04-15,51127,New Kent,Chickahominy,16
+2020-04-15,51131,Northampton,Eastern Shore,4
+2020-04-15,51133,Northumberland,Three Rivers,4
+2020-04-15,51141,Patrick,West Piedmont,0
+2020-04-15,51143,Pittsylvania,Pittsylvania-Danville,4
+2020-04-15,51145,Powhatan,Chesterfield,5
+2020-04-15,51149,Prince George,Crater,27
+2020-04-15,51153,Prince William,Prince William,536
+2020-04-15,51155,Pulaski,New River,4
+2020-04-15,51163,Rockbridge,Central Shenandoah,3
+2020-04-15,51165,Rockingham,Central Shenandoah,67
+2020-04-15,51167,Russell,Cumberland Plateau,2
+2020-04-15,51185,Tazewell,Cumberland Plateau,4
+2020-04-15,51187,Warren,Lord Fairfax,20
+2020-04-15,51193,Westmoreland,Three Rivers,8
+2020-04-15,51197,Wythe,Mount Rogers,7
+2020-04-15,51199,York,Peninsula,35
+2020-04-15,51510,Alexandria,Alexandria,254
+2020-04-15,51520,Bristol,Mount Rogers,1
+2020-04-15,51550,Chesapeake,Chesapeake,140
+2020-04-15,51590,Danville,Pittsylvania-Danville,22
+2020-04-15,51600,Fairfax City,Fairfax,0
+2020-04-15,51620,Franklin City,Western Tidewater,7
+2020-04-15,51660,Harrisonburg,Central Shenandoah,101
+2020-04-15,51680,Lynchburg,Central Virginia,34
+2020-04-15,51685,Manassas Park,Prince William,14
+2020-04-15,51690,Martinsville,West Piedmont,0
+2020-04-15,51700,Newport News,Peninsula,95
+2020-04-15,51710,Norfolk,Norfolk,99
+2020-04-15,51775,Salem,Alleghany,3
+2020-04-15,51820,Waynesboro,Central Shenandoah,6
+2020-04-15,51830,Williamsburg,Peninsula,19
+2020-04-15,51840,Winchester,Lord Fairfax,21
+2020-04-15,51001,Accomack,Eastern Shore,15
+2020-04-15,51005,Alleghany,Alleghany,4
+2020-04-15,51007,Amelia,Piedmont,10
+2020-04-15,51017,Bath,Central Shenandoah,0
+2020-04-15,51023,Botetourt,Alleghany,23
+2020-04-15,51041,Chesterfield,Chesterfield,254
+2020-04-15,51045,Craig,Alleghany,2
+2020-04-15,51051,Dickenson,Cumberland Plateau,0
+2020-04-15,51059,Fairfax,Fairfax,1298
+2020-04-15,51061,Fauquier,Rappahannock Rapidan,29
+2020-04-15,51063,Floyd,New River,1
+2020-04-15,51065,Fluvanna,Thomas Jefferson,62
+2020-04-15,51067,Franklin County,West Piedmont,15
+2020-04-15,51069,Frederick,Lord Fairfax,73
+2020-04-15,51071,Giles,New River,4
+2020-04-15,51073,Gloucester,Three Rivers,20
+2020-04-15,51075,Goochland,Chickahominy,40
+2020-04-15,51089,Henry,West Piedmont,8
+2020-04-15,51095,James City,Peninsula,132
+2020-04-15,51099,King George,Rappahannock,17
+2020-04-15,51101,King William,Three Rivers,2
+2020-04-15,51103,Lancaster,Three Rivers,1
+2020-04-15,51107,Loudoun,Loudoun,367
+2020-04-15,51117,Mecklenburg,Southside,57
+2020-04-15,51121,Montgomery,New River,34
+2020-04-15,51125,Nelson,Thomas Jefferson,5
+2020-04-15,51135,Nottoway,Piedmont,5
+2020-04-15,51137,Orange,Rappahannock Rapidan,17
+2020-04-15,51139,Page,Lord Fairfax,6
+2020-04-15,51147,Prince Edward,Piedmont,15
+2020-04-15,51157,Rappahannock,Rappahannock Rapidan,1
+2020-04-15,51159,Richmond County,Three Rivers,7
+2020-04-15,51161,Roanoke County,Alleghany,17
+2020-04-15,51169,Scott,Lenowisco,3
+2020-04-15,51171,Shenandoah,Lord Fairfax,27
+2020-04-15,51173,Smyth,Mount Rogers,11
+2020-04-15,51175,Southampton,Western Tidewater,6
+2020-04-15,51177,Spotsylvania,Rappahannock,60
+2020-04-15,51179,Stafford,Rappahannock,108
+2020-04-15,51181,Surry,Crater,3
+2020-04-15,51183,Sussex,Crater,10
+2020-04-15,51191,Washington,Mount Rogers,27
+2020-04-15,51195,Wise,Lenowisco,15
+2020-04-15,51530,Buena Vista City,Central Shenandoah,4
+2020-04-15,51540,Charlottesville,Thomas Jefferson,38
+2020-04-15,51570,Colonial Heights,Chesterfield,17
+2020-04-15,51580,Covington,Alleghany,1
+2020-04-15,51595,Emporia,Crater,7
+2020-04-15,51610,Falls Church,Fairfax,0
+2020-04-15,51630,Fredericksburg,Rappahannock,15
+2020-04-15,51640,Galax,Mount Rogers,1
+2020-04-15,51650,Hampton,Hampton,75
+2020-04-15,51670,Hopewell,Crater,14
+2020-04-15,51678,Lexington,Central Shenandoah,3
+2020-04-15,51683,Manassas City,Prince William,53
+2020-04-15,51720,Norton,Lenowisco,0
+2020-04-15,51730,Petersburg,Crater,19
+2020-04-15,51735,Poquoson,Peninsula,6
+2020-04-15,51740,Portsmouth,Portsmouth,59
+2020-04-15,51750,Radford,New River,1
+2020-04-15,51760,Richmond City,Richmond,177
+2020-04-15,51770,Roanoke City,Roanoke,22
+2020-04-15,51790,Staunton,Central Shenandoah,2
+2020-04-15,51800,Suffolk,Western Tidewater,59
+2020-04-15,51810,Virginia Beach,Virginia Beach,256
