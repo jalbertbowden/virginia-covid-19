@@ -1,0 +1,877 @@
+[
+  {
+    "FacilityLatitude": 29.96349724,
+    "FacilityLongitude": -90.08453613,
+    "VA Confirmed": 436,
+    "VA Deaths with 0": 31,
+    "Facility": "(629) SE LOUISIANA VETERANS HCS"
+  },
+  {
+    "FacilityLatitude": 40.86908966,
+    "FacilityLongitude": -73.90312889,
+    "VA Confirmed": 389,
+    "VA Deaths with 0": 36,
+    "Facility": "(526) BRONX VAMC"
+  },
+  {
+    "FacilityLatitude": 40.73652707,
+    "FacilityLongitude": -73.97761421,
+    "VA Confirmed": 356,
+    "VA Deaths with 0": 36,
+    "Facility": "(630) NEW YORK HHS"
+  },
+  {
+    "FacilityLatitude": 40.75386906,
+    "FacilityLongitude": -74.23435543,
+    "VA Confirmed": 301,
+    "VA Deaths with 0": 30,
+    "Facility": "(561) EAST ORANGE-VA NEW JERSEY HCS"
+  },
+  {
+    "FacilityLatitude": 41.87093133,
+    "FacilityLongitude": -87.67637943,
+    "VA Confirmed": 161,
+    "VA Deaths with 0": 11,
+    "Facility": "(537) JESSE BROWN VAMC"
+  },
+  {
+    "FacilityLatitude": 39.74454,
+    "FacilityLongitude": -104.830971,
+    "VA Confirmed": 150,
+    "VA Deaths with 0": 1,
+    "Facility": "(554) ROCKY MOUNTAIN REGIONAL VAMC"
+  },
+  {
+    "FacilityLatitude": 41.24513688,
+    "FacilityLongitude": -73.92641261,
+    "VA Confirmed": 140,
+    "VA Deaths with 0": 2,
+    "Facility": "(620) HUDSON VALLEY HCS VAMC"
+  },
+  {
+    "FacilityLatitude": 38.9311137,
+    "FacilityLongitude": -77.01091105,
+    "VA Confirmed": 138,
+    "VA Deaths with 0": 12,
+    "Facility": "(688) WASHINGTON VA MEDICAL CENTER"
+  },
+  {
+    "FacilityLatitude": 42.3270244,
+    "FacilityLongitude": -71.11109941,
+    "VA Confirmed": 137,
+    "VA Deaths with 0": 6,
+    "Facility": "(523) BOSTON HCS VAMC"
+  },
+  {
+    "FacilityLatitude": 42.35514102,
+    "FacilityLongitude": -83.06034128,
+    "VA Confirmed": 133,
+    "VA Deaths with 0": 18,
+    "Facility": "(553) DETROIT, MI VAMC"
+  },
+  {
+    "FacilityLatitude": 41.28435892,
+    "FacilityLongitude": -72.95731298,
+    "VA Confirmed": 128,
+    "VA Deaths with 0": 0,
+    "Facility": "(689) CONNECTICUT HCS"
+  },
+  {
+    "FacilityLatitude": 39.77978309,
+    "FacilityLongitude": -86.18645756,
+    "VA Confirmed": 121,
+    "VA Deaths with 0": 10,
+    "Facility": "(583) RICHARD L. ROUDEBUSH VAMC"
+  },
+  {
+    "FacilityLatitude": 42.3084163,
+    "FacilityLongitude": -87.86247337,
+    "VA Confirmed": 119,
+    "VA Deaths with 0": 1,
+    "Facility": "(556) CAPTN JAMES LOVELL FED HLT CTR"
+  },
+  {
+    "FacilityLatitude": 40.89858206,
+    "FacilityLongitude": -73.30569989,
+    "VA Confirmed": 115,
+    "VA Deaths with 0": 10,
+    "Facility": "(632) NORTHPORT VAMC"
+  },
+  {
+    "FacilityLatitude": 39.94979196,
+    "FacilityLongitude": -75.20127832,
+    "VA Confirmed": 114,
+    "VA Deaths with 0": 3,
+    "Facility": "(642) PHILADELPHIA, PA VAMC"
+  },
+  {
+    "FacilityLatitude": 33.80224316,
+    "FacilityLongitude": -84.31022566,
+    "VA Confirmed": 102,
+    "VA Deaths with 0": 5,
+    "Facility": "(508) ATLANTA VAMC"
+  },
+  {
+    "FacilityLatitude": 42.50368318,
+    "FacilityLongitude": -71.27267735,
+    "VA Confirmed": 82,
+    "VA Deaths with 0": 0,
+    "Facility": "(518) EDITH NOURSE ROGERS VAMC"
+  },
+  {
+    "FacilityLatitude": 25.79043779,
+    "FacilityLongitude": -80.21617191,
+    "VA Confirmed": 79,
+    "VA Deaths with 0": 4,
+    "Facility": "(546) MIAMI VAMC"
+  },
+  {
+    "FacilityLatitude": 33.97997767,
+    "FacilityLongitude": -80.96186614,
+    "VA Confirmed": 77,
+    "VA Deaths with 0": 3,
+    "Facility": "(544) COLUMBIA, SC VAMC"
+  },
+  {
+    "FacilityLatitude": 41.51263802,
+    "FacilityLongitude": -81.61320394,
+    "VA Confirmed": 74,
+    "VA Deaths with 0": 1,
+    "Facility": "(541) CLEVELAND VAMC"
+  },
+  {
+    "FacilityLatitude": 42.28728496,
+    "FacilityLongitude": -83.71230035,
+    "VA Confirmed": 66,
+    "VA Deaths with 0": 3,
+    "Facility": "(506) ANN ARBOR VA MEDICAL CENTER"
+  },
+  {
+    "FacilityLatitude": 34.05239096,
+    "FacilityLongitude": -118.45844544,
+    "VA Confirmed": 64,
+    "VA Deaths with 0": 4,
+    "Facility": "(691) WEST LA VAMC"
+  },
+  {
+    "FacilityLatitude": 28.36669157,
+    "FacilityLongitude": -81.27650339,
+    "VA Confirmed": 63,
+    "VA Deaths with 0": 1,
+    "Facility": "(675) ORLANDO VAMC"
+  },
+  {
+    "FacilityLatitude": 18.39096998,
+    "FacilityLongitude": -66.08329001,
+    "VA Confirmed": 61,
+    "VA Deaths with 0": 0,
+    "Facility": "(672) SAN JUAN VA MEDICAL CENTER"
+  },
+  {
+    "FacilityLatitude": 37.4987291,
+    "FacilityLongitude": -77.47024506,
+    "VA Confirmed": 59,
+    "VA Deaths with 0": 3,
+    "Facility": "(652) HUNTER HOLMES MCGUIRE HOSPITAL"
+  },
+  {
+    "FacilityLatitude": 39.0672509,
+    "FacilityLongitude": -94.5287533,
+    "VA Confirmed": 57,
+    "VA Deaths with 0": 1,
+    "Facility": "(589) KANSAS CITY VAMC"
+  },
+  {
+    "FacilityLatitude": 43.01960629,
+    "FacilityLongitude": -87.97615803,
+    "VA Confirmed": 54,
+    "VA Deaths with 0": 3,
+    "Facility": "(695) MILWAUKEE VAMC"
+  },
+  {
+    "FacilityLatitude": 47.56199978,
+    "FacilityLongitude": -122.31100138,
+    "VA Confirmed": 53,
+    "VA Deaths with 0": 0,
+    "Facility": "(663) SEATTLE VA MEDICAL CENTER"
+  },
+  {
+    "FacilityLatitude": 38.64148808,
+    "FacilityLongitude": -90.22987449,
+    "VA Confirmed": 53,
+    "VA Deaths with 0": 3,
+    "Facility": "(657) ST. LOUIS VAMC"
+  },
+  {
+    "FacilityLatitude": 41.86061618,
+    "FacilityLongitude": -87.84068297,
+    "VA Confirmed": 45,
+    "VA Deaths with 0": 3,
+    "Facility": "(578) HINES, IL VAMC"
+  },
+  {
+    "FacilityLatitude": 37.01529815,
+    "FacilityLongitude": -76.33326216,
+    "VA Confirmed": 45,
+    "VA Deaths with 0": 1,
+    "Facility": "(590) HAMPTON VA MEDICAL CENTER"
+  },
+  {
+    "FacilityLatitude": 36.28298334,
+    "FacilityLongitude": -115.09868597,
+    "VA Confirmed": 39,
+    "VA Deaths with 0": 0,
+    "Facility": "(593) SOUTHERN NEVADA HCS"
+  },
+  {
+    "FacilityLatitude": 33.77532848,
+    "FacilityLongitude": -118.11992957,
+    "VA Confirmed": 37,
+    "VA Deaths with 0": 1,
+    "Facility": "(600) LONG BEACH VAMC"
+  },
+  {
+    "FacilityLatitude": 42.95122016,
+    "FacilityLongitude": -78.81368285,
+    "VA Confirmed": 36,
+    "VA Deaths with 0": 3,
+    "Facility": "(528) UPSTATE NEW YORK HCS"
+  },
+  {
+    "FacilityLatitude": 32.87182243,
+    "FacilityLongitude": -117.23142307,
+    "VA Confirmed": 34,
+    "VA Deaths with 0": 0,
+    "Facility": "(664) SAN DIEGO HCS"
+  },
+  {
+    "FacilityLatitude": 40.31482717,
+    "FacilityLongitude": -76.40835226,
+    "VA Confirmed": 33,
+    "VA Deaths with 0": 0,
+    "Facility": "(595) LEBANON VA MEDICAL CENTER"
+  },
+  {
+    "FacilityLatitude": 38.27079232,
+    "FacilityLongitude": -85.6941781,
+    "VA Confirmed": 31,
+    "VA Deaths with 0": 3,
+    "Facility": "(603) ROBLEY REX VAMC"
+  },
+  {
+    "FacilityLatitude": 32.50000749,
+    "FacilityLongitude": -93.72284988,
+    "VA Confirmed": 30,
+    "VA Deaths with 0": 3,
+    "Facility": "(667) SHREVEPORT VAMC"
+  },
+  {
+    "FacilityLatitude": 39.14010788,
+    "FacilityLongitude": -84.50936526,
+    "VA Confirmed": 30,
+    "VA Deaths with 0": 1,
+    "Facility": "(539) CINCINNATI"
+  },
+  {
+    "FacilityLatitude": 44.90186052,
+    "FacilityLongitude": -93.20386773,
+    "VA Confirmed": 29,
+    "VA Deaths with 0": 3,
+    "Facility": "(618) MINNEAPOLIS VA HCS"
+  },
+  {
+    "FacilityLatitude": 36.14233533,
+    "FacilityLongitude": -86.80476737,
+    "VA Confirmed": 29,
+    "VA Deaths with 0": 1,
+    "Facility": "(626) TENNESSEE VALLEY HCS"
+  },
+  {
+    "FacilityLatitude": 26.78589217,
+    "FacilityLongitude": -80.10727143,
+    "VA Confirmed": 28,
+    "VA Deaths with 0": 2,
+    "Facility": "(548) WEST PALM BEACH VAMC"
+  },
+  {
+    "FacilityLatitude": 32.69410804,
+    "FacilityLongitude": -96.79289902,
+    "VA Confirmed": 27,
+    "VA Deaths with 0": 3,
+    "Facility": "(549) DALLAS VA MEDICAL CENTER"
+  },
+  {
+    "FacilityLatitude": 42.34805261,
+    "FacilityLongitude": -72.68747945,
+    "VA Confirmed": 27,
+    "VA Deaths with 0": 0,
+    "Facility": "(631) VA CNTRL WSTRN MASSCHUSETS HCS"
+  },
+  {
+    "FacilityLatitude": 34.74500322,
+    "FacilityLongitude": -92.32195186,
+    "VA Confirmed": 26,
+    "VA Deaths with 0": 1,
+    "Facility": "(598) CENTRAL ARKANSAS HCS"
+  },
+  {
+    "FacilityLatitude": 37.40127039,
+    "FacilityLongitude": -122.13908563,
+    "VA Confirmed": 23,
+    "VA Deaths with 0": 2,
+    "Facility": "(640) PALO ALTO VA MEDICAL CENTER"
+  },
+  {
+    "FacilityLatitude": 38.57210783,
+    "FacilityLongitude": -121.29673121,
+    "VA Confirmed": 22,
+    "VA Deaths with 0": 2,
+    "Facility": "(612A4) SACRAMENTO VA MEDICAL CENTER"
+  },
+  {
+    "FacilityLatitude": 29.70651338,
+    "FacilityLongitude": -95.38874373,
+    "VA Confirmed": 22,
+    "VA Deaths with 0": 3,
+    "Facility": "(580) HOUSTON VAMC"
+  },
+  {
+    "FacilityLatitude": 34.05015435,
+    "FacilityLongitude": -117.25236402,
+    "VA Confirmed": 21,
+    "VA Deaths with 0": 0,
+    "Facility": "(605) LOMA LINDA HCS"
+  },
+  {
+    "FacilityLatitude": 40.44473467,
+    "FacilityLongitude": -79.95960314,
+    "VA Confirmed": 21,
+    "VA Deaths with 0": 1,
+    "Facility": "(646) PITTSBURGH VAMC UNIVERSITY DR."
+  },
+  {
+    "FacilityLatitude": 36.0097617,
+    "FacilityLongitude": -78.93730402,
+    "VA Confirmed": 21,
+    "VA Deaths with 0": 0,
+    "Facility": "(558) DURHAM VA MEDICAL CENTER"
+  },
+  {
+    "FacilityLatitude": 29.50841788,
+    "FacilityLongitude": -98.5808281,
+    "VA Confirmed": 18,
+    "VA Deaths with 0": 2,
+    "Facility": "(671) AUDIE L. MURPHY MEMORIAL HOSP"
+  },
+  {
+    "FacilityLatitude": 33.42865254,
+    "FacilityLongitude": -82.17254965,
+    "VA Confirmed": 18,
+    "VA Deaths with 0": 1,
+    "Facility": "(509) AUGUSTA VAMC"
+  },
+  {
+    "FacilityLatitude": 35.6835125,
+    "FacilityLongitude": -80.48620043,
+    "VA Confirmed": 18,
+    "VA Deaths with 0": 1,
+    "Facility": "(659) W.G. HEFNER SALISBURY VAMC"
+  },
+  {
+    "FacilityLatitude": 39.73876796,
+    "FacilityLongitude": -75.60562471,
+    "VA Confirmed": 18,
+    "VA Deaths with 0": 1,
+    "Facility": "(460) WILMINGTON VA MEDICAL CENTER"
+  },
+  {
+    "FacilityLatitude": 29.63847418,
+    "FacilityLongitude": -82.34503091,
+    "VA Confirmed": 17,
+    "VA Deaths with 0": 0,
+    "Facility": "(573) N. FLORIDA/S. GEORGIA HCS"
+  },
+  {
+    "FacilityLatitude": 37.78116689,
+    "FacilityLongitude": -122.50362795,
+    "VA Confirmed": 16,
+    "VA Deaths with 0": 2,
+    "Facility": "(662) SAN FRANCISCO VAMC"
+  },
+  {
+    "FacilityLatitude": 32.18135294,
+    "FacilityLongitude": -110.96825746,
+    "VA Confirmed": 16,
+    "VA Deaths with 0": 1,
+    "Facility": "(678) SOUTHERN ARIZONA VA HCS"
+  },
+  {
+    "FacilityLatitude": 35.09055537,
+    "FacilityLongitude": -78.87761238,
+    "VA Confirmed": 16,
+    "VA Deaths with 0": 0,
+    "Facility": "(565) FAYETTEVILLE VA MEDICAL CENTER"
+  },
+  {
+    "FacilityLatitude": 39.51633168,
+    "FacilityLongitude": -119.79849548,
+    "VA Confirmed": 15,
+    "VA Deaths with 0": 2,
+    "Facility": "(654) IOANNIS A. LOUGARIS VAMC"
+  },
+  {
+    "FacilityLatitude": 39.02731104,
+    "FacilityLongitude": -95.72492161,
+    "VA Confirmed": 15,
+    "VA Deaths with 0": 0,
+    "Facility": "(589A5) EKHCS TOPEKA VAMC"
+  },
+  {
+    "FacilityLatitude": 39.74939525,
+    "FacilityLongitude": -84.2532443,
+    "VA Confirmed": 15,
+    "VA Deaths with 0": 0,
+    "Facility": "(552) DAYTON"
+  },
+  {
+    "FacilityLatitude": 41.24809925,
+    "FacilityLongitude": -75.83714351,
+    "VA Confirmed": 14,
+    "VA Deaths with 0": 0,
+    "Facility": "(693) WILKES-BARRE VAMC"
+  },
+  {
+    "FacilityLatitude": 41.66464343,
+    "FacilityLongitude": -91.54835325,
+    "VA Confirmed": 13,
+    "VA Deaths with 0": 0,
+    "Facility": "(636A8) IOWA CITY HCS"
+  },
+  {
+    "FacilityLatitude": 27.81385727,
+    "FacilityLongitude": -82.77945771,
+    "VA Confirmed": 13,
+    "VA Deaths with 0": 0,
+    "Facility": "(516) C.W. BILL YOUNG DEPT OF VAMC"
+  },
+  {
+    "FacilityLatitude": 42.65140884,
+    "FacilityLongitude": -73.77623285,
+    "VA Confirmed": 12,
+    "VA Deaths with 0": 3,
+    "Facility": "(528A8) SAMUEL S. STRATTON VAMC"
+  },
+  {
+    "FacilityLatitude": 41.83392713,
+    "FacilityLongitude": -71.43482981,
+    "VA Confirmed": 12,
+    "VA Deaths with 0": 1,
+    "Facility": "(650) PROVIDENCE VAMC"
+  },
+  {
+    "FacilityLatitude": 33.49475789,
+    "FacilityLongitude": -112.06591003,
+    "VA Confirmed": 11,
+    "VA Deaths with 0": 2,
+    "Facility": "(644) PHOENIX VAMC"
+  },
+  {
+    "FacilityLatitude": 40.75829294,
+    "FacilityLongitude": -111.83855636,
+    "VA Confirmed": 11,
+    "VA Deaths with 0": 0,
+    "Facility": "(660) GEORGE E. WAHLEN VAMC"
+  },
+  {
+    "FacilityLatitude": 35.4824486,
+    "FacilityLongitude": -97.49571983,
+    "VA Confirmed": 11,
+    "VA Deaths with 0": 0,
+    "Facility": "(635) OKLAHOMA CITY VAMC"
+  },
+  {
+    "FacilityLatitude": 31.0779067,
+    "FacilityLongitude": -97.34924857,
+    "VA Confirmed": 11,
+    "VA Deaths with 0": 0,
+    "Facility": "(674) OLIN E. TEAGUE VET CENTER"
+  },
+  {
+    "FacilityLatitude": 35.14248806,
+    "FacilityLongitude": -90.02539812,
+    "VA Confirmed": 11,
+    "VA Deaths with 0": 0,
+    "Facility": "(614) MEMPHIS VA MEDICAL CENTER"
+  },
+  {
+    "FacilityLatitude": 28.06416098,
+    "FacilityLongitude": -82.42617187,
+    "VA Confirmed": 11,
+    "VA Deaths with 0": 2,
+    "Facility": "(673) TAMPA FL VAMC"
+  },
+  {
+    "FacilityLatitude": 39.28972861,
+    "FacilityLongitude": -76.6237359,
+    "VA Confirmed": 11,
+    "VA Deaths with 0": 0,
+    "Facility": "(512) VA MARYLAND HEALTH CARE SYS"
+  },
+  {
+    "FacilityLatitude": 34.55145201,
+    "FacilityLongitude": -112.45167423,
+    "VA Confirmed": 10,
+    "VA Deaths with 0": 0,
+    "Facility": "(649) NORTHERN ARIZONA HCS"
+  },
+  {
+    "FacilityLatitude": 35.05519308,
+    "FacilityLongitude": -106.57768405,
+    "VA Confirmed": 10,
+    "VA Deaths with 0": 0,
+    "Facility": "(501) RAYMOND G. MURPHY VAMC"
+  },
+  {
+    "FacilityLatitude": 41.6277403,
+    "FacilityLongitude": -93.65878749,
+    "VA Confirmed": 9,
+    "VA Deaths with 0": 1,
+    "Facility": "(636A6) VA CIHS, DES MOINES DIVISION"
+  },
+  {
+    "FacilityLatitude": 43.07514646,
+    "FacilityLongitude": -89.43103255,
+    "VA Confirmed": 9,
+    "VA Deaths with 0": 2,
+    "Facility": "(607) WILLIAM S. MIDDLETON VAMC"
+  },
+  {
+    "FacilityLatitude": 32.37989607,
+    "FacilityLongitude": -86.24662606,
+    "VA Confirmed": 9,
+    "VA Deaths with 0": 0,
+    "Facility": "(619) CENTRAL ALABAMA HCS"
+  },
+  {
+    "FacilityLatitude": 43.6192563,
+    "FacilityLongitude": -116.19477944,
+    "VA Confirmed": 8,
+    "VA Deaths with 0": 0,
+    "Facility": "(531) BOISE VA MEDICAL CENTER"
+  },
+  {
+    "FacilityLatitude": 41.145728,
+    "FacilityLongitude": -104.7895949,
+    "VA Confirmed": 8,
+    "VA Deaths with 0": 0,
+    "Facility": "(442) CHEYENNE VA MEDICAL"
+  },
+  {
+    "FacilityLatitude": 36.31166,
+    "FacilityLongitude": -82.370123,
+    "VA Confirmed": 8,
+    "VA Deaths with 0": 0,
+    "Facility": "(621) JAMES H. QUILLEN VAMC"
+  },
+  {
+    "FacilityLatitude": 45.49746145,
+    "FacilityLongitude": -122.68287208,
+    "VA Confirmed": 7,
+    "VA Deaths with 0": 1,
+    "Facility": "(648) PORTLAND VA MEDICAL CENTER"
+  },
+  {
+    "FacilityLatitude": 47.70192861,
+    "FacilityLongitude": -117.47562057,
+    "VA Confirmed": 7,
+    "VA Deaths with 0": 0,
+    "Facility": "(668) MANN-GRANDSTAFF VAMC"
+  },
+  {
+    "FacilityLatitude": 37.67979786,
+    "FacilityLongitude": -97.27350034,
+    "VA Confirmed": 7,
+    "VA Deaths with 0": 1,
+    "Facility": "(589A7) WICHITA VAMC"
+  },
+  {
+    "FacilityLatitude": 35.76489705,
+    "FacilityLongitude": -95.41361039,
+    "VA Confirmed": 7,
+    "VA Deaths with 0": 0,
+    "Facility": "(623) JACK C. MONTGOMERY VAMC"
+  },
+  {
+    "FacilityLatitude": 31.35521394,
+    "FacilityLongitude": -92.43432659,
+    "VA Confirmed": 7,
+    "VA Deaths with 0": 0,
+    "Facility": "(502) ALEXANDRIA VA MEDICAL CENTER"
+  },
+  {
+    "FacilityLatitude": 40.52373253,
+    "FacilityLongitude": -85.63715446,
+    "VA Confirmed": 7,
+    "VA Deaths with 0": 0,
+    "Facility": "(610) MARION VA MEDICAL CENTER"
+  },
+  {
+    "FacilityLatitude": 41.2451507,
+    "FacilityLongitude": -95.97434969,
+    "VA Confirmed": 6,
+    "VA Deaths with 0": 0,
+    "Facility": "(636) VA NWIHS, OMAHA DIVISION"
+  },
+  {
+    "FacilityLatitude": 33.504737,
+    "FacilityLongitude": -86.800973,
+    "VA Confirmed": 6,
+    "VA Deaths with 0": 1,
+    "Facility": "(521) BIRMINGHAM VAMC"
+  },
+  {
+    "FacilityLatitude": 39.4172122,
+    "FacilityLongitude": -77.91099658,
+    "VA Confirmed": 6,
+    "VA Deaths with 0": 0,
+    "Facility": "(613) MARTINSBURG VA MEDICAL CENTER"
+  },
+  {
+    "FacilityLatitude": 38.07477626,
+    "FacilityLongitude": -84.53752572,
+    "VA Confirmed": 5,
+    "VA Deaths with 0": 0,
+    "Facility": "(596) LEXINGTON VAMC-LEESTOWN"
+  },
+  {
+    "FacilityLatitude": 32.53824399,
+    "FacilityLongitude": -82.94035989,
+    "VA Confirmed": 5,
+    "VA Deaths with 0": 0,
+    "Facility": "(557) DUBLIN VAMC"
+  },
+  {
+    "FacilityLatitude": 43.64789696,
+    "FacilityLongitude": -72.34237506,
+    "VA Confirmed": 5,
+    "VA Deaths with 0": 1,
+    "Facility": "(405) WHITE RIVER JCT VAMROC"
+  },
+  {
+    "FacilityLatitude": 61.23135664,
+    "FacilityLongitude": -149.74462798,
+    "VA Confirmed": 4,
+    "VA Deaths with 0": 0,
+    "Facility": "(463) ANCHORAGE VA MEDICAL CENTER"
+  },
+  {
+    "FacilityLatitude": 36.77229815,
+    "FacilityLongitude": -119.77924902,
+    "VA Confirmed": 4,
+    "VA Deaths with 0": 0,
+    "Facility": "(570) FRESNO VA MEDICAL CENTER"
+  },
+  {
+    "FacilityLatitude": 43.53301147,
+    "FacilityLongitude": -96.75644977,
+    "VA Confirmed": 4,
+    "VA Deaths with 0": 0,
+    "Facility": "(438) SIOUX FALLS VA HCS"
+  },
+  {
+    "FacilityLatitude": 44.00110729,
+    "FacilityLongitude": -90.49391004,
+    "VA Confirmed": 4,
+    "VA Deaths with 0": 0,
+    "Facility": "(676) TOMAH VAMC"
+  },
+  {
+    "FacilityLatitude": 32.326828,
+    "FacilityLongitude": -90.170732,
+    "VA Confirmed": 4,
+    "VA Deaths with 0": 0,
+    "Facility": "(586) JACKSON VAMC"
+  },
+  {
+    "FacilityLatitude": 42.3472301,
+    "FacilityLongitude": -85.2979339,
+    "VA Confirmed": 4,
+    "VA Deaths with 0": 0,
+    "Facility": "(515) BATTLE CREEK VA MEDICAL CENTER"
+  },
+  {
+    "FacilityLatitude": 39.9813738,
+    "FacilityLongitude": -82.91183229,
+    "VA Confirmed": 4,
+    "VA Deaths with 0": 0,
+    "Facility": "(757) COLUMBUS VAMC"
+  },
+  {
+    "FacilityLatitude": 35.58728836,
+    "FacilityLongitude": -82.4858472,
+    "VA Confirmed": 4,
+    "VA Deaths with 0": 1,
+    "Facility": "(637) CHARLES GEORGE VAMC"
+  },
+  {
+    "FacilityLatitude": 40.89045864,
+    "FacilityLongitude": -79.94130643,
+    "VA Confirmed": 4,
+    "VA Deaths with 0": 0,
+    "Facility": "(529) ABIE ABRAHAM VA CLINIC"
+  },
+  {
+    "FacilityLatitude": 43.03862586,
+    "FacilityLongitude": -76.138227,
+    "VA Confirmed": 4,
+    "VA Deaths with 0": 0,
+    "Facility": "(528A7) SYRACUSE VA MEDICAL CENTER"
+  },
+  {
+    "FacilityLatitude": 44.2802701,
+    "FacilityLongitude": -69.70413586,
+    "VA Confirmed": 4,
+    "VA Deaths with 0": 0,
+    "Facility": "(402) VA MAINE HCS"
+  },
+  {
+    "FacilityLatitude": 43.22859271,
+    "FacilityLongitude": -123.367087,
+    "VA Confirmed": 3,
+    "VA Deaths with 0": 0,
+    "Facility": "(653) ROSEBURG VA MEDICAL CENTER"
+  },
+  {
+    "FacilityLatitude": 38.93759696,
+    "FacilityLongitude": -92.32848742,
+    "VA Confirmed": 3,
+    "VA Deaths with 0": 1,
+    "Facility": "(589A4) COLUMBIA, MO VAMC"
+  },
+  {
+    "FacilityLatitude": 39.39081185,
+    "FacilityLongitude": -83.01268476,
+    "VA Confirmed": 3,
+    "VA Deaths with 0": 0,
+    "Facility": "(538) CHILLICOTHE VA MEDICAL CENTER"
+  },
+  {
+    "FacilityLatitude": 38.38404364,
+    "FacilityLongitude": -82.51791686,
+    "VA Confirmed": 3,
+    "VA Deaths with 0": 1,
+    "Facility": "(581) HUNTINGTON VAMC"
+  },
+  {
+    "FacilityLatitude": 42.34344677,
+    "FacilityLongitude": -77.34720483,
+    "VA Confirmed": 3,
+    "VA Deaths with 0": 0,
+    "Facility": "(528A6) BATH VA MEDICAL CENTER"
+  },
+  {
+    "FacilityLatitude": 39.99732257,
+    "FacilityLongitude": -75.80470313,
+    "VA Confirmed": 3,
+    "VA Deaths with 0": 0,
+    "Facility": "(542) COATESVILLE VA MEDICAL CENTER"
+  },
+  {
+    "FacilityLatitude": 21.36125986,
+    "FacilityLongitude": -157.88884555,
+    "VA Confirmed": 2,
+    "VA Deaths with 0": 0,
+    "Facility": "(459) SPARK M. MATSUNAGA VAMC"
+  },
+  {
+    "FacilityLatitude": 46.90650677,
+    "FacilityLongitude": -96.77679948,
+    "VA Confirmed": 2,
+    "VA Deaths with 0": 1,
+    "Facility": "(437) FARGO VA HCS"
+  },
+  {
+    "FacilityLatitude": 30.40901091,
+    "FacilityLongitude": -88.94720983,
+    "VA Confirmed": 2,
+    "VA Deaths with 0": 1,
+    "Facility": "(520) BILOXI VA MEDICAL CENTER"
+  },
+  {
+    "FacilityLatitude": 37.27651387,
+    "FacilityLongitude": -80.02275392,
+    "VA Confirmed": 2,
+    "VA Deaths with 0": 0,
+    "Facility": "(658) SALEM VA MEDICAL CENTER"
+  },
+  {
+    "FacilityLatitude": 46.05265094,
+    "FacilityLongitude": -118.35531495,
+    "VA Confirmed": 1,
+    "VA Deaths with 0": 0,
+    "Facility": "(687) JONATHAN M. WAINWRIGHT VAMC"
+  },
+  {
+    "FacilityLatitude": 46.61762327,
+    "FacilityLongitude": -112.10183061,
+    "VA Confirmed": 1,
+    "VA Deaths with 0": 0,
+    "Facility": "(436) FORT HARRISON MEDICAL CENTER"
+  },
+  {
+    "FacilityLatitude": 39.07727279,
+    "FacilityLongitude": -108.54072065,
+    "VA Confirmed": 1,
+    "VA Deaths with 0": 0,
+    "Facility": "(575) GRAND JUNCTION VAMC"
+  },
+  {
+    "FacilityLatitude": 44.41252205,
+    "FacilityLongitude": -103.47486237,
+    "VA Confirmed": 1,
+    "VA Deaths with 0": 0,
+    "Facility": "(568) BLACK HILLS HCS"
+  },
+  {
+    "FacilityLatitude": 35.20328346,
+    "FacilityLongitude": -101.90510057,
+    "VA Confirmed": 1,
+    "VA Deaths with 0": 0,
+    "Facility": "(504) AMARILLO HCS"
+  },
+  {
+    "FacilityLatitude": 36.77164021,
+    "FacilityLongitude": -90.41808459,
+    "VA Confirmed": 1,
+    "VA Deaths with 0": 0,
+    "Facility": "(657A4) POPLAR BLUFF MO VAMC"
+  },
+  {
+    "FacilityLatitude": 40.13179015,
+    "FacilityLongitude": -87.59227684,
+    "VA Confirmed": 1,
+    "VA Deaths with 0": 0,
+    "Facility": "(550) ILLIANA HCS"
+  },
+  {
+    "FacilityLatitude": 33.19321287,
+    "FacilityLongitude": -87.48836588,
+    "VA Confirmed": 1,
+    "VA Deaths with 0": 0,
+    "Facility": "(679) TUSCALOOSA"
+  },
+  {
+    "FacilityLatitude": 39.27033996,
+    "FacilityLongitude": -80.36142422,
+    "VA Confirmed": 1,
+    "VA Deaths with 0": 0,
+    "Facility": "(540) LOUIS A JOHNSON VAMC"
+  },
+  {
+    "FacilityLatitude": 42.10267315,
+    "FacilityLongitude": -80.06558029,
+    "VA Confirmed": 1,
+    "VA Deaths with 0": 0,
+    "Facility": "(562) ERIE VA MEDICAL CENTER"
+  }
+]
