@@ -1,0 +1,690 @@
+[
+  {
+    "Report Date": "2020-04-21",
+    "Sex": "Female",
+    "Number of Cases": 7,
+    "Number of Hospitalizations": 2,
+    "Number of Deaths": 0,
+    "Health District Name": "Roanoke"
+  },
+  {
+    "Report Date": "2020-04-21",
+    "Sex": "Female",
+    "Number of Cases": 147,
+    "Number of Hospitalizations": 25,
+    "Number of Deaths": 3,
+    "Health District Name": "Virginia Beach"
+  },
+  {
+    "Report Date": "2020-04-21",
+    "Sex": "Female",
+    "Number of Cases": 119,
+    "Number of Hospitalizations": 17,
+    "Number of Deaths": 5,
+    "Health District Name": "Chickahominy"
+  },
+  {
+    "Report Date": "2020-04-21",
+    "Sex": "Female",
+    "Number of Cases": 199,
+    "Number of Hospitalizations": 13,
+    "Number of Deaths": 2,
+    "Health District Name": "Chesterfield"
+  },
+  {
+    "Report Date": "2020-04-21",
+    "Sex": "Male",
+    "Number of Cases": 30,
+    "Number of Hospitalizations": 11,
+    "Number of Deaths": 2,
+    "Health District Name": "Piedmont"
+  },
+  {
+    "Report Date": "2020-04-21",
+    "Sex": "Not Reported",
+    "Number of Cases": 1,
+    "Number of Hospitalizations": 0,
+    "Number of Deaths": 0,
+    "Health District Name": "Rappahannock"
+  },
+  {
+    "Report Date": "2020-04-21",
+    "Sex": "Male",
+    "Number of Cases": 33,
+    "Number of Hospitalizations": 12,
+    "Number of Deaths": 1,
+    "Health District Name": "Southside"
+  },
+  {
+    "Report Date": "2020-04-21",
+    "Sex": "Female",
+    "Number of Cases": 128,
+    "Number of Hospitalizations": 14,
+    "Number of Deaths": 1,
+    "Health District Name": "Richmond"
+  },
+  {
+    "Report Date": "2020-04-21",
+    "Sex": "Male",
+    "Number of Cases": 12,
+    "Number of Hospitalizations": 3,
+    "Number of Deaths": 1,
+    "Health District Name": "West Piedmont"
+  },
+  {
+    "Report Date": "2020-04-21",
+    "Sex": "Not Reported",
+    "Number of Cases": 1,
+    "Number of Hospitalizations": 0,
+    "Number of Deaths": 0,
+    "Health District Name": "Alexandria"
+  },
+  {
+    "Report Date": "2020-04-21",
+    "Sex": "Female",
+    "Number of Cases": 100,
+    "Number of Hospitalizations": 18,
+    "Number of Deaths": 3,
+    "Health District Name": "Chesapeake"
+  },
+  {
+    "Report Date": "2020-04-21",
+    "Sex": "Not Reported",
+    "Number of Cases": 1,
+    "Number of Hospitalizations": 0,
+    "Number of Deaths": 0,
+    "Health District Name": "Mount Rogers"
+  },
+  {
+    "Report Date": "2020-04-21",
+    "Sex": "Female",
+    "Number of Cases": 157,
+    "Number of Hospitalizations": 29,
+    "Number of Deaths": 1,
+    "Health District Name": "Rappahannock"
+  },
+  {
+    "Report Date": "2020-04-21",
+    "Sex": "Male",
+    "Number of Cases": 37,
+    "Number of Hospitalizations": 16,
+    "Number of Deaths": 2,
+    "Health District Name": "Portsmouth"
+  },
+  {
+    "Report Date": "2020-04-21",
+    "Sex": "Not Reported",
+    "Number of Cases": 3,
+    "Number of Hospitalizations": 0,
+    "Number of Deaths": 0,
+    "Health District Name": "Loudoun"
+  },
+  {
+    "Report Date": "2020-04-21",
+    "Sex": "Male",
+    "Number of Cases": 30,
+    "Number of Hospitalizations": 5,
+    "Number of Deaths": 0,
+    "Health District Name": "New River"
+  },
+  {
+    "Report Date": "2020-04-21",
+    "Sex": "Female",
+    "Number of Cases": 15,
+    "Number of Hospitalizations": 1,
+    "Number of Deaths": 0,
+    "Health District Name": "West Piedmont"
+  },
+  {
+    "Report Date": "2020-04-21",
+    "Sex": "Male",
+    "Number of Cases": 6,
+    "Number of Hospitalizations": 0,
+    "Number of Deaths": 0,
+    "Health District Name": "Cumberland Plateau"
+  },
+  {
+    "Report Date": "2020-04-21",
+    "Sex": "Female",
+    "Number of Cases": 69,
+    "Number of Hospitalizations": 8,
+    "Number of Deaths": 1,
+    "Health District Name": "Rappahannock Rapidan"
+  },
+  {
+    "Report Date": "2020-04-21",
+    "Sex": "Male",
+    "Number of Cases": 15,
+    "Number of Hospitalizations": 8,
+    "Number of Deaths": 1,
+    "Health District Name": "Pittsylvania-Danville"
+  },
+  {
+    "Report Date": "2020-04-21",
+    "Sex": "Female",
+    "Number of Cases": 239,
+    "Number of Hospitalizations": 19,
+    "Number of Deaths": 4,
+    "Health District Name": "Loudoun"
+  },
+  {
+    "Report Date": "2020-04-21",
+    "Sex": "Not Reported",
+    "Number of Cases": 11,
+    "Number of Hospitalizations": 0,
+    "Number of Deaths": 0,
+    "Health District Name": "Fairfax"
+  },
+  {
+    "Report Date": "2020-04-21",
+    "Sex": "Female",
+    "Number of Cases": 347,
+    "Number of Hospitalizations": 40,
+    "Number of Deaths": 36,
+    "Health District Name": "Henrico"
+  },
+  {
+    "Report Date": "2020-04-21",
+    "Sex": "Female",
+    "Number of Cases": 104,
+    "Number of Hospitalizations": 9,
+    "Number of Deaths": 0,
+    "Health District Name": "Lord Fairfax"
+  },
+  {
+    "Report Date": "2020-04-21",
+    "Sex": "Male",
+    "Number of Cases": 226,
+    "Number of Hospitalizations": 40,
+    "Number of Deaths": 4,
+    "Health District Name": "Loudoun"
+  },
+  {
+    "Report Date": "2020-04-21",
+    "Sex": "Not Reported",
+    "Number of Cases": 2,
+    "Number of Hospitalizations": 0,
+    "Number of Deaths": 0,
+    "Health District Name": "Rappahannock Rapidan"
+  },
+  {
+    "Report Date": "2020-04-21",
+    "Sex": "Male",
+    "Number of Cases": 304,
+    "Number of Hospitalizations": 65,
+    "Number of Deaths": 14,
+    "Health District Name": "Arlington"
+  },
+  {
+    "Report Date": "2020-04-21",
+    "Sex": "Female",
+    "Number of Cases": 60,
+    "Number of Hospitalizations": 5,
+    "Number of Deaths": 1,
+    "Health District Name": "Piedmont"
+  },
+  {
+    "Report Date": "2020-04-21",
+    "Sex": "Not Reported",
+    "Number of Cases": 5,
+    "Number of Hospitalizations": 1,
+    "Number of Deaths": 0,
+    "Health District Name": "Chickahominy"
+  },
+  {
+    "Report Date": "2020-04-21",
+    "Sex": "Female",
+    "Number of Cases": 124,
+    "Number of Hospitalizations": 13,
+    "Number of Deaths": 2,
+    "Health District Name": "Western Tidewater"
+  },
+  {
+    "Report Date": "2020-04-21",
+    "Sex": "Female",
+    "Number of Cases": 78,
+    "Number of Hospitalizations": 13,
+    "Number of Deaths": 6,
+    "Health District Name": "Crater"
+  },
+  {
+    "Report Date": "2020-04-21",
+    "Sex": "Male",
+    "Number of Cases": 138,
+    "Number of Hospitalizations": 43,
+    "Number of Deaths": 5,
+    "Health District Name": "Rappahannock"
+  },
+  {
+    "Report Date": "2020-04-21",
+    "Sex": "Male",
+    "Number of Cases": 113,
+    "Number of Hospitalizations": 23,
+    "Number of Deaths": 8,
+    "Health District Name": "Richmond"
+  },
+  {
+    "Report Date": "2020-04-21",
+    "Sex": "Male",
+    "Number of Cases": 183,
+    "Number of Hospitalizations": 16,
+    "Number of Deaths": 7,
+    "Health District Name": "Chesterfield"
+  },
+  {
+    "Report Date": "2020-04-21",
+    "Sex": "Not Reported",
+    "Number of Cases": 21,
+    "Number of Hospitalizations": 1,
+    "Number of Deaths": 6,
+    "Health District Name": "Henrico"
+  },
+  {
+    "Report Date": "2020-04-21",
+    "Sex": "Female",
+    "Number of Cases": 1036,
+    "Number of Hospitalizations": 155,
+    "Number of Deaths": 29,
+    "Health District Name": "Fairfax"
+  },
+  {
+    "Report Date": "2020-04-21",
+    "Sex": "Female",
+    "Number of Cases": 243,
+    "Number of Hospitalizations": 30,
+    "Number of Deaths": 3,
+    "Health District Name": "Alexandria"
+  },
+  {
+    "Report Date": "2020-04-21",
+    "Sex": "Male",
+    "Number of Cases": 1076,
+    "Number of Hospitalizations": 228,
+    "Number of Deaths": 37,
+    "Health District Name": "Fairfax"
+  },
+  {
+    "Report Date": "2020-04-21",
+    "Sex": "Male",
+    "Number of Cases": 218,
+    "Number of Hospitalizations": 30,
+    "Number of Deaths": 6,
+    "Health District Name": "Alexandria"
+  },
+  {
+    "Report Date": "2020-04-21",
+    "Sex": "Female",
+    "Number of Cases": 44,
+    "Number of Hospitalizations": 12,
+    "Number of Deaths": 2,
+    "Health District Name": "Portsmouth"
+  },
+  {
+    "Report Date": "2020-04-21",
+    "Sex": "Male",
+    "Number of Cases": 141,
+    "Number of Hospitalizations": 35,
+    "Number of Deaths": 5,
+    "Health District Name": "Virginia Beach"
+  },
+  {
+    "Report Date": "2020-04-21",
+    "Sex": "Female",
+    "Number of Cases": 12,
+    "Number of Hospitalizations": 1,
+    "Number of Deaths": 0,
+    "Health District Name": "Cumberland Plateau"
+  },
+  {
+    "Report Date": "2020-04-21",
+    "Sex": "Not Reported",
+    "Number of Cases": 8,
+    "Number of Hospitalizations": 0,
+    "Number of Deaths": 0,
+    "Health District Name": "Central Shenandoah"
+  },
+  {
+    "Report Date": "2020-04-21",
+    "Sex": "Male",
+    "Number of Cases": 181,
+    "Number of Hospitalizations": 14,
+    "Number of Deaths": 1,
+    "Health District Name": "Central Shenandoah"
+  },
+  {
+    "Report Date": "2020-04-21",
+    "Sex": "Female",
+    "Number of Cases": 317,
+    "Number of Hospitalizations": 49,
+    "Number of Deaths": 9,
+    "Health District Name": "Arlington"
+  },
+  {
+    "Report Date": "2020-04-21",
+    "Sex": "Female",
+    "Number of Cases": 21,
+    "Number of Hospitalizations": 9,
+    "Number of Deaths": 1,
+    "Health District Name": "Pittsylvania-Danville"
+  },
+  {
+    "Report Date": "2020-04-21",
+    "Sex": "Female",
+    "Number of Cases": 26,
+    "Number of Hospitalizations": 4,
+    "Number of Deaths": 1,
+    "Health District Name": "Three Rivers"
+  },
+  {
+    "Report Date": "2020-04-21",
+    "Sex": "Male",
+    "Number of Cases": 97,
+    "Number of Hospitalizations": 12,
+    "Number of Deaths": 0,
+    "Health District Name": "Lord Fairfax"
+  },
+  {
+    "Report Date": "2020-04-21",
+    "Sex": "Female",
+    "Number of Cases": 48,
+    "Number of Hospitalizations": 9,
+    "Number of Deaths": 0,
+    "Health District Name": "Hampton"
+  },
+  {
+    "Report Date": "2020-04-21",
+    "Sex": "Female",
+    "Number of Cases": 59,
+    "Number of Hospitalizations": 8,
+    "Number of Deaths": 0,
+    "Health District Name": "Southside"
+  },
+  {
+    "Report Date": "2020-04-21",
+    "Sex": "Female",
+    "Number of Cases": 33,
+    "Number of Hospitalizations": 5,
+    "Number of Deaths": 2,
+    "Health District Name": "Alleghany"
+  },
+  {
+    "Report Date": "2020-04-21",
+    "Sex": "Not Reported",
+    "Number of Cases": 4,
+    "Number of Hospitalizations": 0,
+    "Number of Deaths": 0,
+    "Health District Name": "Arlington"
+  },
+  {
+    "Report Date": "2020-04-21",
+    "Sex": "Male",
+    "Number of Cases": 253,
+    "Number of Hospitalizations": 49,
+    "Number of Deaths": 35,
+    "Health District Name": "Henrico"
+  },
+  {
+    "Report Date": "2020-04-21",
+    "Sex": "Female",
+    "Number of Cases": 31,
+    "Number of Hospitalizations": 3,
+    "Number of Deaths": 0,
+    "Health District Name": "New River"
+  },
+  {
+    "Report Date": "2020-04-21",
+    "Sex": "Not Reported",
+    "Number of Cases": 5,
+    "Number of Hospitalizations": 0,
+    "Number of Deaths": 0,
+    "Health District Name": "Prince William"
+  },
+  {
+    "Report Date": "2020-04-21",
+    "Sex": "Female",
+    "Number of Cases": 122,
+    "Number of Hospitalizations": 26,
+    "Number of Deaths": 2,
+    "Health District Name": "Thomas Jefferson"
+  },
+  {
+    "Report Date": "2020-04-21",
+    "Sex": "Male",
+    "Number of Cases": 56,
+    "Number of Hospitalizations": 10,
+    "Number of Deaths": 3,
+    "Health District Name": "Crater"
+  },
+  {
+    "Report Date": "2020-04-21",
+    "Sex": "Female",
+    "Number of Cases": 256,
+    "Number of Hospitalizations": 9,
+    "Number of Deaths": 0,
+    "Health District Name": "Central Shenandoah"
+  },
+  {
+    "Report Date": "2020-04-21",
+    "Sex": "Male",
+    "Number of Cases": 16,
+    "Number of Hospitalizations": 5,
+    "Number of Deaths": 1,
+    "Health District Name": "Lenowisco"
+  },
+  {
+    "Report Date": "2020-04-21",
+    "Sex": "Female",
+    "Number of Cases": 23,
+    "Number of Hospitalizations": 9,
+    "Number of Deaths": 1,
+    "Health District Name": "Eastern Shore"
+  },
+  {
+    "Report Date": "2020-04-21",
+    "Sex": "Male",
+    "Number of Cases": 47,
+    "Number of Hospitalizations": 15,
+    "Number of Deaths": 3,
+    "Health District Name": "Norfolk"
+  },
+  {
+    "Report Date": "2020-04-21",
+    "Sex": "Not Reported",
+    "Number of Cases": 1,
+    "Number of Hospitalizations": 0,
+    "Number of Deaths": 0,
+    "Health District Name": "New River"
+  },
+  {
+    "Report Date": "2020-04-21",
+    "Sex": "Male",
+    "Number of Cases": 76,
+    "Number of Hospitalizations": 6,
+    "Number of Deaths": 0,
+    "Health District Name": "Three Rivers"
+  },
+  {
+    "Report Date": "2020-04-21",
+    "Sex": "Male",
+    "Number of Cases": 36,
+    "Number of Hospitalizations": 7,
+    "Number of Deaths": 0,
+    "Health District Name": "Eastern Shore"
+  },
+  {
+    "Report Date": "2020-04-21",
+    "Sex": "Female",
+    "Number of Cases": 510,
+    "Number of Hospitalizations": 54,
+    "Number of Deaths": 7,
+    "Health District Name": "Prince William"
+  },
+  {
+    "Report Date": "2020-04-21",
+    "Sex": "Male",
+    "Number of Cases": 44,
+    "Number of Hospitalizations": 17,
+    "Number of Deaths": 1,
+    "Health District Name": "Hampton"
+  },
+  {
+    "Report Date": "2020-04-21",
+    "Sex": "Male",
+    "Number of Cases": 152,
+    "Number of Hospitalizations": 53,
+    "Number of Deaths": 7,
+    "Health District Name": "Peninsula"
+  },
+  {
+    "Report Date": "2020-04-21",
+    "Sex": "Female",
+    "Number of Cases": 71,
+    "Number of Hospitalizations": 13,
+    "Number of Deaths": 0,
+    "Health District Name": "Norfolk"
+  },
+  {
+    "Report Date": "2020-04-21",
+    "Sex": "Male",
+    "Number of Cases": 62,
+    "Number of Hospitalizations": 17,
+    "Number of Deaths": 7,
+    "Health District Name": "Chickahominy"
+  },
+  {
+    "Report Date": "2020-04-21",
+    "Sex": "Male",
+    "Number of Cases": 493,
+    "Number of Hospitalizations": 59,
+    "Number of Deaths": 10,
+    "Health District Name": "Prince William"
+  },
+  {
+    "Report Date": "2020-04-21",
+    "Sex": "Female",
+    "Number of Cases": 27,
+    "Number of Hospitalizations": 5,
+    "Number of Deaths": 0,
+    "Health District Name": "Mount Rogers"
+  },
+  {
+    "Report Date": "2020-04-21",
+    "Sex": "Male",
+    "Number of Cases": 18,
+    "Number of Hospitalizations": 3,
+    "Number of Deaths": 0,
+    "Health District Name": "Roanoke"
+  },
+  {
+    "Report Date": "2020-04-21",
+    "Sex": "Female",
+    "Number of Cases": 159,
+    "Number of Hospitalizations": 43,
+    "Number of Deaths": 13,
+    "Health District Name": "Peninsula"
+  },
+  {
+    "Report Date": "2020-04-21",
+    "Sex": "Male",
+    "Number of Cases": 31,
+    "Number of Hospitalizations": 8,
+    "Number of Deaths": 1,
+    "Health District Name": "Alleghany"
+  },
+  {
+    "Report Date": "2020-04-21",
+    "Sex": "Not Reported",
+    "Number of Cases": 1,
+    "Number of Hospitalizations": 0,
+    "Number of Deaths": 0,
+    "Health District Name": "Portsmouth"
+  },
+  {
+    "Report Date": "2020-04-21",
+    "Sex": "Male",
+    "Number of Cases": 29,
+    "Number of Hospitalizations": 10,
+    "Number of Deaths": 4,
+    "Health District Name": "Mount Rogers"
+  },
+  {
+    "Report Date": "2020-04-21",
+    "Sex": "Male",
+    "Number of Cases": 102,
+    "Number of Hospitalizations": 20,
+    "Number of Deaths": 8,
+    "Health District Name": "Thomas Jefferson"
+  },
+  {
+    "Report Date": "2020-04-21",
+    "Sex": "Not Reported",
+    "Number of Cases": 4,
+    "Number of Hospitalizations": 2,
+    "Number of Deaths": 0,
+    "Health District Name": "Crater"
+  },
+  {
+    "Report Date": "2020-04-21",
+    "Sex": "Male",
+    "Number of Cases": 105,
+    "Number of Hospitalizations": 22,
+    "Number of Deaths": 2,
+    "Health District Name": "Western Tidewater"
+  },
+  {
+    "Report Date": "2020-04-21",
+    "Sex": "Male",
+    "Number of Cases": 76,
+    "Number of Hospitalizations": 21,
+    "Number of Deaths": 2,
+    "Health District Name": "Chesapeake"
+  },
+  {
+    "Report Date": "2020-04-21",
+    "Sex": "Female",
+    "Number of Cases": 37,
+    "Number of Hospitalizations": 2,
+    "Number of Deaths": 0,
+    "Health District Name": "Central Virginia"
+  },
+  {
+    "Report Date": "2020-04-21",
+    "Sex": "Male",
+    "Number of Cases": 52,
+    "Number of Hospitalizations": 5,
+    "Number of Deaths": 2,
+    "Health District Name": "Central Virginia"
+  },
+  {
+    "Report Date": "2020-04-21",
+    "Sex": "Not Reported",
+    "Number of Cases": 5,
+    "Number of Hospitalizations": 2,
+    "Number of Deaths": 1,
+    "Health District Name": "Richmond"
+  },
+  {
+    "Report Date": "2020-04-21",
+    "Sex": "Not Reported",
+    "Number of Cases": 8,
+    "Number of Hospitalizations": 0,
+    "Number of Deaths": 0,
+    "Health District Name": "Chesterfield"
+  },
+  {
+    "Report Date": "2020-04-21",
+    "Sex": "Female",
+    "Number of Cases": 16,
+    "Number of Hospitalizations": 5,
+    "Number of Deaths": 1,
+    "Health District Name": "Lenowisco"
+  },
+  {
+    "Report Date": "2020-04-21",
+    "Sex": "Male",
+    "Number of Cases": 77,
+    "Number of Hospitalizations": 10,
+    "Number of Deaths": 1,
+    "Health District Name": "Rappahannock Rapidan"
+  }
+]

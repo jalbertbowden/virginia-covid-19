@@ -1,0 +1,16 @@
+[
+  {
+    "Report Date": "2020-04-21",
+    "Case Status": "Confirmed",
+    "Number of Cases": 9451,
+    "Number of Hospitalizations": 1578,
+    "Number of Deaths": 321
+  },
+  {
+    "Report Date": "2020-04-21",
+    "Case Status": "Probable",
+    "Number of Cases": 179,
+    "Number of Hospitalizations": 3,
+    "Number of Deaths": 3
+  }
+]

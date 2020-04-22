@@ -1,0 +1,1199 @@
+[
+  {
+    "Report Date": "2020-04-21",
+    "FIPS": 51001,
+    "Locality": "Accomack",
+    "Health District": "Eastern Shore",
+    "Total Cases": 52,
+    "Hospitalized": 15,
+    "Deaths": 1
+  },
+  {
+    "Report Date": "2020-04-21",
+    "FIPS": 51005,
+    "Locality": "Alleghany",
+    "Health District": "Alleghany",
+    "Total Cases": 5,
+    "Hospitalized": 4,
+    "Deaths": 0
+  },
+  {
+    "Report Date": "2020-04-21",
+    "FIPS": 51007,
+    "Locality": "Amelia",
+    "Health District": "Piedmont",
+    "Total Cases": 15,
+    "Hospitalized": 6,
+    "Deaths": 1
+  },
+  {
+    "Report Date": "2020-04-21",
+    "FIPS": 51017,
+    "Locality": "Bath",
+    "Health District": "Central Shenandoah",
+    "Total Cases": 0,
+    "Hospitalized": 0,
+    "Deaths": 0
+  },
+  {
+    "Report Date": "2020-04-21",
+    "FIPS": 51023,
+    "Locality": "Botetourt",
+    "Health District": "Alleghany",
+    "Total Cases": 25,
+    "Hospitalized": 9,
+    "Deaths": 3
+  },
+  {
+    "Report Date": "2020-04-21",
+    "FIPS": 51041,
+    "Locality": "Chesterfield",
+    "Health District": "Chesterfield",
+    "Total Cases": 346,
+    "Hospitalized": 29,
+    "Deaths": 7
+  },
+  {
+    "Report Date": "2020-04-21",
+    "FIPS": 51045,
+    "Locality": "Craig",
+    "Health District": "Alleghany",
+    "Total Cases": 2,
+    "Hospitalized": 0,
+    "Deaths": 0
+  },
+  {
+    "Report Date": "2020-04-21",
+    "FIPS": 51051,
+    "Locality": "Dickenson",
+    "Health District": "Cumberland Plateau",
+    "Total Cases": 0,
+    "Hospitalized": 0,
+    "Deaths": 0
+  },
+  {
+    "Report Date": "2020-04-21",
+    "FIPS": 51059,
+    "Locality": "Fairfax",
+    "Health District": "Fairfax",
+    "Total Cases": 2077,
+    "Hospitalized": 379,
+    "Deaths": 64
+  },
+  {
+    "Report Date": "2020-04-21",
+    "FIPS": 51061,
+    "Locality": "Fauquier",
+    "Health District": "Rappahannock Rapidan",
+    "Total Cases": 49,
+    "Hospitalized": 5,
+    "Deaths": 1
+  },
+  {
+    "Report Date": "2020-04-21",
+    "FIPS": 51063,
+    "Locality": "Floyd",
+    "Health District": "New River",
+    "Total Cases": 1,
+    "Hospitalized": 0,
+    "Deaths": 0
+  },
+  {
+    "Report Date": "2020-04-21",
+    "FIPS": 51065,
+    "Locality": "Fluvanna",
+    "Health District": "Thomas Jefferson",
+    "Total Cases": 68,
+    "Hospitalized": 12,
+    "Deaths": 4
+  },
+  {
+    "Report Date": "2020-04-21",
+    "FIPS": 51067,
+    "Locality": "Franklin County",
+    "Health District": "West Piedmont",
+    "Total Cases": 16,
+    "Hospitalized": 2,
+    "Deaths": 0
+  },
+  {
+    "Report Date": "2020-04-21",
+    "FIPS": 51069,
+    "Locality": "Frederick",
+    "Health District": "Lord Fairfax",
+    "Total Cases": 83,
+    "Hospitalized": 9,
+    "Deaths": 0
+  },
+  {
+    "Report Date": "2020-04-21",
+    "FIPS": 51071,
+    "Locality": "Giles",
+    "Health District": "New River",
+    "Total Cases": 4,
+    "Hospitalized": 0,
+    "Deaths": 0
+  },
+  {
+    "Report Date": "2020-04-21",
+    "FIPS": 51073,
+    "Locality": "Gloucester",
+    "Health District": "Three Rivers",
+    "Total Cases": 21,
+    "Hospitalized": 4,
+    "Deaths": 1
+  },
+  {
+    "Report Date": "2020-04-21",
+    "FIPS": 51075,
+    "Locality": "Goochland",
+    "Health District": "Chickahominy",
+    "Total Cases": 62,
+    "Hospitalized": 7,
+    "Deaths": 3
+  },
+  {
+    "Report Date": "2020-04-21",
+    "FIPS": 51089,
+    "Locality": "Henry",
+    "Health District": "West Piedmont",
+    "Total Cases": 10,
+    "Hospitalized": 2,
+    "Deaths": 1
+  },
+  {
+    "Report Date": "2020-04-21",
+    "FIPS": 51095,
+    "Locality": "James City",
+    "Health District": "Peninsula",
+    "Total Cases": 146,
+    "Hospitalized": 51,
+    "Deaths": 12
+  },
+  {
+    "Report Date": "2020-04-21",
+    "FIPS": 51099,
+    "Locality": "King George",
+    "Health District": "Rappahannock",
+    "Total Cases": 19,
+    "Hospitalized": 11,
+    "Deaths": 2
+  },
+  {
+    "Report Date": "2020-04-21",
+    "FIPS": 51101,
+    "Locality": "King William",
+    "Health District": "Three Rivers",
+    "Total Cases": 2,
+    "Hospitalized": 0,
+    "Deaths": 0
+  },
+  {
+    "Report Date": "2020-04-21",
+    "FIPS": 51103,
+    "Locality": "Lancaster",
+    "Health District": "Three Rivers",
+    "Total Cases": 1,
+    "Hospitalized": 1,
+    "Deaths": 0
+  },
+  {
+    "Report Date": "2020-04-21",
+    "FIPS": 51107,
+    "Locality": "Loudoun",
+    "Health District": "Loudoun",
+    "Total Cases": 468,
+    "Hospitalized": 59,
+    "Deaths": 8
+  },
+  {
+    "Report Date": "2020-04-21",
+    "FIPS": 51117,
+    "Locality": "Mecklenburg",
+    "Health District": "Southside",
+    "Total Cases": 68,
+    "Hospitalized": 16,
+    "Deaths": 1
+  },
+  {
+    "Report Date": "2020-04-21",
+    "FIPS": 51121,
+    "Locality": "Montgomery",
+    "Health District": "New River",
+    "Total Cases": 48,
+    "Hospitalized": 6,
+    "Deaths": 0
+  },
+  {
+    "Report Date": "2020-04-21",
+    "FIPS": 51125,
+    "Locality": "Nelson",
+    "Health District": "Thomas Jefferson",
+    "Total Cases": 6,
+    "Hospitalized": 0,
+    "Deaths": 0
+  },
+  {
+    "Report Date": "2020-04-21",
+    "FIPS": 51135,
+    "Locality": "Nottoway",
+    "Health District": "Piedmont",
+    "Total Cases": 8,
+    "Hospitalized": 0,
+    "Deaths": 0
+  },
+  {
+    "Report Date": "2020-04-21",
+    "FIPS": 51137,
+    "Locality": "Orange",
+    "Health District": "Rappahannock Rapidan",
+    "Total Cases": 21,
+    "Hospitalized": 3,
+    "Deaths": 0
+  },
+  {
+    "Report Date": "2020-04-21",
+    "FIPS": 51139,
+    "Locality": "Page",
+    "Health District": "Lord Fairfax",
+    "Total Cases": 14,
+    "Hospitalized": 0,
+    "Deaths": 0
+  },
+  {
+    "Report Date": "2020-04-21",
+    "FIPS": 51147,
+    "Locality": "Prince Edward",
+    "Health District": "Piedmont",
+    "Total Cases": 19,
+    "Hospitalized": 3,
+    "Deaths": 2
+  },
+  {
+    "Report Date": "2020-04-21",
+    "FIPS": 51157,
+    "Locality": "Rappahannock",
+    "Health District": "Rappahannock Rapidan",
+    "Total Cases": 1,
+    "Hospitalized": 0,
+    "Deaths": 0
+  },
+  {
+    "Report Date": "2020-04-21",
+    "FIPS": 51159,
+    "Locality": "Richmond County",
+    "Health District": "Three Rivers",
+    "Total Cases": 53,
+    "Hospitalized": 4,
+    "Deaths": 0
+  },
+  {
+    "Report Date": "2020-04-21",
+    "FIPS": 51161,
+    "Locality": "Roanoke County",
+    "Health District": "Alleghany",
+    "Total Cases": 25,
+    "Hospitalized": 0,
+    "Deaths": 0
+  },
+  {
+    "Report Date": "2020-04-21",
+    "FIPS": 51169,
+    "Locality": "Scott",
+    "Health District": "Lenowisco",
+    "Total Cases": 5,
+    "Hospitalized": 1,
+    "Deaths": 1
+  },
+  {
+    "Report Date": "2020-04-21",
+    "FIPS": 51171,
+    "Locality": "Shenandoah",
+    "Health District": "Lord Fairfax",
+    "Total Cases": 45,
+    "Hospitalized": 8,
+    "Deaths": 0
+  },
+  {
+    "Report Date": "2020-04-21",
+    "FIPS": 51173,
+    "Locality": "Smyth",
+    "Health District": "Mount Rogers",
+    "Total Cases": 13,
+    "Hospitalized": 4,
+    "Deaths": 0
+  },
+  {
+    "Report Date": "2020-04-21",
+    "FIPS": 51175,
+    "Locality": "Southampton",
+    "Health District": "Western Tidewater",
+    "Total Cases": 18,
+    "Hospitalized": 3,
+    "Deaths": 1
+  },
+  {
+    "Report Date": "2020-04-21",
+    "FIPS": 51177,
+    "Locality": "Spotsylvania",
+    "Health District": "Rappahannock",
+    "Total Cases": 79,
+    "Hospitalized": 18,
+    "Deaths": 2
+  },
+  {
+    "Report Date": "2020-04-21",
+    "FIPS": 51179,
+    "Locality": "Stafford",
+    "Health District": "Rappahannock",
+    "Total Cases": 164,
+    "Hospitalized": 37,
+    "Deaths": 2
+  },
+  {
+    "Report Date": "2020-04-21",
+    "FIPS": 51181,
+    "Locality": "Surry",
+    "Health District": "Crater",
+    "Total Cases": 4,
+    "Hospitalized": 1,
+    "Deaths": 1
+  },
+  {
+    "Report Date": "2020-04-21",
+    "FIPS": 51183,
+    "Locality": "Sussex",
+    "Health District": "Crater",
+    "Total Cases": 23,
+    "Hospitalized": 2,
+    "Deaths": 1
+  },
+  {
+    "Report Date": "2020-04-21",
+    "FIPS": 51191,
+    "Locality": "Washington",
+    "Health District": "Mount Rogers",
+    "Total Cases": 29,
+    "Hospitalized": 8,
+    "Deaths": 3
+  },
+  {
+    "Report Date": "2020-04-21",
+    "FIPS": 51195,
+    "Locality": "Wise",
+    "Health District": "Lenowisco",
+    "Total Cases": 18,
+    "Hospitalized": 7,
+    "Deaths": 1
+  },
+  {
+    "Report Date": "2020-04-21",
+    "FIPS": 51530,
+    "Locality": "Buena Vista City",
+    "Health District": "Central Shenandoah",
+    "Total Cases": 5,
+    "Hospitalized": 0,
+    "Deaths": 0
+  },
+  {
+    "Report Date": "2020-04-21",
+    "FIPS": 51540,
+    "Locality": "Charlottesville",
+    "Health District": "Thomas Jefferson",
+    "Total Cases": 41,
+    "Hospitalized": 11,
+    "Deaths": 2
+  },
+  {
+    "Report Date": "2020-04-21",
+    "FIPS": 51570,
+    "Locality": "Colonial Heights",
+    "Health District": "Chesterfield",
+    "Total Cases": 36,
+    "Hospitalized": 0,
+    "Deaths": 2
+  },
+  {
+    "Report Date": "2020-04-21",
+    "FIPS": 51580,
+    "Locality": "Covington",
+    "Health District": "Alleghany",
+    "Total Cases": 1,
+    "Hospitalized": 0,
+    "Deaths": 0
+  },
+  {
+    "Report Date": "2020-04-21",
+    "FIPS": 51595,
+    "Locality": "Emporia",
+    "Health District": "Crater",
+    "Total Cases": 12,
+    "Hospitalized": 3,
+    "Deaths": 1
+  },
+  {
+    "Report Date": "2020-04-21",
+    "FIPS": 51610,
+    "Locality": "Falls Church",
+    "Health District": "Fairfax",
+    "Total Cases": 24,
+    "Hospitalized": 2,
+    "Deaths": 1
+  },
+  {
+    "Report Date": "2020-04-21",
+    "FIPS": 51630,
+    "Locality": "Fredericksburg",
+    "Health District": "Rappahannock",
+    "Total Cases": 17,
+    "Hospitalized": 3,
+    "Deaths": 0
+  },
+  {
+    "Report Date": "2020-04-21",
+    "FIPS": 51640,
+    "Locality": "Galax",
+    "Health District": "Mount Rogers",
+    "Total Cases": 1,
+    "Hospitalized": 1,
+    "Deaths": 0
+  },
+  {
+    "Report Date": "2020-04-21",
+    "FIPS": 51650,
+    "Locality": "Hampton",
+    "Health District": "Hampton",
+    "Total Cases": 92,
+    "Hospitalized": 26,
+    "Deaths": 1
+  },
+  {
+    "Report Date": "2020-04-21",
+    "FIPS": 51670,
+    "Locality": "Hopewell",
+    "Health District": "Crater",
+    "Total Cases": 16,
+    "Hospitalized": 5,
+    "Deaths": 0
+  },
+  {
+    "Report Date": "2020-04-21",
+    "FIPS": 51678,
+    "Locality": "Lexington",
+    "Health District": "Central Shenandoah",
+    "Total Cases": 3,
+    "Hospitalized": 0,
+    "Deaths": 0
+  },
+  {
+    "Report Date": "2020-04-21",
+    "FIPS": 51683,
+    "Locality": "Manassas City",
+    "Health District": "Prince William",
+    "Total Cases": 110,
+    "Hospitalized": 14,
+    "Deaths": 0
+  },
+  {
+    "Report Date": "2020-04-21",
+    "FIPS": 51720,
+    "Locality": "Norton",
+    "Health District": "Lenowisco",
+    "Total Cases": 2,
+    "Hospitalized": 1,
+    "Deaths": 0
+  },
+  {
+    "Report Date": "2020-04-21",
+    "FIPS": 51730,
+    "Locality": "Petersburg",
+    "Health District": "Crater",
+    "Total Cases": 24,
+    "Hospitalized": 8,
+    "Deaths": 2
+  },
+  {
+    "Report Date": "2020-04-21",
+    "FIPS": 51735,
+    "Locality": "Poquoson",
+    "Health District": "Peninsula",
+    "Total Cases": 6,
+    "Hospitalized": 2,
+    "Deaths": 0
+  },
+  {
+    "Report Date": "2020-04-21",
+    "FIPS": 51740,
+    "Locality": "Portsmouth",
+    "Health District": "Portsmouth",
+    "Total Cases": 82,
+    "Hospitalized": 28,
+    "Deaths": 4
+  },
+  {
+    "Report Date": "2020-04-21",
+    "FIPS": 51750,
+    "Locality": "Radford",
+    "Health District": "New River",
+    "Total Cases": 1,
+    "Hospitalized": 0,
+    "Deaths": 0
+  },
+  {
+    "Report Date": "2020-04-21",
+    "FIPS": 51760,
+    "Locality": "Richmond City",
+    "Health District": "Richmond",
+    "Total Cases": 246,
+    "Hospitalized": 39,
+    "Deaths": 10
+  },
+  {
+    "Report Date": "2020-04-21",
+    "FIPS": 51770,
+    "Locality": "Roanoke City",
+    "Health District": "Roanoke",
+    "Total Cases": 25,
+    "Hospitalized": 5,
+    "Deaths": 0
+  },
+  {
+    "Report Date": "2020-04-21",
+    "FIPS": 51790,
+    "Locality": "Staunton",
+    "Health District": "Central Shenandoah",
+    "Total Cases": 10,
+    "Hospitalized": 0,
+    "Deaths": 0
+  },
+  {
+    "Report Date": "2020-04-21",
+    "FIPS": 51800,
+    "Locality": "Suffolk",
+    "Health District": "Western Tidewater",
+    "Total Cases": 111,
+    "Hospitalized": 24,
+    "Deaths": 2
+  },
+  {
+    "Report Date": "2020-04-21",
+    "FIPS": 51810,
+    "Locality": "Virginia Beach",
+    "Health District": "Virginia Beach",
+    "Total Cases": 288,
+    "Hospitalized": 60,
+    "Deaths": 8
+  },
+  {
+    "Report Date": "2020-04-21",
+    "FIPS": 51003,
+    "Locality": "Albemarle",
+    "Health District": "Thomas Jefferson",
+    "Total Cases": 66,
+    "Hospitalized": 13,
+    "Deaths": 3
+  },
+  {
+    "Report Date": "2020-04-21",
+    "FIPS": 51009,
+    "Locality": "Amherst",
+    "Health District": "Central Virginia",
+    "Total Cases": 10,
+    "Hospitalized": 2,
+    "Deaths": 1
+  },
+  {
+    "Report Date": "2020-04-21",
+    "FIPS": 51011,
+    "Locality": "Appomattox",
+    "Health District": "Central Virginia",
+    "Total Cases": 7,
+    "Hospitalized": 0,
+    "Deaths": 0
+  },
+  {
+    "Report Date": "2020-04-21",
+    "FIPS": 51013,
+    "Locality": "Arlington",
+    "Health District": "Arlington",
+    "Total Cases": 625,
+    "Hospitalized": 114,
+    "Deaths": 23
+  },
+  {
+    "Report Date": "2020-04-21",
+    "FIPS": 51015,
+    "Locality": "Augusta",
+    "Health District": "Central Shenandoah",
+    "Total Cases": 28,
+    "Hospitalized": 1,
+    "Deaths": 0
+  },
+  {
+    "Report Date": "2020-04-21",
+    "FIPS": 51019,
+    "Locality": "Bedford",
+    "Health District": "Central Virginia",
+    "Total Cases": 19,
+    "Hospitalized": 1,
+    "Deaths": 0
+  },
+  {
+    "Report Date": "2020-04-21",
+    "FIPS": 51021,
+    "Locality": "Bland",
+    "Health District": "Mount Rogers",
+    "Total Cases": 0,
+    "Hospitalized": 0,
+    "Deaths": 0
+  },
+  {
+    "Report Date": "2020-04-21",
+    "FIPS": 51025,
+    "Locality": "Brunswick",
+    "Health District": "Southside",
+    "Total Cases": 12,
+    "Hospitalized": 3,
+    "Deaths": 0
+  },
+  {
+    "Report Date": "2020-04-21",
+    "FIPS": 51027,
+    "Locality": "Buchanan",
+    "Health District": "Cumberland Plateau",
+    "Total Cases": 12,
+    "Hospitalized": 0,
+    "Deaths": 0
+  },
+  {
+    "Report Date": "2020-04-21",
+    "FIPS": 51029,
+    "Locality": "Buckingham",
+    "Health District": "Piedmont",
+    "Total Cases": 27,
+    "Hospitalized": 6,
+    "Deaths": 0
+  },
+  {
+    "Report Date": "2020-04-21",
+    "FIPS": 51031,
+    "Locality": "Campbell",
+    "Health District": "Central Virginia",
+    "Total Cases": 10,
+    "Hospitalized": 0,
+    "Deaths": 0
+  },
+  {
+    "Report Date": "2020-04-21",
+    "FIPS": 51033,
+    "Locality": "Caroline",
+    "Health District": "Rappahannock",
+    "Total Cases": 17,
+    "Hospitalized": 3,
+    "Deaths": 0
+  },
+  {
+    "Report Date": "2020-04-21",
+    "FIPS": 51035,
+    "Locality": "Carroll",
+    "Health District": "Mount Rogers",
+    "Total Cases": 3,
+    "Hospitalized": 1,
+    "Deaths": 0
+  },
+  {
+    "Report Date": "2020-04-21",
+    "FIPS": 51036,
+    "Locality": "Charles City",
+    "Health District": "Chickahominy",
+    "Total Cases": 11,
+    "Hospitalized": 4,
+    "Deaths": 1
+  },
+  {
+    "Report Date": "2020-04-21",
+    "FIPS": 51037,
+    "Locality": "Charlotte",
+    "Health District": "Piedmont",
+    "Total Cases": 8,
+    "Hospitalized": 0,
+    "Deaths": 0
+  },
+  {
+    "Report Date": "2020-04-21",
+    "FIPS": 51043,
+    "Locality": "Clarke",
+    "Health District": "Lord Fairfax",
+    "Total Cases": 6,
+    "Hospitalized": 1,
+    "Deaths": 0
+  },
+  {
+    "Report Date": "2020-04-21",
+    "FIPS": 51047,
+    "Locality": "Culpeper",
+    "Health District": "Rappahannock Rapidan",
+    "Total Cases": 65,
+    "Hospitalized": 9,
+    "Deaths": 1
+  },
+  {
+    "Report Date": "2020-04-21",
+    "FIPS": 51049,
+    "Locality": "Cumberland",
+    "Health District": "Piedmont",
+    "Total Cases": 10,
+    "Hospitalized": 1,
+    "Deaths": 0
+  },
+  {
+    "Report Date": "2020-04-21",
+    "FIPS": 51053,
+    "Locality": "Dinwiddie",
+    "Health District": "Crater",
+    "Total Cases": 8,
+    "Hospitalized": 1,
+    "Deaths": 0
+  },
+  {
+    "Report Date": "2020-04-21",
+    "FIPS": 51057,
+    "Locality": "Essex",
+    "Health District": "Three Rivers",
+    "Total Cases": 2,
+    "Hospitalized": 0,
+    "Deaths": 0
+  },
+  {
+    "Report Date": "2020-04-21",
+    "FIPS": 51077,
+    "Locality": "Grayson",
+    "Health District": "Mount Rogers",
+    "Total Cases": 0,
+    "Hospitalized": 0,
+    "Deaths": 0
+  },
+  {
+    "Report Date": "2020-04-21",
+    "FIPS": 51079,
+    "Locality": "Greene",
+    "Health District": "Thomas Jefferson",
+    "Total Cases": 8,
+    "Hospitalized": 2,
+    "Deaths": 1
+  },
+  {
+    "Report Date": "2020-04-21",
+    "FIPS": 51081,
+    "Locality": "Greensville",
+    "Health District": "Crater",
+    "Total Cases": 23,
+    "Hospitalized": 3,
+    "Deaths": 4
+  },
+  {
+    "Report Date": "2020-04-21",
+    "FIPS": 51083,
+    "Locality": "Halifax",
+    "Health District": "Southside",
+    "Total Cases": 12,
+    "Hospitalized": 1,
+    "Deaths": 0
+  },
+  {
+    "Report Date": "2020-04-21",
+    "FIPS": 51085,
+    "Locality": "Hanover",
+    "Health District": "Chickahominy",
+    "Total Cases": 93,
+    "Hospitalized": 19,
+    "Deaths": 6
+  },
+  {
+    "Report Date": "2020-04-21",
+    "FIPS": 51087,
+    "Locality": "Henrico",
+    "Health District": "Henrico",
+    "Total Cases": 621,
+    "Hospitalized": 90,
+    "Deaths": 77
+  },
+  {
+    "Report Date": "2020-04-21",
+    "FIPS": 51091,
+    "Locality": "Highland",
+    "Health District": "Central Shenandoah",
+    "Total Cases": 0,
+    "Hospitalized": 0,
+    "Deaths": 0
+  },
+  {
+    "Report Date": "2020-04-21",
+    "FIPS": 51093,
+    "Locality": "Isle of Wight",
+    "Health District": "Western Tidewater",
+    "Total Cases": 88,
+    "Hospitalized": 8,
+    "Deaths": 1
+  },
+  {
+    "Report Date": "2020-04-21",
+    "FIPS": 51097,
+    "Locality": "King and Queen",
+    "Health District": "Three Rivers",
+    "Total Cases": 2,
+    "Hospitalized": 0,
+    "Deaths": 0
+  },
+  {
+    "Report Date": "2020-04-21",
+    "FIPS": 51105,
+    "Locality": "Lee",
+    "Health District": "Lenowisco",
+    "Total Cases": 7,
+    "Hospitalized": 1,
+    "Deaths": 0
+  },
+  {
+    "Report Date": "2020-04-21",
+    "FIPS": 51109,
+    "Locality": "Louisa",
+    "Health District": "Thomas Jefferson",
+    "Total Cases": 35,
+    "Hospitalized": 8,
+    "Deaths": 0
+  },
+  {
+    "Report Date": "2020-04-21",
+    "FIPS": 51111,
+    "Locality": "Lunenburg",
+    "Health District": "Piedmont",
+    "Total Cases": 3,
+    "Hospitalized": 0,
+    "Deaths": 0
+  },
+  {
+    "Report Date": "2020-04-21",
+    "FIPS": 51113,
+    "Locality": "Madison",
+    "Health District": "Rappahannock Rapidan",
+    "Total Cases": 12,
+    "Hospitalized": 1,
+    "Deaths": 0
+  },
+  {
+    "Report Date": "2020-04-21",
+    "FIPS": 51115,
+    "Locality": "Mathews",
+    "Health District": "Three Rivers",
+    "Total Cases": 3,
+    "Hospitalized": 1,
+    "Deaths": 0
+  },
+  {
+    "Report Date": "2020-04-21",
+    "FIPS": 51119,
+    "Locality": "Middlesex",
+    "Health District": "Three Rivers",
+    "Total Cases": 3,
+    "Hospitalized": 0,
+    "Deaths": 0
+  },
+  {
+    "Report Date": "2020-04-21",
+    "FIPS": 51127,
+    "Locality": "New Kent",
+    "Health District": "Chickahominy",
+    "Total Cases": 20,
+    "Hospitalized": 5,
+    "Deaths": 2
+  },
+  {
+    "Report Date": "2020-04-21",
+    "FIPS": 51131,
+    "Locality": "Northampton",
+    "Health District": "Eastern Shore",
+    "Total Cases": 7,
+    "Hospitalized": 1,
+    "Deaths": 0
+  },
+  {
+    "Report Date": "2020-04-21",
+    "FIPS": 51133,
+    "Locality": "Northumberland",
+    "Health District": "Three Rivers",
+    "Total Cases": 5,
+    "Hospitalized": 0,
+    "Deaths": 0
+  },
+  {
+    "Report Date": "2020-04-21",
+    "FIPS": 51141,
+    "Locality": "Patrick",
+    "Health District": "West Piedmont",
+    "Total Cases": 1,
+    "Hospitalized": 0,
+    "Deaths": 0
+  },
+  {
+    "Report Date": "2020-04-21",
+    "FIPS": 51143,
+    "Locality": "Pittsylvania",
+    "Health District": "Pittsylvania-Danville",
+    "Total Cases": 7,
+    "Hospitalized": 4,
+    "Deaths": 1
+  },
+  {
+    "Report Date": "2020-04-21",
+    "FIPS": 51145,
+    "Locality": "Powhatan",
+    "Health District": "Chesterfield",
+    "Total Cases": 8,
+    "Hospitalized": 0,
+    "Deaths": 0
+  },
+  {
+    "Report Date": "2020-04-21",
+    "FIPS": 51149,
+    "Locality": "Prince George",
+    "Health District": "Crater",
+    "Total Cases": 28,
+    "Hospitalized": 2,
+    "Deaths": 0
+  },
+  {
+    "Report Date": "2020-04-21",
+    "FIPS": 51153,
+    "Locality": "Prince William",
+    "Health District": "Prince William",
+    "Total Cases": 867,
+    "Hospitalized": 94,
+    "Deaths": 16
+  },
+  {
+    "Report Date": "2020-04-21",
+    "FIPS": 51155,
+    "Locality": "Pulaski",
+    "Health District": "New River",
+    "Total Cases": 8,
+    "Hospitalized": 2,
+    "Deaths": 0
+  },
+  {
+    "Report Date": "2020-04-21",
+    "FIPS": 51163,
+    "Locality": "Rockbridge",
+    "Health District": "Central Shenandoah",
+    "Total Cases": 5,
+    "Hospitalized": 0,
+    "Deaths": 0
+  },
+  {
+    "Report Date": "2020-04-21",
+    "FIPS": 51165,
+    "Locality": "Rockingham",
+    "Health District": "Central Shenandoah",
+    "Total Cases": 122,
+    "Hospitalized": 9,
+    "Deaths": 1
+  },
+  {
+    "Report Date": "2020-04-21",
+    "FIPS": 51167,
+    "Locality": "Russell",
+    "Health District": "Cumberland Plateau",
+    "Total Cases": 2,
+    "Hospitalized": 1,
+    "Deaths": 0
+  },
+  {
+    "Report Date": "2020-04-21",
+    "FIPS": 51185,
+    "Locality": "Tazewell",
+    "Health District": "Cumberland Plateau",
+    "Total Cases": 4,
+    "Hospitalized": 0,
+    "Deaths": 0
+  },
+  {
+    "Report Date": "2020-04-21",
+    "FIPS": 51187,
+    "Locality": "Warren",
+    "Health District": "Lord Fairfax",
+    "Total Cases": 26,
+    "Hospitalized": 3,
+    "Deaths": 0
+  },
+  {
+    "Report Date": "2020-04-21",
+    "FIPS": 51193,
+    "Locality": "Westmoreland",
+    "Health District": "Three Rivers",
+    "Total Cases": 10,
+    "Hospitalized": 0,
+    "Deaths": 0
+  },
+  {
+    "Report Date": "2020-04-21",
+    "FIPS": 51197,
+    "Locality": "Wythe",
+    "Health District": "Mount Rogers",
+    "Total Cases": 10,
+    "Hospitalized": 1,
+    "Deaths": 1
+  },
+  {
+    "Report Date": "2020-04-21",
+    "FIPS": 51199,
+    "Locality": "York",
+    "Health District": "Peninsula",
+    "Total Cases": 43,
+    "Hospitalized": 6,
+    "Deaths": 1
+  },
+  {
+    "Report Date": "2020-04-21",
+    "FIPS": 51510,
+    "Locality": "Alexandria",
+    "Health District": "Alexandria",
+    "Total Cases": 462,
+    "Hospitalized": 60,
+    "Deaths": 9
+  },
+  {
+    "Report Date": "2020-04-21",
+    "FIPS": 51520,
+    "Locality": "Bristol",
+    "Health District": "Mount Rogers",
+    "Total Cases": 1,
+    "Hospitalized": 0,
+    "Deaths": 0
+  },
+  {
+    "Report Date": "2020-04-21",
+    "FIPS": 51550,
+    "Locality": "Chesapeake",
+    "Health District": "Chesapeake",
+    "Total Cases": 176,
+    "Hospitalized": 39,
+    "Deaths": 5
+  },
+  {
+    "Report Date": "2020-04-21",
+    "FIPS": 51590,
+    "Locality": "Danville",
+    "Health District": "Pittsylvania-Danville",
+    "Total Cases": 29,
+    "Hospitalized": 13,
+    "Deaths": 1
+  },
+  {
+    "Report Date": "2020-04-21",
+    "FIPS": 51600,
+    "Locality": "Fairfax City",
+    "Health District": "Fairfax",
+    "Total Cases": 22,
+    "Hospitalized": 2,
+    "Deaths": 1
+  },
+  {
+    "Report Date": "2020-04-21",
+    "FIPS": 51620,
+    "Locality": "Franklin City",
+    "Health District": "Western Tidewater",
+    "Total Cases": 12,
+    "Hospitalized": 0,
+    "Deaths": 0
+  },
+  {
+    "Report Date": "2020-04-21",
+    "FIPS": 51660,
+    "Locality": "Harrisonburg",
+    "Health District": "Central Shenandoah",
+    "Total Cases": 264,
+    "Hospitalized": 12,
+    "Deaths": 0
+  },
+  {
+    "Report Date": "2020-04-21",
+    "FIPS": 51680,
+    "Locality": "Lynchburg",
+    "Health District": "Central Virginia",
+    "Total Cases": 43,
+    "Hospitalized": 4,
+    "Deaths": 1
+  },
+  {
+    "Report Date": "2020-04-21",
+    "FIPS": 51685,
+    "Locality": "Manassas Park",
+    "Health District": "Prince William",
+    "Total Cases": 31,
+    "Hospitalized": 5,
+    "Deaths": 1
+  },
+  {
+    "Report Date": "2020-04-21",
+    "FIPS": 51690,
+    "Locality": "Martinsville",
+    "Health District": "West Piedmont",
+    "Total Cases": 0,
+    "Hospitalized": 0,
+    "Deaths": 0
+  },
+  {
+    "Report Date": "2020-04-21",
+    "FIPS": 51700,
+    "Locality": "Newport News",
+    "Health District": "Peninsula",
+    "Total Cases": 101,
+    "Hospitalized": 32,
+    "Deaths": 6
+  },
+  {
+    "Report Date": "2020-04-21",
+    "FIPS": 51710,
+    "Locality": "Norfolk",
+    "Health District": "Norfolk",
+    "Total Cases": 118,
+    "Hospitalized": 28,
+    "Deaths": 3
+  },
+  {
+    "Report Date": "2020-04-21",
+    "FIPS": 51775,
+    "Locality": "Salem",
+    "Health District": "Alleghany",
+    "Total Cases": 6,
+    "Hospitalized": 0,
+    "Deaths": 0
+  },
+  {
+    "Report Date": "2020-04-21",
+    "FIPS": 51820,
+    "Locality": "Waynesboro",
+    "Health District": "Central Shenandoah",
+    "Total Cases": 8,
+    "Hospitalized": 1,
+    "Deaths": 0
+  },
+  {
+    "Report Date": "2020-04-21",
+    "FIPS": 51830,
+    "Locality": "Williamsburg",
+    "Health District": "Peninsula",
+    "Total Cases": 15,
+    "Hospitalized": 5,
+    "Deaths": 1
+  },
+  {
+    "Report Date": "2020-04-21",
+    "FIPS": 51840,
+    "Locality": "Winchester",
+    "Health District": "Lord Fairfax",
+    "Total Cases": 27,
+    "Hospitalized": 0,
+    "Deaths": 0
+  }
+]
