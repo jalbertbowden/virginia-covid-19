@@ -6,21 +6,21 @@ Bland Correctional Center,0,0,0,0
 Brunswick CCAP,0,0,0,1
 Buckingham Correctional Center,0,0,0,0
 Caroline Correctional Unit,0,0,0,0
-Central Virginia Correctional Unit #13,49,0,0,2
+Central Virginia Correctional Unit #13,8,0,0,1
 Chesterfield Women’s CCAP,0,0,0,0
 Coffeewood Correctional Center,0,0,0,0
 Cold Springs CCAP,0,0,0,0
 Cold Springs Correctional Unit #10,0,0,0,0
-Deerfield Correctional Center (includes Deerfield Work Centers),0,1,0,3
+Deerfield Correctional Center (includes Deerfield Work Centers),0,0,0,1
 Dillwyn Correctional Center,0,0,0,0
-Fluvanna Correctional Center for Women,0,0,0,1
+Fluvanna Correctional Center for Women,0,0,0,0
 Green Rock Correctional Center,0,0,0,0
-Greensville Correctional Center (includes Greensville Work Center),0,0,0,2
+Greensville Correctional Center (includes Greensville Work Center),0,0,0,0
 Halifax Correctional Unit,0,0,0,0
-Harrisonburg Men’s CCAP,17,0,0,0
-Haynesville Correctional Center,47,2,0,2
+Harrisonburg Men’s CCAP,0,0,0,0
+Haynesville Correctional Center,3,1,0,1
 Haynesville Correctional Unit #17,0,0,0,0
-Indian Creek Correctional Center,0,0,0,0
+Indian Creek Correctional Center,0,0,0,1
 Keen Mountain Correctional Center,0,0,0,0
 Lawrenceville Correctional Center,0,0,0,0
 Lunenburg Correctional Center,0,0,0,0
@@ -35,13 +35,11 @@ St. Brides Correctional Center,0,0,0,0
 Stafford Men’s CCAP,0,0,0,0
 State Farm Correctional Complex,0,0,0,2
 Sussex I State Prison,0,0,0,0
-Sussex II State Prison,15,2,0,2
-Virginia Correctional Center for Women (includes State Farm Work Center),13,3,1,35
+Sussex II State Prison,4,2,0,1
+Virginia Correctional Center for Women (includes State Farm Work Center),21,3,1,21
 Wallens Ridge State Prison,0,0,0,0
 Wise Correctional Unit,0,0,0,0
-Probation & Parole — Eastern Region,n/a,n/a,n/a,1
+Probation & Parole — Eastern Region,n/a,n/a,n/a,4
 Probation & Parole — Central Region,n/a,n/a,n/a,0
 Probation & Parole — Western Region,n/a,n/a,n/a,0
-Administration & Operations,n/a,n/a,n/a,0
-Totals,141,8,1,52
-"Total number of offenders who have tested positive This number includes those offenders with active COVID-19 cases, those who have recovered from COVID-19, deaths of COVID-19 positive offenders, and those who have been released from incarceration",174,,,
+Totals,36,6,1,33
