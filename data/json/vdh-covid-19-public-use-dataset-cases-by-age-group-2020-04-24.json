@@ -1,0 +1,2522 @@
+[
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Piedmont",
+    "Age Group": "Missing",
+    "Number of Hospitalizations": 1,
+    "Number of Deaths": 0,
+    "Number of Cases": 36
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Alexandria",
+    "Age Group": "40-49",
+    "Number of Hospitalizations": 7,
+    "Number of Deaths": 0,
+    "Number of Cases": 50
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Peninsula",
+    "Age Group": "70-79",
+    "Number of Hospitalizations": 33,
+    "Number of Deaths": 10,
+    "Number of Cases": 63
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Piedmont",
+    "Age Group": "60-69",
+    "Number of Hospitalizations": 5,
+    "Number of Deaths": 0,
+    "Number of Cases": 17
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Lord Fairfax",
+    "Age Group": "Missing",
+    "Number of Hospitalizations": 14,
+    "Number of Deaths": 0,
+    "Number of Cases": 93
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Fairfax",
+    "Age Group": "50-59",
+    "Number of Hospitalizations": 69,
+    "Number of Deaths": 5,
+    "Number of Cases": 288
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Eastern Shore",
+    "Age Group": "20-29",
+    "Number of Hospitalizations": 0,
+    "Number of Deaths": 0,
+    "Number of Cases": 4
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Western Tidewater",
+    "Age Group": "Missing",
+    "Number of Hospitalizations": 14,
+    "Number of Deaths": 2,
+    "Number of Cases": 162
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Southside",
+    "Age Group": "40-49",
+    "Number of Hospitalizations": 3,
+    "Number of Deaths": 0,
+    "Number of Cases": 11
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Fairfax",
+    "Age Group": "60-69",
+    "Number of Hospitalizations": 69,
+    "Number of Deaths": 9,
+    "Number of Cases": 216
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Norfolk",
+    "Age Group": "20-29",
+    "Number of Hospitalizations": 0,
+    "Number of Deaths": 0,
+    "Number of Cases": 17
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Norfolk",
+    "Age Group": "30-39",
+    "Number of Hospitalizations": 2,
+    "Number of Deaths": 0,
+    "Number of Cases": 19
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Loudoun",
+    "Age Group": "10-19",
+    "Number of Hospitalizations": 0,
+    "Number of Deaths": 0,
+    "Number of Cases": 11
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Southside",
+    "Age Group": "60-69",
+    "Number of Hospitalizations": 3,
+    "Number of Deaths": 0,
+    "Number of Cases": 11
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Chickahominy",
+    "Age Group": "20-29",
+    "Number of Hospitalizations": 0,
+    "Number of Deaths": 0,
+    "Number of Cases": 12
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Chickahominy",
+    "Age Group": "70-79",
+    "Number of Hospitalizations": 6,
+    "Number of Deaths": 2,
+    "Number of Cases": 16
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Roanoke",
+    "Age Group": "50-59",
+    "Number of Hospitalizations": 1,
+    "Number of Deaths": 0,
+    "Number of Cases": 7
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Southside",
+    "Age Group": "10-19",
+    "Number of Hospitalizations": 0,
+    "Number of Deaths": 0,
+    "Number of Cases": 1
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Roanoke",
+    "Age Group": "60-69",
+    "Number of Hospitalizations": 1,
+    "Number of Deaths": 0,
+    "Number of Cases": 2
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Three Rivers",
+    "Age Group": "60-69",
+    "Number of Hospitalizations": 3,
+    "Number of Deaths": 0,
+    "Number of Cases": 11
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Arlington",
+    "Age Group": "20-29",
+    "Number of Hospitalizations": 7,
+    "Number of Deaths": 0,
+    "Number of Cases": 78
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Lenowisco",
+    "Age Group": "60-69",
+    "Number of Hospitalizations": 3,
+    "Number of Deaths": 1,
+    "Number of Cases": 5
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Virginia Beach",
+    "Age Group": "Missing",
+    "Number of Hospitalizations": 7,
+    "Number of Deaths": 3,
+    "Number of Cases": 70
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Prince William",
+    "Age Group": "60-69",
+    "Number of Hospitalizations": 19,
+    "Number of Deaths": 5,
+    "Number of Cases": 91
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Central Shenandoah",
+    "Age Group": "20-29",
+    "Number of Hospitalizations": 0,
+    "Number of Deaths": 0,
+    "Number of Cases": 34
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Crater",
+    "Age Group": "40-49",
+    "Number of Hospitalizations": 4,
+    "Number of Deaths": 0,
+    "Number of Cases": 18
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Chesterfield",
+    "Age Group": "20-29",
+    "Number of Hospitalizations": 2,
+    "Number of Deaths": 0,
+    "Number of Cases": 33
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Roanoke",
+    "Age Group": "40-49",
+    "Number of Hospitalizations": 0,
+    "Number of Deaths": 0,
+    "Number of Cases": 6
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Rappahannock",
+    "Age Group": "50-59",
+    "Number of Hospitalizations": 14,
+    "Number of Deaths": 1,
+    "Number of Cases": 49
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Chesapeake",
+    "Age Group": "30-39",
+    "Number of Hospitalizations": 1,
+    "Number of Deaths": 0,
+    "Number of Cases": 21
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Chesterfield",
+    "Age Group": "40-49",
+    "Number of Hospitalizations": 5,
+    "Number of Deaths": 2,
+    "Number of Cases": 50
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Chesapeake",
+    "Age Group": "80+",
+    "Number of Hospitalizations": 4,
+    "Number of Deaths": 1,
+    "Number of Cases": 7
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Central Virginia",
+    "Age Group": "10-19",
+    "Number of Hospitalizations": 0,
+    "Number of Deaths": 0,
+    "Number of Cases": 2
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Mount Rogers",
+    "Age Group": "30-39",
+    "Number of Hospitalizations": 3,
+    "Number of Deaths": 0,
+    "Number of Cases": 11
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Rappahannock Rapidan",
+    "Age Group": "30-39",
+    "Number of Hospitalizations": 4,
+    "Number of Deaths": 0,
+    "Number of Cases": 19
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Western Tidewater",
+    "Age Group": "30-39",
+    "Number of Hospitalizations": 1,
+    "Number of Deaths": 0,
+    "Number of Cases": 17
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Loudoun",
+    "Age Group": "50-59",
+    "Number of Hospitalizations": 12,
+    "Number of Deaths": 0,
+    "Number of Cases": 106
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Peninsula",
+    "Age Group": "80+",
+    "Number of Hospitalizations": 18,
+    "Number of Deaths": 7,
+    "Number of Cases": 25
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Richmond",
+    "Age Group": "80+",
+    "Number of Hospitalizations": 7,
+    "Number of Deaths": 5,
+    "Number of Cases": 17
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Eastern Shore",
+    "Age Group": "30-39",
+    "Number of Hospitalizations": 0,
+    "Number of Deaths": 0,
+    "Number of Cases": 1
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Pittsylvania-Danville",
+    "Age Group": "60-69",
+    "Number of Hospitalizations": 3,
+    "Number of Deaths": 1,
+    "Number of Cases": 5
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Fairfax",
+    "Age Group": "Missing",
+    "Number of Hospitalizations": 154,
+    "Number of Deaths": 33,
+    "Number of Cases": 1107
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Central Virginia",
+    "Age Group": "Missing",
+    "Number of Hospitalizations": 1,
+    "Number of Deaths": 0,
+    "Number of Cases": 23
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Rappahannock Rapidan",
+    "Age Group": "Missing",
+    "Number of Hospitalizations": 5,
+    "Number of Deaths": 1,
+    "Number of Cases": 110
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Cumberland Plateau",
+    "Age Group": "30-39",
+    "Number of Hospitalizations": 0,
+    "Number of Deaths": 0,
+    "Number of Cases": 4
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Western Tidewater",
+    "Age Group": "80+",
+    "Number of Hospitalizations": 7,
+    "Number of Deaths": 1,
+    "Number of Cases": 28
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Alleghany",
+    "Age Group": "50-59",
+    "Number of Hospitalizations": 1,
+    "Number of Deaths": 0,
+    "Number of Cases": 16
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "New River",
+    "Age Group": "10-19",
+    "Number of Hospitalizations": 0,
+    "Number of Deaths": 0,
+    "Number of Cases": 2
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Central Virginia",
+    "Age Group": "70-79",
+    "Number of Hospitalizations": 2,
+    "Number of Deaths": 0,
+    "Number of Cases": 8
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Chickahominy",
+    "Age Group": "40-49",
+    "Number of Hospitalizations": 3,
+    "Number of Deaths": 1,
+    "Number of Cases": 30
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Prince William",
+    "Age Group": "20-29",
+    "Number of Hospitalizations": 10,
+    "Number of Deaths": 0,
+    "Number of Cases": 79
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "New River",
+    "Age Group": "80+",
+    "Number of Hospitalizations": 1,
+    "Number of Deaths": 0,
+    "Number of Cases": 3
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Lord Fairfax",
+    "Age Group": "20-29",
+    "Number of Hospitalizations": 0,
+    "Number of Deaths": 0,
+    "Number of Cases": 21
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Arlington",
+    "Age Group": "80+",
+    "Number of Hospitalizations": 20,
+    "Number of Deaths": 11,
+    "Number of Cases": 47
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Henrico",
+    "Age Group": "20-29",
+    "Number of Hospitalizations": 3,
+    "Number of Deaths": 0,
+    "Number of Cases": 40
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Mount Rogers",
+    "Age Group": "20-29",
+    "Number of Hospitalizations": 0,
+    "Number of Deaths": 0,
+    "Number of Cases": 5
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Portsmouth",
+    "Age Group": "40-49",
+    "Number of Hospitalizations": 3,
+    "Number of Deaths": 0,
+    "Number of Cases": 11
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "New River",
+    "Age Group": "50-59",
+    "Number of Hospitalizations": 2,
+    "Number of Deaths": 0,
+    "Number of Cases": 14
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Chickahominy",
+    "Age Group": "Missing",
+    "Number of Hospitalizations": 5,
+    "Number of Deaths": 2,
+    "Number of Cases": 50
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Pittsylvania-Danville",
+    "Age Group": "70-79",
+    "Number of Hospitalizations": 6,
+    "Number of Deaths": 0,
+    "Number of Cases": 8
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Pittsylvania-Danville",
+    "Age Group": "20-29",
+    "Number of Hospitalizations": 0,
+    "Number of Deaths": 0,
+    "Number of Cases": 2
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Chickahominy",
+    "Age Group": "10-19",
+    "Number of Hospitalizations": 0,
+    "Number of Deaths": 0,
+    "Number of Cases": 2
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Cumberland Plateau",
+    "Age Group": "70-79",
+    "Number of Hospitalizations": 0,
+    "Number of Deaths": 0,
+    "Number of Cases": 1
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Henrico",
+    "Age Group": "80+",
+    "Number of Hospitalizations": 31,
+    "Number of Deaths": 41,
+    "Number of Cases": 112
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Fairfax",
+    "Age Group": "40-49",
+    "Number of Hospitalizations": 45,
+    "Number of Deaths": 0,
+    "Number of Cases": 264
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Piedmont",
+    "Age Group": "10-19",
+    "Number of Hospitalizations": 0,
+    "Number of Deaths": 0,
+    "Number of Cases": 1
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Loudoun",
+    "Age Group": "60-69",
+    "Number of Hospitalizations": 12,
+    "Number of Deaths": 0,
+    "Number of Cases": 42
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Lord Fairfax",
+    "Age Group": "30-39",
+    "Number of Hospitalizations": 3,
+    "Number of Deaths": 0,
+    "Number of Cases": 26
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Alexandria",
+    "Age Group": "10-19",
+    "Number of Hospitalizations": 0,
+    "Number of Deaths": 0,
+    "Number of Cases": 7
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Alleghany",
+    "Age Group": "40-49",
+    "Number of Hospitalizations": 0,
+    "Number of Deaths": 0,
+    "Number of Cases": 7
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Virginia Beach",
+    "Age Group": "50-59",
+    "Number of Hospitalizations": 7,
+    "Number of Deaths": 0,
+    "Number of Cases": 46
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "New River",
+    "Age Group": "40-49",
+    "Number of Hospitalizations": 0,
+    "Number of Deaths": 0,
+    "Number of Cases": 4
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Rappahannock Rapidan",
+    "Age Group": "50-59",
+    "Number of Hospitalizations": 3,
+    "Number of Deaths": 0,
+    "Number of Cases": 13
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Alleghany",
+    "Age Group": "60-69",
+    "Number of Hospitalizations": 4,
+    "Number of Deaths": 0,
+    "Number of Cases": 15
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Virginia Beach",
+    "Age Group": "70-79",
+    "Number of Hospitalizations": 16,
+    "Number of Deaths": 3,
+    "Number of Cases": 33
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Cumberland Plateau",
+    "Age Group": "40-49",
+    "Number of Hospitalizations": 0,
+    "Number of Deaths": 0,
+    "Number of Cases": 4
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Virginia Beach",
+    "Age Group": "60-69",
+    "Number of Hospitalizations": 12,
+    "Number of Deaths": 1,
+    "Number of Cases": 51
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Chesapeake",
+    "Age Group": "20-29",
+    "Number of Hospitalizations": 1,
+    "Number of Deaths": 0,
+    "Number of Cases": 10
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Central Shenandoah",
+    "Age Group": "80+",
+    "Number of Hospitalizations": 5,
+    "Number of Deaths": 4,
+    "Number of Cases": 49
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Norfolk",
+    "Age Group": "80+",
+    "Number of Hospitalizations": 4,
+    "Number of Deaths": 2,
+    "Number of Cases": 6
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Rappahannock Rapidan",
+    "Age Group": "10-19",
+    "Number of Hospitalizations": 0,
+    "Number of Deaths": 0,
+    "Number of Cases": 5
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Southside",
+    "Age Group": "20-29",
+    "Number of Hospitalizations": 2,
+    "Number of Deaths": 0,
+    "Number of Cases": 7
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Virginia Beach",
+    "Age Group": "40-49",
+    "Number of Hospitalizations": 9,
+    "Number of Deaths": 0,
+    "Number of Cases": 39
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Central Shenandoah",
+    "Age Group": "70-79",
+    "Number of Hospitalizations": 7,
+    "Number of Deaths": 3,
+    "Number of Cases": 27
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Three Rivers",
+    "Age Group": "Missing",
+    "Number of Hospitalizations": 3,
+    "Number of Deaths": 0,
+    "Number of Cases": 67
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Chesterfield",
+    "Age Group": "80+",
+    "Number of Hospitalizations": 4,
+    "Number of Deaths": 8,
+    "Number of Cases": 35
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Rappahannock",
+    "Age Group": "Missing",
+    "Number of Hospitalizations": 7,
+    "Number of Deaths": 0,
+    "Number of Cases": 116
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Fairfax",
+    "Age Group": "80+",
+    "Number of Hospitalizations": 37,
+    "Number of Deaths": 33,
+    "Number of Cases": 126
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Chesterfield",
+    "Age Group": "60-69",
+    "Number of Hospitalizations": 9,
+    "Number of Deaths": 7,
+    "Number of Cases": 43
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Arlington",
+    "Age Group": "30-39",
+    "Number of Hospitalizations": 12,
+    "Number of Deaths": 0,
+    "Number of Cases": 82
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Southside",
+    "Age Group": "70-79",
+    "Number of Hospitalizations": 5,
+    "Number of Deaths": 3,
+    "Number of Cases": 11
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Lord Fairfax",
+    "Age Group": "40-49",
+    "Number of Hospitalizations": 1,
+    "Number of Deaths": 0,
+    "Number of Cases": 27
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Thomas Jefferson",
+    "Age Group": "80+",
+    "Number of Hospitalizations": 13,
+    "Number of Deaths": 8,
+    "Number of Cases": 23
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Peninsula",
+    "Age Group": "0-9",
+    "Number of Hospitalizations": 0,
+    "Number of Deaths": 0,
+    "Number of Cases": 2
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Mount Rogers",
+    "Age Group": "0-9",
+    "Number of Hospitalizations": 0,
+    "Number of Deaths": 0,
+    "Number of Cases": 1
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Western Tidewater",
+    "Age Group": "50-59",
+    "Number of Hospitalizations": 3,
+    "Number of Deaths": 0,
+    "Number of Cases": 27
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Southside",
+    "Age Group": "50-59",
+    "Number of Hospitalizations": 2,
+    "Number of Deaths": 0,
+    "Number of Cases": 14
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Lenowisco",
+    "Age Group": "70-79",
+    "Number of Hospitalizations": 2,
+    "Number of Deaths": 0,
+    "Number of Cases": 2
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "West Piedmont",
+    "Age Group": "Missing",
+    "Number of Hospitalizations": 2,
+    "Number of Deaths": 0,
+    "Number of Cases": 9
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Richmond",
+    "Age Group": "30-39",
+    "Number of Hospitalizations": 2,
+    "Number of Deaths": 0,
+    "Number of Cases": 24
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Richmond",
+    "Age Group": "40-49",
+    "Number of Hospitalizations": 1,
+    "Number of Deaths": 0,
+    "Number of Cases": 29
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Rappahannock",
+    "Age Group": "70-79",
+    "Number of Hospitalizations": 11,
+    "Number of Deaths": 4,
+    "Number of Cases": 18
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Crater",
+    "Age Group": "50-59",
+    "Number of Hospitalizations": 7,
+    "Number of Deaths": 0,
+    "Number of Cases": 30
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Peninsula",
+    "Age Group": "10-19",
+    "Number of Hospitalizations": 1,
+    "Number of Deaths": 0,
+    "Number of Cases": 1
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Arlington",
+    "Age Group": "60-69",
+    "Number of Hospitalizations": 19,
+    "Number of Deaths": 2,
+    "Number of Cases": 82
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Three Rivers",
+    "Age Group": "20-29",
+    "Number of Hospitalizations": 0,
+    "Number of Deaths": 0,
+    "Number of Cases": 7
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Chickahominy",
+    "Age Group": "50-59",
+    "Number of Hospitalizations": 6,
+    "Number of Deaths": 0,
+    "Number of Cases": 33
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Crater",
+    "Age Group": "20-29",
+    "Number of Hospitalizations": 1,
+    "Number of Deaths": 0,
+    "Number of Cases": 12
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Southside",
+    "Age Group": "80+",
+    "Number of Hospitalizations": 1,
+    "Number of Deaths": 4,
+    "Number of Cases": 16
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Prince William",
+    "Age Group": "80+",
+    "Number of Hospitalizations": 4,
+    "Number of Deaths": 1,
+    "Number of Cases": 14
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Piedmont",
+    "Age Group": "40-49",
+    "Number of Hospitalizations": 0,
+    "Number of Deaths": 0,
+    "Number of Cases": 13
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Hampton",
+    "Age Group": "70-79",
+    "Number of Hospitalizations": 5,
+    "Number of Deaths": 0,
+    "Number of Cases": 7
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Hampton",
+    "Age Group": "20-29",
+    "Number of Hospitalizations": 1,
+    "Number of Deaths": 0,
+    "Number of Cases": 14
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Hampton",
+    "Age Group": "10-19",
+    "Number of Hospitalizations": 0,
+    "Number of Deaths": 0,
+    "Number of Cases": 1
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Chesterfield",
+    "Age Group": "Missing",
+    "Number of Hospitalizations": 2,
+    "Number of Deaths": 0,
+    "Number of Cases": 169
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Prince William",
+    "Age Group": "70-79",
+    "Number of Hospitalizations": 16,
+    "Number of Deaths": 5,
+    "Number of Cases": 35
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Loudoun",
+    "Age Group": "80+",
+    "Number of Hospitalizations": 11,
+    "Number of Deaths": 9,
+    "Number of Cases": 31
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Prince William",
+    "Age Group": "30-39",
+    "Number of Hospitalizations": 15,
+    "Number of Deaths": 1,
+    "Number of Cases": 144
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Richmond",
+    "Age Group": "60-69",
+    "Number of Hospitalizations": 13,
+    "Number of Deaths": 3,
+    "Number of Cases": 39
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Central Virginia",
+    "Age Group": "50-59",
+    "Number of Hospitalizations": 0,
+    "Number of Deaths": 0,
+    "Number of Cases": 17
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Henrico",
+    "Age Group": "40-49",
+    "Number of Hospitalizations": 8,
+    "Number of Deaths": 0,
+    "Number of Cases": 67
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Alexandria",
+    "Age Group": "80+",
+    "Number of Hospitalizations": 5,
+    "Number of Deaths": 1,
+    "Number of Cases": 16
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "New River",
+    "Age Group": "Missing",
+    "Number of Hospitalizations": 1,
+    "Number of Deaths": 0,
+    "Number of Cases": 20
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Prince William",
+    "Age Group": "Missing",
+    "Number of Hospitalizations": 11,
+    "Number of Deaths": 3,
+    "Number of Cases": 594
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Hampton",
+    "Age Group": "Missing",
+    "Number of Hospitalizations": 1,
+    "Number of Deaths": 0,
+    "Number of Cases": 20
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Prince William",
+    "Age Group": "10-19",
+    "Number of Hospitalizations": 1,
+    "Number of Deaths": 0,
+    "Number of Cases": 15
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Crater",
+    "Age Group": "10-19",
+    "Number of Hospitalizations": 0,
+    "Number of Deaths": 0,
+    "Number of Cases": 1
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Fairfax",
+    "Age Group": "10-19",
+    "Number of Hospitalizations": 1,
+    "Number of Deaths": 0,
+    "Number of Cases": 32
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Thomas Jefferson",
+    "Age Group": "60-69",
+    "Number of Hospitalizations": 10,
+    "Number of Deaths": 1,
+    "Number of Cases": 34
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Richmond",
+    "Age Group": "Missing",
+    "Number of Hospitalizations": 4,
+    "Number of Deaths": 1,
+    "Number of Cases": 74
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Piedmont",
+    "Age Group": "50-59",
+    "Number of Hospitalizations": 5,
+    "Number of Deaths": 0,
+    "Number of Cases": 12
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Cumberland Plateau",
+    "Age Group": "60-69",
+    "Number of Hospitalizations": 1,
+    "Number of Deaths": 0,
+    "Number of Cases": 1
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Arlington",
+    "Age Group": "50-59",
+    "Number of Hospitalizations": 20,
+    "Number of Deaths": 1,
+    "Number of Cases": 101
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Rappahannock Rapidan",
+    "Age Group": "40-49",
+    "Number of Hospitalizations": 1,
+    "Number of Deaths": 0,
+    "Number of Cases": 20
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Alexandria",
+    "Age Group": "0-9",
+    "Number of Hospitalizations": 0,
+    "Number of Deaths": 0,
+    "Number of Cases": 2
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Lord Fairfax",
+    "Age Group": "80+",
+    "Number of Hospitalizations": 1,
+    "Number of Deaths": 0,
+    "Number of Cases": 2
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Mount Rogers",
+    "Age Group": "60-69",
+    "Number of Hospitalizations": 1,
+    "Number of Deaths": 0,
+    "Number of Cases": 7
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Virginia Beach",
+    "Age Group": "0-9",
+    "Number of Hospitalizations": 0,
+    "Number of Deaths": 0,
+    "Number of Cases": 1
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Eastern Shore",
+    "Age Group": "Missing",
+    "Number of Hospitalizations": 7,
+    "Number of Deaths": 2,
+    "Number of Cases": 88
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Chesapeake",
+    "Age Group": "10-19",
+    "Number of Hospitalizations": 0,
+    "Number of Deaths": 0,
+    "Number of Cases": 3
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "New River",
+    "Age Group": "20-29",
+    "Number of Hospitalizations": 0,
+    "Number of Deaths": 0,
+    "Number of Cases": 12
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Peninsula",
+    "Age Group": "20-29",
+    "Number of Hospitalizations": 1,
+    "Number of Deaths": 0,
+    "Number of Cases": 23
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Thomas Jefferson",
+    "Age Group": "Missing",
+    "Number of Hospitalizations": 6,
+    "Number of Deaths": 0,
+    "Number of Cases": 46
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Eastern Shore",
+    "Age Group": "50-59",
+    "Number of Hospitalizations": 1,
+    "Number of Deaths": 0,
+    "Number of Cases": 3
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Rappahannock",
+    "Age Group": "20-29",
+    "Number of Hospitalizations": 5,
+    "Number of Deaths": 0,
+    "Number of Cases": 29
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Thomas Jefferson",
+    "Age Group": "20-29",
+    "Number of Hospitalizations": 0,
+    "Number of Deaths": 0,
+    "Number of Cases": 21
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Western Tidewater",
+    "Age Group": "40-49",
+    "Number of Hospitalizations": 3,
+    "Number of Deaths": 0,
+    "Number of Cases": 19
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Arlington",
+    "Age Group": "40-49",
+    "Number of Hospitalizations": 10,
+    "Number of Deaths": 1,
+    "Number of Cases": 61
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Lenowisco",
+    "Age Group": "0-9",
+    "Number of Hospitalizations": 0,
+    "Number of Deaths": 0,
+    "Number of Cases": 2
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Central Shenandoah",
+    "Age Group": "40-49",
+    "Number of Hospitalizations": 0,
+    "Number of Deaths": 0,
+    "Number of Cases": 46
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Loudoun",
+    "Age Group": "20-29",
+    "Number of Hospitalizations": 1,
+    "Number of Deaths": 0,
+    "Number of Cases": 36
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Crater",
+    "Age Group": "60-69",
+    "Number of Hospitalizations": 8,
+    "Number of Deaths": 4,
+    "Number of Cases": 29
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Virginia Beach",
+    "Age Group": "80+",
+    "Number of Hospitalizations": 11,
+    "Number of Deaths": 3,
+    "Number of Cases": 20
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Peninsula",
+    "Age Group": "40-49",
+    "Number of Hospitalizations": 2,
+    "Number of Deaths": 0,
+    "Number of Cases": 32
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Norfolk",
+    "Age Group": "Missing",
+    "Number of Hospitalizations": 2,
+    "Number of Deaths": 0,
+    "Number of Cases": 36
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Loudoun",
+    "Age Group": "Missing",
+    "Number of Hospitalizations": 12,
+    "Number of Deaths": 0,
+    "Number of Cases": 145
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Rappahannock",
+    "Age Group": "80+",
+    "Number of Hospitalizations": 6,
+    "Number of Deaths": 2,
+    "Number of Cases": 9
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Central Shenandoah",
+    "Age Group": "30-39",
+    "Number of Hospitalizations": 1,
+    "Number of Deaths": 0,
+    "Number of Cases": 43
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Rappahannock",
+    "Age Group": "40-49",
+    "Number of Hospitalizations": 10,
+    "Number of Deaths": 0,
+    "Number of Cases": 51
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Southside",
+    "Age Group": "30-39",
+    "Number of Hospitalizations": 0,
+    "Number of Deaths": 0,
+    "Number of Cases": 7
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Virginia Beach",
+    "Age Group": "30-39",
+    "Number of Hospitalizations": 3,
+    "Number of Deaths": 0,
+    "Number of Cases": 40
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Alexandria",
+    "Age Group": "60-69",
+    "Number of Hospitalizations": 6,
+    "Number of Deaths": 0,
+    "Number of Cases": 29
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Piedmont",
+    "Age Group": "30-39",
+    "Number of Hospitalizations": 0,
+    "Number of Deaths": 0,
+    "Number of Cases": 8
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Rappahannock Rapidan",
+    "Age Group": "70-79",
+    "Number of Hospitalizations": 1,
+    "Number of Deaths": 0,
+    "Number of Cases": 4
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Lord Fairfax",
+    "Age Group": "60-69",
+    "Number of Hospitalizations": 7,
+    "Number of Deaths": 0,
+    "Number of Cases": 34
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Central Shenandoah",
+    "Age Group": "60-69",
+    "Number of Hospitalizations": 8,
+    "Number of Deaths": 1,
+    "Number of Cases": 45
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Pittsylvania-Danville",
+    "Age Group": "40-49",
+    "Number of Hospitalizations": 3,
+    "Number of Deaths": 0,
+    "Number of Cases": 5
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Henrico",
+    "Age Group": "30-39",
+    "Number of Hospitalizations": 2,
+    "Number of Deaths": 0,
+    "Number of Cases": 47
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Thomas Jefferson",
+    "Age Group": "30-39",
+    "Number of Hospitalizations": 2,
+    "Number of Deaths": 0,
+    "Number of Cases": 31
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Lenowisco",
+    "Age Group": "20-29",
+    "Number of Hospitalizations": 0,
+    "Number of Deaths": 0,
+    "Number of Cases": 5
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Central Shenandoah",
+    "Age Group": "Missing",
+    "Number of Hospitalizations": 8,
+    "Number of Deaths": 3,
+    "Number of Cases": 275
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Piedmont",
+    "Age Group": "70-79",
+    "Number of Hospitalizations": 6,
+    "Number of Deaths": 2,
+    "Number of Cases": 9
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Crater",
+    "Age Group": "Missing",
+    "Number of Hospitalizations": 6,
+    "Number of Deaths": 1,
+    "Number of Cases": 37
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Portsmouth",
+    "Age Group": "60-69",
+    "Number of Hospitalizations": 4,
+    "Number of Deaths": 2,
+    "Number of Cases": 12
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Eastern Shore",
+    "Age Group": "70-79",
+    "Number of Hospitalizations": 3,
+    "Number of Deaths": 1,
+    "Number of Cases": 3
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Hampton",
+    "Age Group": "80+",
+    "Number of Hospitalizations": 2,
+    "Number of Deaths": 0,
+    "Number of Cases": 3
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Mount Rogers",
+    "Age Group": "40-49",
+    "Number of Hospitalizations": 0,
+    "Number of Deaths": 0,
+    "Number of Cases": 7
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Central Shenandoah",
+    "Age Group": "10-19",
+    "Number of Hospitalizations": 0,
+    "Number of Deaths": 0,
+    "Number of Cases": 7
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Rappahannock Rapidan",
+    "Age Group": "60-69",
+    "Number of Hospitalizations": 1,
+    "Number of Deaths": 0,
+    "Number of Cases": 9
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Western Tidewater",
+    "Age Group": "70-79",
+    "Number of Hospitalizations": 6,
+    "Number of Deaths": 2,
+    "Number of Cases": 21
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Alexandria",
+    "Age Group": "20-29",
+    "Number of Hospitalizations": 2,
+    "Number of Deaths": 1,
+    "Number of Cases": 48
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Chesterfield",
+    "Age Group": "10-19",
+    "Number of Hospitalizations": 0,
+    "Number of Deaths": 0,
+    "Number of Cases": 24
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Henrico",
+    "Age Group": "70-79",
+    "Number of Hospitalizations": 20,
+    "Number of Deaths": 24,
+    "Number of Cases": 92
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Lord Fairfax",
+    "Age Group": "10-19",
+    "Number of Hospitalizations": 0,
+    "Number of Deaths": 0,
+    "Number of Cases": 6
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Chickahominy",
+    "Age Group": "30-39",
+    "Number of Hospitalizations": 0,
+    "Number of Deaths": 0,
+    "Number of Cases": 15
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Virginia Beach",
+    "Age Group": "10-19",
+    "Number of Hospitalizations": 0,
+    "Number of Deaths": 0,
+    "Number of Cases": 4
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Chesterfield",
+    "Age Group": "30-39",
+    "Number of Hospitalizations": 1,
+    "Number of Deaths": 0,
+    "Number of Cases": 43
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Eastern Shore",
+    "Age Group": "60-69",
+    "Number of Hospitalizations": 3,
+    "Number of Deaths": 0,
+    "Number of Cases": 7
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Cumberland Plateau",
+    "Age Group": "10-19",
+    "Number of Hospitalizations": 0,
+    "Number of Deaths": 0,
+    "Number of Cases": 8
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Alexandria",
+    "Age Group": "50-59",
+    "Number of Hospitalizations": 12,
+    "Number of Deaths": 3,
+    "Number of Cases": 42
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Southside",
+    "Age Group": "Missing",
+    "Number of Hospitalizations": 7,
+    "Number of Deaths": 0,
+    "Number of Cases": 26
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Three Rivers",
+    "Age Group": "0-9",
+    "Number of Hospitalizations": 0,
+    "Number of Deaths": 0,
+    "Number of Cases": 1
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Arlington",
+    "Age Group": "Missing",
+    "Number of Hospitalizations": 13,
+    "Number of Deaths": 3,
+    "Number of Cases": 230
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Rappahannock Rapidan",
+    "Age Group": "20-29",
+    "Number of Hospitalizations": 0,
+    "Number of Deaths": 0,
+    "Number of Cases": 14
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "West Piedmont",
+    "Age Group": "70-79",
+    "Number of Hospitalizations": 2,
+    "Number of Deaths": 1,
+    "Number of Cases": 4
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Henrico",
+    "Age Group": "10-19",
+    "Number of Hospitalizations": 0,
+    "Number of Deaths": 0,
+    "Number of Cases": 2
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Pittsylvania-Danville",
+    "Age Group": "30-39",
+    "Number of Hospitalizations": 0,
+    "Number of Deaths": 0,
+    "Number of Cases": 4
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Mount Rogers",
+    "Age Group": "70-79",
+    "Number of Hospitalizations": 5,
+    "Number of Deaths": 1,
+    "Number of Cases": 6
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Richmond",
+    "Age Group": "20-29",
+    "Number of Hospitalizations": 2,
+    "Number of Deaths": 0,
+    "Number of Cases": 28
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Central Virginia",
+    "Age Group": "30-39",
+    "Number of Hospitalizations": 1,
+    "Number of Deaths": 0,
+    "Number of Cases": 10
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Norfolk",
+    "Age Group": "50-59",
+    "Number of Hospitalizations": 5,
+    "Number of Deaths": 0,
+    "Number of Cases": 17
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Alleghany",
+    "Age Group": "30-39",
+    "Number of Hospitalizations": 0,
+    "Number of Deaths": 0,
+    "Number of Cases": 3
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Mount Rogers",
+    "Age Group": "10-19",
+    "Number of Hospitalizations": 0,
+    "Number of Deaths": 0,
+    "Number of Cases": 2
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Roanoke",
+    "Age Group": "30-39",
+    "Number of Hospitalizations": 0,
+    "Number of Deaths": 0,
+    "Number of Cases": 2
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Henrico",
+    "Age Group": "60-69",
+    "Number of Hospitalizations": 11,
+    "Number of Deaths": 13,
+    "Number of Cases": 99
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Peninsula",
+    "Age Group": "60-69",
+    "Number of Hospitalizations": 23,
+    "Number of Deaths": 2,
+    "Number of Cases": 74
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Portsmouth",
+    "Age Group": "70-79",
+    "Number of Hospitalizations": 4,
+    "Number of Deaths": 0,
+    "Number of Cases": 6
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Chesterfield",
+    "Age Group": "70-79",
+    "Number of Hospitalizations": 4,
+    "Number of Deaths": 2,
+    "Number of Cases": 25
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Arlington",
+    "Age Group": "10-19",
+    "Number of Hospitalizations": 1,
+    "Number of Deaths": 0,
+    "Number of Cases": 3
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Norfolk",
+    "Age Group": "10-19",
+    "Number of Hospitalizations": 0,
+    "Number of Deaths": 0,
+    "Number of Cases": 2
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Hampton",
+    "Age Group": "40-49",
+    "Number of Hospitalizations": 2,
+    "Number of Deaths": 0,
+    "Number of Cases": 8
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Loudoun",
+    "Age Group": "40-49",
+    "Number of Hospitalizations": 10,
+    "Number of Deaths": 0,
+    "Number of Cases": 86
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Central Virginia",
+    "Age Group": "60-69",
+    "Number of Hospitalizations": 1,
+    "Number of Deaths": 1,
+    "Number of Cases": 16
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Norfolk",
+    "Age Group": "70-79",
+    "Number of Hospitalizations": 5,
+    "Number of Deaths": 0,
+    "Number of Cases": 6
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Alleghany",
+    "Age Group": "70-79",
+    "Number of Hospitalizations": 2,
+    "Number of Deaths": 1,
+    "Number of Cases": 4
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Richmond",
+    "Age Group": "10-19",
+    "Number of Hospitalizations": 1,
+    "Number of Deaths": 0,
+    "Number of Cases": 1
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Chesapeake",
+    "Age Group": "Missing",
+    "Number of Hospitalizations": 5,
+    "Number of Deaths": 1,
+    "Number of Cases": 52
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Norfolk",
+    "Age Group": "40-49",
+    "Number of Hospitalizations": 3,
+    "Number of Deaths": 0,
+    "Number of Cases": 22
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Peninsula",
+    "Age Group": "50-59",
+    "Number of Hospitalizations": 14,
+    "Number of Deaths": 1,
+    "Number of Cases": 51
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Lord Fairfax",
+    "Age Group": "50-59",
+    "Number of Hospitalizations": 3,
+    "Number of Deaths": 0,
+    "Number of Cases": 39
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Pittsylvania-Danville",
+    "Age Group": "Missing",
+    "Number of Hospitalizations": 1,
+    "Number of Deaths": 0,
+    "Number of Cases": 13
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Western Tidewater",
+    "Age Group": "60-69",
+    "Number of Hospitalizations": 7,
+    "Number of Deaths": 2,
+    "Number of Cases": 27
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Three Rivers",
+    "Age Group": "30-39",
+    "Number of Hospitalizations": 1,
+    "Number of Deaths": 0,
+    "Number of Cases": 5
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Three Rivers",
+    "Age Group": "80+",
+    "Number of Hospitalizations": 1,
+    "Number of Deaths": 0,
+    "Number of Cases": 6
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Portsmouth",
+    "Age Group": "20-29",
+    "Number of Hospitalizations": 2,
+    "Number of Deaths": 0,
+    "Number of Cases": 8
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "New River",
+    "Age Group": "70-79",
+    "Number of Hospitalizations": 3,
+    "Number of Deaths": 0,
+    "Number of Cases": 5
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Roanoke",
+    "Age Group": "70-79",
+    "Number of Hospitalizations": 1,
+    "Number of Deaths": 0,
+    "Number of Cases": 3
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Lenowisco",
+    "Age Group": "40-49",
+    "Number of Hospitalizations": 1,
+    "Number of Deaths": 0,
+    "Number of Cases": 1
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Portsmouth",
+    "Age Group": "80+",
+    "Number of Hospitalizations": 2,
+    "Number of Deaths": 1,
+    "Number of Cases": 4
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Three Rivers",
+    "Age Group": "50-59",
+    "Number of Hospitalizations": 0,
+    "Number of Deaths": 0,
+    "Number of Cases": 9
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Mount Rogers",
+    "Age Group": "Missing",
+    "Number of Hospitalizations": 2,
+    "Number of Deaths": 0,
+    "Number of Cases": 9
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Rappahannock",
+    "Age Group": "0-9",
+    "Number of Hospitalizations": 0,
+    "Number of Deaths": 0,
+    "Number of Cases": 4
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Loudoun",
+    "Age Group": "70-79",
+    "Number of Hospitalizations": 7,
+    "Number of Deaths": 1,
+    "Number of Cases": 21
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Fairfax",
+    "Age Group": "0-9",
+    "Number of Hospitalizations": 2,
+    "Number of Deaths": 0,
+    "Number of Cases": 9
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Three Rivers",
+    "Age Group": "70-79",
+    "Number of Hospitalizations": 1,
+    "Number of Deaths": 0,
+    "Number of Cases": 4
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Thomas Jefferson",
+    "Age Group": "70-79",
+    "Number of Hospitalizations": 8,
+    "Number of Deaths": 1,
+    "Number of Cases": 28
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "West Piedmont",
+    "Age Group": "40-49",
+    "Number of Hospitalizations": 0,
+    "Number of Deaths": 0,
+    "Number of Cases": 4
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Alleghany",
+    "Age Group": "80+",
+    "Number of Hospitalizations": 2,
+    "Number of Deaths": 1,
+    "Number of Cases": 4
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "West Piedmont",
+    "Age Group": "60-69",
+    "Number of Hospitalizations": 1,
+    "Number of Deaths": 0,
+    "Number of Cases": 10
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Portsmouth",
+    "Age Group": "Missing",
+    "Number of Hospitalizations": 6,
+    "Number of Deaths": 0,
+    "Number of Cases": 37
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Peninsula",
+    "Age Group": "Missing",
+    "Number of Hospitalizations": 0,
+    "Number of Deaths": 0,
+    "Number of Cases": 23
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Lenowisco",
+    "Age Group": "30-39",
+    "Number of Hospitalizations": 1,
+    "Number of Deaths": 0,
+    "Number of Cases": 2
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Western Tidewater",
+    "Age Group": "20-29",
+    "Number of Hospitalizations": 0,
+    "Number of Deaths": 0,
+    "Number of Cases": 16
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Lenowisco",
+    "Age Group": "10-19",
+    "Number of Hospitalizations": 0,
+    "Number of Deaths": 0,
+    "Number of Cases": 1
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Arlington",
+    "Age Group": "70-79",
+    "Number of Hospitalizations": 18,
+    "Number of Deaths": 6,
+    "Number of Cases": 38
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Rappahannock",
+    "Age Group": "30-39",
+    "Number of Hospitalizations": 4,
+    "Number of Deaths": 0,
+    "Number of Cases": 37
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Central Virginia",
+    "Age Group": "40-49",
+    "Number of Hospitalizations": 0,
+    "Number of Deaths": 0,
+    "Number of Cases": 11
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Chesapeake",
+    "Age Group": "60-69",
+    "Number of Hospitalizations": 9,
+    "Number of Deaths": 2,
+    "Number of Cases": 23
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Central Virginia",
+    "Age Group": "80+",
+    "Number of Hospitalizations": 1,
+    "Number of Deaths": 0,
+    "Number of Cases": 2
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Thomas Jefferson",
+    "Age Group": "50-59",
+    "Number of Hospitalizations": 7,
+    "Number of Deaths": 1,
+    "Number of Cases": 36
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Chesapeake",
+    "Age Group": "50-59",
+    "Number of Hospitalizations": 9,
+    "Number of Deaths": 1,
+    "Number of Cases": 40
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Henrico",
+    "Age Group": "Missing",
+    "Number of Hospitalizations": 22,
+    "Number of Deaths": 6,
+    "Number of Cases": 179
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Rappahannock",
+    "Age Group": "10-19",
+    "Number of Hospitalizations": 0,
+    "Number of Deaths": 0,
+    "Number of Cases": 4
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Richmond",
+    "Age Group": "70-79",
+    "Number of Hospitalizations": 11,
+    "Number of Deaths": 5,
+    "Number of Cases": 23
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Chesapeake",
+    "Age Group": "40-49",
+    "Number of Hospitalizations": 5,
+    "Number of Deaths": 0,
+    "Number of Cases": 25
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Peninsula",
+    "Age Group": "30-39",
+    "Number of Hospitalizations": 4,
+    "Number of Deaths": 0,
+    "Number of Cases": 26
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Three Rivers",
+    "Age Group": "40-49",
+    "Number of Hospitalizations": 2,
+    "Number of Deaths": 1,
+    "Number of Cases": 12
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Prince William",
+    "Age Group": "40-49",
+    "Number of Hospitalizations": 29,
+    "Number of Deaths": 2,
+    "Number of Cases": 161
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Norfolk",
+    "Age Group": "60-69",
+    "Number of Hospitalizations": 10,
+    "Number of Deaths": 1,
+    "Number of Cases": 16
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Pittsylvania-Danville",
+    "Age Group": "80+",
+    "Number of Hospitalizations": 1,
+    "Number of Deaths": 1,
+    "Number of Cases": 2
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Crater",
+    "Age Group": "80+",
+    "Number of Hospitalizations": 1,
+    "Number of Deaths": 0,
+    "Number of Cases": 5
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Roanoke",
+    "Age Group": "20-29",
+    "Number of Hospitalizations": 0,
+    "Number of Deaths": 0,
+    "Number of Cases": 3
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Alexandria",
+    "Age Group": "30-39",
+    "Number of Hospitalizations": 9,
+    "Number of Deaths": 0,
+    "Number of Cases": 73
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Richmond",
+    "Age Group": "50-59",
+    "Number of Hospitalizations": 10,
+    "Number of Deaths": 0,
+    "Number of Cases": 32
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Loudoun",
+    "Age Group": "30-39",
+    "Number of Hospitalizations": 2,
+    "Number of Deaths": 0,
+    "Number of Cases": 47
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Fairfax",
+    "Age Group": "20-29",
+    "Number of Hospitalizations": 15,
+    "Number of Deaths": 0,
+    "Number of Cases": 178
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Roanoke",
+    "Age Group": "Missing",
+    "Number of Hospitalizations": 1,
+    "Number of Deaths": 0,
+    "Number of Cases": 9
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Henrico",
+    "Age Group": "0-9",
+    "Number of Hospitalizations": 0,
+    "Number of Deaths": 0,
+    "Number of Cases": 12
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Lenowisco",
+    "Age Group": "Missing",
+    "Number of Hospitalizations": 3,
+    "Number of Deaths": 1,
+    "Number of Cases": 8
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Alexandria",
+    "Age Group": "Missing",
+    "Number of Hospitalizations": 29,
+    "Number of Deaths": 6,
+    "Number of Cases": 258
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Mount Rogers",
+    "Age Group": "80+",
+    "Number of Hospitalizations": 3,
+    "Number of Deaths": 3,
+    "Number of Cases": 3
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Henrico",
+    "Age Group": "50-59",
+    "Number of Hospitalizations": 10,
+    "Number of Deaths": 2,
+    "Number of Cases": 79
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Chesapeake",
+    "Age Group": "0-9",
+    "Number of Hospitalizations": 1,
+    "Number of Deaths": 0,
+    "Number of Cases": 1
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Thomas Jefferson",
+    "Age Group": "10-19",
+    "Number of Hospitalizations": 0,
+    "Number of Deaths": 0,
+    "Number of Cases": 3
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Chickahominy",
+    "Age Group": "80+",
+    "Number of Hospitalizations": 12,
+    "Number of Deaths": 6,
+    "Number of Cases": 19
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Hampton",
+    "Age Group": "50-59",
+    "Number of Hospitalizations": 6,
+    "Number of Deaths": 0,
+    "Number of Cases": 16
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Piedmont",
+    "Age Group": "80+",
+    "Number of Hospitalizations": 0,
+    "Number of Deaths": 1,
+    "Number of Cases": 2
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Roanoke",
+    "Age Group": "80+",
+    "Number of Hospitalizations": 1,
+    "Number of Deaths": 0,
+    "Number of Cases": 1
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Hampton",
+    "Age Group": "60-69",
+    "Number of Hospitalizations": 8,
+    "Number of Deaths": 1,
+    "Number of Cases": 19
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Crater",
+    "Age Group": "70-79",
+    "Number of Hospitalizations": 8,
+    "Number of Deaths": 4,
+    "Number of Cases": 15
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Fairfax",
+    "Age Group": "30-39",
+    "Number of Hospitalizations": 25,
+    "Number of Deaths": 1,
+    "Number of Cases": 244
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Chickahominy",
+    "Age Group": "60-69",
+    "Number of Hospitalizations": 8,
+    "Number of Deaths": 1,
+    "Number of Cases": 24
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Alleghany",
+    "Age Group": "Missing",
+    "Number of Hospitalizations": 4,
+    "Number of Deaths": 1,
+    "Number of Cases": 27
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Lenowisco",
+    "Age Group": "50-59",
+    "Number of Hospitalizations": 2,
+    "Number of Deaths": 0,
+    "Number of Cases": 9
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Eastern Shore",
+    "Age Group": "80+",
+    "Number of Hospitalizations": 2,
+    "Number of Deaths": 0,
+    "Number of Cases": 2
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Rappahannock Rapidan",
+    "Age Group": "80+",
+    "Number of Hospitalizations": 6,
+    "Number of Deaths": 2,
+    "Number of Cases": 6
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Piedmont",
+    "Age Group": "20-29",
+    "Number of Hospitalizations": 0,
+    "Number of Deaths": 0,
+    "Number of Cases": 13
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Loudoun",
+    "Age Group": "0-9",
+    "Number of Hospitalizations": 0,
+    "Number of Deaths": 0,
+    "Number of Cases": 4
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Pittsylvania-Danville",
+    "Age Group": "50-59",
+    "Number of Hospitalizations": 3,
+    "Number of Deaths": 0,
+    "Number of Cases": 3
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Lord Fairfax",
+    "Age Group": "70-79",
+    "Number of Hospitalizations": 2,
+    "Number of Deaths": 0,
+    "Number of Cases": 8
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Virginia Beach",
+    "Age Group": "20-29",
+    "Number of Hospitalizations": 0,
+    "Number of Deaths": 0,
+    "Number of Cases": 27
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Central Shenandoah",
+    "Age Group": "50-59",
+    "Number of Hospitalizations": 10,
+    "Number of Deaths": 0,
+    "Number of Cases": 71
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Alleghany",
+    "Age Group": "20-29",
+    "Number of Hospitalizations": 1,
+    "Number of Deaths": 0,
+    "Number of Cases": 6
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Prince William",
+    "Age Group": "50-59",
+    "Number of Hospitalizations": 32,
+    "Number of Deaths": 3,
+    "Number of Cases": 145
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Alexandria",
+    "Age Group": "70-79",
+    "Number of Hospitalizations": 11,
+    "Number of Deaths": 4,
+    "Number of Cases": 22
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Chesterfield",
+    "Age Group": "50-59",
+    "Number of Hospitalizations": 11,
+    "Number of Deaths": 1,
+    "Number of Cases": 51
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Thomas Jefferson",
+    "Age Group": "0-9",
+    "Number of Hospitalizations": 1,
+    "Number of Deaths": 0,
+    "Number of Cases": 3
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Eastern Shore",
+    "Age Group": "40-49",
+    "Number of Hospitalizations": 2,
+    "Number of Deaths": 0,
+    "Number of Cases": 7
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Chesapeake",
+    "Age Group": "70-79",
+    "Number of Hospitalizations": 8,
+    "Number of Deaths": 0,
+    "Number of Cases": 15
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Portsmouth",
+    "Age Group": "30-39",
+    "Number of Hospitalizations": 3,
+    "Number of Deaths": 0,
+    "Number of Cases": 9
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Western Tidewater",
+    "Age Group": "0-9",
+    "Number of Hospitalizations": 0,
+    "Number of Deaths": 0,
+    "Number of Cases": 1
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Mount Rogers",
+    "Age Group": "50-59",
+    "Number of Hospitalizations": 1,
+    "Number of Deaths": 0,
+    "Number of Cases": 8
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Thomas Jefferson",
+    "Age Group": "40-49",
+    "Number of Hospitalizations": 2,
+    "Number of Deaths": 0,
+    "Number of Cases": 19
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Portsmouth",
+    "Age Group": "50-59",
+    "Number of Hospitalizations": 6,
+    "Number of Deaths": 1,
+    "Number of Cases": 13
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Hampton",
+    "Age Group": "30-39",
+    "Number of Hospitalizations": 1,
+    "Number of Deaths": 0,
+    "Number of Cases": 11
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Fairfax",
+    "Age Group": "70-79",
+    "Number of Hospitalizations": 43,
+    "Number of Deaths": 8,
+    "Number of Cases": 120
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Prince William",
+    "Age Group": "0-9",
+    "Number of Hospitalizations": 1,
+    "Number of Deaths": 0,
+    "Number of Cases": 13
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Central Shenandoah",
+    "Age Group": "0-9",
+    "Number of Hospitalizations": 0,
+    "Number of Deaths": 0,
+    "Number of Cases": 2
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Western Tidewater",
+    "Age Group": "10-19",
+    "Number of Hospitalizations": 0,
+    "Number of Deaths": 0,
+    "Number of Cases": 1
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "New River",
+    "Age Group": "60-69",
+    "Number of Hospitalizations": 1,
+    "Number of Deaths": 0,
+    "Number of Cases": 7
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Central Virginia",
+    "Age Group": "20-29",
+    "Number of Hospitalizations": 1,
+    "Number of Deaths": 0,
+    "Number of Cases": 13
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "West Piedmont",
+    "Age Group": "80+",
+    "Number of Hospitalizations": 0,
+    "Number of Deaths": 0,
+    "Number of Cases": 2
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Rappahannock",
+    "Age Group": "60-69",
+    "Number of Hospitalizations": 18,
+    "Number of Deaths": 2,
+    "Number of Cases": 38
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "West Piedmont",
+    "Age Group": "50-59",
+    "Number of Hospitalizations": 0,
+    "Number of Deaths": 0,
+    "Number of Cases": 4
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Crater",
+    "Age Group": "30-39",
+    "Number of Hospitalizations": 0,
+    "Number of Deaths": 0,
+    "Number of Cases": 20
+  }
+]

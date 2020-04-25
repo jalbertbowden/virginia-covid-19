@@ -1,0 +1,1074 @@
+[
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Central Virginia",
+    "Race": "Other",
+    "Number of Cases": 1,
+    "Number of Hospitalizations": 0,
+    "Number of Deaths": 0
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Crater",
+    "Race": "Black or African American",
+    "Number of Cases": 77,
+    "Number of Hospitalizations": 24,
+    "Number of Deaths": 4
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "New River",
+    "Race": "White",
+    "Number of Cases": 37,
+    "Number of Hospitalizations": 6,
+    "Number of Deaths": 0
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Southside",
+    "Race": "White",
+    "Number of Cases": 22,
+    "Number of Hospitalizations": 9,
+    "Number of Deaths": 4
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Chickahominy",
+    "Race": "White",
+    "Number of Cases": 70,
+    "Number of Hospitalizations": 18,
+    "Number of Deaths": 6
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Chesapeake",
+    "Race": "Not Reported",
+    "Number of Cases": 42,
+    "Number of Hospitalizations": 1,
+    "Number of Deaths": 0
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Prince William",
+    "Race": "Other",
+    "Number of Cases": 230,
+    "Number of Hospitalizations": 41,
+    "Number of Deaths": 3
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Thomas Jefferson",
+    "Race": "White",
+    "Number of Cases": 126,
+    "Number of Hospitalizations": 15,
+    "Number of Deaths": 7
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Fairfax",
+    "Race": "Black or African American",
+    "Number of Cases": 188,
+    "Number of Hospitalizations": 54,
+    "Number of Deaths": 5
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Western Tidewater",
+    "Race": "Black or African American",
+    "Number of Cases": 148,
+    "Number of Hospitalizations": 25,
+    "Number of Deaths": 4
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Chickahominy",
+    "Race": "Black or African American",
+    "Number of Cases": 26,
+    "Number of Hospitalizations": 15,
+    "Number of Deaths": 4
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Alleghany",
+    "Race": "Black or African American",
+    "Number of Cases": 4,
+    "Number of Hospitalizations": 1,
+    "Number of Deaths": 0
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Southside",
+    "Race": "Not Reported",
+    "Number of Cases": 50,
+    "Number of Hospitalizations": 8,
+    "Number of Deaths": 1
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Three Rivers",
+    "Race": "Other",
+    "Number of Cases": 6,
+    "Number of Hospitalizations": 1,
+    "Number of Deaths": 0
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Central Shenandoah",
+    "Race": "Black or African American",
+    "Number of Cases": 31,
+    "Number of Hospitalizations": 2,
+    "Number of Deaths": 1
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Fairfax",
+    "Race": "Other",
+    "Number of Cases": 838,
+    "Number of Hospitalizations": 191,
+    "Number of Deaths": 13
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Eastern Shore",
+    "Race": "Other",
+    "Number of Cases": 4,
+    "Number of Hospitalizations": 0,
+    "Number of Deaths": 0
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Rappahannock",
+    "Race": "Not Reported",
+    "Number of Cases": 188,
+    "Number of Hospitalizations": 23,
+    "Number of Deaths": 2
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Loudoun",
+    "Race": "Not Reported",
+    "Number of Cases": 145,
+    "Number of Hospitalizations": 5,
+    "Number of Deaths": 0
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Norfolk",
+    "Race": "Black or African American",
+    "Number of Cases": 83,
+    "Number of Hospitalizations": 17,
+    "Number of Deaths": 1
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Chesapeake",
+    "Race": "Other",
+    "Number of Cases": 22,
+    "Number of Hospitalizations": 3,
+    "Number of Deaths": 3
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "New River",
+    "Race": "Black or African American",
+    "Number of Cases": 4,
+    "Number of Hospitalizations": 1,
+    "Number of Deaths": 0
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Thomas Jefferson",
+    "Race": "Not Reported",
+    "Number of Cases": 16,
+    "Number of Hospitalizations": 0,
+    "Number of Deaths": 0
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Lord Fairfax",
+    "Race": "Black or African American",
+    "Number of Cases": 10,
+    "Number of Hospitalizations": 2,
+    "Number of Deaths": 0
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Three Rivers",
+    "Race": "White",
+    "Number of Cases": 32,
+    "Number of Hospitalizations": 5,
+    "Number of Deaths": 0
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Prince William",
+    "Race": "White",
+    "Number of Cases": 295,
+    "Number of Hospitalizations": 59,
+    "Number of Deaths": 9
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Richmond",
+    "Race": "White",
+    "Number of Cases": 62,
+    "Number of Hospitalizations": 7,
+    "Number of Deaths": 1
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Western Tidewater",
+    "Race": "White",
+    "Number of Cases": 97,
+    "Number of Hospitalizations": 14,
+    "Number of Deaths": 3
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "New River",
+    "Race": "Not Reported",
+    "Number of Cases": 26,
+    "Number of Hospitalizations": 1,
+    "Number of Deaths": 0
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Alexandria",
+    "Race": "Not Reported",
+    "Number of Cases": 193,
+    "Number of Hospitalizations": 13,
+    "Number of Deaths": 3
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Lenowisco",
+    "Race": "White",
+    "Number of Cases": 25,
+    "Number of Hospitalizations": 11,
+    "Number of Deaths": 1
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Peninsula",
+    "Race": "Other",
+    "Number of Cases": 11,
+    "Number of Hospitalizations": 6,
+    "Number of Deaths": 1
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Alexandria",
+    "Race": "Black or African American",
+    "Number of Cases": 90,
+    "Number of Hospitalizations": 27,
+    "Number of Deaths": 4
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Pittsylvania-Danville",
+    "Race": "White",
+    "Number of Cases": 20,
+    "Number of Hospitalizations": 11,
+    "Number of Deaths": 2
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Roanoke",
+    "Race": "Black or African American",
+    "Number of Cases": 5,
+    "Number of Hospitalizations": 3,
+    "Number of Deaths": 0
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Chesterfield",
+    "Race": "Not Reported",
+    "Number of Cases": 222,
+    "Number of Hospitalizations": 2,
+    "Number of Deaths": 3
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Pittsylvania-Danville",
+    "Race": "Black or African American",
+    "Number of Cases": 14,
+    "Number of Hospitalizations": 4,
+    "Number of Deaths": 0
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Western Tidewater",
+    "Race": "Other",
+    "Number of Cases": 10,
+    "Number of Hospitalizations": 1,
+    "Number of Deaths": 0
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Piedmont",
+    "Race": "Black or African American",
+    "Number of Cases": 47,
+    "Number of Hospitalizations": 13,
+    "Number of Deaths": 1
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Rappahannock Rapidan",
+    "Race": "Black or African American",
+    "Number of Cases": 3,
+    "Number of Hospitalizations": 0,
+    "Number of Deaths": 0
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "West Piedmont",
+    "Race": "Other",
+    "Number of Cases": 2,
+    "Number of Hospitalizations": 1,
+    "Number of Deaths": 1
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Chesterfield",
+    "Race": "White",
+    "Number of Cases": 102,
+    "Number of Hospitalizations": 16,
+    "Number of Deaths": 11
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "West Piedmont",
+    "Race": "White",
+    "Number of Cases": 28,
+    "Number of Hospitalizations": 4,
+    "Number of Deaths": 0
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Portsmouth",
+    "Race": "Black or African American",
+    "Number of Cases": 57,
+    "Number of Hospitalizations": 22,
+    "Number of Deaths": 3
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Three Rivers",
+    "Race": "Black or African American",
+    "Number of Cases": 44,
+    "Number of Hospitalizations": 3,
+    "Number of Deaths": 0
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Hampton",
+    "Race": "Other",
+    "Number of Cases": 4,
+    "Number of Hospitalizations": 1,
+    "Number of Deaths": 0
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Norfolk",
+    "Race": "White",
+    "Number of Cases": 41,
+    "Number of Hospitalizations": 12,
+    "Number of Deaths": 2
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Rappahannock Rapidan",
+    "Race": "White",
+    "Number of Cases": 67,
+    "Number of Hospitalizations": 10,
+    "Number of Deaths": 2
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Thomas Jefferson",
+    "Race": "Other",
+    "Number of Cases": 21,
+    "Number of Hospitalizations": 2,
+    "Number of Deaths": 0
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Cumberland Plateau",
+    "Race": "Black or African American",
+    "Number of Cases": 8,
+    "Number of Hospitalizations": 0,
+    "Number of Deaths": 0
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Rappahannock",
+    "Race": "Other",
+    "Number of Cases": 17,
+    "Number of Hospitalizations": 10,
+    "Number of Deaths": 0
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Roanoke",
+    "Race": "White",
+    "Number of Cases": 16,
+    "Number of Hospitalizations": 2,
+    "Number of Deaths": 0
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Loudoun",
+    "Race": "Other",
+    "Number of Cases": 95,
+    "Number of Hospitalizations": 18,
+    "Number of Deaths": 1
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Central Shenandoah",
+    "Race": "White",
+    "Number of Cases": 297,
+    "Number of Hospitalizations": 29,
+    "Number of Deaths": 8
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Mount Rogers",
+    "Race": "Not Reported",
+    "Number of Cases": 3,
+    "Number of Hospitalizations": 1,
+    "Number of Deaths": 0
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Piedmont",
+    "Race": "Other",
+    "Number of Cases": 2,
+    "Number of Hospitalizations": 0,
+    "Number of Deaths": 0
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Alleghany",
+    "Race": "Not Reported",
+    "Number of Cases": 22,
+    "Number of Hospitalizations": 1,
+    "Number of Deaths": 0
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Arlington",
+    "Race": "White",
+    "Number of Cases": 97,
+    "Number of Hospitalizations": 22,
+    "Number of Deaths": 6
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Lord Fairfax",
+    "Race": "Not Reported",
+    "Number of Cases": 15,
+    "Number of Hospitalizations": 1,
+    "Number of Deaths": 0
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "West Piedmont",
+    "Race": "Not Reported",
+    "Number of Cases": 2,
+    "Number of Hospitalizations": 0,
+    "Number of Deaths": 0
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Chickahominy",
+    "Race": "Other",
+    "Number of Cases": 4,
+    "Number of Hospitalizations": 1,
+    "Number of Deaths": 0
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Chesapeake",
+    "Race": "Black or African American",
+    "Number of Cases": 64,
+    "Number of Hospitalizations": 23,
+    "Number of Deaths": 2
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Rappahannock",
+    "Race": "Black or African American",
+    "Number of Cases": 47,
+    "Number of Hospitalizations": 14,
+    "Number of Deaths": 3
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Portsmouth",
+    "Race": "Not Reported",
+    "Number of Cases": 14,
+    "Number of Hospitalizations": 2,
+    "Number of Deaths": 1
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Loudoun",
+    "Race": "White",
+    "Number of Cases": 254,
+    "Number of Hospitalizations": 40,
+    "Number of Deaths": 9
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Eastern Shore",
+    "Race": "Black or African American",
+    "Number of Cases": 77,
+    "Number of Hospitalizations": 14,
+    "Number of Deaths": 2
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Virginia Beach",
+    "Race": "White",
+    "Number of Cases": 184,
+    "Number of Hospitalizations": 36,
+    "Number of Deaths": 7
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Alexandria",
+    "Race": "White",
+    "Number of Cases": 189,
+    "Number of Hospitalizations": 30,
+    "Number of Deaths": 8
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Portsmouth",
+    "Race": "Other",
+    "Number of Cases": 5,
+    "Number of Hospitalizations": 2,
+    "Number of Deaths": 0
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Henrico",
+    "Race": "White",
+    "Number of Cases": 285,
+    "Number of Hospitalizations": 42,
+    "Number of Deaths": 45
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Alleghany",
+    "Race": "Other",
+    "Number of Cases": 1,
+    "Number of Hospitalizations": 0,
+    "Number of Deaths": 0
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Hampton",
+    "Race": "Black or African American",
+    "Number of Cases": 61,
+    "Number of Hospitalizations": 20,
+    "Number of Deaths": 1
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Richmond",
+    "Race": "Black or African American",
+    "Number of Cases": 162,
+    "Number of Hospitalizations": 39,
+    "Number of Deaths": 13
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Arlington",
+    "Race": "Black or African American",
+    "Number of Cases": 42,
+    "Number of Hospitalizations": 13,
+    "Number of Deaths": 7
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Crater",
+    "Race": "Other",
+    "Number of Cases": 1,
+    "Number of Hospitalizations": 0,
+    "Number of Deaths": 0
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Peninsula",
+    "Race": "White",
+    "Number of Cases": 186,
+    "Number of Hospitalizations": 62,
+    "Number of Deaths": 16
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Crater",
+    "Race": "White",
+    "Number of Cases": 25,
+    "Number of Hospitalizations": 9,
+    "Number of Deaths": 4
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Central Virginia",
+    "Race": "Not Reported",
+    "Number of Cases": 72,
+    "Number of Hospitalizations": 2,
+    "Number of Deaths": 0
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Central Virginia",
+    "Race": "White",
+    "Number of Cases": 24,
+    "Number of Hospitalizations": 5,
+    "Number of Deaths": 1
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Central Shenandoah",
+    "Race": "Other",
+    "Number of Cases": 116,
+    "Number of Hospitalizations": 7,
+    "Number of Deaths": 1
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Loudoun",
+    "Race": "Black or African American",
+    "Number of Cases": 35,
+    "Number of Hospitalizations": 4,
+    "Number of Deaths": 0
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Rappahannock Rapidan",
+    "Race": "Not Reported",
+    "Number of Cases": 122,
+    "Number of Hospitalizations": 7,
+    "Number of Deaths": 1
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Rappahannock Rapidan",
+    "Race": "Other",
+    "Number of Cases": 8,
+    "Number of Hospitalizations": 4,
+    "Number of Deaths": 0
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Alleghany",
+    "Race": "White",
+    "Number of Cases": 55,
+    "Number of Hospitalizations": 12,
+    "Number of Deaths": 3
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Prince William",
+    "Race": "Black or African American",
+    "Number of Cases": 156,
+    "Number of Hospitalizations": 30,
+    "Number of Deaths": 8
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Portsmouth",
+    "Race": "White",
+    "Number of Cases": 24,
+    "Number of Hospitalizations": 4,
+    "Number of Deaths": 0
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Eastern Shore",
+    "Race": "White",
+    "Number of Cases": 29,
+    "Number of Hospitalizations": 4,
+    "Number of Deaths": 1
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Arlington",
+    "Race": "Other",
+    "Number of Cases": 75,
+    "Number of Hospitalizations": 36,
+    "Number of Deaths": 6
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Central Virginia",
+    "Race": "Black or African American",
+    "Number of Cases": 5,
+    "Number of Hospitalizations": 0,
+    "Number of Deaths": 0
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Three Rivers",
+    "Race": "Not Reported",
+    "Number of Cases": 40,
+    "Number of Hospitalizations": 2,
+    "Number of Deaths": 1
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Henrico",
+    "Race": "Not Reported",
+    "Number of Cases": 104,
+    "Number of Hospitalizations": 3,
+    "Number of Deaths": 2
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Lenowisco",
+    "Race": "Other",
+    "Number of Cases": 1,
+    "Number of Hospitalizations": 0,
+    "Number of Deaths": 0
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Virginia Beach",
+    "Race": "Black or African American",
+    "Number of Cases": 71,
+    "Number of Hospitalizations": 13,
+    "Number of Deaths": 1
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Roanoke",
+    "Race": "Other",
+    "Number of Cases": 1,
+    "Number of Hospitalizations": 0,
+    "Number of Deaths": 0
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Norfolk",
+    "Race": "Other",
+    "Number of Cases": 8,
+    "Number of Hospitalizations": 2,
+    "Number of Deaths": 0
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Hampton",
+    "Race": "White",
+    "Number of Cases": 20,
+    "Number of Hospitalizations": 4,
+    "Number of Deaths": 0
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Peninsula",
+    "Race": "Not Reported",
+    "Number of Cases": 52,
+    "Number of Hospitalizations": 3,
+    "Number of Deaths": 0
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Arlington",
+    "Race": "Not Reported",
+    "Number of Cases": 508,
+    "Number of Hospitalizations": 49,
+    "Number of Deaths": 5
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Mount Rogers",
+    "Race": "Other",
+    "Number of Cases": 2,
+    "Number of Hospitalizations": 1,
+    "Number of Deaths": 0
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "West Piedmont",
+    "Race": "Black or African American",
+    "Number of Cases": 1,
+    "Number of Hospitalizations": 0,
+    "Number of Deaths": 0
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Virginia Beach",
+    "Race": "Other",
+    "Number of Cases": 37,
+    "Number of Hospitalizations": 14,
+    "Number of Deaths": 2
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Hampton",
+    "Race": "Not Reported",
+    "Number of Cases": 14,
+    "Number of Hospitalizations": 1,
+    "Number of Deaths": 0
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Virginia Beach",
+    "Race": "Not Reported",
+    "Number of Cases": 39,
+    "Number of Hospitalizations": 2,
+    "Number of Deaths": 0
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Thomas Jefferson",
+    "Race": "Black or African American",
+    "Number of Cases": 81,
+    "Number of Hospitalizations": 32,
+    "Number of Deaths": 4
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Henrico",
+    "Race": "Black or African American",
+    "Number of Cases": 310,
+    "Number of Hospitalizations": 60,
+    "Number of Deaths": 37
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Prince William",
+    "Race": "Not Reported",
+    "Number of Cases": 610,
+    "Number of Hospitalizations": 8,
+    "Number of Deaths": 0
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Henrico",
+    "Race": "Other",
+    "Number of Cases": 30,
+    "Number of Hospitalizations": 2,
+    "Number of Deaths": 2
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Peninsula",
+    "Race": "Black or African American",
+    "Number of Cases": 71,
+    "Number of Hospitalizations": 25,
+    "Number of Deaths": 3
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Cumberland Plateau",
+    "Race": "White",
+    "Number of Cases": 10,
+    "Number of Hospitalizations": 1,
+    "Number of Deaths": 0
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Chesterfield",
+    "Race": "Black or African American",
+    "Number of Cases": 126,
+    "Number of Hospitalizations": 20,
+    "Number of Deaths": 6
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Alexandria",
+    "Race": "Other",
+    "Number of Cases": 75,
+    "Number of Hospitalizations": 11,
+    "Number of Deaths": 0
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Central Shenandoah",
+    "Race": "Not Reported",
+    "Number of Cases": 155,
+    "Number of Hospitalizations": 1,
+    "Number of Deaths": 1
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Mount Rogers",
+    "Race": "White",
+    "Number of Cases": 54,
+    "Number of Hospitalizations": 13,
+    "Number of Deaths": 4
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Piedmont",
+    "Race": "Not Reported",
+    "Number of Cases": 39,
+    "Number of Hospitalizations": 2,
+    "Number of Deaths": 0
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Rappahannock",
+    "Race": "White",
+    "Number of Cases": 103,
+    "Number of Hospitalizations": 28,
+    "Number of Deaths": 4
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Southside",
+    "Race": "Black or African American",
+    "Number of Cases": 18,
+    "Number of Hospitalizations": 6,
+    "Number of Deaths": 1
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Richmond",
+    "Race": "Not Reported",
+    "Number of Cases": 29,
+    "Number of Hospitalizations": 2,
+    "Number of Deaths": 0
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Southside",
+    "Race": "Other",
+    "Number of Cases": 14,
+    "Number of Hospitalizations": 0,
+    "Number of Deaths": 1
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Lenowisco",
+    "Race": "Not Reported",
+    "Number of Cases": 9,
+    "Number of Hospitalizations": 1,
+    "Number of Deaths": 1
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Piedmont",
+    "Race": "White",
+    "Number of Cases": 23,
+    "Number of Hospitalizations": 2,
+    "Number of Deaths": 2
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Roanoke",
+    "Race": "Not Reported",
+    "Number of Cases": 11,
+    "Number of Hospitalizations": 0,
+    "Number of Deaths": 0
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Chickahominy",
+    "Race": "Not Reported",
+    "Number of Cases": 101,
+    "Number of Hospitalizations": 6,
+    "Number of Deaths": 2
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Lord Fairfax",
+    "Race": "White",
+    "Number of Cases": 207,
+    "Number of Hospitalizations": 25,
+    "Number of Deaths": 0
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Fairfax",
+    "Race": "Not Reported",
+    "Number of Cases": 774,
+    "Number of Hospitalizations": 55,
+    "Number of Deaths": 23
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Crater",
+    "Race": "Not Reported",
+    "Number of Cases": 64,
+    "Number of Hospitalizations": 2,
+    "Number of Deaths": 1
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Lord Fairfax",
+    "Race": "Other",
+    "Number of Cases": 24,
+    "Number of Hospitalizations": 3,
+    "Number of Deaths": 0
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Richmond",
+    "Race": "Other",
+    "Number of Cases": 14,
+    "Number of Hospitalizations": 3,
+    "Number of Deaths": 0
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Chesterfield",
+    "Race": "Other",
+    "Number of Cases": 23,
+    "Number of Hospitalizations": 0,
+    "Number of Deaths": 0
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Eastern Shore",
+    "Race": "Not Reported",
+    "Number of Cases": 5,
+    "Number of Hospitalizations": 0,
+    "Number of Deaths": 0
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Chesapeake",
+    "Race": "White",
+    "Number of Cases": 69,
+    "Number of Hospitalizations": 16,
+    "Number of Deaths": 0
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Norfolk",
+    "Race": "Not Reported",
+    "Number of Cases": 9,
+    "Number of Hospitalizations": 0,
+    "Number of Deaths": 0
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Western Tidewater",
+    "Race": "Not Reported",
+    "Number of Cases": 64,
+    "Number of Hospitalizations": 1,
+    "Number of Deaths": 0
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Pittsylvania-Danville",
+    "Race": "Not Reported",
+    "Number of Cases": 8,
+    "Number of Hospitalizations": 2,
+    "Number of Deaths": 0
+  },
+  {
+    "Report Date": "2020-04-24",
+    "Health District": "Fairfax",
+    "Race": "White",
+    "Number of Cases": 784,
+    "Number of Hospitalizations": 160,
+    "Number of Deaths": 48
+  }
+]
