@@ -1,0 +1,23 @@
+[
+   {
+      "Facility Name" : "(590) HAMPTON VA MEDICAL CENTER",
+      "Facility Longitude" : "-992.33240808",
+      "Facility Latitude" : "481.1988759499999",
+      "VA Confirmed" : "60",
+      "VA Deaths " : "1"
+   },
+   {
+      "Facility Name" : "(652) HUNTER HOLMES MCGUIRE HOSPITAL",
+      "Facility Longitude" : "-1007.1131857800002",
+      "Facility Latitude" : "487.48347829999994",
+      "VA Confirmed" : "71",
+      "VA Deaths " : "5"
+   },
+   {
+      "Facility Name" : "(658) SALEM VA MEDICAL CENTER",
+      "Facility Longitude" : "-800.2275392",
+      "Facility Latitude" : "372.7651387000001",
+      "VA Confirmed" : "4",
+      "VA Deaths " : "0"
+   }
+]
