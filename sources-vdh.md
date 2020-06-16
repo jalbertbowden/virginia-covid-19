@@ -1,5 +1,6 @@
-# VDH Data Sources. 
+# VDH Data Sources
 
+## Datasets  
 |Dataset|URI|Note|
 |--- |--- |--- |
 |VDH-COVID-19-PublicUseDataset-Cases|https://www.vdh.virginia.gov/content/uploads/sites/182/2020/05/VDH-COVID-19-PublicUseDataset-Cases.csv|Cases, hospitalizations, and fatalities at the locality level|
@@ -18,3 +19,7 @@
 |VDH-COVID-19-PublicUseDataset-Tests_by-LabReportDate|https://www.vdh.virginia.gov/content/uploads/sites/182/2020/05/VDH-COVID-19-PublicUseDataset-Tests_by-LabReportDate.csv|Testing Data|
 |VDH-COVID-19-PublicUseDataset-MIS-C|https://www.vdh.virginia.gov/content/uploads/sites/182/2020/05/VDH-COVID-19-PublicUseDataset-MIS-C.csv|Multisystem Inflammatory Syndrome in Children (MIS-C) Data|
 
+## Misc. 
+|Title|URI|
+|--- |--- |
+|Coronavirus - VDH|https://www.vdh.virginia.gov/coronavirus/|
