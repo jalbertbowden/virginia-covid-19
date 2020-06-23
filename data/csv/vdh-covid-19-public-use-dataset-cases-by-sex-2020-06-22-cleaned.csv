@@ -1,0 +1,106 @@
+"﻿Report Date","Health District",Sex,"Number of Cases","Number of Hospitalizations","Number of Deaths"
+2020-06-22,Southside,"Not Reported",4,0,0
+2020-06-22,Chesapeake,Female,422,53,7
+2020-06-22,Richmond,Female,951,85,6
+2020-06-22,Roanoke,Male,137,6,2
+2020-06-22,Fairfax,"Not Reported",135,3,3
+2020-06-22,"Thomas Jefferson",Female,415,43,9
+2020-06-22,Chesapeake,"Not Reported",1,0,0
+2020-06-22,"Cumberland Plateau",Male,18,1,0
+2020-06-22,"Eastern Shore",Female,653,55,23
+2020-06-22,"Lord Fairfax","Not Reported",8,0,0
+2020-06-22,Rappahannock,"Not Reported",11,1,0
+2020-06-22,"Central Shenandoah","Not Reported",2,0,0
+2020-06-22,Peninsula,Male,399,62,12
+2020-06-22,Norfolk,Male,370,46,6
+2020-06-22,Alexandria,Female,1144,104,27
+2020-06-22,Lenowisco,Male,25,8,3
+2020-06-22,Pittsylvania-Danville,Female,85,16,2
+2020-06-22,"New River","Not Reported",3,0,0
+2020-06-22,Chesterfield,"Not Reported",72,0,2
+2020-06-22,Loudoun,Male,1781,139,31
+2020-06-22,"Rappahannock Rapidan",Female,674,40,6
+2020-06-22,Piedmont,Female,283,38,3
+2020-06-22,Richmond,Male,1015,112,21
+2020-06-22,Crater,Female,539,73,14
+2020-06-22,Portsmouth,Female,195,37,7
+2020-06-22,Arlington,"Not Reported",1,0,0
+2020-06-22,"Mount Rogers","Not Reported",2,0,0
+2020-06-22,"Thomas Jefferson","Not Reported",4,0,0
+2020-06-22,"Three Rivers","Not Reported",18,0,0
+2020-06-22,Hampton,Male,124,23,3
+2020-06-22,Alleghany,Male,156,21,5
+2020-06-22,Roanoke,Female,181,7,8
+2020-06-22,Loudoun,"Not Reported",14,0,1
+2020-06-22,Fairfax,Female,6852,692,225
+2020-06-22,"Western Tidewater",Male,367,49,27
+2020-06-22,Peninsula,"Not Reported",3,0,0
+2020-06-22,"New River",Male,88,13,4
+2020-06-22,"Central Shenandoah",Male,878,71,16
+2020-06-22,Southside,Male,146,22,10
+2020-06-22,Chesterfield,Male,1357,69,32
+2020-06-22,Arlington,Female,1202,188,60
+2020-06-22,Rappahannock,Male,1070,114,23
+2020-06-22,"Central Virginia",Male,160,9,4
+2020-06-22,Alleghany,"Not Reported",3,0,0
+2020-06-22,Henrico,Male,1088,125,67
+2020-06-22,"Thomas Jefferson",Male,380,38,10
+2020-06-22,"Lord Fairfax",Male,897,83,30
+2020-06-22,"Three Rivers",Male,416,16,2
+2020-06-22,Richmond,"Not Reported",42,2,2
+2020-06-22,Pittsylvania-Danville,Male,73,17,1
+2020-06-22,Portsmouth,"Not Reported",3,0,0
+2020-06-22,Norfolk,"Not Reported",0,0,0
+2020-06-22,Chesapeake,Male,336,53,9
+2020-06-22,Chickahominy,Female,336,51,15
+2020-06-22,"Prince William",Male,4323,422,89
+2020-06-22,"Eastern Shore","Not Reported",10,0,0
+2020-06-22,"Eastern Shore",Male,640,51,19
+2020-06-22,"Rappahannock Rapidan",Male,701,62,11
+2020-06-22,Henrico,"Not Reported",9,0,1
+2020-06-22,"Cumberland Plateau",Female,19,1,0
+2020-06-22,"West Piedmont",Male,181,20,3
+2020-06-22,Hampton,"Not Reported",2,0,0
+2020-06-22,Alexandria,"Not Reported",9,0,0
+2020-06-22,"Western Tidewater","Not Reported",2,0,0
+2020-06-22,"Cumberland Plateau","Not Reported",0,0,0
+2020-06-22,"Virginia Beach",Male,460,61,15
+2020-06-22,Alleghany,Female,168,10,9
+2020-06-22,Lenowisco,Female,23,8,1
+2020-06-22,"Virginia Beach","Not Reported",12,0,0
+2020-06-22,"Western Tidewater",Female,370,31,19
+2020-06-22,"Mount Rogers",Male,282,44,14
+2020-06-22,"Lord Fairfax",Female,963,75,32
+2020-06-22,Piedmont,"Not Reported",0,0,0
+2020-06-22,Alexandria,Male,1083,127,22
+2020-06-22,Pittsylvania-Danville,"Not Reported",2,0,0
+2020-06-22,"West Piedmont","Not Reported",5,0,0
+2020-06-22,Loudoun,Female,1817,116,52
+2020-06-22,Hampton,Female,145,14,2
+2020-06-22,Henrico,Female,1329,115,70
+2020-06-22,"Prince William","Not Reported",76,1,0
+2020-06-22,Chickahominy,Male,266,53,20
+2020-06-22,"Rappahannock Rapidan","Not Reported",27,1,1
+2020-06-22,Peninsula,Female,461,62,21
+2020-06-22,Lenowisco,"Not Reported",0,0,0
+2020-06-22,Crater,"Not Reported",16,1,0
+2020-06-22,Chickahominy,"Not Reported",5,0,0
+2020-06-22,Portsmouth,Male,221,25,6
+2020-06-22,"New River",Female,86,7,0
+2020-06-22,Rappahannock,Female,1212,91,11
+2020-06-22,"Central Virginia",Female,144,8,0
+2020-06-22,Roanoke,"Not Reported",6,0,0
+2020-06-22,"West Piedmont",Female,190,16,2
+2020-06-22,"Mount Rogers",Female,352,21,9
+2020-06-22,Piedmont,Male,694,41,4
+2020-06-22,Chesterfield,Female,1341,61,31
+2020-06-22,Fairfax,Male,6639,886,224
+2020-06-22,Crater,Male,795,54,7
+2020-06-22,"Central Virginia","Not Reported",0,0,0
+2020-06-22,"Prince William",Female,4285,340,65
+2020-06-22,"Virginia Beach",Female,534,54,12
+2020-06-22,Norfolk,Female,376,45,1
+2020-06-22,"Three Rivers",Female,191,32,9
+2020-06-22,Arlington,Male,1221,224,66
+2020-06-22,"Central Shenandoah",Female,1017,79,18
+2020-06-22,Southside,Female,216,25,16
