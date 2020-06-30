@@ -1,0 +1,18 @@
+[
+  {
+    "Facility": "Virginia Veterans Care Center - Roanoke",
+    "Tested - Residents": 176,
+    "Tested - Staff": 235,
+    "Positive - Residents": 8,
+    "Positive - Staff": 6,
+    "Asymptomatic": 14,
+    "Date - Survey": "2020-06-17",
+    "Date - Notified": "2020-06-25",
+    "Address - Street": "4550 Shenandoah Ave NW",
+    "Address - Locality": "Roanoke",
+    "Address - State": "VA",
+    "Address - Zip Code": 24017,
+    "Longitude": -80.01215,
+    "Latitude": 37.278206
+  }
+]
