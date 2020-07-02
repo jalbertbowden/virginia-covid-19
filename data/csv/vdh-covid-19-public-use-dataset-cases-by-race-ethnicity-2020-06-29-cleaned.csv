@@ -1,0 +1,274 @@
+"﻿Report Date","Number of Cases","Number of Hospitalizations","Number of Deaths","Race and Ethnicity","Health District or Health District Group"
+2020-06-29,26,1,0,"Asian or Pacific Islander",Chesterfield
+2020-06-29,3,0,0,"Asian or Pacific Islander",Crater
+2020-06-29,1081,200,61,"Asian or Pacific Islander",Fairfax
+2020-06-29,3,0,0,"Asian or Pacific Islander",Hampton
+2020-06-29,5,1,0,"Asian or Pacific Islander","Rappahannock Rapidan"
+2020-06-29,2,1,0,"Asian or Pacific Islander","Mount Rogers"
+2020-06-29,2,0,0,"Asian or Pacific Islander","New River"
+2020-06-29,0,0,0,"Asian or Pacific Islander","Central Virginia"
+2020-06-29,6,0,0,"Asian or Pacific Islander","Lord Fairfax"
+2020-06-29,1,0,0,"Asian or Pacific Islander",Southside
+2020-06-29,3,0,0,"Asian or Pacific Islander",Alleghany
+2020-06-29,3,2,0,"Asian or Pacific Islander",Portsmouth
+2020-06-29,1,0,0,"Asian or Pacific Islander",Roanoke
+2020-06-29,7,2,0,"Asian or Pacific Islander",Richmond
+2020-06-29,10,0,0,"Asian or Pacific Islander","Thomas Jefferson"
+2020-06-29,58,12,1,"Asian or Pacific Islander","Virginia Beach"
+2020-06-29,112,6,3,"Asian or Pacific Islander",Henrico
+2020-06-29,4,0,0,"Asian or Pacific Islander",Piedmont
+2020-06-29,6,1,0,"Asian or Pacific Islander","Western Tidewater"
+2020-06-29,10,1,1,"Asian or Pacific Islander","West Piedmont"
+2020-06-29,2,1,0,"Asian or Pacific Islander",Chickahominy
+2020-06-29,9,2,1,"Asian or Pacific Islander",Peninsula
+2020-06-29,14,1,0,"Asian or Pacific Islander",Norfolk
+2020-06-29,123,22,12,"Asian or Pacific Islander",Arlington
+2020-06-29,160,36,8,"Asian or Pacific Islander",Loudoun
+2020-06-29,83,8,1,"Asian or Pacific Islander",Alexandria
+2020-06-29,39,7,0,"Asian or Pacific Islander",Rappahannock
+2020-06-29,24,4,2,"Asian or Pacific Islander",Chesapeake
+2020-06-29,1,0,0,"Asian or Pacific Islander","Cumberland Plateau and Lenowisco"
+2020-06-29,17,2,0,"Asian or Pacific Islander","Central Shenandoah"
+2020-06-29,246,40,11,"Asian or Pacific Islander","Prince William"
+2020-06-29,0,0,0,"Asian or Pacific Islander",Pittsylvania-Danville
+2020-06-29,7,1,0,"Asian or Pacific Islander","Eastern Shore and Three Rivers"
+2020-06-29,1,0,0,"Native American",Piedmont
+2020-06-29,0,0,0,"Native American","New River"
+2020-06-29,1,1,0,"Native American","Central Shenandoah"
+2020-06-29,1,0,0,"Native American","Eastern Shore and Three Rivers"
+2020-06-29,20,1,1,"Native American",Fairfax
+2020-06-29,8,0,0,"Native American",Chesapeake
+2020-06-29,0,0,0,"Native American","Western Tidewater"
+2020-06-29,2,0,0,"Native American",Portsmouth
+2020-06-29,0,0,0,"Native American",Richmond
+2020-06-29,1,1,0,"Native American",Chickahominy
+2020-06-29,2,0,0,"Native American","Thomas Jefferson"
+2020-06-29,2,0,0,"Native American",Arlington
+2020-06-29,0,0,0,"Native American","Virginia Beach"
+2020-06-29,2,0,0,"Native American",Peninsula
+2020-06-29,0,0,0,"Native American",Hampton
+2020-06-29,0,0,0,"Native American","West Piedmont"
+2020-06-29,0,0,0,"Native American","Cumberland Plateau, Lenowisco, and Mount Rogers"
+2020-06-29,7,0,0,"Native American",Henrico
+2020-06-29,1,0,0,"Native American",Norfolk
+2020-06-29,12,1,0,"Native American","Prince William"
+2020-06-29,0,0,0,"Native American","Central Virginia"
+2020-06-29,3,0,0,"Native American",Chesterfield
+2020-06-29,3,0,0,"Native American",Rappahannock
+2020-06-29,0,0,0,"Native American",Loudoun
+2020-06-29,3,0,0,"Native American",Alexandria
+2020-06-29,0,0,0,"Native American","Alleghany and Roanoke"
+2020-06-29,2,0,0,"Native American",Crater
+2020-06-29,0,0,0,"Native American","Rappahannock Rapidan"
+2020-06-29,2,1,1,"Native American","Lord Fairfax"
+2020-06-29,0,0,0,"Native American","Pittsylvania-Danville and Southside"
+2020-06-29,171,15,8,"Not Reported",Southside
+2020-06-29,312,44,11,White,Chesapeake
+2020-06-29,6,1,0,"Other Race","Three Rivers"
+2020-06-29,1,0,0,"Other Race","Central Virginia"
+2020-06-29,0,0,0,"Two or more races","Central Virginia"
+2020-06-29,45,2,0,White,"Cumberland Plateau"
+2020-06-29,0,0,0,"Two or more races",Lenowisco
+2020-06-29,304,45,20,Black,"Western Tidewater"
+2020-06-29,9,1,0,Latino,"Western Tidewater"
+2020-06-29,2383,73,51,"Not Reported",Fairfax
+2020-06-29,101,3,0,"Not Reported",Chesapeake
+2020-06-29,328,34,14,White,"Thomas Jefferson"
+2020-06-29,1,0,0,"Two or more races","Cumberland Plateau"
+2020-06-29,122,19,4,Black,Loudoun
+2020-06-29,940,122,8,Latino,Loudoun
+2020-06-29,65,5,0,Latino,Alleghany
+2020-06-29,11,2,1,Black,Alleghany
+2020-06-29,190,17,3,Black,"Three Rivers"
+2020-06-29,72,3,0,Latino,"Three Rivers"
+2020-06-29,9,1,0,"Two or more races","Central Shenandoah"
+2020-06-29,150,29,5,Black,Hampton
+2020-06-29,35,3,0,Latino,Hampton
+2020-06-29,6,0,1,"Other Race",Southside
+2020-06-29,7,0,0,"Other Race",Piedmont
+2020-06-29,229,9,0,"Other Race","Prince William"
+2020-06-29,103,9,1,"Other Race",Richmond
+2020-06-29,2,0,0,"Two or more races",Hampton
+2020-06-29,154,15,0,Latino,Norfolk
+2020-06-29,259,3,4,"Not Reported","Lord Fairfax"
+2020-06-29,431,69,7,Black,Norfolk
+2020-06-29,24,2,1,Black,"Central Virginia"
+2020-06-29,844,79,4,Latino,Rappahannock
+2020-06-29,22,1,1,Latino,"Central Virginia"
+2020-06-29,269,43,9,Black,Rappahannock
+2020-06-29,162,10,4,White,"West Piedmont"
+2020-06-29,718,22,1,"Not Reported",Rappahannock
+2020-06-29,183,3,0,"Not Reported","Central Shenandoah"
+2020-06-29,624,21,1,Latino,Chesterfield
+2020-06-29,389,50,13,Black,Chesterfield
+2020-06-29,774,47,4,Latino,"Central Shenandoah"
+2020-06-29,2,0,0,Latino,Southside
+2020-06-29,101,19,7,Black,Southside
+2020-06-29,89,8,3,Black,"Central Shenandoah"
+2020-06-29,318,75,23,White,Peninsula
+2020-06-29,283,30,8,White,"Rappahannock Rapidan"
+2020-06-29,18,1,0,Latino,"New River"
+2020-06-29,17,3,0,Black,"New River"
+2020-06-29,1,0,0,"Other Race",Roanoke
+2020-06-29,3,0,0,"Two or more races","Three Rivers"
+2020-06-29,788,123,69,White,"Prince William"
+2020-06-29,0,0,0,"Two or more races","West Piedmont"
+2020-06-29,42,0,0,"Not Reported","New River"
+2020-06-29,1365,3,13,"Not Reported",Chesterfield
+2020-06-29,1,0,0,"Two or more races",Crater
+2020-06-29,40,15,3,White,Lenowisco
+2020-06-29,201,34,26,White,"Western Tidewater"
+2020-06-29,67,5,0,"Other Race","Lord Fairfax"
+2020-06-29,2,1,0,"Two or more races",Chickahominy
+2020-06-29,722,121,60,Black,Henrico
+2020-06-29,540,38,4,Latino,Henrico
+2020-06-29,198,23,13,White,Alleghany
+2020-06-29,237,34,10,Black,Peninsula
+2020-06-29,157,11,0,Latino,Peninsula
+2020-06-29,118,4,2,"Other Race",Loudoun
+2020-06-29,154,10,3,"Not Reported",Arlington
+2020-06-29,36,0,1,"Not Reported","Mount Rogers"
+2020-06-29,76,10,3,White,Portsmouth
+2020-06-29,2,0,0,"Two or more races","Western Tidewater"
+2020-06-29,108,0,0,"Not Reported","Thomas Jefferson"
+2020-06-29,137,4,0,"Not Reported","Three Rivers"
+2020-06-29,544,117,22,Black,Richmond
+2020-06-29,853,67,3,Latino,Richmond
+2020-06-29,0,0,0,Latino,"Cumberland Plateau"
+2020-06-29,42,4,0,"Other Race",Rappahannock
+2020-06-29,12,0,0,Black,"Cumberland Plateau"
+2020-06-29,2044,2,2,"Not Reported",Loudoun
+2020-06-29,573,88,63,White,Loudoun
+2020-06-29,210,1,0,"Not Reported",Peninsula
+2020-06-29,607,74,72,White,Henrico
+2020-06-29,5,0,0,"Two or more races",Chesterfield
+2020-06-29,187,19,4,White,Richmond
+2020-06-29,6,1,0,"Two or more races",Chesapeake
+2020-06-29,276,61,25,White,Chickahominy
+2020-06-29,0,0,0,Latino,Lenowisco
+2020-06-29,1,0,0,Black,Lenowisco
+2020-06-29,0,0,0,"Two or more races",Roanoke
+2020-06-29,47,2,1,Latino,Piedmont
+2020-06-29,338,47,2,Black,Piedmont
+2020-06-29,499,53,41,White,Chesterfield
+2020-06-29,9,0,0,"Two or more races","Lord Fairfax"
+2020-06-29,84,9,2,White,"Central Virginia"
+2020-06-29,517,63,28,White,Rappahannock
+2020-06-29,151,18,5,White,"New River"
+2020-06-29,284,27,6,White,Crater
+2020-06-29,140,1,0,"Not Reported",Alleghany
+2020-06-29,14,2,0,"Two or more races",Arlington
+2020-06-29,15,0,0,"Other Race",Portsmouth
+2020-06-29,293,24,3,White,Piedmont
+2020-06-29,1,0,0,"Two or more races",Alleghany
+2020-06-29,681,108,15,Black,Crater
+2020-06-29,111,4,2,Latino,Crater
+2020-06-29,3,1,0,"Two or more races",Piedmont
+2020-06-29,80,18,3,White,Pittsylvania-Danville
+2020-06-29,21,2,0,"Other Race","Rappahannock Rapidan"
+2020-06-29,496,2,0,"Not Reported",Richmond
+2020-06-29,6,0,0,"Two or more races",Henrico
+2020-06-29,75,11,1,"Other Race",Henrico
+2020-06-29,11,0,0,"Two or more races",Loudoun
+2020-06-29,10,0,0,"Two or more races","Rappahannock Rapidan"
+2020-06-29,21,4,0,Latino,Portsmouth
+2020-06-29,234,50,12,Black,Portsmouth
+2020-06-29,118,1,1,"Not Reported",Portsmouth
+2020-06-29,4,1,0,"Two or more races",Alexandria
+2020-06-29,14,1,0,"Other Race","Virginia Beach"
+2020-06-29,147,0,0,"Not Reported",Norfolk
+2020-06-29,10,1,0,"Two or more races",Rappahannock
+2020-06-29,202,64,29,Black,Arlington
+2020-06-29,1212,201,23,Latino,Arlington
+2020-06-29,176,15,14,White,"Eastern Shore"
+2020-06-29,87,0,0,"Not Reported","Eastern Shore"
+2020-06-29,86,5,8,White,Roanoke
+2020-06-29,39,4,2,"Other Race",Alexandria
+2020-06-29,0,0,0,"Other Race","Cumberland Plateau"
+2020-06-29,16,0,0,"Other Race","Western Tidewater"
+2020-06-29,1,0,0,"Other Race",Lenowisco
+2020-06-29,0,0,0,"Two or more races",Pittsylvania-Danville
+2020-06-29,515,1,1,"Not Reported",Henrico
+2020-06-29,14,0,0,"Other Race",Crater
+2020-06-29,10,3,0,"Other Race",Chickahominy
+2020-06-29,34,7,2,Black,Roanoke
+2020-06-29,144,1,0,Latino,Roanoke
+2020-06-29,7,2,0,"Two or more races",Peninsula
+2020-06-29,21,1,0,"Other Race",Peninsula
+2020-06-29,3,0,0,"Two or more races","Thomas Jefferson"
+2020-06-29,713,113,63,White,Arlington
+2020-06-29,1,0,0,"Two or more races",Norfolk
+2020-06-29,443,48,32,White,Alexandria
+2020-06-29,67,0,0,"Not Reported",Hampton
+2020-06-29,458,65,26,White,"Mount Rogers"
+2020-06-29,135,6,0,"Not Reported",Alexandria
+2020-06-29,248,2,0,"Not Reported","Western Tidewater"
+2020-06-29,2,0,0,"Not Reported","Cumberland Plateau"
+2020-06-29,34,3,1,"Other Race","Thomas Jefferson"
+2020-06-29,24,5,2,Black,"Mount Rogers"
+2020-06-29,175,1,0,Latino,"Mount Rogers"
+2020-06-29,83,20,2,Black,"West Piedmont"
+2020-06-29,128,6,0,Latino,"West Piedmont"
+2020-06-29,478,62,20,White,"Virginia Beach"
+2020-06-29,1,0,0,"Other Race","West Piedmont"
+2020-06-29,5,2,0,"Two or more races",Richmond
+2020-06-29,178,4,2,"Not Reported","Virginia Beach"
+2020-06-29,4,2,0,"Other Race",Hampton
+2020-06-29,281,25,4,Black,"Virginia Beach"
+2020-06-29,125,12,2,Latino,"Virginia Beach"
+2020-06-29,792,169,45,Black,Fairfax
+2020-06-29,7149,744,66,Latino,Fairfax
+2020-06-29,3901,486,45,Latino,"Prince William"
+2020-06-29,636,116,35,Black,"Prince William"
+2020-06-29,315,10,4,"Not Reported",Piedmont
+2020-06-29,117,10,1,Latino,Chesapeake
+2020-06-29,311,66,6,Black,Chesapeake
+2020-06-29,24,6,0,"Not Reported",Pittsylvania-Danville
+2020-06-29,2,0,0,"Other Race",Alleghany
+2020-06-29,54,1,0,"Not Reported","West Piedmont"
+2020-06-29,126,17,2,White,Norfolk
+2020-06-29,11,2,0,"Two or more races","Virginia Beach"
+2020-06-29,8,2,0,"Other Race",Chesapeake
+2020-06-29,15,2,0,"Other Race",Norfolk
+2020-06-29,41,3,0,Latino,Chickahominy
+2020-06-29,114,34,10,Black,Chickahominy
+2020-06-29,784,86,25,Black,"Eastern Shore"
+2020-06-29,244,7,3,Latino,"Eastern Shore"
+2020-06-29,8,1,0,"Two or more races","Prince William"
+2020-06-29,55,7,0,White,Hampton
+2020-06-29,3202,17,0,"Not Reported","Prince William"
+2020-06-29,3,0,0,"Two or more races","Mount Rogers"
+2020-06-29,2013,381,257,White,Fairfax
+2020-06-29,144,40,4,Black,"Thomas Jefferson"
+2020-06-29,287,11,0,Latino,"Thomas Jefferson"
+2020-06-29,414,10,2,"Not Reported","Rappahannock Rapidan"
+2020-06-29,21,0,0,"Two or more races",Southside
+2020-06-29,8,1,1,"Not Reported",Lenowisco
+2020-06-29,370,4,5,"Not Reported",Crater
+2020-06-29,193,3,1,"Not Reported",Chickahominy
+2020-06-29,510,57,12,"Other Race",Fairfax
+2020-06-29,2,1,0,"Two or more races",Portsmouth
+2020-06-29,333,61,13,Black,Alexandria
+2020-06-29,1277,110,9,Latino,Alexandria
+2020-06-29,137,1,0,"Not Reported",Roanoke
+2020-06-29,67,15,0,Black,Pittsylvania-Danville
+2020-06-29,28,2,0,Latino,Pittsylvania-Danville
+2020-06-29,1,1,0,"Two or more races","Eastern Shore"
+2020-06-29,1026,121,51,White,"Lord Fairfax"
+2020-06-29,180,6,0,"Other Race",Chesterfield
+2020-06-29,2,0,0,"Other Race","Mount Rogers"
+2020-06-29,13,1,0,"Other Race","Eastern Shore"
+2020-06-29,228,23,6,White,"Three Rivers"
+2020-06-29,0,0,0,"Other Race",Pittsylvania-Danville
+2020-06-29,626,48,5,Latino,"Rappahannock Rapidan"
+2020-06-29,75,16,5,Black,"Rappahannock Rapidan"
+2020-06-29,240,4,1,"Not Reported","Central Virginia"
+2020-06-29,524,36,8,Latino,"Lord Fairfax"
+2020-06-29,72,6,2,Black,"Lord Fairfax"
+2020-06-29,33,1,0,"Other Race","Central Shenandoah"
+2020-06-29,18,2,0,"Two or more races",Fairfax
+2020-06-29,46,6,2,"Other Race",Arlington
+2020-06-29,0,0,0,"Two or more races","New River"
+2020-06-29,936,102,29,White,"Central Shenandoah"
+2020-06-29,90,14,12,White,Southside
+2020-06-29,0,0,0,"Other Race","New River"
