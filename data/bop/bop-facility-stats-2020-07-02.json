@@ -1,0 +1,20 @@
+[
+  {
+    "Facility Name": "Lee USP",
+    "No. of Inmates with Completed Tests": 65,
+    "No. of Inmates with Pending Tests": 9,
+    "No. of Inmates with Positive Tests": 0
+  },
+  {
+    "Facility Name": "Petersburg Low FCI",
+    "No. of Inmates with Completed Tests": 31,
+    "No. of Inmates with Pending Tests": 15,
+    "No. of Inmates with Positive Tests": 0
+  },
+  {
+    "Facility Name": "Petersburg Medium FCI",
+    "No. of Inmates with Completed Tests": 51,
+    "No. of Inmates with Pending Tests": 32,
+    "No. of Inmates with Positive Tests": 0
+  }
+]
