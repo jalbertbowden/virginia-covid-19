@@ -1,0 +1,106 @@
+Report Date,Health District,Sex,Number of Cases,Number of Hospitalizations,Number of Deaths
+2020-07-11,Southside,Not Reported,4,0,0
+2020-07-11,Chesapeake,Female,688,85,10
+2020-07-11,Richmond,Female,1153,109,9
+2020-07-11,Roanoke,Male,255,7,3
+2020-07-11,Fairfax,Not Reported,98,3,2
+2020-07-11,Thomas Jefferson,Female,631,54,14
+2020-07-11,Chesapeake,Not Reported,1,0,0
+2020-07-11,Cumberland Plateau,Male,45,2,0
+2020-07-11,Eastern Shore,Female,660,59,23
+2020-07-11,Lord Fairfax,Not Reported,7,0,0
+2020-07-11,Rappahannock,Not Reported,5,1,0
+2020-07-11,Central Shenandoah,Not Reported,3,0,0
+2020-07-11,Peninsula,Male,589,66,14
+2020-07-11,Norfolk,Male,676,63,11
+2020-07-11,Alexandria,Female,1261,115,30
+2020-07-11,Lenowisco,Male,30,8,3
+2020-07-11,Pittsylvania-Danville,Female,155,23,3
+2020-07-11,New River,Not Reported,3,0,0
+2020-07-11,Chesterfield,Not Reported,80,0,2
+2020-07-11,Loudoun,Male,2155,161,38
+2020-07-11,Rappahannock Rapidan,Female,778,49,10
+2020-07-11,Piedmont,Female,331,45,5
+2020-07-11,Richmond,Male,1193,126,24
+2020-07-11,Crater,Female,726,85,29
+2020-07-11,Portsmouth,Female,335,49,11
+2020-07-11,Arlington,Not Reported,1,0,0
+2020-07-11,Mount Rogers,Not Reported,2,0,0
+2020-07-11,Thomas Jefferson,Not Reported,0,0,0
+2020-07-11,Three Rivers,Not Reported,20,0,0
+2020-07-11,Hampton,Male,203,26,3
+2020-07-11,Alleghany,Male,278,21,5
+2020-07-11,Roanoke,Female,295,7,7
+2020-07-11,Loudoun,Not Reported,21,0,0
+2020-07-11,Fairfax,Female,7371,747,250
+2020-07-11,Western Tidewater,Male,478,57,34
+2020-07-11,Peninsula,Not Reported,4,0,0
+2020-07-11,New River,Male,150,15,5
+2020-07-11,Central Shenandoah,Male,1036,87,19
+2020-07-11,Southside,Male,196,27,13
+2020-07-11,Chesterfield,Male,1671,92,40
+2020-07-11,Arlington,Female,1279,192,65
+2020-07-11,Rappahannock,Male,1251,131,27
+2020-07-11,Central Virginia,Male,250,9,4
+2020-07-11,Alleghany,Not Reported,4,0,0
+2020-07-11,Henrico,Male,1285,144,82
+2020-07-11,Thomas Jefferson,Male,542,49,15
+2020-07-11,Lord Fairfax,Male,1021,99,36
+2020-07-11,Three Rivers,Male,533,24,4
+2020-07-11,Richmond,Not Reported,40,2,2
+2020-07-11,Pittsylvania-Danville,Male,115,20,1
+2020-07-11,Portsmouth,Not Reported,3,0,0
+2020-07-11,Norfolk,Not Reported,0,0,0
+2020-07-11,Chesapeake,Male,515,72,12
+2020-07-11,Chickahominy,Female,390,59,21
+2020-07-11,Prince William,Male,4824,473,104
+2020-07-11,Eastern Shore,Not Reported,9,0,0
+2020-07-11,Eastern Shore,Male,647,54,19
+2020-07-11,Rappahannock Rapidan,Male,786,67,14
+2020-07-11,Henrico,Not Reported,12,0,0
+2020-07-11,Cumberland Plateau,Female,46,1,0
+2020-07-11,West Piedmont,Male,281,26,4
+2020-07-11,Hampton,Not Reported,3,0,0
+2020-07-11,Alexandria,Not Reported,7,0,0
+2020-07-11,Western Tidewater,Not Reported,1,0,0
+2020-07-11,Cumberland Plateau,Not Reported,0,0,0
+2020-07-11,Virginia Beach,Male,827,71,16
+2020-07-11,Alleghany,Female,322,10,10
+2020-07-11,Lenowisco,Female,40,9,1
+2020-07-11,Virginia Beach,Not Reported,11,0,0
+2020-07-11,Western Tidewater,Female,521,39,30
+2020-07-11,Mount Rogers,Male,378,53,20
+2020-07-11,Lord Fairfax,Female,1130,90,39
+2020-07-11,Piedmont,Not Reported,4,0,0
+2020-07-11,Alexandria,Male,1185,133,27
+2020-07-11,Pittsylvania-Danville,Not Reported,2,0,0
+2020-07-11,West Piedmont,Not Reported,7,0,0
+2020-07-11,Loudoun,Female,2197,128,61
+2020-07-11,Hampton,Female,263,14,1
+2020-07-11,Henrico,Female,1525,124,91
+2020-07-11,Prince William,Not Reported,66,1,0
+2020-07-11,Chickahominy,Male,313,55,20
+2020-07-11,Rappahannock Rapidan,Not Reported,2,1,1
+2020-07-11,Peninsula,Female,683,63,21
+2020-07-11,Lenowisco,Not Reported,0,0,0
+2020-07-11,Crater,Not Reported,15,1,0
+2020-07-11,Chickahominy,Not Reported,4,0,0
+2020-07-11,Portsmouth,Male,324,37,8
+2020-07-11,New River,Female,134,8,1
+2020-07-11,Rappahannock,Female,1395,113,18
+2020-07-11,Central Virginia,Female,243,7,2
+2020-07-11,Roanoke,Not Reported,7,0,0
+2020-07-11,West Piedmont,Female,328,31,4
+2020-07-11,Mount Rogers,Female,438,25,15
+2020-07-11,Piedmont,Male,782,62,13
+2020-07-11,Chesterfield,Female,1665,81,42
+2020-07-11,Fairfax,Male,7059,973,260
+2020-07-11,Crater,Male,950,80,20
+2020-07-11,Central Virginia,Not Reported,0,0,0
+2020-07-11,Prince William,Female,4818,376,77
+2020-07-11,Virginia Beach,Female,921,63,14
+2020-07-11,Norfolk,Female,772,62,4
+2020-07-11,Three Rivers,Female,228,34,9
+2020-07-11,Arlington,Male,1317,233,69
+2020-07-11,Central Shenandoah,Female,1210,91,23
+2020-07-11,Southside,Female,264,28,18
