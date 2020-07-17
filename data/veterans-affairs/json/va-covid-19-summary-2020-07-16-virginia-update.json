@@ -4,8 +4,8 @@
     "Facility": "Richmond, VA HCS",
     "Latitude": 37.49796,
     "Longitude": -77.46681,
-    "VA Confirmed Total_Display": 216,
-    "Active": 16,
+    "VA Confirmed Total_Display": 218,
+    "Active": 18,
     "Convalescent": 181,
     "Known Deaths": 19
   },
@@ -14,9 +14,9 @@
     "Facility": "Hampton, VA HCS",
     "Latitude": 37.015768,
     "Longitude": -76.332371,
-    "VA Confirmed Total_Display": 147,
-    "Active": 46,
-    "Convalescent": 96,
+    "VA Confirmed Total_Display": 156,
+    "Active": 52,
+    "Convalescent": 99,
     "Known Deaths": 5
   },
   {
