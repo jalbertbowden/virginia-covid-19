@@ -1,0 +1,274 @@
+"﻿Report Date","Number of Cases","Number of Hospitalizations","Number of Deaths","Race and Ethnicity","Health District or Health District Group"
+2020-07-18,33,2,0,"Asian or Pacific Islander",Chesterfield
+2020-07-18,5,0,0,"Asian or Pacific Islander",Crater
+2020-07-18,1188,218,70,"Asian or Pacific Islander",Fairfax
+2020-07-18,5,0,0,"Asian or Pacific Islander",Hampton
+2020-07-18,5,1,0,"Asian or Pacific Islander","Rappahannock Rapidan"
+2020-07-18,2,1,0,"Asian or Pacific Islander","Mount Rogers"
+2020-07-18,6,0,0,"Asian or Pacific Islander","New River"
+2020-07-18,0,0,0,"Asian or Pacific Islander","Central Virginia"
+2020-07-18,7,0,0,"Asian or Pacific Islander","Lord Fairfax"
+2020-07-18,1,0,0,"Asian or Pacific Islander",Southside
+2020-07-18,4,0,0,"Asian or Pacific Islander",Alleghany
+2020-07-18,5,2,0,"Asian or Pacific Islander",Portsmouth
+2020-07-18,2,0,0,"Asian or Pacific Islander",Roanoke
+2020-07-18,10,3,1,"Asian or Pacific Islander",Richmond
+2020-07-18,23,0,1,"Asian or Pacific Islander","Thomas Jefferson"
+2020-07-18,85,13,1,"Asian or Pacific Islander","Virginia Beach"
+2020-07-18,125,8,3,"Asian or Pacific Islander",Henrico
+2020-07-18,4,0,0,"Asian or Pacific Islander",Piedmont
+2020-07-18,9,1,0,"Asian or Pacific Islander","Western Tidewater"
+2020-07-18,11,1,1,"Asian or Pacific Islander","West Piedmont"
+2020-07-18,5,1,0,"Asian or Pacific Islander",Chickahominy
+2020-07-18,12,3,1,"Asian or Pacific Islander",Peninsula
+2020-07-18,21,1,0,"Asian or Pacific Islander",Norfolk
+2020-07-18,129,22,12,"Asian or Pacific Islander",Arlington
+2020-07-18,201,39,10,"Asian or Pacific Islander",Loudoun
+2020-07-18,86,8,1,"Asian or Pacific Islander",Alexandria
+2020-07-18,46,8,1,"Asian or Pacific Islander",Rappahannock
+2020-07-18,27,5,2,"Asian or Pacific Islander",Chesapeake
+2020-07-18,1,0,0,"Asian or Pacific Islander","Cumberland Plateau and Lenowisco"
+2020-07-18,17,2,0,"Asian or Pacific Islander","Central Shenandoah"
+2020-07-18,292,43,13,"Asian or Pacific Islander","Prince William"
+2020-07-18,0,0,0,"Asian or Pacific Islander",Pittsylvania-Danville
+2020-07-18,8,1,0,"Asian or Pacific Islander","Eastern Shore and Three Rivers"
+2020-07-18,1,0,0,"Native American",Piedmont
+2020-07-18,0,0,0,"Native American","New River"
+2020-07-18,3,1,0,"Native American","Central Shenandoah"
+2020-07-18,1,0,0,"Native American","Eastern Shore and Three Rivers"
+2020-07-18,25,1,1,"Native American",Fairfax
+2020-07-18,8,0,0,"Native American",Chesapeake
+2020-07-18,1,0,0,"Native American","Western Tidewater"
+2020-07-18,2,1,0,"Native American",Portsmouth
+2020-07-18,0,0,0,"Native American",Richmond
+2020-07-18,1,1,0,"Native American",Chickahominy
+2020-07-18,2,0,0,"Native American","Thomas Jefferson"
+2020-07-18,3,0,0,"Native American",Arlington
+2020-07-18,1,0,0,"Native American","Virginia Beach"
+2020-07-18,2,0,0,"Native American",Peninsula
+2020-07-18,0,0,0,"Native American",Hampton
+2020-07-18,0,0,0,"Native American","West Piedmont"
+2020-07-18,0,0,0,"Native American","Cumberland Plateau, Lenowisco, and Mount Rogers"
+2020-07-18,7,0,0,"Native American",Henrico
+2020-07-18,3,0,0,"Native American",Norfolk
+2020-07-18,15,1,0,"Native American","Prince William"
+2020-07-18,0,0,0,"Native American","Central Virginia"
+2020-07-18,3,0,0,"Native American",Chesterfield
+2020-07-18,3,0,0,"Native American",Rappahannock
+2020-07-18,1,0,0,"Native American",Loudoun
+2020-07-18,2,0,0,"Native American",Alexandria
+2020-07-18,0,0,0,"Native American","Alleghany and Roanoke"
+2020-07-18,3,0,0,"Native American",Crater
+2020-07-18,0,0,0,"Native American","Rappahannock Rapidan"
+2020-07-18,2,1,1,"Native American","Lord Fairfax"
+2020-07-18,0,0,0,"Native American","Pittsylvania-Danville and Southside"
+2020-07-18,225,9,6,"Not Reported",Southside
+2020-07-18,429,54,13,White,Chesapeake
+2020-07-18,7,3,0,"Other Race","Three Rivers"
+2020-07-18,2,0,0,"Other Race","Central Virginia"
+2020-07-18,0,0,0,"Two or more races","Central Virginia"
+2020-07-18,107,7,0,White,"Cumberland Plateau"
+2020-07-18,0,0,0,"Two or more races",Lenowisco
+2020-07-18,525,60,31,Black,"Western Tidewater"
+2020-07-18,16,1,0,Latino,"Western Tidewater"
+2020-07-18,2079,71,40,"Not Reported",Fairfax
+2020-07-18,359,3,0,"Not Reported",Chesapeake
+2020-07-18,500,39,20,White,"Thomas Jefferson"
+2020-07-18,2,0,0,"Two or more races","Cumberland Plateau"
+2020-07-18,161,24,3,Black,Loudoun
+2020-07-18,1211,141,11,Latino,Loudoun
+2020-07-18,81,6,0,Latino,Alleghany
+2020-07-18,23,2,1,Black,Alleghany
+2020-07-18,239,23,5,Black,"Three Rivers"
+2020-07-18,135,4,0,Latino,"Three Rivers"
+2020-07-18,10,1,0,"Two or more races","Central Shenandoah"
+2020-07-18,258,28,4,Black,Hampton
+2020-07-18,38,4,0,Latino,Hampton
+2020-07-18,6,0,1,"Other Race",Southside
+2020-07-18,6,0,0,"Other Race",Piedmont
+2020-07-18,228,11,0,"Other Race","Prince William"
+2020-07-18,97,8,2,"Other Race",Richmond
+2020-07-18,4,0,0,"Two or more races",Hampton
+2020-07-18,206,18,0,Latino,Norfolk
+2020-07-18,285,6,6,"Not Reported","Lord Fairfax"
+2020-07-18,1034,90,13,Black,Norfolk
+2020-07-18,31,3,1,Black,"Central Virginia"
+2020-07-18,958,96,6,Latino,Rappahannock
+2020-07-18,25,1,1,Latino,"Central Virginia"
+2020-07-18,332,49,9,Black,Rappahannock
+2020-07-18,243,26,4,White,"West Piedmont"
+2020-07-18,782,24,0,"Not Reported",Rappahannock
+2020-07-18,204,3,1,"Not Reported","Central Shenandoah"
+2020-07-18,812,46,3,Latino,Chesterfield
+2020-07-18,492,73,21,Black,Chesterfield
+2020-07-18,822,50,4,Latino,"Central Shenandoah"
+2020-07-18,2,0,0,Latino,Southside
+2020-07-18,143,30,9,Black,Southside
+2020-07-18,107,9,4,Black,"Central Shenandoah"
+2020-07-18,397,75,24,White,Peninsula
+2020-07-18,404,35,11,White,"Rappahannock Rapidan"
+2020-07-18,25,3,0,Latino,"New River"
+2020-07-18,22,3,0,Black,"New River"
+2020-07-18,3,0,0,"Other Race",Roanoke
+2020-07-18,3,0,0,"Two or more races","Three Rivers"
+2020-07-18,1003,133,77,White,"Prince William"
+2020-07-18,0,0,0,"Two or more races","West Piedmont"
+2020-07-18,49,0,0,"Not Reported","New River"
+2020-07-18,1564,4,11,"Not Reported",Chesterfield
+2020-07-18,2,0,0,"Two or more races",Crater
+2020-07-18,98,20,4,White,Lenowisco
+2020-07-18,279,44,34,White,"Western Tidewater"
+2020-07-18,59,6,1,"Other Race","Lord Fairfax"
+2020-07-18,1,1,0,"Two or more races",Chickahominy
+2020-07-18,837,136,76,Black,Henrico
+2020-07-18,621,45,6,Latino,Henrico
+2020-07-18,273,28,14,White,Alleghany
+2020-07-18,411,46,13,Black,Peninsula
+2020-07-18,226,14,0,Latino,Peninsula
+2020-07-18,116,10,1,"Other Race",Loudoun
+2020-07-18,199,2,0,"Not Reported",Arlington
+2020-07-18,51,2,1,"Not Reported","Mount Rogers"
+2020-07-18,110,12,5,White,Portsmouth
+2020-07-18,2,0,0,"Two or more races","Western Tidewater"
+2020-07-18,120,1,0,"Not Reported","Thomas Jefferson"
+2020-07-18,160,2,0,"Not Reported","Three Rivers"
+2020-07-18,646,135,23,Black,Richmond
+2020-07-18,1000,80,5,Latino,Richmond
+2020-07-18,1,0,0,Latino,"Cumberland Plateau"
+2020-07-18,51,4,0,"Other Race",Rappahannock
+2020-07-18,13,0,0,Black,"Cumberland Plateau"
+2020-07-18,1972,3,2,"Not Reported",Loudoun
+2020-07-18,908,100,76,White,Loudoun
+2020-07-18,648,1,0,"Not Reported",Peninsula
+2020-07-18,697,81,87,White,Henrico
+2020-07-18,10,1,0,"Two or more races",Chesterfield
+2020-07-18,250,22,5,White,Richmond
+2020-07-18,9,0,0,"Two or more races",Chesapeake
+2020-07-18,359,71,29,White,Chickahominy
+2020-07-18,1,0,0,Latino,Lenowisco
+2020-07-18,1,0,0,Black,Lenowisco
+2020-07-18,1,0,0,"Two or more races",Roanoke
+2020-07-18,61,6,1,Latino,Piedmont
+2020-07-18,381,53,7,Black,Piedmont
+2020-07-18,603,74,53,White,Chesterfield
+2020-07-18,11,0,0,"Two or more races","Lord Fairfax"
+2020-07-18,102,9,4,White,"Central Virginia"
+2020-07-18,621,74,30,White,Rappahannock
+2020-07-18,231,18,6,White,"New River"
+2020-07-18,360,37,10,White,Crater
+2020-07-18,307,1,0,"Not Reported",Alleghany
+2020-07-18,17,2,0,"Two or more races",Arlington
+2020-07-18,15,2,1,"Other Race",Portsmouth
+2020-07-18,345,40,9,White,Piedmont
+2020-07-18,2,0,0,"Two or more races",Alleghany
+2020-07-18,876,134,32,Black,Crater
+2020-07-18,146,7,2,Latino,Crater
+2020-07-18,4,2,0,"Two or more races",Piedmont
+2020-07-18,110,20,3,White,Pittsylvania-Danville
+2020-07-18,21,1,0,"Other Race","Rappahannock Rapidan"
+2020-07-18,536,2,0,"Not Reported",Richmond
+2020-07-18,8,0,0,"Two or more races",Henrico
+2020-07-18,70,10,0,"Other Race",Henrico
+2020-07-18,26,0,0,"Two or more races",Loudoun
+2020-07-18,15,2,0,"Two or more races","Rappahannock Rapidan"
+2020-07-18,42,10,1,Latino,Portsmouth
+2020-07-18,481,66,13,Black,Portsmouth
+2020-07-18,268,2,0,"Not Reported",Portsmouth
+2020-07-18,5,1,0,"Two or more races",Alexandria
+2020-07-18,24,1,0,"Other Race","Virginia Beach"
+2020-07-18,605,0,0,"Not Reported",Norfolk
+2020-07-18,13,1,0,"Two or more races",Rappahannock
+2020-07-18,239,69,32,Black,Arlington
+2020-07-18,1296,208,23,Latino,Arlington
+2020-07-18,177,15,15,White,"Eastern Shore"
+2020-07-18,85,0,0,"Not Reported","Eastern Shore"
+2020-07-18,101,5,8,White,Roanoke
+2020-07-18,45,5,2,"Other Race",Alexandria
+2020-07-18,0,0,0,"Other Race","Cumberland Plateau"
+2020-07-18,22,0,1,"Other Race","Western Tidewater"
+2020-07-18,1,0,0,"Other Race",Lenowisco
+2020-07-18,0,0,0,"Two or more races",Pittsylvania-Danville
+2020-07-18,640,2,3,"Not Reported",Henrico
+2020-07-18,16,0,0,"Other Race",Crater
+2020-07-18,9,2,0,"Other Race",Chickahominy
+2020-07-18,44,7,2,Black,Roanoke
+2020-07-18,186,2,0,Latino,Roanoke
+2020-07-18,9,2,0,"Two or more races",Peninsula
+2020-07-18,42,3,0,"Other Race",Peninsula
+2020-07-18,13,0,0,"Two or more races","Thomas Jefferson"
+2020-07-18,782,116,65,White,Arlington
+2020-07-18,3,0,0,"Two or more races",Norfolk
+2020-07-18,484,50,33,White,Alexandria
+2020-07-18,253,0,0,"Not Reported",Hampton
+2020-07-18,631,80,33,White,"Mount Rogers"
+2020-07-18,146,6,0,"Not Reported",Alexandria
+2020-07-18,393,3,2,"Not Reported","Western Tidewater"
+2020-07-18,6,1,0,"Not Reported","Cumberland Plateau"
+2020-07-18,53,3,0,"Other Race","Thomas Jefferson"
+2020-07-18,30,5,2,Black,"Mount Rogers"
+2020-07-18,213,1,0,Latino,"Mount Rogers"
+2020-07-18,153,40,1,Black,"West Piedmont"
+2020-07-18,181,8,0,Latino,"West Piedmont"
+2020-07-18,860,68,23,White,"Virginia Beach"
+2020-07-18,2,1,1,"Other Race","West Piedmont"
+2020-07-18,2,0,0,"Two or more races",Richmond
+2020-07-18,590,5,3,"Not Reported","Virginia Beach"
+2020-07-18,8,2,0,"Other Race",Hampton
+2020-07-18,669,38,6,Black,"Virginia Beach"
+2020-07-18,213,17,3,Latino,"Virginia Beach"
+2020-07-18,913,186,53,Black,Fairfax
+2020-07-18,7815,855,72,Latino,Fairfax
+2020-07-18,4469,542,58,Latino,"Prince William"
+2020-07-18,736,131,40,Black,"Prince William"
+2020-07-18,359,13,2,"Not Reported",Piedmont
+2020-07-18,155,15,2,Latino,Chesapeake
+2020-07-18,606,86,7,Black,Chesapeake
+2020-07-18,84,5,0,"Not Reported",Pittsylvania-Danville
+2020-07-18,4,0,0,"Other Race",Alleghany
+2020-07-18,109,2,1,"Not Reported","West Piedmont"
+2020-07-18,235,28,6,White,Norfolk
+2020-07-18,22,2,0,"Two or more races","Virginia Beach"
+2020-07-18,19,1,0,"Other Race",Chesapeake
+2020-07-18,27,1,0,"Other Race",Norfolk
+2020-07-18,53,3,0,Latino,Chickahominy
+2020-07-18,139,35,10,Black,Chickahominy
+2020-07-18,803,91,25,Black,"Eastern Shore"
+2020-07-18,246,8,3,Latino,"Eastern Shore"
+2020-07-18,12,1,0,"Two or more races","Prince William"
+2020-07-18,79,8,0,White,Hampton
+2020-07-18,3340,21,0,"Not Reported","Prince William"
+2020-07-18,4,0,0,"Two or more races","Mount Rogers"
+2020-07-18,2341,408,273,White,Fairfax
+2020-07-18,235,54,8,Black,"Thomas Jefferson"
+2020-07-18,417,18,0,Latino,"Thomas Jefferson"
+2020-07-18,459,11,2,"Not Reported","Rappahannock Rapidan"
+2020-07-18,22,0,0,"Two or more races",Southside
+2020-07-18,12,1,1,"Not Reported",Lenowisco
+2020-07-18,418,8,6,"Not Reported",Crater
+2020-07-18,209,0,1,"Not Reported",Chickahominy
+2020-07-18,528,65,13,"Other Race",Fairfax
+2020-07-18,2,1,0,"Two or more races",Portsmouth
+2020-07-18,402,65,12,Black,Alexandria
+2020-07-18,1370,120,8,Latino,Alexandria
+2020-07-18,284,1,0,"Not Reported",Roanoke
+2020-07-18,141,25,1,Black,Pittsylvania-Danville
+2020-07-18,38,2,0,Latino,Pittsylvania-Danville
+2020-07-18,1,1,0,"Two or more races","Eastern Shore"
+2020-07-18,1246,143,58,White,"Lord Fairfax"
+2020-07-18,175,6,0,"Other Race",Chesterfield
+2020-07-18,4,0,0,"Other Race","Mount Rogers"
+2020-07-18,13,1,0,"Other Race","Eastern Shore"
+2020-07-18,293,28,6,White,"Three Rivers"
+2020-07-18,0,0,0,"Other Race",Pittsylvania-Danville
+2020-07-18,676,57,6,Latino,"Rappahannock Rapidan"
+2020-07-18,93,18,6,Black,"Rappahannock Rapidan"
+2020-07-18,416,4,0,"Not Reported","Central Virginia"
+2020-07-18,598,37,8,Latino,"Lord Fairfax"
+2020-07-18,90,9,6,Black,"Lord Fairfax"
+2020-07-18,34,1,0,"Other Race","Central Shenandoah"
+2020-07-18,36,4,0,"Two or more races",Fairfax
+2020-07-18,61,8,3,"Other Race",Arlington
+2020-07-18,0,0,0,"Two or more races","New River"
+2020-07-18,1211,124,39,White,"Central Shenandoah"
+2020-07-18,122,21,16,White,Southside
+2020-07-18,2,1,0,"Other Race","New River"
