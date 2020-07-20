@@ -1,0 +1,230 @@
+﻿Report Date,Status,Locality,FIPS,Facility,Facility Type,Date VDH Notified,Cases,Deaths,Active
+2020-07-19,Outbreak in Progress,Accomack,51001,Shore Healthcare and Rehab Center,Nursing Home,2020-05-04,12,0,1
+2020-07-19,Outbreak in Progress,Albemarle,51003,Albemarle Health and Rehabilitation Center,Nursing Home,2020-07-10,6,0,1
+2020-07-19,Outbreak in Progress,Albemarle,51003,Heritage Inn,Assisted Living,2020-06-30,43,*,1
+2020-07-19,Outbreak Pending Closure,Albemarle,51003,Our Lady of Peace,Multicare,2020-04-21,56,10,0
+2020-07-19,Outbreak Closed,Albemarle,51003,Westminster Canterbury of The Blue Ridge NH,Multicare,2020-05-04,*,0,0
+2020-07-19,Outbreak Pending Closure,Alexandria,51510,Envoy of Alexandria,Nursing Home,2020-04-03,56,10,0
+2020-07-19,Outbreak in Progress,Alexandria,51510,Goodwin House - Alexandria,Assisted Living,2020-06-30,14,0,1
+2020-07-19,Outbreak Pending Closure,Alexandria,51510,Hermitage in Northern Virginia,Multicare,2020-04-16,30,5,0
+2020-07-19,Outbreak Pending Closure,Alexandria,51510,Silverado,Assisted Living,2020-04-11,30,9,0
+2020-07-19,Outbreak Pending Closure,Alexandria,51510,Sunrise of Alexandria,Assisted Living,2020-04-30,21,*,0
+2020-07-19,Outbreak Pending Closure,Alexandria,51510,The Fountains at Washington House,Multicare,2020-04-24,28,*,0
+2020-07-19,Outbreak Pending Closure,Alexandria,51510,Woodbine Rehabilitation & Healthcare Center,Nursing Home,2020-04-17,40,*,0
+2020-07-19,Outbreak in Progress,Amelia,51007,Wellspring at Amelia,Nursing Home,2020-07-17,*,0,1
+2020-07-19,Outbreak Closed,Arlington,51013,Brookdale Assisted Living,Multicare,2020-03-28,49,10,0
+2020-07-19,Outbreak Closed,Arlington,51013,Cherrydale Health & Rehabilitation Center,Multicare,2020-04-09,144,28,0
+2020-07-19,Outbreak Closed,Arlington,51013,Culpepper Garden,Assisted Living,2020-06-05,*,0,0
+2020-07-19,Outbreak Pending Closure,Arlington,51013,Manor Care Health Services - Arlington,Nursing Home,2020-04-08,86,19,0
+2020-07-19,Outbreak Pending Closure,Arlington,51013,Regency Care of Arlington,Nursing Home,2020-04-08,137,30,0
+2020-07-19,Outbreak Pending Closure,Arlington,51013,Sunrise at Bluemont Park,Assisted Living,2020-05-15,16,*,0
+2020-07-19,Outbreak in Progress,Arlington,51013,Sunrise of Arlington,Assisted Living,2020-05-19,21,*,1
+2020-07-19,Outbreak Pending Closure,Arlington,51013,The Jefferson,Multicare,2020-04-04,38,9,0
+2020-07-19,Outbreak Pending Closure,Augusta,51015,Golden Gardens Residential Living,Assisted Living,2020-05-06,*,0,0
+2020-07-19,Outbreak in Progress,Bedford,51019,Oakwood Manor Nursing Home,Nursing Home,2020-05-27,*,0,1
+2020-07-19,Outbreak in Progress,Botetourt,51023,Carrington Place at Botetourt,Nursing Home,2020-06-24,13,0,1
+2020-07-19,Outbreak in Progress,Carroll,51035,Hillsville Health and Rehab,Nursing Home,2020-05-14,65,7,1
+2020-07-19,Outbreak in Progress,Charlottesville,51540,Cedars Healthcare Center,Nursing Home,2020-07-10,41,0,1
+2020-07-19,Outbreak in Progress,Chesapeake,51550,Autum Care of Chesapeake,Nursing Home,2020-04-13,41,*,1
+2020-07-19,Outbreak Closed,Chesapeake,51550,Cedar Manor,Assisted Living,2020-04-17,16,*,0
+2020-07-19,Outbreak Closed,Chesapeake,51550,Chesapeake Health and Rehab Center,Nursing Home,2020-06-15,13,*,0
+2020-07-19,Outbreak in Progress,Chesapeake,51550,Commonwealth Memory Care,Assisted Living,2020-07-16,*,0,1
+2020-07-19,Outbreak in Progress,Chesapeake,51550,Greenbrier Regional Medical Center,Nursing Home,2020-06-09,38,*,1
+2020-07-19,Outbreak Closed,Chesapeake,51550,Harmony at Oakbrooke,Assisted Living,2020-04-29,11,*,0
+2020-07-19,Outbreak Closed,Chesapeake,51550,Sentara Nursing Center - Chesapeake,Nursing Home,2020-04-23,*,0,0
+2020-07-19,Outbreak Closed,Chesapeake,51550,Sentara Nursing Center - Chesapeake,Nursing Home,2020-04-05,5,0,0
+2020-07-19,Outbreak Pending Closure,Chesapeake,51550,Virginia Home for Adults,Assisted Living,2020-06-15,*,0,0
+2020-07-19,Outbreak Closed,Chesterfield,51041,Brandermill Woods,Multicare,2020-04-30,39,7,0
+2020-07-19,Outbreak in Progress,Chesterfield,51041,Elmcroft of Chesterfield,Assisted Living,2020-06-24,*,0,1
+2020-07-19,Outbreak Closed,Chesterfield,51041,Laurels of Bon Air,Nursing Home,2020-04-12,12,5,0
+2020-07-19,Outbreak Pending Closure,Chesterfield,51041,Laurels of Willow Creek,Nursing Home,2020-05-27,24,7,0
+2020-07-19,Outbreak Closed,Chesterfield,51041,Lucy Corr Village,Assisted Living,2020-04-03,*,0,0
+2020-07-19,Outbreak in Progress,Chesterfield,51041,Morningside of Bellgrade,Assisted Living,2020-04-14,32,9,1
+2020-07-19,Outbreak Closed,Chesterfield,51041,Spring Arbor of Salisbury,Assisted Living,2020-04-02,37,7,0
+2020-07-19,Outbreak Pending Closure,Colonial Heights,51570,Colonial Heights Health Care Center,Nursing Home,2020-04-07,53,15,0
+2020-07-19,Outbreak Closed,Colonial Heights,51570,Dunlop House,Assisted Living,2020-04-29,*,*,0
+2020-07-19,Outbreak Pending Closure,Danville,51590,Brookdale Danville Piedmont,Assisted Living,2020-04-16,*,*,0
+2020-07-19,Outbreak in Progress,Danville,51590,Riverside Health and Rehabilitation Center,Multicare,2020-07-13,10,0,1
+2020-07-19,Outbreak Pending Closure,Dinwiddie,51053,Dinwiddie Health and Rehab Center,Nursing Home,2020-06-15,13,0,0
+2020-07-19,Outbreak Closed,Emporia,51595,Accordius Health and Rehab,Nursing Home,2020-04-20,55,13,0
+2020-07-19,Outbreak Pending Closure,Emporia,51595,Emporia/Greensville Manor,Nursing Home,2020-05-30,11,*,0
+2020-07-19,Outbreak in Progress,Emporia,51595,Eugene H Bloom Retirement Center,Assisted Living,2020-07-06,*,0,1
+2020-07-19,Outbreak Closed,Fairfax,51059,Aarondale Retirement and Assisted Living Community,Assisted Living,2020-04-09,*,0,0
+2020-07-19,Outbreak Pending Closure,Fairfax,51059,Annandale Healthcare Center,Nursing Home,2020-04-09,156,55,0
+2020-07-19,Outbreak in Progress,Fairfax,51059,Arbor Terrace at Herndon,Assisted Living,2020-05-12,5,*,1
+2020-07-19,Outbreak Closed,Fairfax,51059,Arbor Terrace Memory Care,Assisted Living,2020-04-15,19,8,0
+2020-07-19,Outbreak Closed,Fairfax,51059,Arden Courts of Annandale,Assisted Living,2020-04-09,13,5,0
+2020-07-19,Outbreak Pending Closure,Fairfax,51059,Arden Courts of Fair Oaks,Assisted Living,2020-04-17,5,*,0
+2020-07-19,Outbreak Pending Closure,Fairfax,51059,Arleigh Burke Pavilion,Multicare,2020-04-15,46,7,0
+2020-07-19,Outbreak Pending Closure,Fairfax,51059,Bright View Woodburn,Assisted Living,2020-04-28,29,10,0
+2020-07-19,Outbreak Closed,Fairfax,51059,Brightview of Great Falls,Assisted Living,2020-04-24,7,*,0
+2020-07-19,Outbreak Closed,Fairfax,51059,Burke Health Care Center,Nursing Home,2020-04-09,129,21,0
+2020-07-19,Outbreak Pending Closure,Fairfax,51059,Chesterbrook Residences,Assisted Living,2020-04-07,31,7,0
+2020-07-19,Outbreak Closed,Fairfax,51059,Dulles Health & Rehab,Nursing Home,2020-03-29,101,22,0
+2020-07-19,Outbreak in Progress,Fairfax,51059,Fairfax Nursing and Rehabilitation Center,Nursing Home,2020-04-17,71,14,1
+2020-07-19,Outbreak Pending Closure,Fairfax,51059,Gardens at Fair Oaks,Assisted Living,2020-05-21,14,*,0
+2020-07-19,Outbreak Pending Closure,Fairfax,51059,Goodwin House - Bailey's Crossroads,Multicare,2020-04-24,28,*,0
+2020-07-19,Outbreak Closed,Fairfax,51059,Great Falls Assisted Living,Assisted Living,2020-04-17,19,6,0
+2020-07-19,Outbreak Pending Closure,Fairfax,51059,Greenspring Village Assisted Living,Multicare,2020-04-17,68,20,0
+2020-07-19,Outbreak Pending Closure,Fairfax,51059,Harmony at Chantilly,Assisted Living,2020-05-01,19,*,0
+2020-07-19,Outbreak in Progress,Fairfax,51059,Harmony at Spring Hill,Assisted Living,2020-05-12,*,0,1
+2020-07-19,Outbreak Pending Closure,Fairfax,51059,Heatherwood Retirement Community,Assisted Living,2020-04-11,50,11,0
+2020-07-19,Outbreak Pending Closure,Fairfax,51059,Hunter's Woods at Trails Edge,Multicare,2020-06-04,10,*,0
+2020-07-19,Outbreak Closed,Fairfax,51059,Iliff Nursing and Rehabilitation Center,Nursing Home,2020-04-09,78,12,0
+2020-07-19,Outbreak Pending Closure,Fairfax,51059,Larmax Homes,Assisted Living,2020-04-17,17,*,0
+2020-07-19,Outbreak Closed,Fairfax,51059,Leewood Healthcare Center,Multicare,2020-05-28,9,*,0
+2020-07-19,Outbreak Pending Closure,Fairfax,51059,Leewood Healthcare Center,Multicare,2020-04-09,114,35,0
+2020-07-19,Outbreak Pending Closure,Fairfax,51059,ManorCare Health Services-Alexandria,Nursing Home,2020-04-24,79,7,0
+2020-07-19,Outbreak Pending Closure,Fairfax,51059,ManorCare Health Services-Fair Oaks,Nursing Home,2020-05-04,136,13,0
+2020-07-19,Outbreak in Progress,Fairfax,51059,Mount Vernon Nursing and Rehabilitation Center,Nursing Home,2020-04-09,79,15,1
+2020-07-19,Outbreak Closed,Fairfax,51059,Powhatan Nursing Home,Nursing Home,2020-05-12,*,0,0
+2020-07-19,Outbreak Closed,Fairfax,51059,Renaissance of Annandale,Assisted Living,2020-05-12,27,*,0
+2020-07-19,Outbreak in Progress,Fairfax,51059,Spring Hills Mount Vernon,Assisted Living,2020-05-12,*,0,1
+2020-07-19,Outbreak Closed,Fairfax,51059,Stevenson's Place,Assisted Living,2020-06-04,*,0,0
+2020-07-19,Outbreak Closed,Fairfax,51059,Sunrise Assisted Living of McLean,Assisted Living,2020-03-20,59,14,0
+2020-07-19,Outbreak Closed,Fairfax,51059,Sunrise at Mount Vernon,Assisted Living,2020-04-07,16,*,0
+2020-07-19,Outbreak in Progress,Fairfax,51059,Sunrise of Hunter Mill,Assisted Living,2020-05-27,*,0,1
+2020-07-19,Outbreak Pending Closure,Fairfax,51059,Sunrise of Springfield,Assisted Living,2020-04-10,22,*,0
+2020-07-19,Outbreak in Progress,Fairfax,51059,Sylvestery of Vinson Hall,Multicare,2020-05-27,8,0,1
+2020-07-19,Outbreak Pending Closure,Fairfax,51059,Tall Oaks,Assisted Living,2020-04-30,47,11,0
+2020-07-19,Outbreak Pending Closure,Fairfax,51059,The Fairfax at Belvoir Woods,Multicare,2020-04-24,11,*,0
+2020-07-19,Outbreak in Progress,Fairfax,51059,The Fairfax at Belvoir Woods,Multicare,2020-07-14,16,0,1
+2020-07-19,Outbreak Pending Closure,Fairfax,51059,The Kensington Falls Church,Assisted Living,2020-03-17,26,*,0
+2020-07-19,Outbreak Closed,Fairfax,51059,The Lincolnian,Assisted Living,2020-04-24,26,*,0
+2020-07-19,Outbreak Pending Closure,Fairfax,51059,The Virginian Retirement Community,Multicare,2020-04-09,141,26,0
+2020-07-19,Outbreak Pending Closure,Fairfax,51059,Tysons Woods Assisted Living,Assisted Living,2020-05-20,10,*,0
+2020-07-19,Outbreak in Progress,Floyd,51063,Skyline Manor Nursing and Rehab Center,Nursing Home,2020-06-25,*,0,1
+2020-07-19,Outbreak Pending Closure,Fluvanna,51065,Envoy at the Village,Nursing Home,2020-04-08,54,8,0
+2020-07-19,Outbreak in Progress,Franklin City,51620,The Village at Manor Care,Assisted Living,2020-06-23,6,*,1
+2020-07-19,Outbreak in Progress,Frederick,51069,Hilltop House,Assisted Living,2020-07-03,15,*,1
+2020-07-19,Outbreak in Progress,Frederick,51069,The Village at Orchard Ridge,Assisted Living,2020-07-17,10,0,1
+2020-07-19,Outbreak in Progress,Fredericksburg,51630,Hughes Home for Adults,Assisted Living,2020-07-15,8,0,1
+2020-07-19,Outbreak Pending Closure,Fredericksburg,51630,Poets Walk,Assisted Living,2020-06-03,15,0,0
+2020-07-19,Outbreak Pending Closure,Galax,51640,Galax Health and Rehab,Nursing Home,2020-05-27,57,13,0
+2020-07-19,Outbreak in Progress,Galax,51640,Waddell Nursing and Rehab,Nursing Home,2020-05-24,12,0,1
+2020-07-19,Outbreak in Progress,Greene,51079,Grace Health and Rehab Center of Greene County,Nursing Home,2020-07-06,6,0,1
+2020-07-19,Outbreak Closed,Hampton,51650,Hampton VA Hospital- LTC unit,Nursing Home,2020-04-01,37,0,0
+2020-07-19,Outbreak Pending Closure,Hanover,51085,Ashland Convalescent Center,Nursing Home,2020-05-06,12,*,0
+2020-07-19,Outbreak Closed,Hanover,51085,Autumn Care of Mechanicsville,Nursing Home,2020-04-05,45,10,0
+2020-07-19,Outbreak in Progress,Hanover,51085,Covenant Woods Nursing Home,Multicare,2020-05-20,*,0,1
+2020-07-19,Outbreak Closed,Hanover,51085,The Crossings at Hanover,Assisted Living,2020-04-03,60,12,0
+2020-07-19,Outbreak Pending Closure,Harrisonburg,51660,Accordius Health at Harrisonburg,Nursing Home,2020-04-08,112,23,0
+2020-07-19,Outbreak in Progress,Harrisonburg,51660,Harrisonburg Health and Rehabilitation Center,Nursing Home,2020-05-27,87,*,1
+2020-07-19,Outbreak Closed,Henrico,51087,Beth Sholom Home of Virginia,Multicare,2020-03-28,74,17,0
+2020-07-19,Outbreak Closed,Henrico,51087,Beth Sholom Home of Virginia,Multicare,2020-04-17,*,*,0
+2020-07-19,Outbreak Closed,Henrico,51087,Canterbury Health and Rehab,Nursing Home,2020-03-17,154,49,0
+2020-07-19,Outbreak in Progress,Henrico,51087,Canterbury Health and Rehab,Nursing Home,2020-07-06,*,0,1
+2020-07-19,Outbreak Pending Closure,Henrico,51087,Cedarfield Retirement Community,Assisted Living,2020-04-24,19,*,0
+2020-07-19,Outbreak Closed,Henrico,51087,Chestnut Grove Assisted Living Facility,Assisted Living,2020-06-02,*,0,0
+2020-07-19,Outbreak Pending Closure,Henrico,51087,Glenburnie Nursing & Rehab,Nursing Home,2020-04-30,90,18,0
+2020-07-19,Outbreak Closed,Henrico,51087,Henrico Health and Rehabilitation Center,Nursing Home,2020-04-05,114,16,0
+2020-07-19,Outbreak Closed,Henrico,51087,Lakewood Manor Baptist Retirement Community,Multicare,2020-04-09,10,*,0
+2020-07-19,Outbreak Closed,Henrico,51087,Manor Care Health Services,Nursing Home,2020-04-01,9,*,0
+2020-07-19,Outbreak Closed,Henrico,51087,Masonic Home of Virginia,Assisted Living,2020-03-28,45,6,0
+2020-07-19,Outbreak Closed,Henrico,51087,Our Lady of Hope,Multicare,2020-05-26,8,0,0
+2020-07-19,Outbreak Pending Closure,Henrico,51087,Westminster Canterbury ALF,Assisted Living,2020-03-18,9,0,0
+2020-07-19,Outbreak in Progress,Henrico,51087,Westminster Canterbury ALF,Assisted Living,2020-07-07,*,0,1
+2020-07-19,Outbreak in Progress,Henrico,51087,Westport Rehabilitation & Nursing Center,Nursing Home,2020-04-24,107,9,1
+2020-07-19,Outbreak in Progress,Henry,51089,Stanleytown Healthcare Center,Nursing Home,2020-07-15,*,0,1
+2020-07-19,Outbreak in Progress,Hopewell,51670,Hopewell Healthcare Center,Nursing Home,2020-05-10,25,5,1
+2020-07-19,Outbreak Closed,Isle of Wight,51093,Consulate Health Care of Windsor,Nursing Home,2020-03-31,54,9,0
+2020-07-19,Outbreak Closed,James City,51095,Chambrel at Williamsburg Assisted Living,Assisted Living,2020-04-16,20,*,0
+2020-07-19,Outbreak Closed,James City,51095,Consulate Health Care of Williamsburg,Nursing Home,2020-04-06,9,*,0
+2020-07-19,Outbreak in Progress,James City,51095,Edgeworth Park at New Town,Assisted Living,2020-07-08,*,0,1
+2020-07-19,Outbreak Closed,James City,51095,WindsorMeade of Williamsburg,Multicare,2020-04-23,5,0,0
+2020-07-19,Outbreak Closed,King George,51099,Heritage Hall - King George,Nursing Home,2020-05-02,10,0,0
+2020-07-19,Outbreak in Progress,Lancaster,51103,Rappahannock Westminster Canterbury,Nursing Home,2020-07-17,7,0,1
+2020-07-19,Outbreak in Progress,Lee,51105,Lee Health & Rehabilitation,Nursing Home,2020-07-04,*,0,1
+2020-07-19,Outbreak in Progress,Loudoun,51107,Ashby Ponds,Multicare,2020-04-06,62,10,1
+2020-07-19,Outbreak Pending Closure,Loudoun,51107,Ashleigh at Lansdowne,Multicare,2020-04-23,31,9,0
+2020-07-19,Outbreak Pending Closure,Loudoun,51107,Atria Sterling,Assisted Living,2020-04-23,19,*,0
+2020-07-19,Outbreak Pending Closure,Loudoun,51107,Heritage Hall Nursing and Rehab,Nursing Home,2020-05-19,90,14,0
+2020-07-19,Outbreak Pending Closure,Loudoun,51107,Johnson Center at Falcons Landing,Multicare,2020-03-28,71,6,0
+2020-07-19,Outbreak Pending Closure,Loudoun,51107,Poet's Walk - A Spring Hill Memory Care Community,Assisted Living,2020-04-23,29,6,0
+2020-07-19,Outbreak Pending Closure,Loudoun,51107,Potomac Falls Health and Rehab Center,Multicare,2020-04-10,86,21,0
+2020-07-19,Outbreak Pending Closure,Loudoun,51107,Sunrise at Countryside,Assisted Living,2020-04-07,14,5,0
+2020-07-19,Outbreak Pending Closure,Loudoun,51107,Tribute at One Loudoun,Multicare,2020-04-16,48,10,0
+2020-07-19,Outbreak Pending Closure,Loudoun,51107,Waltonwood at Ashburn,Multicare,2020-04-13,9,*,0
+2020-07-19,Outbreak in Progress,Lynchburg,51680,Lynchburg Health and Rehabilitation Center,Nursing Home,2020-07-04,*,0,1
+2020-07-19,Outbreak in Progress,Martinsville,51690,King's Grant Retirement Community,Nursing Home,2020-06-20,*,0,1
+2020-07-19,Outbreak Pending Closure,Martinsville,51690,Mulberry Creek Nursing and Rehab,Nursing Home,2020-05-18,8,0,0
+2020-07-19,Outbreak in Progress,Martinsville,51690,Piedmont ICF/ID Home,Assisted Living,2020-07-17,*,0,1
+2020-07-19,Outbreak Pending Closure,Mecklenburg,51117,Chase City Health and Rehab Center,Nursing Home,2020-05-08,92,12,0
+2020-07-19,Outbreak Pending Closure,Mecklenburg,51117,Meadow View Terrace,Nursing Home,2020-04-04,84,14,0
+2020-07-19,Outbreak in Progress,Newport News,51700,Hilton Plaza,Assisted Living,2020-07-11,*,*,1
+2020-07-19,Outbreak Closed,Newport News,51700,James River Convalescent and Rehabilitation Center,Nursing Home,2020-05-14,*,0,0
+2020-07-19,Outbreak in Progress,Newport News,51700,Newport News Nursing and Rehabilitation Center,Nursing Home,2020-07-08,*,*,1
+2020-07-19,Outbreak Closed,Newport News,51700,The Gardens at Warwick Forest,Nursing Home,2020-03-30,7,0,0
+2020-07-19,Outbreak in Progress,Norfolk,51710,Autumn Care of Norfolk,Nursing Home,2020-07-08,*,0,1
+2020-07-19,Outbreak in Progress,Norfolk,51710,Commonwealth Leigh Hall,Assisted Living,2020-07-07,*,0,1
+2020-07-19,Outbreak in Progress,Norfolk,51710,Consulate Health Care of Norfolk,Nursing Home,2020-06-29,76,*,1
+2020-07-19,Outbreak in Progress,Norfolk,51710,Harbor's Edge,Assisted Living,2020-07-13,*,0,1
+2020-07-19,Outbreak in Progress,Norfolk,51710,Lake Taylor Transitional Care Hospital,Nursing Home,2020-07-13,6,0,1
+2020-07-19,Outbreak Pending Closure,Norfolk,51710,Norfolk Health and Rehab Center,Nursing Home,2020-03-28,*,0,0
+2020-07-19,Outbreak in Progress,Norfolk,51710,Pelican Health Care,Assisted Living,2020-06-25,*,0,1
+2020-07-19,Outbreak in Progress,Norfolk,51710,"Signature HealthCare, LLC",Nursing Home,2020-06-05,33,*,1
+2020-07-19,Outbreak in Progress,Norfolk,51710,St. Marys Home for Disabled Children,Nursing Home,2020-07-07,*,0,1
+2020-07-19,Outbreak in Progress,Norfolk,51710,The Ballentine,Assisted Living,2020-07-05,*,*,1
+2020-07-19,Outbreak Pending Closure,Northampton,51131,Heritage Hall - Nassawadox,Nursing Home,2020-04-22,113,18,0
+2020-07-19,Outbreak in Progress,Nottoway,51135,Heritage Hall Nursing Home,Nursing Home,2020-07-15,*,0,1
+2020-07-19,Outbreak in Progress,Nottoway,51135,Hickory Hill Retirement Community,Assisted Living,2020-05-28,57,*,1
+2020-07-19,Outbreak in Progress,Orange,51137,Dogwood Village of Orange County,Nursing Home,2020-06-03,*,0,1
+2020-07-19,Outbreak Pending Closure,Orange,51137,The Village at Gordon House,Assisted Living,2020-05-28,*,0,0
+2020-07-19,Outbreak Pending Closure,Page,51139,Skyview Springs Nursing Home (frmly Montvue),Nursing Home,2020-04-21,153,22,0
+2020-07-19,Outbreak in Progress,Petersburg,51730,Battlefield Park Healthcare Center,Nursing Home,2020-07-02,16,0,1
+2020-07-19,Outbreak in Progress,Petersburg,51730,Fillmore Place,Assisted Living,2020-06-08,11,0,1
+2020-07-19,Outbreak Pending Closure,Petersburg,51730,Petersburg Healthcare Center,Nursing Home,2020-05-25,44,*,0
+2020-07-19,Outbreak Closed,Portsmouth,51740,Mayfair House Assisted Living,Assisted Living,2020-04-27,5,*,0
+2020-07-19,Outbreak in Progress,Portsmouth,51740,Portside Health and Rehab,Nursing Home,2020-07-16,8,0,1
+2020-07-19,Outbreak in Progress,Portsmouth,51740,Pruden Place,Assisted Living,2020-07-16,*,0,1
+2020-07-19,Outbreak Closed,Prince Edward,51147,Farmville Health and Rehab Center,Nursing Home,2020-04-08,47,*,0
+2020-07-19,Outbreak Pending Closure,Prince William,51153,Arbor Terrace Sudley Manor,Assisted Living,2020-04-18,22,9,0
+2020-07-19,Outbreak Pending Closure,Prince William,51153,Birmingham Green,Multicare,2020-04-19,132,33,0
+2020-07-19,Outbreak in Progress,Prince William,51153,Envoy of Woodbridge,Nursing Home,2020-05-16,73,*,1
+2020-07-19,Outbreak Pending Closure,Prince William,51153,Gainesville Health and Rehabilitation,Nursing Home,2020-04-18,67,9,0
+2020-07-19,Outbreak Pending Closure,Prince William,51153,Harbor Chase,Multicare,2020-05-09,14,6,0
+2020-07-19,Outbreak Pending Closure,Prince William,51153,Lake Manassas Health and Rehabilitation,Nursing Home,2020-03-27,8,*,0
+2020-07-19,Outbreak Pending Closure,Prince William,51153,Manassas Health & Rehabilitation Center,Nursing Home,2020-05-18,11,*,0
+2020-07-19,Outbreak Pending Closure,Prince William,51153,Potomac Place,Assisted Living,2020-05-09,28,*,0
+2020-07-19,Outbreak Pending Closure,Prince William,51153,Tribute at the Glen,Assisted Living,2020-05-09,9,*,0
+2020-07-19,Outbreak Pending Closure,Prince William,51153,Westminster at Lake Ridge,Multicare,2020-04-18,27,*,0
+2020-07-19,Outbreak Pending Closure,Prince William,51153,Willow Oaks Assisted Living at Birmingham Green,Assisted Living,2020-04-17,28,*,0
+2020-07-19,Outbreak Pending Closure,Richmond City,51760,The Towers Retirement Home and Assisted Living Community,Assisted Living,2020-04-20,*,0,0
+2020-07-19,Outbreak in Progress,Richmond City,51760,The Towers Retirement Home and Assisted Living Community,Assisted Living,2020-07-15,*,0,1
+2020-07-19,Outbreak Pending Closure,Richmond City,51760,The Virginia Home,Nursing Home,2020-03-28,13,0,0
+2020-07-19,Outbreak Closed,Richmond County,51159,Riverside The Orchard Dogwood Manor,Multicare,2020-04-17,15,*,0
+2020-07-19,Outbreak Pending Closure,Roanoke City,51770,South Roanoke Nursing Home,Nursing Home,2020-04-19,56,13,0
+2020-07-19,Outbreak in Progress,Roanoke County,51161,Friendship Health and Rehab,Nursing Home,2020-06-24,*,0,1
+2020-07-19,Outbreak Pending Closure,Rockingham,51165,Sunnyside Retirement Community,Nursing Home,2020-06-02,14,*,0
+2020-07-19,Outbreak Pending Closure,Salem,51775,Brookdale Senior Living Solutions,Assisted Living,2020-04-24,12,0,0
+2020-07-19,Outbreak Pending Closure,Salem,51775,Richfield Recovery and Care Center,Nursing Home,2020-04-24,5,0,0
+2020-07-19,Outbreak Closed,Shenandoah,51171,Consulate Health Care of Woodstock,Nursing Home,2020-04-30,95,15,0
+2020-07-19,Outbreak Closed,Shenandoah,51171,Dutch Haven Assisted Living,Assisted Living,2020-05-03,47,11,0
+2020-07-19,Outbreak in Progress,Shenandoah,51171,Life Care Center of New Market,Nursing Home,2020-06-21,38,5,1
+2020-07-19,Outbreak Closed,Shenandoah,51171,Pine Meadow,Assisted Living,2020-05-06,*,0,0
+2020-07-19,Outbreak Closed,Shenandoah,51171,Skyline Terrace,Nursing Home,2020-03-30,*,0,0
+2020-07-19,Outbreak Closed,Southampton,51175,Courtland Healthcare,Nursing Home,2020-04-15,48,7,0
+2020-07-19,Outbreak in Progress,Spotsylvania,51177,Carriage Hill Health & Rehab,Nursing Home,2020-06-02,103,18,1
+2020-07-19,Outbreak Closed,Spotsylvania,51177,Paramount Senior Living (frmly Brookdate ALF),Assisted Living,2020-06-03,*,0,0
+2020-07-19,Outbreak Pending Closure,Staunton,51790,Ritenour Rest Home,Assisted Living,2020-05-13,25,0,0
+2020-07-19,Outbreak Pending Closure,Suffolk,51800,Autumn Nursing Care,Nursing Home,2020-04-08,71,14,0
+2020-07-19,Outbreak Closed,Suffolk,51800,Bon Secours/Maryview Nursing Center,Nursing Home,2020-04-09,96,14,0
+2020-07-19,Outbreak in Progress,Suffolk,51800,Harmony at Harbour View,Assisted Living,2020-07-12,22,0,1
+2020-07-19,Outbreak Closed,Suffolk,51800,Nansemond Pointe Rehab,Nursing Home,2020-04-15,15,6,0
+2020-07-19,Outbreak Pending Closure,Sussex,51183,Waverly Health and Rehabilitation Center,Nursing Home,2020-05-10,92,*,0
+2020-07-19,Outbreak Pending Closure,Virginia Beach,51810,Accordius Health at River Pointe,Nursing Home,2020-04-29,17,*,0
+2020-07-19,Outbreak Closed,Virginia Beach,51810,Baylake Retirement and Assisted Living Community,Assisted Living,2020-05-15,*,0,0
+2020-07-19,Outbreak in Progress,Virginia Beach,51810,Beth Shalom Home of Eastern Virginia,Nursing Home,2020-04-23,*,0,1
+2020-07-19,Outbreak Pending Closure,Virginia Beach,51810,Harbourway at Atlantic Shores,Assisted Living,2020-03-31,28,*,0
+2020-07-19,Outbreak in Progress,Virginia Beach,51810,Heritage Hall - Virginia Beach,Nursing Home,2020-07-09,20,0,1
+2020-07-19,Outbreak Pending Closure,Virginia Beach,51810,Kings Grant House,Assisted Living,2020-05-30,25,7,0
+2020-07-19,Outbreak Pending Closure,Virginia Beach,51810,Marian Manor,Assisted Living,2020-06-04,*,0,0
+2020-07-19,Outbreak Pending Closure,Virginia Beach,51810,Our Lady of Perpetual Help,Multicare,2020-04-11,33,6,0
+2020-07-19,Outbreak in Progress,Virginia Beach,51810,Sentara Nursing Center,Nursing Home,2020-05-01,*,0,1
+2020-07-19,Outbreak Closed,Virginia Beach,51810,The Citadel,Nursing Home,2020-06-15,*,0,0
+2020-07-19,Outbreak in Progress,Warren,51187,Woods Cove (frmly Royal Haven of Front Royal),Assisted Living,2020-06-18,42,*,1
+2020-07-19,Outbreak Pending Closure,Washington,51191,English Meadows,Assisted Living,2020-04-03,9,*,0
+2020-07-19,Outbreak Closed,Williamsburg,51830,Envoy of Williamsburg,Nursing Home,2020-03-31,29,*,0
+2020-07-19,Outbreak in Progress,Wythe,51197,Carrington Place at Rural Retreat,Nursing Home,2020-06-30,*,0,1
+2020-07-19,Outbreak in Progress,Wythe,51197,Carrington Place at Rural Retreat,Nursing Home,2020-07-10,*,0,1
+2020-07-19,Outbreak Closed,York,51199,Regency Healthcare Center,Nursing Home,2020-05-11,*,0,0
