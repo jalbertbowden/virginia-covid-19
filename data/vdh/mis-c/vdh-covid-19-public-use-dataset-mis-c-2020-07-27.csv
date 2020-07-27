@@ -1,0 +1,2241 @@
+"Report Date",HealthDistrict,HPRName,Cases,Death
+05/24/2020,Alexandria,"Northern Region",0,0
+05/24/2020,Alleghany,"Southwest Region",0,0
+05/24/2020,Arlington,"Northern Region",0,0
+05/24/2020,"Central Shenandoah","Northwest Region",0,0
+05/24/2020,"Central Virginia","Southwest Region",0,0
+05/24/2020,Chesapeake,"Eastern Region",0,0
+05/24/2020,Chesterfield,"Central Region",0,0
+05/24/2020,Chickahominy,"Central Region",0,0
+05/24/2020,Crater,"Central Region",0,0
+05/24/2020,"Cumberland Plateau","Southwest Region",0,0
+05/24/2020,"Eastern Shore","Eastern Region",0,0
+05/24/2020,Fairfax,"Northern Region",2,0
+05/24/2020,Hampton,"Eastern Region",0,0
+05/24/2020,Henrico,"Central Region",0,0
+05/24/2020,Lenowisco,"Southwest Region",0,0
+05/24/2020,"Lord Fairfax","Northwest Region",0,0
+05/24/2020,Loudoun,"Northern Region",0,0
+05/24/2020,"Mount Rogers","Southwest Region",0,0
+05/24/2020,"New River","Southwest Region",0,0
+05/24/2020,Norfolk,"Eastern Region",0,0
+05/24/2020,Peninsula,"Eastern Region",0,0
+05/24/2020,Piedmont,"Central Region",0,0
+05/24/2020,Pittsylvania-Danville,"Southwest Region",0,0
+05/24/2020,Portsmouth,"Eastern Region",0,0
+05/24/2020,"Prince William","Northern Region",0,0
+05/24/2020,Rappahannock,"Northwest Region",0,0
+05/24/2020,"Rappahannock Rapidan","Northwest Region",0,0
+05/24/2020,Richmond,"Central Region",0,0
+05/24/2020,Roanoke,"Southwest Region",0,0
+05/24/2020,Southside,"Central Region",0,0
+05/24/2020,"Thomas Jefferson","Northwest Region",0,0
+05/24/2020,"Three Rivers","Eastern Region",0,0
+05/24/2020,"Virginia Beach","Eastern Region",0,0
+05/24/2020,"West Piedmont","Southwest Region",0,0
+05/24/2020,"Western Tidewater","Eastern Region",0,0
+05/25/2020,Alexandria,"Northern Region",0,0
+05/25/2020,Alleghany,"Southwest Region",0,0
+05/25/2020,Arlington,"Northern Region",0,0
+05/25/2020,"Central Shenandoah","Northwest Region",0,0
+05/25/2020,"Central Virginia","Southwest Region",0,0
+05/25/2020,Chesapeake,"Eastern Region",0,0
+05/25/2020,Chesterfield,"Central Region",0,0
+05/25/2020,Chickahominy,"Central Region",0,0
+05/25/2020,Crater,"Central Region",0,0
+05/25/2020,"Cumberland Plateau","Southwest Region",0,0
+05/25/2020,"Eastern Shore","Eastern Region",0,0
+05/25/2020,Fairfax,"Northern Region",2,0
+05/25/2020,Hampton,"Eastern Region",0,0
+05/25/2020,Henrico,"Central Region",0,0
+05/25/2020,Lenowisco,"Southwest Region",0,0
+05/25/2020,"Lord Fairfax","Northwest Region",0,0
+05/25/2020,Loudoun,"Northern Region",0,0
+05/25/2020,"Mount Rogers","Southwest Region",0,0
+05/25/2020,"New River","Southwest Region",0,0
+05/25/2020,Norfolk,"Eastern Region",0,0
+05/25/2020,Peninsula,"Eastern Region",0,0
+05/25/2020,Piedmont,"Central Region",0,0
+05/25/2020,Pittsylvania-Danville,"Southwest Region",0,0
+05/25/2020,Portsmouth,"Eastern Region",0,0
+05/25/2020,"Prince William","Northern Region",0,0
+05/25/2020,Rappahannock,"Northwest Region",0,0
+05/25/2020,"Rappahannock Rapidan","Northwest Region",0,0
+05/25/2020,Richmond,"Central Region",0,0
+05/25/2020,Roanoke,"Southwest Region",0,0
+05/25/2020,Southside,"Central Region",0,0
+05/25/2020,"Thomas Jefferson","Northwest Region",0,0
+05/25/2020,"Three Rivers","Eastern Region",0,0
+05/25/2020,"Virginia Beach","Eastern Region",0,0
+05/25/2020,"West Piedmont","Southwest Region",0,0
+05/25/2020,"Western Tidewater","Eastern Region",0,0
+05/26/2020,Alexandria,"Northern Region",0,0
+05/26/2020,Alleghany,"Southwest Region",0,0
+05/26/2020,Arlington,"Northern Region",0,0
+05/26/2020,"Central Shenandoah","Northwest Region",0,0
+05/26/2020,"Central Virginia","Southwest Region",0,0
+05/26/2020,Chesapeake,"Eastern Region",0,0
+05/26/2020,Chesterfield,"Central Region",0,0
+05/26/2020,Chickahominy,"Central Region",0,0
+05/26/2020,Crater,"Central Region",0,0
+05/26/2020,"Cumberland Plateau","Southwest Region",0,0
+05/26/2020,"Eastern Shore","Eastern Region",0,0
+05/26/2020,Fairfax,"Northern Region",2,0
+05/26/2020,Hampton,"Eastern Region",0,0
+05/26/2020,Henrico,"Central Region",0,0
+05/26/2020,Lenowisco,"Southwest Region",0,0
+05/26/2020,"Lord Fairfax","Northwest Region",0,0
+05/26/2020,Loudoun,"Northern Region",0,0
+05/26/2020,"Mount Rogers","Southwest Region",0,0
+05/26/2020,"New River","Southwest Region",0,0
+05/26/2020,Norfolk,"Eastern Region",0,0
+05/26/2020,Peninsula,"Eastern Region",0,0
+05/26/2020,Piedmont,"Central Region",0,0
+05/26/2020,Pittsylvania-Danville,"Southwest Region",0,0
+05/26/2020,Portsmouth,"Eastern Region",0,0
+05/26/2020,"Prince William","Northern Region",0,0
+05/26/2020,Rappahannock,"Northwest Region",0,0
+05/26/2020,"Rappahannock Rapidan","Northwest Region",0,0
+05/26/2020,Richmond,"Central Region",0,0
+05/26/2020,Roanoke,"Southwest Region",0,0
+05/26/2020,Southside,"Central Region",0,0
+05/26/2020,"Thomas Jefferson","Northwest Region",0,0
+05/26/2020,"Three Rivers","Eastern Region",0,0
+05/26/2020,"Virginia Beach","Eastern Region",0,0
+05/26/2020,"West Piedmont","Southwest Region",0,0
+05/26/2020,"Western Tidewater","Eastern Region",0,0
+05/27/2020,Alexandria,"Northern Region",0,0
+05/27/2020,Alleghany,"Southwest Region",0,0
+05/27/2020,Arlington,"Northern Region",0,0
+05/27/2020,"Central Shenandoah","Northwest Region",0,0
+05/27/2020,"Central Virginia","Southwest Region",0,0
+05/27/2020,Chesapeake,"Eastern Region",0,0
+05/27/2020,Chesterfield,"Central Region",0,0
+05/27/2020,Chickahominy,"Central Region",0,0
+05/27/2020,Crater,"Central Region",0,0
+05/27/2020,"Cumberland Plateau","Southwest Region",0,0
+05/27/2020,"Eastern Shore","Eastern Region",0,0
+05/27/2020,Fairfax,"Northern Region",2,0
+05/27/2020,Hampton,"Eastern Region",0,0
+05/27/2020,Henrico,"Central Region",0,0
+05/27/2020,Lenowisco,"Southwest Region",0,0
+05/27/2020,"Lord Fairfax","Northwest Region",0,0
+05/27/2020,Loudoun,"Northern Region",0,0
+05/27/2020,"Mount Rogers","Southwest Region",0,0
+05/27/2020,"New River","Southwest Region",0,0
+05/27/2020,Norfolk,"Eastern Region",0,0
+05/27/2020,Peninsula,"Eastern Region",0,0
+05/27/2020,Piedmont,"Central Region",0,0
+05/27/2020,Pittsylvania-Danville,"Southwest Region",0,0
+05/27/2020,Portsmouth,"Eastern Region",0,0
+05/27/2020,"Prince William","Northern Region",0,0
+05/27/2020,Rappahannock,"Northwest Region",0,0
+05/27/2020,"Rappahannock Rapidan","Northwest Region",0,0
+05/27/2020,Richmond,"Central Region",0,0
+05/27/2020,Roanoke,"Southwest Region",0,0
+05/27/2020,Southside,"Central Region",0,0
+05/27/2020,"Thomas Jefferson","Northwest Region",0,0
+05/27/2020,"Three Rivers","Eastern Region",0,0
+05/27/2020,"Virginia Beach","Eastern Region",0,0
+05/27/2020,"West Piedmont","Southwest Region",0,0
+05/27/2020,"Western Tidewater","Eastern Region",0,0
+05/28/2020,Alexandria,"Northern Region",0,0
+05/28/2020,Alleghany,"Southwest Region",0,0
+05/28/2020,Arlington,"Northern Region",0,0
+05/28/2020,"Central Shenandoah","Northwest Region",0,0
+05/28/2020,"Central Virginia","Southwest Region",0,0
+05/28/2020,Chesapeake,"Eastern Region",0,0
+05/28/2020,Chesterfield,"Central Region",0,0
+05/28/2020,Chickahominy,"Central Region",0,0
+05/28/2020,Crater,"Central Region",0,0
+05/28/2020,"Cumberland Plateau","Southwest Region",0,0
+05/28/2020,"Eastern Shore","Eastern Region",0,0
+05/28/2020,Fairfax,"Northern Region",2,0
+05/28/2020,Hampton,"Eastern Region",0,0
+05/28/2020,Henrico,"Central Region",0,0
+05/28/2020,Lenowisco,"Southwest Region",0,0
+05/28/2020,"Lord Fairfax","Northwest Region",0,0
+05/28/2020,Loudoun,"Northern Region",0,0
+05/28/2020,"Mount Rogers","Southwest Region",0,0
+05/28/2020,"New River","Southwest Region",0,0
+05/28/2020,Norfolk,"Eastern Region",0,0
+05/28/2020,Peninsula,"Eastern Region",0,0
+05/28/2020,Piedmont,"Central Region",0,0
+05/28/2020,Pittsylvania-Danville,"Southwest Region",0,0
+05/28/2020,Portsmouth,"Eastern Region",0,0
+05/28/2020,"Prince William","Northern Region",0,0
+05/28/2020,Rappahannock,"Northwest Region",0,0
+05/28/2020,"Rappahannock Rapidan","Northwest Region",0,0
+05/28/2020,Richmond,"Central Region",0,0
+05/28/2020,Roanoke,"Southwest Region",0,0
+05/28/2020,Southside,"Central Region",0,0
+05/28/2020,"Thomas Jefferson","Northwest Region",0,0
+05/28/2020,"Three Rivers","Eastern Region",0,0
+05/28/2020,"Virginia Beach","Eastern Region",0,0
+05/28/2020,"West Piedmont","Southwest Region",0,0
+05/28/2020,"Western Tidewater","Eastern Region",0,0
+05/29/2020,Alexandria,"Northern Region",0,0
+05/29/2020,Alleghany,"Southwest Region",0,0
+05/29/2020,Arlington,"Northern Region",0,0
+05/29/2020,"Central Shenandoah","Northwest Region",0,0
+05/29/2020,"Central Virginia","Southwest Region",0,0
+05/29/2020,Chesapeake,"Eastern Region",0,0
+05/29/2020,Chesterfield,"Central Region",0,0
+05/29/2020,Chickahominy,"Central Region",0,0
+05/29/2020,Crater,"Central Region",0,0
+05/29/2020,"Cumberland Plateau","Southwest Region",0,0
+05/29/2020,"Eastern Shore","Eastern Region",0,0
+05/29/2020,Fairfax,"Northern Region",2,0
+05/29/2020,Hampton,"Eastern Region",0,0
+05/29/2020,Henrico,"Central Region",0,0
+05/29/2020,Lenowisco,"Southwest Region",0,0
+05/29/2020,"Lord Fairfax","Northwest Region",0,0
+05/29/2020,Loudoun,"Northern Region",0,0
+05/29/2020,"Mount Rogers","Southwest Region",0,0
+05/29/2020,"New River","Southwest Region",0,0
+05/29/2020,Norfolk,"Eastern Region",0,0
+05/29/2020,Peninsula,"Eastern Region",0,0
+05/29/2020,Piedmont,"Central Region",0,0
+05/29/2020,Pittsylvania-Danville,"Southwest Region",0,0
+05/29/2020,Portsmouth,"Eastern Region",0,0
+05/29/2020,"Prince William","Northern Region",0,0
+05/29/2020,Rappahannock,"Northwest Region",0,0
+05/29/2020,"Rappahannock Rapidan","Northwest Region",0,0
+05/29/2020,Richmond,"Central Region",0,0
+05/29/2020,Roanoke,"Southwest Region",0,0
+05/29/2020,Southside,"Central Region",0,0
+05/29/2020,"Thomas Jefferson","Northwest Region",0,0
+05/29/2020,"Three Rivers","Eastern Region",0,0
+05/29/2020,"Virginia Beach","Eastern Region",0,0
+05/29/2020,"West Piedmont","Southwest Region",0,0
+05/29/2020,"Western Tidewater","Eastern Region",0,0
+05/30/2020,Alexandria,"Northern Region",0,0
+05/30/2020,Alleghany,"Southwest Region",0,0
+05/30/2020,Arlington,"Northern Region",0,0
+05/30/2020,"Central Shenandoah","Northwest Region",0,0
+05/30/2020,"Central Virginia","Southwest Region",0,0
+05/30/2020,Chesapeake,"Eastern Region",0,0
+05/30/2020,Chesterfield,"Central Region",0,0
+05/30/2020,Chickahominy,"Central Region",0,0
+05/30/2020,Crater,"Central Region",0,0
+05/30/2020,"Cumberland Plateau","Southwest Region",0,0
+05/30/2020,"Eastern Shore","Eastern Region",0,0
+05/30/2020,Fairfax,"Northern Region",2,0
+05/30/2020,Hampton,"Eastern Region",0,0
+05/30/2020,Henrico,"Central Region",0,0
+05/30/2020,Lenowisco,"Southwest Region",0,0
+05/30/2020,"Lord Fairfax","Northwest Region",0,0
+05/30/2020,Loudoun,"Northern Region",0,0
+05/30/2020,"Mount Rogers","Southwest Region",0,0
+05/30/2020,"New River","Southwest Region",0,0
+05/30/2020,Norfolk,"Eastern Region",0,0
+05/30/2020,Peninsula,"Eastern Region",0,0
+05/30/2020,Piedmont,"Central Region",0,0
+05/30/2020,Pittsylvania-Danville,"Southwest Region",0,0
+05/30/2020,Portsmouth,"Eastern Region",0,0
+05/30/2020,"Prince William","Northern Region",0,0
+05/30/2020,Rappahannock,"Northwest Region",0,0
+05/30/2020,"Rappahannock Rapidan","Northwest Region",0,0
+05/30/2020,Richmond,"Central Region",0,0
+05/30/2020,Roanoke,"Southwest Region",0,0
+05/30/2020,Southside,"Central Region",0,0
+05/30/2020,"Thomas Jefferson","Northwest Region",0,0
+05/30/2020,"Three Rivers","Eastern Region",0,0
+05/30/2020,"Virginia Beach","Eastern Region",0,0
+05/30/2020,"West Piedmont","Southwest Region",0,0
+05/30/2020,"Western Tidewater","Eastern Region",0,0
+05/31/2020,Alexandria,"Northern Region",0,0
+05/31/2020,Alleghany,"Southwest Region",0,0
+05/31/2020,Arlington,"Northern Region",0,0
+05/31/2020,"Central Shenandoah","Northwest Region",0,0
+05/31/2020,"Central Virginia","Southwest Region",0,0
+05/31/2020,Chesapeake,"Eastern Region",0,0
+05/31/2020,Chesterfield,"Central Region",0,0
+05/31/2020,Chickahominy,"Central Region",0,0
+05/31/2020,Crater,"Central Region",0,0
+05/31/2020,"Cumberland Plateau","Southwest Region",0,0
+05/31/2020,"Eastern Shore","Eastern Region",0,0
+05/31/2020,Fairfax,"Northern Region",2,0
+05/31/2020,Hampton,"Eastern Region",0,0
+05/31/2020,Henrico,"Central Region",0,0
+05/31/2020,Lenowisco,"Southwest Region",0,0
+05/31/2020,"Lord Fairfax","Northwest Region",0,0
+05/31/2020,Loudoun,"Northern Region",0,0
+05/31/2020,"Mount Rogers","Southwest Region",0,0
+05/31/2020,"New River","Southwest Region",0,0
+05/31/2020,Norfolk,"Eastern Region",0,0
+05/31/2020,Peninsula,"Eastern Region",0,0
+05/31/2020,Piedmont,"Central Region",0,0
+05/31/2020,Pittsylvania-Danville,"Southwest Region",0,0
+05/31/2020,Portsmouth,"Eastern Region",0,0
+05/31/2020,"Prince William","Northern Region",0,0
+05/31/2020,Rappahannock,"Northwest Region",0,0
+05/31/2020,"Rappahannock Rapidan","Northwest Region",0,0
+05/31/2020,Richmond,"Central Region",0,0
+05/31/2020,Roanoke,"Southwest Region",0,0
+05/31/2020,Southside,"Central Region",0,0
+05/31/2020,"Thomas Jefferson","Northwest Region",0,0
+05/31/2020,"Three Rivers","Eastern Region",0,0
+05/31/2020,"Virginia Beach","Eastern Region",0,0
+05/31/2020,"West Piedmont","Southwest Region",0,0
+05/31/2020,"Western Tidewater","Eastern Region",0,0
+06/01/2020,Alexandria,"Northern Region",0,0
+06/01/2020,Alleghany,"Southwest Region",0,0
+06/01/2020,Arlington,"Northern Region",0,0
+06/01/2020,"Central Shenandoah","Northwest Region",0,0
+06/01/2020,"Central Virginia","Southwest Region",0,0
+06/01/2020,Chesapeake,"Eastern Region",0,0
+06/01/2020,Chesterfield,"Central Region",0,0
+06/01/2020,Chickahominy,"Central Region",0,0
+06/01/2020,Crater,"Central Region",0,0
+06/01/2020,"Cumberland Plateau","Southwest Region",0,0
+06/01/2020,"Eastern Shore","Eastern Region",0,0
+06/01/2020,Fairfax,"Northern Region",2,0
+06/01/2020,Hampton,"Eastern Region",0,0
+06/01/2020,Henrico,"Central Region",0,0
+06/01/2020,Lenowisco,"Southwest Region",0,0
+06/01/2020,"Lord Fairfax","Northwest Region",0,0
+06/01/2020,Loudoun,"Northern Region",0,0
+06/01/2020,"Mount Rogers","Southwest Region",0,0
+06/01/2020,"New River","Southwest Region",0,0
+06/01/2020,Norfolk,"Eastern Region",0,0
+06/01/2020,Peninsula,"Eastern Region",0,0
+06/01/2020,Piedmont,"Central Region",0,0
+06/01/2020,Pittsylvania-Danville,"Southwest Region",0,0
+06/01/2020,Portsmouth,"Eastern Region",0,0
+06/01/2020,"Prince William","Northern Region",0,0
+06/01/2020,Rappahannock,"Northwest Region",0,0
+06/01/2020,"Rappahannock Rapidan","Northwest Region",0,0
+06/01/2020,Richmond,"Central Region",0,0
+06/01/2020,Roanoke,"Southwest Region",0,0
+06/01/2020,Southside,"Central Region",0,0
+06/01/2020,"Thomas Jefferson","Northwest Region",0,0
+06/01/2020,"Three Rivers","Eastern Region",0,0
+06/01/2020,"Virginia Beach","Eastern Region",0,0
+06/01/2020,"West Piedmont","Southwest Region",0,0
+06/01/2020,"Western Tidewater","Eastern Region",0,0
+06/02/2020,Alexandria,"Northern Region",0,0
+06/02/2020,Alexandria,"Northern Region",0,0
+06/02/2020,Alleghany,"Southwest Region",0,0
+06/02/2020,Alleghany,"Southwest Region",0,0
+06/02/2020,Arlington,"Northern Region",0,0
+06/02/2020,Arlington,"Northern Region",0,0
+06/02/2020,"Central Shenandoah","Northwest Region",0,0
+06/02/2020,"Central Shenandoah","Northwest Region",0,0
+06/02/2020,"Central Virginia","Southwest Region",0,0
+06/02/2020,"Central Virginia","Southwest Region",0,0
+06/02/2020,Chesapeake,"Eastern Region",0,0
+06/02/2020,Chesapeake,"Eastern Region",0,0
+06/02/2020,Chesterfield,"Central Region",0,0
+06/02/2020,Chesterfield,"Central Region",0,0
+06/02/2020,Chickahominy,"Central Region",0,0
+06/02/2020,Chickahominy,"Central Region",0,0
+06/02/2020,Crater,"Central Region",0,0
+06/02/2020,Crater,"Central Region",0,0
+06/02/2020,"Cumberland Plateau","Southwest Region",0,0
+06/02/2020,"Cumberland Plateau","Southwest Region",0,0
+06/02/2020,"Eastern Shore","Eastern Region",0,0
+06/02/2020,"Eastern Shore","Eastern Region",0,0
+06/02/2020,Fairfax,"Northern Region",2,0
+06/02/2020,Fairfax,"Northern Region",2,0
+06/02/2020,Hampton,"Eastern Region",0,0
+06/02/2020,Hampton,"Eastern Region",0,0
+06/02/2020,Henrico,"Central Region",0,0
+06/02/2020,Henrico,"Central Region",0,0
+06/02/2020,Lenowisco,"Southwest Region",0,0
+06/02/2020,Lenowisco,"Southwest Region",0,0
+06/02/2020,"Lord Fairfax","Northwest Region",0,0
+06/02/2020,"Lord Fairfax","Northwest Region",0,0
+06/02/2020,Loudoun,"Northern Region",0,0
+06/02/2020,Loudoun,"Northern Region",0,0
+06/02/2020,"Mount Rogers","Southwest Region",0,0
+06/02/2020,"Mount Rogers","Southwest Region",0,0
+06/02/2020,"New River","Southwest Region",0,0
+06/02/2020,"New River","Southwest Region",0,0
+06/02/2020,Norfolk,"Eastern Region",0,0
+06/02/2020,Norfolk,"Eastern Region",0,0
+06/02/2020,Peninsula,"Eastern Region",0,0
+06/02/2020,Peninsula,"Eastern Region",0,0
+06/02/2020,Piedmont,"Central Region",0,0
+06/02/2020,Piedmont,"Central Region",0,0
+06/02/2020,Pittsylvania-Danville,"Southwest Region",0,0
+06/02/2020,Pittsylvania-Danville,"Southwest Region",0,0
+06/02/2020,Portsmouth,"Eastern Region",0,0
+06/02/2020,Portsmouth,"Eastern Region",0,0
+06/02/2020,"Prince William","Northern Region",0,0
+06/02/2020,"Prince William","Northern Region",0,0
+06/02/2020,Rappahannock,"Northwest Region",0,0
+06/02/2020,Rappahannock,"Northwest Region",0,0
+06/02/2020,"Rappahannock Rapidan","Northwest Region",0,0
+06/02/2020,"Rappahannock Rapidan","Northwest Region",0,0
+06/02/2020,Richmond,"Central Region",0,0
+06/02/2020,Richmond,"Central Region",0,0
+06/02/2020,Roanoke,"Southwest Region",0,0
+06/02/2020,Roanoke,"Southwest Region",0,0
+06/02/2020,Southside,"Central Region",0,0
+06/02/2020,Southside,"Central Region",0,0
+06/02/2020,"Thomas Jefferson","Northwest Region",0,0
+06/02/2020,"Thomas Jefferson","Northwest Region",0,0
+06/02/2020,"Three Rivers","Eastern Region",0,0
+06/02/2020,"Three Rivers","Eastern Region",0,0
+06/02/2020,"Virginia Beach","Eastern Region",0,0
+06/02/2020,"Virginia Beach","Eastern Region",0,0
+06/02/2020,"West Piedmont","Southwest Region",0,0
+06/02/2020,"West Piedmont","Southwest Region",0,0
+06/02/2020,"Western Tidewater","Eastern Region",0,0
+06/02/2020,"Western Tidewater","Eastern Region",0,0
+06/04/2020,Alexandria,"Northern Region",0,0
+06/04/2020,Alleghany,"Southwest Region",0,0
+06/04/2020,Arlington,"Northern Region",0,0
+06/04/2020,"Central Shenandoah","Northwest Region",0,0
+06/04/2020,"Central Virginia","Southwest Region",0,0
+06/04/2020,Chesapeake,"Eastern Region",0,0
+06/04/2020,Chesterfield,"Central Region",0,0
+06/04/2020,Chickahominy,"Central Region",0,0
+06/04/2020,Crater,"Central Region",0,0
+06/04/2020,"Cumberland Plateau","Southwest Region",0,0
+06/04/2020,"Eastern Shore","Eastern Region",0,0
+06/04/2020,Fairfax,"Northern Region",2,0
+06/04/2020,Hampton,"Eastern Region",0,0
+06/04/2020,Henrico,"Central Region",0,0
+06/04/2020,Lenowisco,"Southwest Region",0,0
+06/04/2020,"Lord Fairfax","Northwest Region",0,0
+06/04/2020,Loudoun,"Northern Region",0,0
+06/04/2020,"Mount Rogers","Southwest Region",0,0
+06/04/2020,"New River","Southwest Region",0,0
+06/04/2020,Norfolk,"Eastern Region",0,0
+06/04/2020,Peninsula,"Eastern Region",0,0
+06/04/2020,Piedmont,"Central Region",0,0
+06/04/2020,Pittsylvania-Danville,"Southwest Region",0,0
+06/04/2020,Portsmouth,"Eastern Region",0,0
+06/04/2020,"Prince William","Northern Region",0,0
+06/04/2020,Rappahannock,"Northwest Region",0,0
+06/04/2020,"Rappahannock Rapidan","Northwest Region",0,0
+06/04/2020,Richmond,"Central Region",0,0
+06/04/2020,Roanoke,"Southwest Region",0,0
+06/04/2020,Southside,"Central Region",0,0
+06/04/2020,"Thomas Jefferson","Northwest Region",0,0
+06/04/2020,"Three Rivers","Eastern Region",0,0
+06/04/2020,"Virginia Beach","Eastern Region",0,0
+06/04/2020,"West Piedmont","Southwest Region",0,0
+06/04/2020,"Western Tidewater","Eastern Region",0,0
+06/05/2020,Alexandria,"Northern Region",0,0
+06/05/2020,Alleghany,"Southwest Region",0,0
+06/05/2020,Arlington,"Northern Region",0,0
+06/05/2020,"Central Shenandoah","Northwest Region",0,0
+06/05/2020,"Central Virginia","Southwest Region",0,0
+06/05/2020,Chesapeake,"Eastern Region",0,0
+06/05/2020,Chesterfield,"Central Region",0,0
+06/05/2020,Chickahominy,"Central Region",0,0
+06/05/2020,Crater,"Central Region",0,0
+06/05/2020,"Cumberland Plateau","Southwest Region",0,0
+06/05/2020,"Eastern Shore","Eastern Region",0,0
+06/05/2020,Fairfax,"Northern Region",2,0
+06/05/2020,Hampton,"Eastern Region",0,0
+06/05/2020,Henrico,"Central Region",0,0
+06/05/2020,Lenowisco,"Southwest Region",0,0
+06/05/2020,"Lord Fairfax","Northwest Region",0,0
+06/05/2020,Loudoun,"Northern Region",0,0
+06/05/2020,"Mount Rogers","Southwest Region",0,0
+06/05/2020,"New River","Southwest Region",0,0
+06/05/2020,Norfolk,"Eastern Region",0,0
+06/05/2020,Peninsula,"Eastern Region",0,0
+06/05/2020,Piedmont,"Central Region",0,0
+06/05/2020,Pittsylvania-Danville,"Southwest Region",0,0
+06/05/2020,Portsmouth,"Eastern Region",0,0
+06/05/2020,"Prince William","Northern Region",0,0
+06/05/2020,Rappahannock,"Northwest Region",0,0
+06/05/2020,"Rappahannock Rapidan","Northwest Region",0,0
+06/05/2020,Richmond,"Central Region",0,0
+06/05/2020,Roanoke,"Southwest Region",0,0
+06/05/2020,Southside,"Central Region",0,0
+06/05/2020,"Thomas Jefferson","Northwest Region",0,0
+06/05/2020,"Three Rivers","Eastern Region",0,0
+06/05/2020,"Virginia Beach","Eastern Region",0,0
+06/05/2020,"West Piedmont","Southwest Region",0,0
+06/05/2020,"Western Tidewater","Eastern Region",0,0
+06/07/2020,Alexandria,"Northern Region",0,0
+06/07/2020,Alleghany,"Southwest Region",0,0
+06/07/2020,Arlington,"Northern Region",0,0
+06/07/2020,"Central Shenandoah","Northwest Region",0,0
+06/07/2020,"Central Virginia","Southwest Region",0,0
+06/07/2020,Chesapeake,"Eastern Region",0,0
+06/07/2020,Chesterfield,"Central Region",0,0
+06/07/2020,Chickahominy,"Central Region",0,0
+06/07/2020,Crater,"Central Region",0,0
+06/07/2020,"Cumberland Plateau","Southwest Region",0,0
+06/07/2020,"Eastern Shore","Eastern Region",0,0
+06/07/2020,Fairfax,"Northern Region",2,0
+06/07/2020,Hampton,"Eastern Region",0,0
+06/07/2020,Henrico,"Central Region",0,0
+06/07/2020,Lenowisco,"Southwest Region",0,0
+06/07/2020,"Lord Fairfax","Northwest Region",0,0
+06/07/2020,Loudoun,"Northern Region",0,0
+06/07/2020,"Mount Rogers","Southwest Region",0,0
+06/07/2020,"New River","Southwest Region",0,0
+06/07/2020,Norfolk,"Eastern Region",0,0
+06/07/2020,Peninsula,"Eastern Region",0,0
+06/07/2020,Piedmont,"Central Region",0,0
+06/07/2020,Pittsylvania-Danville,"Southwest Region",0,0
+06/07/2020,Portsmouth,"Eastern Region",0,0
+06/07/2020,"Prince William","Northern Region",0,0
+06/07/2020,Rappahannock,"Northwest Region",0,0
+06/07/2020,"Rappahannock Rapidan","Northwest Region",0,0
+06/07/2020,Richmond,"Central Region",0,0
+06/07/2020,Roanoke,"Southwest Region",0,0
+06/07/2020,Southside,"Central Region",0,0
+06/07/2020,"Thomas Jefferson","Northwest Region",0,0
+06/07/2020,"Three Rivers","Eastern Region",0,0
+06/07/2020,"Virginia Beach","Eastern Region",0,0
+06/07/2020,"West Piedmont","Southwest Region",0,0
+06/07/2020,"Western Tidewater","Eastern Region",0,0
+06/08/2020,Alexandria,"Northern Region",0,0
+06/08/2020,Alleghany,"Southwest Region",0,0
+06/08/2020,Arlington,"Northern Region",0,0
+06/08/2020,"Central Shenandoah","Northwest Region",0,0
+06/08/2020,"Central Virginia","Southwest Region",0,0
+06/08/2020,Chesapeake,"Eastern Region",0,0
+06/08/2020,Chesterfield,"Central Region",0,0
+06/08/2020,Chickahominy,"Central Region",0,0
+06/08/2020,Crater,"Central Region",0,0
+06/08/2020,"Cumberland Plateau","Southwest Region",0,0
+06/08/2020,"Eastern Shore","Eastern Region",0,0
+06/08/2020,Fairfax,"Northern Region",2,0
+06/08/2020,Hampton,"Eastern Region",0,0
+06/08/2020,Henrico,"Central Region",0,0
+06/08/2020,Lenowisco,"Southwest Region",0,0
+06/08/2020,"Lord Fairfax","Northwest Region",0,0
+06/08/2020,Loudoun,"Northern Region",0,0
+06/08/2020,"Mount Rogers","Southwest Region",0,0
+06/08/2020,"New River","Southwest Region",0,0
+06/08/2020,Norfolk,"Eastern Region",0,0
+06/08/2020,Peninsula,"Eastern Region",0,0
+06/08/2020,Piedmont,"Central Region",0,0
+06/08/2020,Pittsylvania-Danville,"Southwest Region",0,0
+06/08/2020,Portsmouth,"Eastern Region",0,0
+06/08/2020,"Prince William","Northern Region",0,0
+06/08/2020,Rappahannock,"Northwest Region",0,0
+06/08/2020,"Rappahannock Rapidan","Northwest Region",0,0
+06/08/2020,Richmond,"Central Region",0,0
+06/08/2020,Roanoke,"Southwest Region",0,0
+06/08/2020,Southside,"Central Region",0,0
+06/08/2020,"Thomas Jefferson","Northwest Region",0,0
+06/08/2020,"Three Rivers","Eastern Region",0,0
+06/08/2020,"Virginia Beach","Eastern Region",0,0
+06/08/2020,"West Piedmont","Southwest Region",0,0
+06/08/2020,"Western Tidewater","Eastern Region",0,0
+06/09/2020,Alexandria,"Northern Region",0,0
+06/09/2020,Alleghany,"Southwest Region",0,0
+06/09/2020,Arlington,"Northern Region",0,0
+06/09/2020,"Central Shenandoah","Northwest Region",0,0
+06/09/2020,"Central Virginia","Southwest Region",0,0
+06/09/2020,Chesapeake,"Eastern Region",0,0
+06/09/2020,Chesterfield,"Central Region",0,0
+06/09/2020,Chickahominy,"Central Region",0,0
+06/09/2020,Crater,"Central Region",0,0
+06/09/2020,"Cumberland Plateau","Southwest Region",0,0
+06/09/2020,"Eastern Shore","Eastern Region",0,0
+06/09/2020,Fairfax,"Northern Region",2,0
+06/09/2020,Hampton,"Eastern Region",0,0
+06/09/2020,Henrico,"Central Region",0,0
+06/09/2020,Lenowisco,"Southwest Region",0,0
+06/09/2020,"Lord Fairfax","Northwest Region",0,0
+06/09/2020,Loudoun,"Northern Region",0,0
+06/09/2020,"Mount Rogers","Southwest Region",0,0
+06/09/2020,"New River","Southwest Region",0,0
+06/09/2020,Norfolk,"Eastern Region",0,0
+06/09/2020,Peninsula,"Eastern Region",0,0
+06/09/2020,Piedmont,"Central Region",0,0
+06/09/2020,Pittsylvania-Danville,"Southwest Region",0,0
+06/09/2020,Portsmouth,"Eastern Region",0,0
+06/09/2020,"Prince William","Northern Region",0,0
+06/09/2020,Rappahannock,"Northwest Region",0,0
+06/09/2020,"Rappahannock Rapidan","Northwest Region",0,0
+06/09/2020,Richmond,"Central Region",0,0
+06/09/2020,Roanoke,"Southwest Region",0,0
+06/09/2020,Southside,"Central Region",0,0
+06/09/2020,"Thomas Jefferson","Northwest Region",0,0
+06/09/2020,"Three Rivers","Eastern Region",0,0
+06/09/2020,"Virginia Beach","Eastern Region",0,0
+06/09/2020,"West Piedmont","Southwest Region",0,0
+06/09/2020,"Western Tidewater","Eastern Region",0,0
+06/10/2020,Alexandria,"Northern Region",0,0
+06/10/2020,Alleghany,"Southwest Region",0,0
+06/10/2020,Arlington,"Northern Region",0,0
+06/10/2020,"Central Shenandoah","Northwest Region",0,0
+06/10/2020,"Central Virginia","Southwest Region",0,0
+06/10/2020,Chesapeake,"Eastern Region",0,0
+06/10/2020,Chesterfield,"Central Region",0,0
+06/10/2020,Chickahominy,"Central Region",0,0
+06/10/2020,Crater,"Central Region",0,0
+06/10/2020,"Cumberland Plateau","Southwest Region",0,0
+06/10/2020,"Eastern Shore","Eastern Region",0,0
+06/10/2020,Fairfax,"Northern Region",2,0
+06/10/2020,Hampton,"Eastern Region",0,0
+06/10/2020,Henrico,"Central Region",0,0
+06/10/2020,Lenowisco,"Southwest Region",0,0
+06/10/2020,"Lord Fairfax","Northwest Region",0,0
+06/10/2020,Loudoun,"Northern Region",0,0
+06/10/2020,"Mount Rogers","Southwest Region",0,0
+06/10/2020,"New River","Southwest Region",0,0
+06/10/2020,Norfolk,"Eastern Region",0,0
+06/10/2020,Peninsula,"Eastern Region",0,0
+06/10/2020,Piedmont,"Central Region",0,0
+06/10/2020,Pittsylvania-Danville,"Southwest Region",0,0
+06/10/2020,Portsmouth,"Eastern Region",0,0
+06/10/2020,"Prince William","Northern Region",0,0
+06/10/2020,Rappahannock,"Northwest Region",0,0
+06/10/2020,"Rappahannock Rapidan","Northwest Region",0,0
+06/10/2020,Richmond,"Central Region",0,0
+06/10/2020,Roanoke,"Southwest Region",0,0
+06/10/2020,Southside,"Central Region",0,0
+06/10/2020,"Thomas Jefferson","Northwest Region",0,0
+06/10/2020,"Three Rivers","Eastern Region",0,0
+06/10/2020,"Virginia Beach","Eastern Region",0,0
+06/10/2020,"West Piedmont","Southwest Region",0,0
+06/10/2020,"Western Tidewater","Eastern Region",0,0
+06/11/2020,Alexandria,"Northern Region",0,0
+06/11/2020,Alleghany,"Southwest Region",0,0
+06/11/2020,Arlington,"Northern Region",0,0
+06/11/2020,"Central Shenandoah","Northwest Region",0,0
+06/11/2020,"Central Virginia","Southwest Region",0,0
+06/11/2020,Chesapeake,"Eastern Region",0,0
+06/11/2020,Chesterfield,"Central Region",0,0
+06/11/2020,Chickahominy,"Central Region",0,0
+06/11/2020,Crater,"Central Region",0,0
+06/11/2020,"Cumberland Plateau","Southwest Region",0,0
+06/11/2020,"Eastern Shore","Eastern Region",0,0
+06/11/2020,Fairfax,"Northern Region",2,0
+06/11/2020,Hampton,"Eastern Region",0,0
+06/11/2020,Henrico,"Central Region",0,0
+06/11/2020,Lenowisco,"Southwest Region",0,0
+06/11/2020,"Lord Fairfax","Northwest Region",0,0
+06/11/2020,Loudoun,"Northern Region",0,0
+06/11/2020,"Mount Rogers","Southwest Region",0,0
+06/11/2020,"New River","Southwest Region",0,0
+06/11/2020,Norfolk,"Eastern Region",0,0
+06/11/2020,Peninsula,"Eastern Region",0,0
+06/11/2020,Piedmont,"Central Region",0,0
+06/11/2020,Pittsylvania-Danville,"Southwest Region",0,0
+06/11/2020,Portsmouth,"Eastern Region",0,0
+06/11/2020,"Prince William","Northern Region",0,0
+06/11/2020,Rappahannock,"Northwest Region",0,0
+06/11/2020,"Rappahannock Rapidan","Northwest Region",0,0
+06/11/2020,Richmond,"Central Region",0,0
+06/11/2020,Roanoke,"Southwest Region",0,0
+06/11/2020,Southside,"Central Region",0,0
+06/11/2020,"Thomas Jefferson","Northwest Region",0,0
+06/11/2020,"Three Rivers","Eastern Region",0,0
+06/11/2020,"Virginia Beach","Eastern Region",0,0
+06/11/2020,"West Piedmont","Southwest Region",0,0
+06/11/2020,"Western Tidewater","Eastern Region",0,0
+06/12/2020,Alexandria,"Northern Region",0,0
+06/12/2020,Alleghany,"Southwest Region",0,0
+06/12/2020,Arlington,"Northern Region",0,0
+06/12/2020,"Central Shenandoah","Northwest Region",0,0
+06/12/2020,"Central Virginia","Southwest Region",0,0
+06/12/2020,Chesapeake,"Eastern Region",0,0
+06/12/2020,Chesterfield,"Central Region",0,0
+06/12/2020,Chickahominy,"Central Region",0,0
+06/12/2020,Crater,"Central Region",0,0
+06/12/2020,"Cumberland Plateau","Southwest Region",0,0
+06/12/2020,"Eastern Shore","Eastern Region",0,0
+06/12/2020,Fairfax,"Northern Region",2,0
+06/12/2020,Hampton,"Eastern Region",0,0
+06/12/2020,Henrico,"Central Region",0,0
+06/12/2020,Lenowisco,"Southwest Region",0,0
+06/12/2020,"Lord Fairfax","Northwest Region",0,0
+06/12/2020,Loudoun,"Northern Region",0,0
+06/12/2020,"Mount Rogers","Southwest Region",0,0
+06/12/2020,"New River","Southwest Region",0,0
+06/12/2020,Norfolk,"Eastern Region",0,0
+06/12/2020,Peninsula,"Eastern Region",0,0
+06/12/2020,Piedmont,"Central Region",0,0
+06/12/2020,Pittsylvania-Danville,"Southwest Region",0,0
+06/12/2020,Portsmouth,"Eastern Region",0,0
+06/12/2020,"Prince William","Northern Region",0,0
+06/12/2020,Rappahannock,"Northwest Region",0,0
+06/12/2020,"Rappahannock Rapidan","Northwest Region",0,0
+06/12/2020,Richmond,"Central Region",0,0
+06/12/2020,Roanoke,"Southwest Region",0,0
+06/12/2020,Southside,"Central Region",0,0
+06/12/2020,"Thomas Jefferson","Northwest Region",0,0
+06/12/2020,"Three Rivers","Eastern Region",0,0
+06/12/2020,"Virginia Beach","Eastern Region",0,0
+06/12/2020,"West Piedmont","Southwest Region",0,0
+06/12/2020,"Western Tidewater","Eastern Region",0,0
+06/13/2020,Alexandria,"Northern Region",0,0
+06/13/2020,Alleghany,"Southwest Region",0,0
+06/13/2020,Arlington,"Northern Region",0,0
+06/13/2020,"Central Shenandoah","Northwest Region",0,0
+06/13/2020,"Central Virginia","Southwest Region",0,0
+06/13/2020,Chesapeake,"Eastern Region",0,0
+06/13/2020,Chesterfield,"Central Region",0,0
+06/13/2020,Chickahominy,"Central Region",0,0
+06/13/2020,Crater,"Central Region",0,0
+06/13/2020,"Cumberland Plateau","Southwest Region",0,0
+06/13/2020,"Eastern Shore","Eastern Region",0,0
+06/13/2020,Fairfax,"Northern Region",2,0
+06/13/2020,Hampton,"Eastern Region",0,0
+06/13/2020,Henrico,"Central Region",0,0
+06/13/2020,Lenowisco,"Southwest Region",0,0
+06/13/2020,"Lord Fairfax","Northwest Region",0,0
+06/13/2020,Loudoun,"Northern Region",0,0
+06/13/2020,"Mount Rogers","Southwest Region",0,0
+06/13/2020,"New River","Southwest Region",0,0
+06/13/2020,Norfolk,"Eastern Region",0,0
+06/13/2020,Peninsula,"Eastern Region",0,0
+06/13/2020,Piedmont,"Central Region",0,0
+06/13/2020,Pittsylvania-Danville,"Southwest Region",0,0
+06/13/2020,Portsmouth,"Eastern Region",0,0
+06/13/2020,"Prince William","Northern Region",0,0
+06/13/2020,Rappahannock,"Northwest Region",0,0
+06/13/2020,"Rappahannock Rapidan","Northwest Region",0,0
+06/13/2020,Richmond,"Central Region",0,0
+06/13/2020,Roanoke,"Southwest Region",0,0
+06/13/2020,Southside,"Central Region",0,0
+06/13/2020,"Thomas Jefferson","Northwest Region",0,0
+06/13/2020,"Three Rivers","Eastern Region",0,0
+06/13/2020,"Virginia Beach","Eastern Region",0,0
+06/13/2020,"West Piedmont","Southwest Region",0,0
+06/13/2020,"Western Tidewater","Eastern Region",0,0
+06/14/2020,Alexandria,"Northern Region",0,0
+06/14/2020,Alleghany,"Southwest Region",0,0
+06/14/2020,Arlington,"Northern Region",0,0
+06/14/2020,"Central Shenandoah","Northwest Region",0,0
+06/14/2020,"Central Virginia","Southwest Region",0,0
+06/14/2020,Chesapeake,"Eastern Region",0,0
+06/14/2020,Chesterfield,"Central Region",0,0
+06/14/2020,Chickahominy,"Central Region",0,0
+06/14/2020,Crater,"Central Region",0,0
+06/14/2020,"Cumberland Plateau","Southwest Region",0,0
+06/14/2020,"Eastern Shore","Eastern Region",0,0
+06/14/2020,Fairfax,"Northern Region",2,0
+06/14/2020,Hampton,"Eastern Region",0,0
+06/14/2020,Henrico,"Central Region",0,0
+06/14/2020,Lenowisco,"Southwest Region",0,0
+06/14/2020,"Lord Fairfax","Northwest Region",0,0
+06/14/2020,Loudoun,"Northern Region",0,0
+06/14/2020,"Mount Rogers","Southwest Region",0,0
+06/14/2020,"New River","Southwest Region",0,0
+06/14/2020,Norfolk,"Eastern Region",0,0
+06/14/2020,Peninsula,"Eastern Region",0,0
+06/14/2020,Piedmont,"Central Region",0,0
+06/14/2020,Pittsylvania-Danville,"Southwest Region",0,0
+06/14/2020,Portsmouth,"Eastern Region",0,0
+06/14/2020,"Prince William","Northern Region",0,0
+06/14/2020,Rappahannock,"Northwest Region",0,0
+06/14/2020,"Rappahannock Rapidan","Northwest Region",0,0
+06/14/2020,Richmond,"Central Region",0,0
+06/14/2020,Roanoke,"Southwest Region",0,0
+06/14/2020,Southside,"Central Region",0,0
+06/14/2020,"Thomas Jefferson","Northwest Region",0,0
+06/14/2020,"Three Rivers","Eastern Region",0,0
+06/14/2020,"Virginia Beach","Eastern Region",0,0
+06/14/2020,"West Piedmont","Southwest Region",0,0
+06/14/2020,"Western Tidewater","Eastern Region",0,0
+06/15/2020,Alexandria,"Northern Region",0,0
+06/15/2020,Alleghany,"Southwest Region",0,0
+06/15/2020,Arlington,"Northern Region",0,0
+06/15/2020,"Central Shenandoah","Northwest Region",0,0
+06/15/2020,"Central Virginia","Southwest Region",0,0
+06/15/2020,Chesapeake,"Eastern Region",0,0
+06/15/2020,Chesterfield,"Central Region",0,0
+06/15/2020,Chickahominy,"Central Region",0,0
+06/15/2020,Crater,"Central Region",0,0
+06/15/2020,"Cumberland Plateau","Southwest Region",0,0
+06/15/2020,"Eastern Shore","Eastern Region",0,0
+06/15/2020,Fairfax,"Northern Region",2,0
+06/15/2020,Hampton,"Eastern Region",0,0
+06/15/2020,Henrico,"Central Region",0,0
+06/15/2020,Lenowisco,"Southwest Region",0,0
+06/15/2020,"Lord Fairfax","Northwest Region",0,0
+06/15/2020,Loudoun,"Northern Region",0,0
+06/15/2020,"Mount Rogers","Southwest Region",0,0
+06/15/2020,"New River","Southwest Region",0,0
+06/15/2020,Norfolk,"Eastern Region",0,0
+06/15/2020,Peninsula,"Eastern Region",0,0
+06/15/2020,Piedmont,"Central Region",0,0
+06/15/2020,Pittsylvania-Danville,"Southwest Region",0,0
+06/15/2020,Portsmouth,"Eastern Region",0,0
+06/15/2020,"Prince William","Northern Region",0,0
+06/15/2020,Rappahannock,"Northwest Region",0,0
+06/15/2020,"Rappahannock Rapidan","Northwest Region",0,0
+06/15/2020,Richmond,"Central Region",0,0
+06/15/2020,Roanoke,"Southwest Region",0,0
+06/15/2020,Southside,"Central Region",0,0
+06/15/2020,"Thomas Jefferson","Northwest Region",0,0
+06/15/2020,"Three Rivers","Eastern Region",0,0
+06/15/2020,"Virginia Beach","Eastern Region",0,0
+06/15/2020,"West Piedmont","Southwest Region",0,0
+06/15/2020,"Western Tidewater","Eastern Region",0,0
+06/16/2020,Alexandria,"Northern Region",0,0
+06/16/2020,Alleghany,"Southwest Region",0,0
+06/16/2020,Arlington,"Northern Region",0,0
+06/16/2020,"Central Shenandoah","Northwest Region",0,0
+06/16/2020,"Central Virginia","Southwest Region",0,0
+06/16/2020,Chesapeake,"Eastern Region",0,0
+06/16/2020,Chesterfield,"Central Region",0,0
+06/16/2020,Chickahominy,"Central Region",0,0
+06/16/2020,Crater,"Central Region",0,0
+06/16/2020,"Cumberland Plateau","Southwest Region",0,0
+06/16/2020,"Eastern Shore","Eastern Region",0,0
+06/16/2020,Fairfax,"Northern Region",2,0
+06/16/2020,Hampton,"Eastern Region",0,0
+06/16/2020,Henrico,"Central Region",0,0
+06/16/2020,Lenowisco,"Southwest Region",0,0
+06/16/2020,"Lord Fairfax","Northwest Region",0,0
+06/16/2020,Loudoun,"Northern Region",0,0
+06/16/2020,"Mount Rogers","Southwest Region",0,0
+06/16/2020,"New River","Southwest Region",0,0
+06/16/2020,Norfolk,"Eastern Region",0,0
+06/16/2020,Peninsula,"Eastern Region",0,0
+06/16/2020,Piedmont,"Central Region",0,0
+06/16/2020,Pittsylvania-Danville,"Southwest Region",0,0
+06/16/2020,Portsmouth,"Eastern Region",0,0
+06/16/2020,"Prince William","Northern Region",0,0
+06/16/2020,Rappahannock,"Northwest Region",0,0
+06/16/2020,"Rappahannock Rapidan","Northwest Region",0,0
+06/16/2020,Richmond,"Central Region",0,0
+06/16/2020,Roanoke,"Southwest Region",0,0
+06/16/2020,Southside,"Central Region",0,0
+06/16/2020,"Thomas Jefferson","Northwest Region",0,0
+06/16/2020,"Three Rivers","Eastern Region",0,0
+06/16/2020,"Virginia Beach","Eastern Region",0,0
+06/16/2020,"West Piedmont","Southwest Region",0,0
+06/16/2020,"Western Tidewater","Eastern Region",0,0
+06/17/2020,Alexandria,"Northern Region",0,0
+06/17/2020,Alleghany,"Southwest Region",0,0
+06/17/2020,Arlington,"Northern Region",0,0
+06/17/2020,"Central Shenandoah","Northwest Region",0,0
+06/17/2020,"Central Virginia","Southwest Region",0,0
+06/17/2020,Chesapeake,"Eastern Region",0,0
+06/17/2020,Chesterfield,"Central Region",0,0
+06/17/2020,Chickahominy,"Central Region",0,0
+06/17/2020,Crater,"Central Region",0,0
+06/17/2020,"Cumberland Plateau","Southwest Region",0,0
+06/17/2020,"Eastern Shore","Eastern Region",0,0
+06/17/2020,Fairfax,"Northern Region",2,0
+06/17/2020,Hampton,"Eastern Region",0,0
+06/17/2020,Henrico,"Central Region",0,0
+06/17/2020,Lenowisco,"Southwest Region",0,0
+06/17/2020,"Lord Fairfax","Northwest Region",0,0
+06/17/2020,Loudoun,"Northern Region",0,0
+06/17/2020,"Mount Rogers","Southwest Region",0,0
+06/17/2020,"New River","Southwest Region",0,0
+06/17/2020,Norfolk,"Eastern Region",0,0
+06/17/2020,Peninsula,"Eastern Region",0,0
+06/17/2020,Piedmont,"Central Region",0,0
+06/17/2020,Pittsylvania-Danville,"Southwest Region",0,0
+06/17/2020,Portsmouth,"Eastern Region",0,0
+06/17/2020,"Prince William","Northern Region",0,0
+06/17/2020,Rappahannock,"Northwest Region",0,0
+06/17/2020,"Rappahannock Rapidan","Northwest Region",0,0
+06/17/2020,Richmond,"Central Region",0,0
+06/17/2020,Roanoke,"Southwest Region",0,0
+06/17/2020,Southside,"Central Region",0,0
+06/17/2020,"Thomas Jefferson","Northwest Region",0,0
+06/17/2020,"Three Rivers","Eastern Region",0,0
+06/17/2020,"Virginia Beach","Eastern Region",0,0
+06/17/2020,"West Piedmont","Southwest Region",0,0
+06/17/2020,"Western Tidewater","Eastern Region",0,0
+06/18/2020,Alexandria,"Northern Region",0,0
+06/18/2020,Alleghany,"Southwest Region",0,0
+06/18/2020,Arlington,"Northern Region",0,0
+06/18/2020,"Central Shenandoah","Northwest Region",0,0
+06/18/2020,"Central Virginia","Southwest Region",0,0
+06/18/2020,Chesapeake,"Eastern Region",0,0
+06/18/2020,Chesterfield,"Central Region",0,0
+06/18/2020,Chickahominy,"Central Region",0,0
+06/18/2020,Crater,"Central Region",0,0
+06/18/2020,"Cumberland Plateau","Southwest Region",0,0
+06/18/2020,"Eastern Shore","Eastern Region",0,0
+06/18/2020,Fairfax,"Northern Region",2,0
+06/18/2020,Hampton,"Eastern Region",0,0
+06/18/2020,Henrico,"Central Region",0,0
+06/18/2020,Lenowisco,"Southwest Region",0,0
+06/18/2020,"Lord Fairfax","Northwest Region",0,0
+06/18/2020,Loudoun,"Northern Region",0,0
+06/18/2020,"Mount Rogers","Southwest Region",0,0
+06/18/2020,"New River","Southwest Region",0,0
+06/18/2020,Norfolk,"Eastern Region",0,0
+06/18/2020,Peninsula,"Eastern Region",0,0
+06/18/2020,Piedmont,"Central Region",0,0
+06/18/2020,Pittsylvania-Danville,"Southwest Region",0,0
+06/18/2020,Portsmouth,"Eastern Region",0,0
+06/18/2020,"Prince William","Northern Region",0,0
+06/18/2020,Rappahannock,"Northwest Region",0,0
+06/18/2020,"Rappahannock Rapidan","Northwest Region",0,0
+06/18/2020,Richmond,"Central Region",0,0
+06/18/2020,Roanoke,"Southwest Region",0,0
+06/18/2020,Southside,"Central Region",0,0
+06/18/2020,"Thomas Jefferson","Northwest Region",0,0
+06/18/2020,"Three Rivers","Eastern Region",0,0
+06/18/2020,"Virginia Beach","Eastern Region",0,0
+06/18/2020,"West Piedmont","Southwest Region",0,0
+06/18/2020,"Western Tidewater","Eastern Region",0,0
+06/19/2020,Alexandria,"Northern Region",1,0
+06/19/2020,Alleghany,"Southwest Region",0,0
+06/19/2020,Arlington,"Northern Region",0,0
+06/19/2020,"Central Shenandoah","Northwest Region",0,0
+06/19/2020,"Central Virginia","Southwest Region",0,0
+06/19/2020,Chesapeake,"Eastern Region",0,0
+06/19/2020,Chesterfield,"Central Region",0,0
+06/19/2020,Chickahominy,"Central Region",0,0
+06/19/2020,Crater,"Central Region",0,0
+06/19/2020,"Cumberland Plateau","Southwest Region",0,0
+06/19/2020,"Eastern Shore","Eastern Region",0,0
+06/19/2020,Fairfax,"Northern Region",2,0
+06/19/2020,Hampton,"Eastern Region",0,0
+06/19/2020,Henrico,"Central Region",0,0
+06/19/2020,Lenowisco,"Southwest Region",0,0
+06/19/2020,"Lord Fairfax","Northwest Region",0,0
+06/19/2020,Loudoun,"Northern Region",0,0
+06/19/2020,"Mount Rogers","Southwest Region",0,0
+06/19/2020,"New River","Southwest Region",0,0
+06/19/2020,Norfolk,"Eastern Region",0,0
+06/19/2020,Peninsula,"Eastern Region",0,0
+06/19/2020,Piedmont,"Central Region",0,0
+06/19/2020,Pittsylvania-Danville,"Southwest Region",0,0
+06/19/2020,Portsmouth,"Eastern Region",0,0
+06/19/2020,"Prince William","Northern Region",1,0
+06/19/2020,Rappahannock,"Northwest Region",0,0
+06/19/2020,"Rappahannock Rapidan","Northwest Region",0,0
+06/19/2020,Richmond,"Central Region",0,0
+06/19/2020,Roanoke,"Southwest Region",0,0
+06/19/2020,Southside,"Central Region",0,0
+06/19/2020,"Thomas Jefferson","Northwest Region",0,0
+06/19/2020,"Three Rivers","Eastern Region",0,0
+06/19/2020,"Virginia Beach","Eastern Region",0,0
+06/19/2020,"West Piedmont","Southwest Region",0,0
+06/19/2020,"Western Tidewater","Eastern Region",0,0
+06/20/2020,Alexandria,"Northern Region",1,0
+06/20/2020,Alleghany,"Southwest Region",0,0
+06/20/2020,Arlington,"Northern Region",0,0
+06/20/2020,"Central Shenandoah","Northwest Region",0,0
+06/20/2020,"Central Virginia","Southwest Region",0,0
+06/20/2020,Chesapeake,"Eastern Region",0,0
+06/20/2020,Chesterfield,"Central Region",0,0
+06/20/2020,Chickahominy,"Central Region",0,0
+06/20/2020,Crater,"Central Region",0,0
+06/20/2020,"Cumberland Plateau","Southwest Region",0,0
+06/20/2020,"Eastern Shore","Eastern Region",0,0
+06/20/2020,Fairfax,"Northern Region",2,0
+06/20/2020,Hampton,"Eastern Region",0,0
+06/20/2020,Henrico,"Central Region",0,0
+06/20/2020,Lenowisco,"Southwest Region",0,0
+06/20/2020,"Lord Fairfax","Northwest Region",0,0
+06/20/2020,Loudoun,"Northern Region",0,0
+06/20/2020,"Mount Rogers","Southwest Region",0,0
+06/20/2020,"New River","Southwest Region",0,0
+06/20/2020,Norfolk,"Eastern Region",0,0
+06/20/2020,Peninsula,"Eastern Region",0,0
+06/20/2020,Piedmont,"Central Region",0,0
+06/20/2020,Pittsylvania-Danville,"Southwest Region",0,0
+06/20/2020,Portsmouth,"Eastern Region",0,0
+06/20/2020,"Prince William","Northern Region",1,0
+06/20/2020,Rappahannock,"Northwest Region",0,0
+06/20/2020,"Rappahannock Rapidan","Northwest Region",0,0
+06/20/2020,Richmond,"Central Region",0,0
+06/20/2020,Roanoke,"Southwest Region",0,0
+06/20/2020,Southside,"Central Region",0,0
+06/20/2020,"Thomas Jefferson","Northwest Region",0,0
+06/20/2020,"Three Rivers","Eastern Region",0,0
+06/20/2020,"Virginia Beach","Eastern Region",0,0
+06/20/2020,"West Piedmont","Southwest Region",0,0
+06/20/2020,"Western Tidewater","Eastern Region",0,0
+06/21/2020,Alexandria,"Northern Region",1,0
+06/21/2020,Alleghany,"Southwest Region",0,0
+06/21/2020,Arlington,"Northern Region",0,0
+06/21/2020,"Central Shenandoah","Northwest Region",0,0
+06/21/2020,"Central Virginia","Southwest Region",0,0
+06/21/2020,Chesapeake,"Eastern Region",0,0
+06/21/2020,Chesterfield,"Central Region",0,0
+06/21/2020,Chickahominy,"Central Region",0,0
+06/21/2020,Crater,"Central Region",0,0
+06/21/2020,"Cumberland Plateau","Southwest Region",0,0
+06/21/2020,"Eastern Shore","Eastern Region",0,0
+06/21/2020,Fairfax,"Northern Region",2,0
+06/21/2020,Hampton,"Eastern Region",0,0
+06/21/2020,Henrico,"Central Region",0,0
+06/21/2020,Lenowisco,"Southwest Region",0,0
+06/21/2020,"Lord Fairfax","Northwest Region",0,0
+06/21/2020,Loudoun,"Northern Region",0,0
+06/21/2020,"Mount Rogers","Southwest Region",0,0
+06/21/2020,"New River","Southwest Region",0,0
+06/21/2020,Norfolk,"Eastern Region",0,0
+06/21/2020,Peninsula,"Eastern Region",0,0
+06/21/2020,Piedmont,"Central Region",0,0
+06/21/2020,Pittsylvania-Danville,"Southwest Region",0,0
+06/21/2020,Portsmouth,"Eastern Region",0,0
+06/21/2020,"Prince William","Northern Region",1,0
+06/21/2020,Rappahannock,"Northwest Region",0,0
+06/21/2020,"Rappahannock Rapidan","Northwest Region",0,0
+06/21/2020,Richmond,"Central Region",0,0
+06/21/2020,Roanoke,"Southwest Region",0,0
+06/21/2020,Southside,"Central Region",0,0
+06/21/2020,"Thomas Jefferson","Northwest Region",0,0
+06/21/2020,"Three Rivers","Eastern Region",0,0
+06/21/2020,"Virginia Beach","Eastern Region",0,0
+06/21/2020,"West Piedmont","Southwest Region",0,0
+06/21/2020,"Western Tidewater","Eastern Region",0,0
+06/22/2020,Alexandria,"Northern Region",1,0
+06/22/2020,Alleghany,"Southwest Region",0,0
+06/22/2020,Arlington,"Northern Region",0,0
+06/22/2020,"Central Shenandoah","Northwest Region",0,0
+06/22/2020,"Central Virginia","Southwest Region",0,0
+06/22/2020,Chesapeake,"Eastern Region",0,0
+06/22/2020,Chesterfield,"Central Region",0,0
+06/22/2020,Chickahominy,"Central Region",0,0
+06/22/2020,Crater,"Central Region",0,0
+06/22/2020,"Cumberland Plateau","Southwest Region",0,0
+06/22/2020,"Eastern Shore","Eastern Region",0,0
+06/22/2020,Fairfax,"Northern Region",2,0
+06/22/2020,Hampton,"Eastern Region",0,0
+06/22/2020,Henrico,"Central Region",0,0
+06/22/2020,Lenowisco,"Southwest Region",0,0
+06/22/2020,"Lord Fairfax","Northwest Region",0,0
+06/22/2020,Loudoun,"Northern Region",0,0
+06/22/2020,"Mount Rogers","Southwest Region",0,0
+06/22/2020,"New River","Southwest Region",0,0
+06/22/2020,Norfolk,"Eastern Region",0,0
+06/22/2020,Peninsula,"Eastern Region",0,0
+06/22/2020,Piedmont,"Central Region",0,0
+06/22/2020,Pittsylvania-Danville,"Southwest Region",0,0
+06/22/2020,Portsmouth,"Eastern Region",0,0
+06/22/2020,"Prince William","Northern Region",1,0
+06/22/2020,Rappahannock,"Northwest Region",0,0
+06/22/2020,"Rappahannock Rapidan","Northwest Region",0,0
+06/22/2020,Richmond,"Central Region",0,0
+06/22/2020,Roanoke,"Southwest Region",0,0
+06/22/2020,Southside,"Central Region",0,0
+06/22/2020,"Thomas Jefferson","Northwest Region",0,0
+06/22/2020,"Three Rivers","Eastern Region",0,0
+06/22/2020,"Virginia Beach","Eastern Region",0,0
+06/22/2020,"West Piedmont","Southwest Region",0,0
+06/22/2020,"Western Tidewater","Eastern Region",0,0
+06/23/2020,Alexandria,"Northern Region",1,0
+06/23/2020,Alleghany,"Southwest Region",0,0
+06/23/2020,Arlington,"Northern Region",0,0
+06/23/2020,"Central Shenandoah","Northwest Region",0,0
+06/23/2020,"Central Virginia","Southwest Region",0,0
+06/23/2020,Chesapeake,"Eastern Region",0,0
+06/23/2020,Chesterfield,"Central Region",0,0
+06/23/2020,Chickahominy,"Central Region",0,0
+06/23/2020,Crater,"Central Region",0,0
+06/23/2020,"Cumberland Plateau","Southwest Region",0,0
+06/23/2020,"Eastern Shore","Eastern Region",0,0
+06/23/2020,Fairfax,"Northern Region",2,0
+06/23/2020,Hampton,"Eastern Region",0,0
+06/23/2020,Henrico,"Central Region",0,0
+06/23/2020,Lenowisco,"Southwest Region",0,0
+06/23/2020,"Lord Fairfax","Northwest Region",0,0
+06/23/2020,Loudoun,"Northern Region",0,0
+06/23/2020,"Mount Rogers","Southwest Region",0,0
+06/23/2020,"New River","Southwest Region",0,0
+06/23/2020,Norfolk,"Eastern Region",0,0
+06/23/2020,Peninsula,"Eastern Region",0,0
+06/23/2020,Piedmont,"Central Region",0,0
+06/23/2020,Pittsylvania-Danville,"Southwest Region",0,0
+06/23/2020,Portsmouth,"Eastern Region",0,0
+06/23/2020,"Prince William","Northern Region",1,0
+06/23/2020,Rappahannock,"Northwest Region",0,0
+06/23/2020,"Rappahannock Rapidan","Northwest Region",0,0
+06/23/2020,Richmond,"Central Region",0,0
+06/23/2020,Roanoke,"Southwest Region",0,0
+06/23/2020,Southside,"Central Region",0,0
+06/23/2020,"Thomas Jefferson","Northwest Region",0,0
+06/23/2020,"Three Rivers","Eastern Region",0,0
+06/23/2020,"Virginia Beach","Eastern Region",0,0
+06/23/2020,"West Piedmont","Southwest Region",0,0
+06/23/2020,"Western Tidewater","Eastern Region",0,0
+06/24/2020,Alexandria,"Northern Region",1,0
+06/24/2020,Alleghany,"Southwest Region",0,0
+06/24/2020,Arlington,"Northern Region",0,0
+06/24/2020,"Central Shenandoah","Northwest Region",0,0
+06/24/2020,"Central Virginia","Southwest Region",0,0
+06/24/2020,Chesapeake,"Eastern Region",0,0
+06/24/2020,Chesterfield,"Central Region",0,0
+06/24/2020,Chickahominy,"Central Region",0,0
+06/24/2020,Crater,"Central Region",0,0
+06/24/2020,"Cumberland Plateau","Southwest Region",0,0
+06/24/2020,"Eastern Shore","Eastern Region",0,0
+06/24/2020,Fairfax,"Northern Region",2,0
+06/24/2020,Hampton,"Eastern Region",0,0
+06/24/2020,Henrico,"Central Region",0,0
+06/24/2020,Lenowisco,"Southwest Region",0,0
+06/24/2020,"Lord Fairfax","Northwest Region",0,0
+06/24/2020,Loudoun,"Northern Region",0,0
+06/24/2020,"Mount Rogers","Southwest Region",0,0
+06/24/2020,"New River","Southwest Region",0,0
+06/24/2020,Norfolk,"Eastern Region",0,0
+06/24/2020,Peninsula,"Eastern Region",0,0
+06/24/2020,Piedmont,"Central Region",0,0
+06/24/2020,Pittsylvania-Danville,"Southwest Region",0,0
+06/24/2020,Portsmouth,"Eastern Region",0,0
+06/24/2020,"Prince William","Northern Region",1,0
+06/24/2020,Rappahannock,"Northwest Region",0,0
+06/24/2020,"Rappahannock Rapidan","Northwest Region",0,0
+06/24/2020,Richmond,"Central Region",0,0
+06/24/2020,Roanoke,"Southwest Region",0,0
+06/24/2020,Southside,"Central Region",0,0
+06/24/2020,"Thomas Jefferson","Northwest Region",0,0
+06/24/2020,"Three Rivers","Eastern Region",0,0
+06/24/2020,"Virginia Beach","Eastern Region",0,0
+06/24/2020,"West Piedmont","Southwest Region",0,0
+06/24/2020,"Western Tidewater","Eastern Region",0,0
+06/25/2020,Alexandria,"Northern Region",1,0
+06/25/2020,Alleghany,"Southwest Region",0,0
+06/25/2020,Arlington,"Northern Region",0,0
+06/25/2020,"Central Shenandoah","Northwest Region",0,0
+06/25/2020,"Central Virginia","Southwest Region",0,0
+06/25/2020,Chesapeake,"Eastern Region",0,0
+06/25/2020,Chesterfield,"Central Region",0,0
+06/25/2020,Chickahominy,"Central Region",0,0
+06/25/2020,Crater,"Central Region",0,0
+06/25/2020,"Cumberland Plateau","Southwest Region",0,0
+06/25/2020,"Eastern Shore","Eastern Region",0,0
+06/25/2020,Fairfax,"Northern Region",2,0
+06/25/2020,Hampton,"Eastern Region",0,0
+06/25/2020,Henrico,"Central Region",0,0
+06/25/2020,Lenowisco,"Southwest Region",0,0
+06/25/2020,"Lord Fairfax","Northwest Region",0,0
+06/25/2020,Loudoun,"Northern Region",0,0
+06/25/2020,"Mount Rogers","Southwest Region",0,0
+06/25/2020,"New River","Southwest Region",0,0
+06/25/2020,Norfolk,"Eastern Region",0,0
+06/25/2020,Peninsula,"Eastern Region",0,0
+06/25/2020,Piedmont,"Central Region",0,0
+06/25/2020,Pittsylvania-Danville,"Southwest Region",0,0
+06/25/2020,Portsmouth,"Eastern Region",0,0
+06/25/2020,"Prince William","Northern Region",1,0
+06/25/2020,Rappahannock,"Northwest Region",0,0
+06/25/2020,"Rappahannock Rapidan","Northwest Region",0,0
+06/25/2020,Richmond,"Central Region",0,0
+06/25/2020,Roanoke,"Southwest Region",0,0
+06/25/2020,Southside,"Central Region",0,0
+06/25/2020,"Thomas Jefferson","Northwest Region",0,0
+06/25/2020,"Three Rivers","Eastern Region",0,0
+06/25/2020,"Virginia Beach","Eastern Region",0,0
+06/25/2020,"West Piedmont","Southwest Region",0,0
+06/25/2020,"Western Tidewater","Eastern Region",0,0
+06/26/2020,Alexandria,"Northern Region",1,0
+06/26/2020,Alleghany,"Southwest Region",0,0
+06/26/2020,Arlington,"Northern Region",0,0
+06/26/2020,"Central Shenandoah","Northwest Region",1,0
+06/26/2020,"Central Virginia","Southwest Region",0,0
+06/26/2020,Chesapeake,"Eastern Region",0,0
+06/26/2020,Chesterfield,"Central Region",0,0
+06/26/2020,Chickahominy,"Central Region",0,0
+06/26/2020,Crater,"Central Region",0,0
+06/26/2020,"Cumberland Plateau","Southwest Region",0,0
+06/26/2020,"Eastern Shore","Eastern Region",0,0
+06/26/2020,Fairfax,"Northern Region",2,0
+06/26/2020,Hampton,"Eastern Region",0,0
+06/26/2020,Henrico,"Central Region",0,0
+06/26/2020,Lenowisco,"Southwest Region",0,0
+06/26/2020,"Lord Fairfax","Northwest Region",0,0
+06/26/2020,Loudoun,"Northern Region",0,0
+06/26/2020,"Mount Rogers","Southwest Region",0,0
+06/26/2020,"New River","Southwest Region",0,0
+06/26/2020,Norfolk,"Eastern Region",0,0
+06/26/2020,Peninsula,"Eastern Region",0,0
+06/26/2020,Piedmont,"Central Region",0,0
+06/26/2020,Pittsylvania-Danville,"Southwest Region",0,0
+06/26/2020,Portsmouth,"Eastern Region",0,0
+06/26/2020,"Prince William","Northern Region",1,0
+06/26/2020,Rappahannock,"Northwest Region",0,0
+06/26/2020,"Rappahannock Rapidan","Northwest Region",0,0
+06/26/2020,Richmond,"Central Region",0,0
+06/26/2020,Roanoke,"Southwest Region",0,0
+06/26/2020,Southside,"Central Region",0,0
+06/26/2020,"Thomas Jefferson","Northwest Region",0,0
+06/26/2020,"Three Rivers","Eastern Region",0,0
+06/26/2020,"Virginia Beach","Eastern Region",0,0
+06/26/2020,"West Piedmont","Southwest Region",0,0
+06/26/2020,"Western Tidewater","Eastern Region",0,0
+06/27/2020,Alexandria,"Northern Region",1,0
+06/27/2020,Alleghany,"Southwest Region",0,0
+06/27/2020,Arlington,"Northern Region",0,0
+06/27/2020,"Central Shenandoah","Northwest Region",1,0
+06/27/2020,"Central Virginia","Southwest Region",0,0
+06/27/2020,Chesapeake,"Eastern Region",0,0
+06/27/2020,Chesterfield,"Central Region",0,0
+06/27/2020,Chickahominy,"Central Region",0,0
+06/27/2020,Crater,"Central Region",0,0
+06/27/2020,"Cumberland Plateau","Southwest Region",0,0
+06/27/2020,"Eastern Shore","Eastern Region",0,0
+06/27/2020,Fairfax,"Northern Region",2,0
+06/27/2020,Hampton,"Eastern Region",0,0
+06/27/2020,Henrico,"Central Region",0,0
+06/27/2020,Lenowisco,"Southwest Region",0,0
+06/27/2020,"Lord Fairfax","Northwest Region",0,0
+06/27/2020,Loudoun,"Northern Region",0,0
+06/27/2020,"Mount Rogers","Southwest Region",0,0
+06/27/2020,"New River","Southwest Region",0,0
+06/27/2020,Norfolk,"Eastern Region",0,0
+06/27/2020,Peninsula,"Eastern Region",0,0
+06/27/2020,Piedmont,"Central Region",0,0
+06/27/2020,Pittsylvania-Danville,"Southwest Region",0,0
+06/27/2020,Portsmouth,"Eastern Region",0,0
+06/27/2020,"Prince William","Northern Region",1,0
+06/27/2020,Rappahannock,"Northwest Region",0,0
+06/27/2020,"Rappahannock Rapidan","Northwest Region",0,0
+06/27/2020,Richmond,"Central Region",0,0
+06/27/2020,Roanoke,"Southwest Region",0,0
+06/27/2020,Southside,"Central Region",0,0
+06/27/2020,"Thomas Jefferson","Northwest Region",0,0
+06/27/2020,"Three Rivers","Eastern Region",0,0
+06/27/2020,"Virginia Beach","Eastern Region",0,0
+06/27/2020,"West Piedmont","Southwest Region",0,0
+06/27/2020,"Western Tidewater","Eastern Region",0,0
+06/28/2020,Alexandria,"Northern Region",1,0
+06/28/2020,Alleghany,"Southwest Region",0,0
+06/28/2020,Arlington,"Northern Region",0,0
+06/28/2020,"Central Shenandoah","Northwest Region",1,0
+06/28/2020,"Central Virginia","Southwest Region",0,0
+06/28/2020,Chesapeake,"Eastern Region",0,0
+06/28/2020,Chesterfield,"Central Region",0,0
+06/28/2020,Chickahominy,"Central Region",0,0
+06/28/2020,Crater,"Central Region",0,0
+06/28/2020,"Cumberland Plateau","Southwest Region",0,0
+06/28/2020,"Eastern Shore","Eastern Region",0,0
+06/28/2020,Fairfax,"Northern Region",2,0
+06/28/2020,Hampton,"Eastern Region",0,0
+06/28/2020,Henrico,"Central Region",0,0
+06/28/2020,Lenowisco,"Southwest Region",0,0
+06/28/2020,"Lord Fairfax","Northwest Region",0,0
+06/28/2020,Loudoun,"Northern Region",0,0
+06/28/2020,"Mount Rogers","Southwest Region",0,0
+06/28/2020,"New River","Southwest Region",0,0
+06/28/2020,Norfolk,"Eastern Region",0,0
+06/28/2020,Peninsula,"Eastern Region",0,0
+06/28/2020,Piedmont,"Central Region",0,0
+06/28/2020,Pittsylvania-Danville,"Southwest Region",0,0
+06/28/2020,Portsmouth,"Eastern Region",0,0
+06/28/2020,"Prince William","Northern Region",1,0
+06/28/2020,Rappahannock,"Northwest Region",0,0
+06/28/2020,"Rappahannock Rapidan","Northwest Region",0,0
+06/28/2020,Richmond,"Central Region",0,0
+06/28/2020,Roanoke,"Southwest Region",0,0
+06/28/2020,Southside,"Central Region",0,0
+06/28/2020,"Thomas Jefferson","Northwest Region",0,0
+06/28/2020,"Three Rivers","Eastern Region",0,0
+06/28/2020,"Virginia Beach","Eastern Region",0,0
+06/28/2020,"West Piedmont","Southwest Region",0,0
+06/28/2020,"Western Tidewater","Eastern Region",0,0
+06/29/2020,Alexandria,"Northern Region",1,0
+06/29/2020,Alleghany,"Southwest Region",0,0
+06/29/2020,Arlington,"Northern Region",0,0
+06/29/2020,"Central Shenandoah","Northwest Region",1,0
+06/29/2020,"Central Virginia","Southwest Region",0,0
+06/29/2020,Chesapeake,"Eastern Region",0,0
+06/29/2020,Chesterfield,"Central Region",0,0
+06/29/2020,Chickahominy,"Central Region",0,0
+06/29/2020,Crater,"Central Region",0,0
+06/29/2020,"Cumberland Plateau","Southwest Region",0,0
+06/29/2020,"Eastern Shore","Eastern Region",0,0
+06/29/2020,Fairfax,"Northern Region",2,0
+06/29/2020,Hampton,"Eastern Region",0,0
+06/29/2020,Henrico,"Central Region",0,0
+06/29/2020,Lenowisco,"Southwest Region",0,0
+06/29/2020,"Lord Fairfax","Northwest Region",0,0
+06/29/2020,Loudoun,"Northern Region",0,0
+06/29/2020,"Mount Rogers","Southwest Region",0,0
+06/29/2020,"New River","Southwest Region",0,0
+06/29/2020,Norfolk,"Eastern Region",0,0
+06/29/2020,Peninsula,"Eastern Region",0,0
+06/29/2020,Piedmont,"Central Region",0,0
+06/29/2020,Pittsylvania-Danville,"Southwest Region",0,0
+06/29/2020,Portsmouth,"Eastern Region",0,0
+06/29/2020,"Prince William","Northern Region",1,0
+06/29/2020,Rappahannock,"Northwest Region",0,0
+06/29/2020,"Rappahannock Rapidan","Northwest Region",0,0
+06/29/2020,Richmond,"Central Region",0,0
+06/29/2020,Roanoke,"Southwest Region",0,0
+06/29/2020,Southside,"Central Region",0,0
+06/29/2020,"Thomas Jefferson","Northwest Region",0,0
+06/29/2020,"Three Rivers","Eastern Region",0,0
+06/29/2020,"Virginia Beach","Eastern Region",0,0
+06/29/2020,"West Piedmont","Southwest Region",0,0
+06/29/2020,"Western Tidewater","Eastern Region",0,0
+06/30/2020,Alexandria,"Northern Region",1,0
+06/30/2020,Alleghany,"Southwest Region",0,0
+06/30/2020,Arlington,"Northern Region",0,0
+06/30/2020,"Central Shenandoah","Northwest Region",1,0
+06/30/2020,"Central Virginia","Southwest Region",0,0
+06/30/2020,Chesapeake,"Eastern Region",0,0
+06/30/2020,Chesterfield,"Central Region",0,0
+06/30/2020,Chickahominy,"Central Region",0,0
+06/30/2020,Crater,"Central Region",0,0
+06/30/2020,"Cumberland Plateau","Southwest Region",0,0
+06/30/2020,"Eastern Shore","Eastern Region",0,0
+06/30/2020,Fairfax,"Northern Region",2,0
+06/30/2020,Hampton,"Eastern Region",0,0
+06/30/2020,Henrico,"Central Region",0,0
+06/30/2020,Lenowisco,"Southwest Region",0,0
+06/30/2020,"Lord Fairfax","Northwest Region",0,0
+06/30/2020,Loudoun,"Northern Region",0,0
+06/30/2020,"Mount Rogers","Southwest Region",0,0
+06/30/2020,"New River","Southwest Region",0,0
+06/30/2020,Norfolk,"Eastern Region",0,0
+06/30/2020,Peninsula,"Eastern Region",0,0
+06/30/2020,Piedmont,"Central Region",0,0
+06/30/2020,Pittsylvania-Danville,"Southwest Region",0,0
+06/30/2020,Portsmouth,"Eastern Region",0,0
+06/30/2020,"Prince William","Northern Region",1,0
+06/30/2020,Rappahannock,"Northwest Region",0,0
+06/30/2020,"Rappahannock Rapidan","Northwest Region",0,0
+06/30/2020,Richmond,"Central Region",0,0
+06/30/2020,Roanoke,"Southwest Region",0,0
+06/30/2020,Southside,"Central Region",0,0
+06/30/2020,"Thomas Jefferson","Northwest Region",0,0
+06/30/2020,"Three Rivers","Eastern Region",0,0
+06/30/2020,"Virginia Beach","Eastern Region",0,0
+06/30/2020,"West Piedmont","Southwest Region",0,0
+06/30/2020,"Western Tidewater","Eastern Region",0,0
+07/01/2020,Alexandria,"Northern Region",1,0
+07/01/2020,Alleghany,"Southwest Region",0,0
+07/01/2020,Arlington,"Northern Region",0,0
+07/01/2020,"Central Shenandoah","Northwest Region",1,0
+07/01/2020,"Central Virginia","Southwest Region",0,0
+07/01/2020,Chesapeake,"Eastern Region",0,0
+07/01/2020,Chesterfield,"Central Region",0,0
+07/01/2020,Chickahominy,"Central Region",0,0
+07/01/2020,Crater,"Central Region",0,0
+07/01/2020,"Cumberland Plateau","Southwest Region",0,0
+07/01/2020,"Eastern Shore","Eastern Region",0,0
+07/01/2020,Fairfax,"Northern Region",2,0
+07/01/2020,Hampton,"Eastern Region",0,0
+07/01/2020,Henrico,"Central Region",0,0
+07/01/2020,Lenowisco,"Southwest Region",0,0
+07/01/2020,"Lord Fairfax","Northwest Region",0,0
+07/01/2020,Loudoun,"Northern Region",0,0
+07/01/2020,"Mount Rogers","Southwest Region",0,0
+07/01/2020,"New River","Southwest Region",0,0
+07/01/2020,Norfolk,"Eastern Region",0,0
+07/01/2020,Peninsula,"Eastern Region",0,0
+07/01/2020,Piedmont,"Central Region",0,0
+07/01/2020,Pittsylvania-Danville,"Southwest Region",0,0
+07/01/2020,Portsmouth,"Eastern Region",0,0
+07/01/2020,"Prince William","Northern Region",1,0
+07/01/2020,Rappahannock,"Northwest Region",0,0
+07/01/2020,"Rappahannock Rapidan","Northwest Region",0,0
+07/01/2020,Richmond,"Central Region",0,0
+07/01/2020,Roanoke,"Southwest Region",0,0
+07/01/2020,Southside,"Central Region",0,0
+07/01/2020,"Thomas Jefferson","Northwest Region",0,0
+07/01/2020,"Three Rivers","Eastern Region",0,0
+07/01/2020,"Virginia Beach","Eastern Region",0,0
+07/01/2020,"West Piedmont","Southwest Region",0,0
+07/01/2020,"Western Tidewater","Eastern Region",0,0
+07/02/2020,Alexandria,"Northern Region",1,0
+07/02/2020,Alleghany,"Southwest Region",0,0
+07/02/2020,Arlington,"Northern Region",0,0
+07/02/2020,"Central Shenandoah","Northwest Region",1,0
+07/02/2020,"Central Virginia","Southwest Region",0,0
+07/02/2020,Chesapeake,"Eastern Region",0,0
+07/02/2020,Chesterfield,"Central Region",0,0
+07/02/2020,Chickahominy,"Central Region",0,0
+07/02/2020,Crater,"Central Region",0,0
+07/02/2020,"Cumberland Plateau","Southwest Region",0,0
+07/02/2020,"Eastern Shore","Eastern Region",0,0
+07/02/2020,Fairfax,"Northern Region",2,0
+07/02/2020,Hampton,"Eastern Region",0,0
+07/02/2020,Henrico,"Central Region",0,0
+07/02/2020,Lenowisco,"Southwest Region",0,0
+07/02/2020,"Lord Fairfax","Northwest Region",0,0
+07/02/2020,Loudoun,"Northern Region",0,0
+07/02/2020,"Mount Rogers","Southwest Region",0,0
+07/02/2020,"New River","Southwest Region",0,0
+07/02/2020,Norfolk,"Eastern Region",0,0
+07/02/2020,Peninsula,"Eastern Region",0,0
+07/02/2020,Piedmont,"Central Region",0,0
+07/02/2020,Pittsylvania-Danville,"Southwest Region",0,0
+07/02/2020,Portsmouth,"Eastern Region",0,0
+07/02/2020,"Prince William","Northern Region",1,0
+07/02/2020,Rappahannock,"Northwest Region",0,0
+07/02/2020,"Rappahannock Rapidan","Northwest Region",0,0
+07/02/2020,Richmond,"Central Region",0,0
+07/02/2020,Roanoke,"Southwest Region",0,0
+07/02/2020,Southside,"Central Region",0,0
+07/02/2020,"Thomas Jefferson","Northwest Region",0,0
+07/02/2020,"Three Rivers","Eastern Region",0,0
+07/02/2020,"Virginia Beach","Eastern Region",0,0
+07/02/2020,"West Piedmont","Southwest Region",0,0
+07/02/2020,"Western Tidewater","Eastern Region",0,0
+07/03/2020,Alexandria,"Northern Region",1,0
+07/03/2020,Alleghany,"Southwest Region",0,0
+07/03/2020,Arlington,"Northern Region",0,0
+07/03/2020,"Central Shenandoah","Northwest Region",1,0
+07/03/2020,"Central Virginia","Southwest Region",0,0
+07/03/2020,Chesapeake,"Eastern Region",0,0
+07/03/2020,Chesterfield,"Central Region",0,0
+07/03/2020,Chickahominy,"Central Region",0,0
+07/03/2020,Crater,"Central Region",0,0
+07/03/2020,"Cumberland Plateau","Southwest Region",0,0
+07/03/2020,"Eastern Shore","Eastern Region",0,0
+07/03/2020,Fairfax,"Northern Region",2,0
+07/03/2020,Hampton,"Eastern Region",0,0
+07/03/2020,Henrico,"Central Region",0,0
+07/03/2020,Lenowisco,"Southwest Region",0,0
+07/03/2020,"Lord Fairfax","Northwest Region",0,0
+07/03/2020,Loudoun,"Northern Region",0,0
+07/03/2020,"Mount Rogers","Southwest Region",0,0
+07/03/2020,"New River","Southwest Region",0,0
+07/03/2020,Norfolk,"Eastern Region",0,0
+07/03/2020,Peninsula,"Eastern Region",0,0
+07/03/2020,Piedmont,"Central Region",0,0
+07/03/2020,Pittsylvania-Danville,"Southwest Region",0,0
+07/03/2020,Portsmouth,"Eastern Region",0,0
+07/03/2020,"Prince William","Northern Region",1,0
+07/03/2020,Rappahannock,"Northwest Region",0,0
+07/03/2020,"Rappahannock Rapidan","Northwest Region",0,0
+07/03/2020,Richmond,"Central Region",0,0
+07/03/2020,Roanoke,"Southwest Region",0,0
+07/03/2020,Southside,"Central Region",0,0
+07/03/2020,"Thomas Jefferson","Northwest Region",0,0
+07/03/2020,"Three Rivers","Eastern Region",0,0
+07/03/2020,"Virginia Beach","Eastern Region",0,0
+07/03/2020,"West Piedmont","Southwest Region",0,0
+07/03/2020,"Western Tidewater","Eastern Region",0,0
+07/04/2020,Alexandria,"Northern Region",1,0
+07/04/2020,Alleghany,"Southwest Region",0,0
+07/04/2020,Arlington,"Northern Region",0,0
+07/04/2020,"Central Shenandoah","Northwest Region",1,0
+07/04/2020,"Central Virginia","Southwest Region",0,0
+07/04/2020,Chesapeake,"Eastern Region",0,0
+07/04/2020,Chesterfield,"Central Region",0,0
+07/04/2020,Chickahominy,"Central Region",0,0
+07/04/2020,Crater,"Central Region",0,0
+07/04/2020,"Cumberland Plateau","Southwest Region",0,0
+07/04/2020,"Eastern Shore","Eastern Region",0,0
+07/04/2020,Fairfax,"Northern Region",2,0
+07/04/2020,Hampton,"Eastern Region",0,0
+07/04/2020,Henrico,"Central Region",0,0
+07/04/2020,Lenowisco,"Southwest Region",0,0
+07/04/2020,"Lord Fairfax","Northwest Region",0,0
+07/04/2020,Loudoun,"Northern Region",0,0
+07/04/2020,"Mount Rogers","Southwest Region",0,0
+07/04/2020,"New River","Southwest Region",0,0
+07/04/2020,Norfolk,"Eastern Region",0,0
+07/04/2020,Peninsula,"Eastern Region",0,0
+07/04/2020,Piedmont,"Central Region",0,0
+07/04/2020,Pittsylvania-Danville,"Southwest Region",0,0
+07/04/2020,Portsmouth,"Eastern Region",0,0
+07/04/2020,"Prince William","Northern Region",1,0
+07/04/2020,Rappahannock,"Northwest Region",0,0
+07/04/2020,"Rappahannock Rapidan","Northwest Region",0,0
+07/04/2020,Richmond,"Central Region",0,0
+07/04/2020,Roanoke,"Southwest Region",0,0
+07/04/2020,Southside,"Central Region",0,0
+07/04/2020,"Thomas Jefferson","Northwest Region",0,0
+07/04/2020,"Three Rivers","Eastern Region",0,0
+07/04/2020,"Virginia Beach","Eastern Region",0,0
+07/04/2020,"West Piedmont","Southwest Region",0,0
+07/04/2020,"Western Tidewater","Eastern Region",0,0
+07/05/2020,Alexandria,"Northern Region",1,0
+07/05/2020,Alleghany,"Southwest Region",0,0
+07/05/2020,Arlington,"Northern Region",0,0
+07/05/2020,"Central Shenandoah","Northwest Region",1,0
+07/05/2020,"Central Virginia","Southwest Region",0,0
+07/05/2020,Chesapeake,"Eastern Region",0,0
+07/05/2020,Chesterfield,"Central Region",0,0
+07/05/2020,Chickahominy,"Central Region",0,0
+07/05/2020,Crater,"Central Region",0,0
+07/05/2020,"Cumberland Plateau","Southwest Region",0,0
+07/05/2020,"Eastern Shore","Eastern Region",0,0
+07/05/2020,Fairfax,"Northern Region",2,0
+07/05/2020,Hampton,"Eastern Region",0,0
+07/05/2020,Henrico,"Central Region",0,0
+07/05/2020,Lenowisco,"Southwest Region",0,0
+07/05/2020,"Lord Fairfax","Northwest Region",0,0
+07/05/2020,Loudoun,"Northern Region",0,0
+07/05/2020,"Mount Rogers","Southwest Region",0,0
+07/05/2020,"New River","Southwest Region",0,0
+07/05/2020,Norfolk,"Eastern Region",0,0
+07/05/2020,Peninsula,"Eastern Region",0,0
+07/05/2020,Piedmont,"Central Region",0,0
+07/05/2020,Pittsylvania-Danville,"Southwest Region",0,0
+07/05/2020,Portsmouth,"Eastern Region",0,0
+07/05/2020,"Prince William","Northern Region",1,0
+07/05/2020,Rappahannock,"Northwest Region",0,0
+07/05/2020,"Rappahannock Rapidan","Northwest Region",0,0
+07/05/2020,Richmond,"Central Region",0,0
+07/05/2020,Roanoke,"Southwest Region",0,0
+07/05/2020,Southside,"Central Region",0,0
+07/05/2020,"Thomas Jefferson","Northwest Region",0,0
+07/05/2020,"Three Rivers","Eastern Region",0,0
+07/05/2020,"Virginia Beach","Eastern Region",0,0
+07/05/2020,"West Piedmont","Southwest Region",0,0
+07/05/2020,"Western Tidewater","Eastern Region",0,0
+07/06/2020,Alexandria,"Northern Region",1,0
+07/06/2020,Alleghany,"Southwest Region",0,0
+07/06/2020,Arlington,"Northern Region",0,0
+07/06/2020,"Central Shenandoah","Northwest Region",1,0
+07/06/2020,"Central Virginia","Southwest Region",0,0
+07/06/2020,Chesapeake,"Eastern Region",0,0
+07/06/2020,Chesterfield,"Central Region",0,0
+07/06/2020,Chickahominy,"Central Region",0,0
+07/06/2020,Crater,"Central Region",0,0
+07/06/2020,"Cumberland Plateau","Southwest Region",0,0
+07/06/2020,"Eastern Shore","Eastern Region",0,0
+07/06/2020,Fairfax,"Northern Region",2,0
+07/06/2020,Hampton,"Eastern Region",0,0
+07/06/2020,Henrico,"Central Region",0,0
+07/06/2020,Lenowisco,"Southwest Region",0,0
+07/06/2020,"Lord Fairfax","Northwest Region",0,0
+07/06/2020,Loudoun,"Northern Region",0,0
+07/06/2020,"Mount Rogers","Southwest Region",0,0
+07/06/2020,"New River","Southwest Region",0,0
+07/06/2020,Norfolk,"Eastern Region",0,0
+07/06/2020,Peninsula,"Eastern Region",0,0
+07/06/2020,Piedmont,"Central Region",0,0
+07/06/2020,Pittsylvania-Danville,"Southwest Region",0,0
+07/06/2020,Portsmouth,"Eastern Region",0,0
+07/06/2020,"Prince William","Northern Region",1,0
+07/06/2020,Rappahannock,"Northwest Region",0,0
+07/06/2020,"Rappahannock Rapidan","Northwest Region",0,0
+07/06/2020,Richmond,"Central Region",0,0
+07/06/2020,Roanoke,"Southwest Region",0,0
+07/06/2020,Southside,"Central Region",0,0
+07/06/2020,"Thomas Jefferson","Northwest Region",0,0
+07/06/2020,"Three Rivers","Eastern Region",0,0
+07/06/2020,"Virginia Beach","Eastern Region",0,0
+07/06/2020,"West Piedmont","Southwest Region",0,0
+07/06/2020,"Western Tidewater","Eastern Region",0,0
+07/07/2020,Alexandria,"Northern Region",1,0
+07/07/2020,Alleghany,"Southwest Region",0,0
+07/07/2020,Arlington,"Northern Region",0,0
+07/07/2020,"Central Shenandoah","Northwest Region",1,0
+07/07/2020,"Central Virginia","Southwest Region",0,0
+07/07/2020,Chesapeake,"Eastern Region",0,0
+07/07/2020,Chesterfield,"Central Region",0,0
+07/07/2020,Chickahominy,"Central Region",0,0
+07/07/2020,Crater,"Central Region",0,0
+07/07/2020,"Cumberland Plateau","Southwest Region",0,0
+07/07/2020,"Eastern Shore","Eastern Region",0,0
+07/07/2020,Fairfax,"Northern Region",2,0
+07/07/2020,Hampton,"Eastern Region",0,0
+07/07/2020,Henrico,"Central Region",0,0
+07/07/2020,Lenowisco,"Southwest Region",0,0
+07/07/2020,"Lord Fairfax","Northwest Region",0,0
+07/07/2020,Loudoun,"Northern Region",0,0
+07/07/2020,"Mount Rogers","Southwest Region",0,0
+07/07/2020,"New River","Southwest Region",0,0
+07/07/2020,Norfolk,"Eastern Region",0,0
+07/07/2020,Peninsula,"Eastern Region",0,0
+07/07/2020,Piedmont,"Central Region",0,0
+07/07/2020,Pittsylvania-Danville,"Southwest Region",0,0
+07/07/2020,Portsmouth,"Eastern Region",0,0
+07/07/2020,"Prince William","Northern Region",2,0
+07/07/2020,Rappahannock,"Northwest Region",0,0
+07/07/2020,"Rappahannock Rapidan","Northwest Region",0,0
+07/07/2020,Richmond,"Central Region",0,0
+07/07/2020,Roanoke,"Southwest Region",0,0
+07/07/2020,Southside,"Central Region",0,0
+07/07/2020,"Thomas Jefferson","Northwest Region",0,0
+07/07/2020,"Three Rivers","Eastern Region",0,0
+07/07/2020,"Virginia Beach","Eastern Region",0,0
+07/07/2020,"West Piedmont","Southwest Region",0,0
+07/07/2020,"Western Tidewater","Eastern Region",0,0
+07/08/2020,Alexandria,"Northern Region",1,0
+07/08/2020,Alleghany,"Southwest Region",0,0
+07/08/2020,Arlington,"Northern Region",0,0
+07/08/2020,"Central Shenandoah","Northwest Region",1,0
+07/08/2020,"Central Virginia","Southwest Region",0,0
+07/08/2020,Chesapeake,"Eastern Region",0,0
+07/08/2020,Chesterfield,"Central Region",0,0
+07/08/2020,Chickahominy,"Central Region",0,0
+07/08/2020,Crater,"Central Region",0,0
+07/08/2020,"Cumberland Plateau","Southwest Region",0,0
+07/08/2020,"Eastern Shore","Eastern Region",0,0
+07/08/2020,Fairfax,"Northern Region",2,0
+07/08/2020,Hampton,"Eastern Region",0,0
+07/08/2020,Henrico,"Central Region",0,0
+07/08/2020,Lenowisco,"Southwest Region",0,0
+07/08/2020,"Lord Fairfax","Northwest Region",0,0
+07/08/2020,Loudoun,"Northern Region",0,0
+07/08/2020,"Mount Rogers","Southwest Region",0,0
+07/08/2020,"New River","Southwest Region",0,0
+07/08/2020,Norfolk,"Eastern Region",0,0
+07/08/2020,Peninsula,"Eastern Region",0,0
+07/08/2020,Piedmont,"Central Region",0,0
+07/08/2020,Pittsylvania-Danville,"Southwest Region",0,0
+07/08/2020,Portsmouth,"Eastern Region",0,0
+07/08/2020,"Prince William","Northern Region",2,0
+07/08/2020,Rappahannock,"Northwest Region",0,0
+07/08/2020,"Rappahannock Rapidan","Northwest Region",0,0
+07/08/2020,Richmond,"Central Region",0,0
+07/08/2020,Roanoke,"Southwest Region",0,0
+07/08/2020,Southside,"Central Region",0,0
+07/08/2020,"Thomas Jefferson","Northwest Region",0,0
+07/08/2020,"Three Rivers","Eastern Region",0,0
+07/08/2020,"Virginia Beach","Eastern Region",0,0
+07/08/2020,"West Piedmont","Southwest Region",0,0
+07/08/2020,"Western Tidewater","Eastern Region",0,0
+07/09/2020,Alexandria,"Northern Region",1,0
+07/09/2020,Alleghany,"Southwest Region",0,0
+07/09/2020,Arlington,"Northern Region",0,0
+07/09/2020,"Central Shenandoah","Northwest Region",1,0
+07/09/2020,"Central Virginia","Southwest Region",0,0
+07/09/2020,Chesapeake,"Eastern Region",0,0
+07/09/2020,Chesterfield,"Central Region",0,0
+07/09/2020,Chickahominy,"Central Region",0,0
+07/09/2020,Crater,"Central Region",0,0
+07/09/2020,"Cumberland Plateau","Southwest Region",0,0
+07/09/2020,"Eastern Shore","Eastern Region",0,0
+07/09/2020,Fairfax,"Northern Region",2,0
+07/09/2020,Hampton,"Eastern Region",0,0
+07/09/2020,Henrico,"Central Region",0,0
+07/09/2020,Lenowisco,"Southwest Region",0,0
+07/09/2020,"Lord Fairfax","Northwest Region",0,0
+07/09/2020,Loudoun,"Northern Region",0,0
+07/09/2020,"Mount Rogers","Southwest Region",0,0
+07/09/2020,"New River","Southwest Region",0,0
+07/09/2020,Norfolk,"Eastern Region",0,0
+07/09/2020,Peninsula,"Eastern Region",0,0
+07/09/2020,Piedmont,"Central Region",0,0
+07/09/2020,Pittsylvania-Danville,"Southwest Region",0,0
+07/09/2020,Portsmouth,"Eastern Region",0,0
+07/09/2020,"Prince William","Northern Region",2,0
+07/09/2020,Rappahannock,"Northwest Region",0,0
+07/09/2020,"Rappahannock Rapidan","Northwest Region",0,0
+07/09/2020,Richmond,"Central Region",0,0
+07/09/2020,Roanoke,"Southwest Region",0,0
+07/09/2020,Southside,"Central Region",0,0
+07/09/2020,"Thomas Jefferson","Northwest Region",0,0
+07/09/2020,"Three Rivers","Eastern Region",0,0
+07/09/2020,"Virginia Beach","Eastern Region",0,0
+07/09/2020,"West Piedmont","Southwest Region",0,0
+07/09/2020,"Western Tidewater","Eastern Region",0,0
+07/10/2020,Alexandria,"Northern Region",1,0
+07/10/2020,Alleghany,"Southwest Region",0,0
+07/10/2020,Arlington,"Northern Region",0,0
+07/10/2020,"Central Shenandoah","Northwest Region",1,0
+07/10/2020,"Central Virginia","Southwest Region",0,0
+07/10/2020,Chesapeake,"Eastern Region",0,0
+07/10/2020,Chesterfield,"Central Region",0,0
+07/10/2020,Chickahominy,"Central Region",0,0
+07/10/2020,Crater,"Central Region",0,0
+07/10/2020,"Cumberland Plateau","Southwest Region",0,0
+07/10/2020,"Eastern Shore","Eastern Region",0,0
+07/10/2020,Fairfax,"Northern Region",2,0
+07/10/2020,Hampton,"Eastern Region",0,0
+07/10/2020,Henrico,"Central Region",0,0
+07/10/2020,Lenowisco,"Southwest Region",0,0
+07/10/2020,"Lord Fairfax","Northwest Region",0,0
+07/10/2020,Loudoun,"Northern Region",0,0
+07/10/2020,"Mount Rogers","Southwest Region",0,0
+07/10/2020,"New River","Southwest Region",0,0
+07/10/2020,Norfolk,"Eastern Region",0,0
+07/10/2020,Peninsula,"Eastern Region",0,0
+07/10/2020,Piedmont,"Central Region",0,0
+07/10/2020,Pittsylvania-Danville,"Southwest Region",0,0
+07/10/2020,Portsmouth,"Eastern Region",0,0
+07/10/2020,"Prince William","Northern Region",2,0
+07/10/2020,Rappahannock,"Northwest Region",0,0
+07/10/2020,"Rappahannock Rapidan","Northwest Region",0,0
+07/10/2020,Richmond,"Central Region",0,0
+07/10/2020,Roanoke,"Southwest Region",0,0
+07/10/2020,Southside,"Central Region",0,0
+07/10/2020,"Thomas Jefferson","Northwest Region",0,0
+07/10/2020,"Three Rivers","Eastern Region",0,0
+07/10/2020,"Virginia Beach","Eastern Region",0,0
+07/10/2020,"West Piedmont","Southwest Region",0,0
+07/10/2020,"Western Tidewater","Eastern Region",0,0
+07/11/2020,Alexandria,"Northern Region",1,0
+07/11/2020,Alleghany,"Southwest Region",0,0
+07/11/2020,Arlington,"Northern Region",0,0
+07/11/2020,"Central Shenandoah","Northwest Region",1,0
+07/11/2020,"Central Virginia","Southwest Region",0,0
+07/11/2020,Chesapeake,"Eastern Region",0,0
+07/11/2020,Chesterfield,"Central Region",0,0
+07/11/2020,Chickahominy,"Central Region",0,0
+07/11/2020,Crater,"Central Region",0,0
+07/11/2020,"Cumberland Plateau","Southwest Region",0,0
+07/11/2020,"Eastern Shore","Eastern Region",0,0
+07/11/2020,Fairfax,"Northern Region",2,0
+07/11/2020,Hampton,"Eastern Region",0,0
+07/11/2020,Henrico,"Central Region",0,0
+07/11/2020,Lenowisco,"Southwest Region",0,0
+07/11/2020,"Lord Fairfax","Northwest Region",0,0
+07/11/2020,Loudoun,"Northern Region",0,0
+07/11/2020,"Mount Rogers","Southwest Region",0,0
+07/11/2020,"New River","Southwest Region",0,0
+07/11/2020,Norfolk,"Eastern Region",0,0
+07/11/2020,Peninsula,"Eastern Region",0,0
+07/11/2020,Piedmont,"Central Region",0,0
+07/11/2020,Pittsylvania-Danville,"Southwest Region",0,0
+07/11/2020,Portsmouth,"Eastern Region",0,0
+07/11/2020,"Prince William","Northern Region",2,0
+07/11/2020,Rappahannock,"Northwest Region",0,0
+07/11/2020,"Rappahannock Rapidan","Northwest Region",0,0
+07/11/2020,Richmond,"Central Region",0,0
+07/11/2020,Roanoke,"Southwest Region",0,0
+07/11/2020,Southside,"Central Region",0,0
+07/11/2020,"Thomas Jefferson","Northwest Region",0,0
+07/11/2020,"Three Rivers","Eastern Region",0,0
+07/11/2020,"Virginia Beach","Eastern Region",0,0
+07/11/2020,"West Piedmont","Southwest Region",0,0
+07/11/2020,"Western Tidewater","Eastern Region",0,0
+07/12/2020,Alexandria,"Northern Region",1,0
+07/12/2020,Alleghany,"Southwest Region",0,0
+07/12/2020,Arlington,"Northern Region",0,0
+07/12/2020,"Central Shenandoah","Northwest Region",1,0
+07/12/2020,"Central Virginia","Southwest Region",0,0
+07/12/2020,Chesapeake,"Eastern Region",0,0
+07/12/2020,Chesterfield,"Central Region",0,0
+07/12/2020,Chickahominy,"Central Region",0,0
+07/12/2020,Crater,"Central Region",0,0
+07/12/2020,"Cumberland Plateau","Southwest Region",0,0
+07/12/2020,"Eastern Shore","Eastern Region",0,0
+07/12/2020,Fairfax,"Northern Region",2,0
+07/12/2020,Hampton,"Eastern Region",0,0
+07/12/2020,Henrico,"Central Region",0,0
+07/12/2020,Lenowisco,"Southwest Region",0,0
+07/12/2020,"Lord Fairfax","Northwest Region",0,0
+07/12/2020,Loudoun,"Northern Region",0,0
+07/12/2020,"Mount Rogers","Southwest Region",0,0
+07/12/2020,"New River","Southwest Region",0,0
+07/12/2020,Norfolk,"Eastern Region",0,0
+07/12/2020,Peninsula,"Eastern Region",0,0
+07/12/2020,Piedmont,"Central Region",0,0
+07/12/2020,Pittsylvania-Danville,"Southwest Region",0,0
+07/12/2020,Portsmouth,"Eastern Region",0,0
+07/12/2020,"Prince William","Northern Region",2,0
+07/12/2020,Rappahannock,"Northwest Region",0,0
+07/12/2020,"Rappahannock Rapidan","Northwest Region",0,0
+07/12/2020,Richmond,"Central Region",0,0
+07/12/2020,Roanoke,"Southwest Region",0,0
+07/12/2020,Southside,"Central Region",0,0
+07/12/2020,"Thomas Jefferson","Northwest Region",0,0
+07/12/2020,"Three Rivers","Eastern Region",0,0
+07/12/2020,"Virginia Beach","Eastern Region",0,0
+07/12/2020,"West Piedmont","Southwest Region",0,0
+07/12/2020,"Western Tidewater","Eastern Region",0,0
+07/13/2020,Alexandria,"Northern Region",1,0
+07/13/2020,Alleghany,"Southwest Region",0,0
+07/13/2020,Arlington,"Northern Region",0,0
+07/13/2020,"Central Shenandoah","Northwest Region",1,0
+07/13/2020,"Central Virginia","Southwest Region",0,0
+07/13/2020,Chesapeake,"Eastern Region",0,0
+07/13/2020,Chesterfield,"Central Region",0,0
+07/13/2020,Chickahominy,"Central Region",0,0
+07/13/2020,Crater,"Central Region",0,0
+07/13/2020,"Cumberland Plateau","Southwest Region",0,0
+07/13/2020,"Eastern Shore","Eastern Region",0,0
+07/13/2020,Fairfax,"Northern Region",2,0
+07/13/2020,Hampton,"Eastern Region",0,0
+07/13/2020,Henrico,"Central Region",0,0
+07/13/2020,Lenowisco,"Southwest Region",0,0
+07/13/2020,"Lord Fairfax","Northwest Region",0,0
+07/13/2020,Loudoun,"Northern Region",0,0
+07/13/2020,"Mount Rogers","Southwest Region",0,0
+07/13/2020,"New River","Southwest Region",0,0
+07/13/2020,Norfolk,"Eastern Region",0,0
+07/13/2020,Peninsula,"Eastern Region",0,0
+07/13/2020,Piedmont,"Central Region",0,0
+07/13/2020,Pittsylvania-Danville,"Southwest Region",0,0
+07/13/2020,Portsmouth,"Eastern Region",0,0
+07/13/2020,"Prince William","Northern Region",2,0
+07/13/2020,Rappahannock,"Northwest Region",0,0
+07/13/2020,"Rappahannock Rapidan","Northwest Region",0,0
+07/13/2020,Richmond,"Central Region",0,0
+07/13/2020,Roanoke,"Southwest Region",0,0
+07/13/2020,Southside,"Central Region",0,0
+07/13/2020,"Thomas Jefferson","Northwest Region",0,0
+07/13/2020,"Three Rivers","Eastern Region",0,0
+07/13/2020,"Virginia Beach","Eastern Region",0,0
+07/13/2020,"West Piedmont","Southwest Region",0,0
+07/13/2020,"Western Tidewater","Eastern Region",0,0
+07/14/2020,Alexandria,"Northern Region",1,0
+07/14/2020,Alleghany,"Southwest Region",0,0
+07/14/2020,Arlington,"Northern Region",0,0
+07/14/2020,"Central Shenandoah","Northwest Region",1,0
+07/14/2020,"Central Virginia","Southwest Region",0,0
+07/14/2020,Chesapeake,"Eastern Region",0,0
+07/14/2020,Chesterfield,"Central Region",0,0
+07/14/2020,Chickahominy,"Central Region",0,0
+07/14/2020,Crater,"Central Region",0,0
+07/14/2020,"Cumberland Plateau","Southwest Region",0,0
+07/14/2020,"Eastern Shore","Eastern Region",0,0
+07/14/2020,Fairfax,"Northern Region",2,0
+07/14/2020,Hampton,"Eastern Region",0,0
+07/14/2020,Henrico,"Central Region",0,0
+07/14/2020,Lenowisco,"Southwest Region",0,0
+07/14/2020,"Lord Fairfax","Northwest Region",0,0
+07/14/2020,Loudoun,"Northern Region",0,0
+07/14/2020,"Mount Rogers","Southwest Region",0,0
+07/14/2020,"New River","Southwest Region",0,0
+07/14/2020,Norfolk,"Eastern Region",0,0
+07/14/2020,Peninsula,"Eastern Region",0,0
+07/14/2020,Piedmont,"Central Region",0,0
+07/14/2020,Pittsylvania-Danville,"Southwest Region",0,0
+07/14/2020,Portsmouth,"Eastern Region",0,0
+07/14/2020,"Prince William","Northern Region",2,0
+07/14/2020,Rappahannock,"Northwest Region",1,0
+07/14/2020,"Rappahannock Rapidan","Northwest Region",0,0
+07/14/2020,Richmond,"Central Region",0,0
+07/14/2020,Roanoke,"Southwest Region",0,0
+07/14/2020,Southside,"Central Region",0,0
+07/14/2020,"Thomas Jefferson","Northwest Region",0,0
+07/14/2020,"Three Rivers","Eastern Region",0,0
+07/14/2020,"Virginia Beach","Eastern Region",0,0
+07/14/2020,"West Piedmont","Southwest Region",0,0
+07/14/2020,"Western Tidewater","Eastern Region",0,0
+07/15/2020,Alexandria,"Northern Region",1,0
+07/15/2020,Alleghany,"Southwest Region",0,0
+07/15/2020,Arlington,"Northern Region",0,0
+07/15/2020,"Central Shenandoah","Northwest Region",1,0
+07/15/2020,"Central Virginia","Southwest Region",0,0
+07/15/2020,Chesapeake,"Eastern Region",0,0
+07/15/2020,Chesterfield,"Central Region",0,0
+07/15/2020,Chickahominy,"Central Region",0,0
+07/15/2020,Crater,"Central Region",0,0
+07/15/2020,"Cumberland Plateau","Southwest Region",0,0
+07/15/2020,"Eastern Shore","Eastern Region",0,0
+07/15/2020,Fairfax,"Northern Region",2,0
+07/15/2020,Hampton,"Eastern Region",0,0
+07/15/2020,Henrico,"Central Region",0,0
+07/15/2020,Lenowisco,"Southwest Region",0,0
+07/15/2020,"Lord Fairfax","Northwest Region",0,0
+07/15/2020,Loudoun,"Northern Region",0,0
+07/15/2020,"Mount Rogers","Southwest Region",0,0
+07/15/2020,"New River","Southwest Region",0,0
+07/15/2020,Norfolk,"Eastern Region",0,0
+07/15/2020,Peninsula,"Eastern Region",0,0
+07/15/2020,Piedmont,"Central Region",0,0
+07/15/2020,Pittsylvania-Danville,"Southwest Region",0,0
+07/15/2020,Portsmouth,"Eastern Region",0,0
+07/15/2020,"Prince William","Northern Region",2,0
+07/15/2020,Rappahannock,"Northwest Region",1,0
+07/15/2020,"Rappahannock Rapidan","Northwest Region",0,0
+07/15/2020,Richmond,"Central Region",0,0
+07/15/2020,Roanoke,"Southwest Region",0,0
+07/15/2020,Southside,"Central Region",0,0
+07/15/2020,"Thomas Jefferson","Northwest Region",0,0
+07/15/2020,"Three Rivers","Eastern Region",0,0
+07/15/2020,"Virginia Beach","Eastern Region",0,0
+07/15/2020,"West Piedmont","Southwest Region",0,0
+07/15/2020,"Western Tidewater","Eastern Region",0,0
+07/16/2020,Alexandria,"Northern Region",1,0
+07/16/2020,Alleghany,"Southwest Region",0,0
+07/16/2020,Arlington,"Northern Region",0,0
+07/16/2020,"Central Shenandoah","Northwest Region",1,0
+07/16/2020,"Central Virginia","Southwest Region",0,0
+07/16/2020,Chesapeake,"Eastern Region",0,0
+07/16/2020,Chesterfield,"Central Region",0,0
+07/16/2020,Chickahominy,"Central Region",0,0
+07/16/2020,Crater,"Central Region",0,0
+07/16/2020,"Cumberland Plateau","Southwest Region",0,0
+07/16/2020,"Eastern Shore","Eastern Region",0,0
+07/16/2020,Fairfax,"Northern Region",2,0
+07/16/2020,Hampton,"Eastern Region",0,0
+07/16/2020,Henrico,"Central Region",0,0
+07/16/2020,Lenowisco,"Southwest Region",0,0
+07/16/2020,"Lord Fairfax","Northwest Region",0,0
+07/16/2020,Loudoun,"Northern Region",0,0
+07/16/2020,"Mount Rogers","Southwest Region",0,0
+07/16/2020,"New River","Southwest Region",0,0
+07/16/2020,Norfolk,"Eastern Region",0,0
+07/16/2020,Peninsula,"Eastern Region",0,0
+07/16/2020,Piedmont,"Central Region",0,0
+07/16/2020,Pittsylvania-Danville,"Southwest Region",0,0
+07/16/2020,Portsmouth,"Eastern Region",0,0
+07/16/2020,"Prince William","Northern Region",2,0
+07/16/2020,Rappahannock,"Northwest Region",1,0
+07/16/2020,"Rappahannock Rapidan","Northwest Region",0,0
+07/16/2020,Richmond,"Central Region",0,0
+07/16/2020,Roanoke,"Southwest Region",0,0
+07/16/2020,Southside,"Central Region",0,0
+07/16/2020,"Thomas Jefferson","Northwest Region",0,0
+07/16/2020,"Three Rivers","Eastern Region",0,0
+07/16/2020,"Virginia Beach","Eastern Region",0,0
+07/16/2020,"West Piedmont","Southwest Region",0,0
+07/16/2020,"Western Tidewater","Eastern Region",0,0
+07/17/2020,Alexandria,"Northern Region",1,0
+07/17/2020,Alleghany,"Southwest Region",0,0
+07/17/2020,Arlington,"Northern Region",0,0
+07/17/2020,"Central Shenandoah","Northwest Region",1,0
+07/17/2020,"Central Virginia","Southwest Region",0,0
+07/17/2020,Chesapeake,"Eastern Region",0,0
+07/17/2020,Chesterfield,"Central Region",0,0
+07/17/2020,Chickahominy,"Central Region",0,0
+07/17/2020,Crater,"Central Region",0,0
+07/17/2020,"Cumberland Plateau","Southwest Region",0,0
+07/17/2020,"Eastern Shore","Eastern Region",0,0
+07/17/2020,Fairfax,"Northern Region",2,0
+07/17/2020,Hampton,"Eastern Region",0,0
+07/17/2020,Henrico,"Central Region",0,0
+07/17/2020,Lenowisco,"Southwest Region",0,0
+07/17/2020,"Lord Fairfax","Northwest Region",0,0
+07/17/2020,Loudoun,"Northern Region",0,0
+07/17/2020,"Mount Rogers","Southwest Region",0,0
+07/17/2020,"New River","Southwest Region",0,0
+07/17/2020,Norfolk,"Eastern Region",0,0
+07/17/2020,Peninsula,"Eastern Region",0,0
+07/17/2020,Piedmont,"Central Region",0,0
+07/17/2020,Pittsylvania-Danville,"Southwest Region",0,0
+07/17/2020,Portsmouth,"Eastern Region",0,0
+07/17/2020,"Prince William","Northern Region",2,0
+07/17/2020,Rappahannock,"Northwest Region",1,0
+07/17/2020,"Rappahannock Rapidan","Northwest Region",0,0
+07/17/2020,Richmond,"Central Region",0,0
+07/17/2020,Roanoke,"Southwest Region",0,0
+07/17/2020,Southside,"Central Region",0,0
+07/17/2020,"Thomas Jefferson","Northwest Region",0,0
+07/17/2020,"Three Rivers","Eastern Region",0,0
+07/17/2020,"Virginia Beach","Eastern Region",0,0
+07/17/2020,"West Piedmont","Southwest Region",0,0
+07/17/2020,"Western Tidewater","Eastern Region",0,0
+07/18/2020,Alexandria,"Northern Region",1,0
+07/18/2020,Alleghany,"Southwest Region",0,0
+07/18/2020,Arlington,"Northern Region",0,0
+07/18/2020,"Central Shenandoah","Northwest Region",1,0
+07/18/2020,"Central Virginia","Southwest Region",0,0
+07/18/2020,Chesapeake,"Eastern Region",0,0
+07/18/2020,Chesterfield,"Central Region",0,0
+07/18/2020,Chickahominy,"Central Region",0,0
+07/18/2020,Crater,"Central Region",0,0
+07/18/2020,"Cumberland Plateau","Southwest Region",0,0
+07/18/2020,"Eastern Shore","Eastern Region",0,0
+07/18/2020,Fairfax,"Northern Region",2,0
+07/18/2020,Hampton,"Eastern Region",0,0
+07/18/2020,Henrico,"Central Region",0,0
+07/18/2020,Lenowisco,"Southwest Region",0,0
+07/18/2020,"Lord Fairfax","Northwest Region",0,0
+07/18/2020,Loudoun,"Northern Region",0,0
+07/18/2020,"Mount Rogers","Southwest Region",0,0
+07/18/2020,"New River","Southwest Region",0,0
+07/18/2020,Norfolk,"Eastern Region",0,0
+07/18/2020,Peninsula,"Eastern Region",0,0
+07/18/2020,Piedmont,"Central Region",0,0
+07/18/2020,Pittsylvania-Danville,"Southwest Region",0,0
+07/18/2020,Portsmouth,"Eastern Region",0,0
+07/18/2020,"Prince William","Northern Region",2,0
+07/18/2020,Rappahannock,"Northwest Region",1,0
+07/18/2020,"Rappahannock Rapidan","Northwest Region",0,0
+07/18/2020,Richmond,"Central Region",0,0
+07/18/2020,Roanoke,"Southwest Region",0,0
+07/18/2020,Southside,"Central Region",0,0
+07/18/2020,"Thomas Jefferson","Northwest Region",0,0
+07/18/2020,"Three Rivers","Eastern Region",0,0
+07/18/2020,"Virginia Beach","Eastern Region",0,0
+07/18/2020,"West Piedmont","Southwest Region",0,0
+07/18/2020,"Western Tidewater","Eastern Region",0,0
+07/19/2020,Alexandria,"Northern Region",1,0
+07/19/2020,Alleghany,"Southwest Region",0,0
+07/19/2020,Arlington,"Northern Region",0,0
+07/19/2020,"Central Shenandoah","Northwest Region",1,0
+07/19/2020,"Central Virginia","Southwest Region",0,0
+07/19/2020,Chesapeake,"Eastern Region",0,0
+07/19/2020,Chesterfield,"Central Region",0,0
+07/19/2020,Chickahominy,"Central Region",0,0
+07/19/2020,Crater,"Central Region",0,0
+07/19/2020,"Cumberland Plateau","Southwest Region",0,0
+07/19/2020,"Eastern Shore","Eastern Region",0,0
+07/19/2020,Fairfax,"Northern Region",2,0
+07/19/2020,Hampton,"Eastern Region",0,0
+07/19/2020,Henrico,"Central Region",0,0
+07/19/2020,Lenowisco,"Southwest Region",0,0
+07/19/2020,"Lord Fairfax","Northwest Region",0,0
+07/19/2020,Loudoun,"Northern Region",0,0
+07/19/2020,"Mount Rogers","Southwest Region",0,0
+07/19/2020,"New River","Southwest Region",0,0
+07/19/2020,Norfolk,"Eastern Region",0,0
+07/19/2020,Peninsula,"Eastern Region",0,0
+07/19/2020,Piedmont,"Central Region",0,0
+07/19/2020,Pittsylvania-Danville,"Southwest Region",0,0
+07/19/2020,Portsmouth,"Eastern Region",0,0
+07/19/2020,"Prince William","Northern Region",2,0
+07/19/2020,Rappahannock,"Northwest Region",1,0
+07/19/2020,"Rappahannock Rapidan","Northwest Region",0,0
+07/19/2020,Richmond,"Central Region",0,0
+07/19/2020,Roanoke,"Southwest Region",0,0
+07/19/2020,Southside,"Central Region",0,0
+07/19/2020,"Thomas Jefferson","Northwest Region",0,0
+07/19/2020,"Three Rivers","Eastern Region",0,0
+07/19/2020,"Virginia Beach","Eastern Region",0,0
+07/19/2020,"West Piedmont","Southwest Region",0,0
+07/19/2020,"Western Tidewater","Eastern Region",0,0
+07/20/2020,Alexandria,"Northern Region",1,0
+07/20/2020,Alleghany,"Southwest Region",0,0
+07/20/2020,Arlington,"Northern Region",0,0
+07/20/2020,"Central Shenandoah","Northwest Region",1,0
+07/20/2020,"Central Virginia","Southwest Region",0,0
+07/20/2020,Chesapeake,"Eastern Region",0,0
+07/20/2020,Chesterfield,"Central Region",0,0
+07/20/2020,Chickahominy,"Central Region",0,0
+07/20/2020,Crater,"Central Region",0,0
+07/20/2020,"Cumberland Plateau","Southwest Region",0,0
+07/20/2020,"Eastern Shore","Eastern Region",0,0
+07/20/2020,Fairfax,"Northern Region",2,0
+07/20/2020,Hampton,"Eastern Region",0,0
+07/20/2020,Henrico,"Central Region",0,0
+07/20/2020,Lenowisco,"Southwest Region",0,0
+07/20/2020,"Lord Fairfax","Northwest Region",0,0
+07/20/2020,Loudoun,"Northern Region",0,0
+07/20/2020,"Mount Rogers","Southwest Region",0,0
+07/20/2020,"New River","Southwest Region",0,0
+07/20/2020,Norfolk,"Eastern Region",0,0
+07/20/2020,Peninsula,"Eastern Region",0,0
+07/20/2020,Piedmont,"Central Region",0,0
+07/20/2020,Pittsylvania-Danville,"Southwest Region",0,0
+07/20/2020,Portsmouth,"Eastern Region",0,0
+07/20/2020,"Prince William","Northern Region",2,0
+07/20/2020,Rappahannock,"Northwest Region",1,0
+07/20/2020,"Rappahannock Rapidan","Northwest Region",0,0
+07/20/2020,Richmond,"Central Region",0,0
+07/20/2020,Roanoke,"Southwest Region",0,0
+07/20/2020,Southside,"Central Region",0,0
+07/20/2020,"Thomas Jefferson","Northwest Region",0,0
+07/20/2020,"Three Rivers","Eastern Region",0,0
+07/20/2020,"Virginia Beach","Eastern Region",0,0
+07/20/2020,"West Piedmont","Southwest Region",0,0
+07/20/2020,"Western Tidewater","Eastern Region",0,0
+07/21/2020,Fairfax,"Northern Region",2,0
+07/21/2020,Roanoke,"Southwest Region",0,0
+07/21/2020,"Eastern Shore","Eastern Region",0,0
+07/21/2020,"Western Tidewater","Eastern Region",0,0
+07/21/2020,"Thomas Jefferson","Northwest Region",0,0
+07/21/2020,Pittsylvania-Danville,"Southwest Region",0,0
+07/21/2020,"Cumberland Plateau","Southwest Region",0,0
+07/21/2020,Henrico,"Central Region",0,0
+07/21/2020,Portsmouth,"Eastern Region",0,0
+07/21/2020,Hampton,"Eastern Region",0,0
+07/21/2020,Chesapeake,"Eastern Region",0,0
+07/21/2020,Rappahannock,"Northwest Region",1,0
+07/21/2020,Loudoun,"Northern Region",0,0
+07/21/2020,Southside,"Central Region",0,0
+07/21/2020,Richmond,"Central Region",0,0
+07/21/2020,Piedmont,"Central Region",0,0
+07/21/2020,Norfolk,"Eastern Region",0,0
+07/21/2020,"Three Rivers","Eastern Region",0,0
+07/21/2020,"Prince William","Northern Region",2,0
+07/21/2020,Chickahominy,"Central Region",0,0
+07/21/2020,Alexandria,"Northern Region",1,0
+07/21/2020,"Rappahannock Rapidan","Northwest Region",0,0
+07/21/2020,Crater,"Central Region",0,0
+07/21/2020,Lenowisco,"Southwest Region",0,0
+07/21/2020,"Central Virginia","Southwest Region",0,0
+07/21/2020,"Lord Fairfax","Northwest Region",0,0
+07/21/2020,Chesterfield,"Central Region",0,0
+07/21/2020,Arlington,"Northern Region",0,0
+07/21/2020,"New River","Southwest Region",0,0
+07/21/2020,Alleghany,"Southwest Region",0,0
+07/21/2020,"Central Shenandoah","Northwest Region",1,0
+07/21/2020,"Mount Rogers","Southwest Region",0,0
+07/21/2020,"West Piedmont","Southwest Region",0,0
+07/21/2020,"Virginia Beach","Eastern Region",0,0
+07/21/2020,Peninsula,"Eastern Region",0,0
+07/22/2020,Fairfax,"Northern Region",2,0
+07/22/2020,Roanoke,"Southwest Region",0,0
+07/22/2020,"Eastern Shore","Eastern Region",0,0
+07/22/2020,"Western Tidewater","Eastern Region",0,0
+07/22/2020,"Thomas Jefferson","Northwest Region",0,0
+07/22/2020,Pittsylvania-Danville,"Southwest Region",0,0
+07/22/2020,"Cumberland Plateau","Southwest Region",0,0
+07/22/2020,Henrico,"Central Region",0,0
+07/22/2020,Portsmouth,"Eastern Region",0,0
+07/22/2020,Hampton,"Eastern Region",0,0
+07/22/2020,Chesapeake,"Eastern Region",0,0
+07/22/2020,Rappahannock,"Northwest Region",1,0
+07/22/2020,Loudoun,"Northern Region",0,0
+07/22/2020,Southside,"Central Region",0,0
+07/22/2020,Richmond,"Central Region",0,0
+07/22/2020,Piedmont,"Central Region",0,0
+07/22/2020,Norfolk,"Eastern Region",0,0
+07/22/2020,"Three Rivers","Eastern Region",0,0
+07/22/2020,"Prince William","Northern Region",3,0
+07/22/2020,Chickahominy,"Central Region",0,0
+07/22/2020,Alexandria,"Northern Region",1,0
+07/22/2020,"Rappahannock Rapidan","Northwest Region",0,0
+07/22/2020,Crater,"Central Region",0,0
+07/22/2020,Lenowisco,"Southwest Region",0,0
+07/22/2020,"Central Virginia","Southwest Region",0,0
+07/22/2020,"Lord Fairfax","Northwest Region",0,0
+07/22/2020,Chesterfield,"Central Region",0,0
+07/22/2020,Arlington,"Northern Region",0,0
+07/22/2020,"New River","Southwest Region",0,0
+07/22/2020,Alleghany,"Southwest Region",0,0
+07/22/2020,"Central Shenandoah","Northwest Region",1,0
+07/22/2020,"Mount Rogers","Southwest Region",0,0
+07/22/2020,"West Piedmont","Southwest Region",0,0
+07/22/2020,"Virginia Beach","Eastern Region",0,0
+07/22/2020,Peninsula,"Eastern Region",0,0
+07/23/2020,Fairfax,"Northern Region",2,0
+07/23/2020,Roanoke,"Southwest Region",0,0
+07/23/2020,"Eastern Shore","Eastern Region",0,0
+07/23/2020,"Western Tidewater","Eastern Region",0,0
+07/23/2020,"Thomas Jefferson","Northwest Region",0,0
+07/23/2020,Pittsylvania-Danville,"Southwest Region",0,0
+07/23/2020,"Cumberland Plateau","Southwest Region",0,0
+07/23/2020,Henrico,"Central Region",0,0
+07/23/2020,Portsmouth,"Eastern Region",0,0
+07/23/2020,Hampton,"Eastern Region",0,0
+07/23/2020,Chesapeake,"Eastern Region",0,0
+07/23/2020,Rappahannock,"Northwest Region",1,0
+07/23/2020,Loudoun,"Northern Region",0,0
+07/23/2020,Southside,"Central Region",0,0
+07/23/2020,Richmond,"Central Region",0,0
+07/23/2020,Piedmont,"Central Region",0,0
+07/23/2020,Norfolk,"Eastern Region",0,0
+07/23/2020,"Three Rivers","Eastern Region",0,0
+07/23/2020,"Prince William","Northern Region",3,0
+07/23/2020,Chickahominy,"Central Region",0,0
+07/23/2020,Alexandria,"Northern Region",1,0
+07/23/2020,"Rappahannock Rapidan","Northwest Region",0,0
+07/23/2020,Crater,"Central Region",0,0
+07/23/2020,Lenowisco,"Southwest Region",0,0
+07/23/2020,"Central Virginia","Southwest Region",0,0
+07/23/2020,"Lord Fairfax","Northwest Region",0,0
+07/23/2020,Chesterfield,"Central Region",0,0
+07/23/2020,Arlington,"Northern Region",0,0
+07/23/2020,"New River","Southwest Region",0,0
+07/23/2020,Alleghany,"Southwest Region",0,0
+07/23/2020,"Central Shenandoah","Northwest Region",1,0
+07/23/2020,"Mount Rogers","Southwest Region",0,0
+07/23/2020,"West Piedmont","Southwest Region",0,0
+07/23/2020,"Virginia Beach","Eastern Region",0,0
+07/23/2020,Peninsula,"Eastern Region",0,0
+07/24/2020,Fairfax,"Northern Region",2,0
+07/24/2020,Roanoke,"Southwest Region",0,0
+07/24/2020,"Eastern Shore","Eastern Region",0,0
+07/24/2020,"Western Tidewater","Eastern Region",0,0
+07/24/2020,"Thomas Jefferson","Northwest Region",0,0
+07/24/2020,Pittsylvania-Danville,"Southwest Region",0,0
+07/24/2020,"Cumberland Plateau","Southwest Region",0,0
+07/24/2020,Henrico,"Central Region",0,0
+07/24/2020,Portsmouth,"Eastern Region",0,0
+07/24/2020,Hampton,"Eastern Region",0,0
+07/24/2020,Chesapeake,"Eastern Region",0,0
+07/24/2020,Rappahannock,"Northwest Region",1,0
+07/24/2020,Loudoun,"Northern Region",0,0
+07/24/2020,Southside,"Central Region",0,0
+07/24/2020,Richmond,"Central Region",0,0
+07/24/2020,Piedmont,"Central Region",0,0
+07/24/2020,Norfolk,"Eastern Region",0,0
+07/24/2020,"Three Rivers","Eastern Region",0,0
+07/24/2020,"Prince William","Northern Region",3,0
+07/24/2020,Chickahominy,"Central Region",0,0
+07/24/2020,Alexandria,"Northern Region",1,0
+07/24/2020,"Rappahannock Rapidan","Northwest Region",0,0
+07/24/2020,Crater,"Central Region",0,0
+07/24/2020,Lenowisco,"Southwest Region",0,0
+07/24/2020,"Central Virginia","Southwest Region",0,0
+07/24/2020,"Lord Fairfax","Northwest Region",0,0
+07/24/2020,Chesterfield,"Central Region",0,0
+07/24/2020,Arlington,"Northern Region",0,0
+07/24/2020,"New River","Southwest Region",0,0
+07/24/2020,Alleghany,"Southwest Region",0,0
+07/24/2020,"Central Shenandoah","Northwest Region",1,0
+07/24/2020,"Mount Rogers","Southwest Region",0,0
+07/24/2020,"West Piedmont","Southwest Region",0,0
+07/24/2020,"Virginia Beach","Eastern Region",0,0
+07/24/2020,Peninsula,"Eastern Region",0,0
+07/25/2020,Fairfax,"Northern Region",2,0
+07/25/2020,Roanoke,"Southwest Region",0,0
+07/25/2020,"Eastern Shore","Eastern Region",0,0
+07/25/2020,"Western Tidewater","Eastern Region",0,0
+07/25/2020,"Thomas Jefferson","Northwest Region",0,0
+07/25/2020,Pittsylvania-Danville,"Southwest Region",0,0
+07/25/2020,"Cumberland Plateau","Southwest Region",0,0
+07/25/2020,Henrico,"Central Region",0,0
+07/25/2020,Portsmouth,"Eastern Region",0,0
+07/25/2020,Hampton,"Eastern Region",0,0
+07/25/2020,Chesapeake,"Eastern Region",0,0
+07/25/2020,Rappahannock,"Northwest Region",1,0
+07/25/2020,Loudoun,"Northern Region",0,0
+07/25/2020,Southside,"Central Region",0,0
+07/25/2020,Richmond,"Central Region",0,0
+07/25/2020,Piedmont,"Central Region",0,0
+07/25/2020,Norfolk,"Eastern Region",0,0
+07/25/2020,"Three Rivers","Eastern Region",0,0
+07/25/2020,"Prince William","Northern Region",3,0
+07/25/2020,Chickahominy,"Central Region",0,0
+07/25/2020,Alexandria,"Northern Region",1,0
+07/25/2020,"Rappahannock Rapidan","Northwest Region",0,0
+07/25/2020,Crater,"Central Region",0,0
+07/25/2020,Lenowisco,"Southwest Region",0,0
+07/25/2020,"Central Virginia","Southwest Region",0,0
+07/25/2020,"Lord Fairfax","Northwest Region",0,0
+07/25/2020,Chesterfield,"Central Region",0,0
+07/25/2020,Arlington,"Northern Region",0,0
+07/25/2020,"New River","Southwest Region",0,0
+07/25/2020,Alleghany,"Southwest Region",0,0
+07/25/2020,"Central Shenandoah","Northwest Region",1,0
+07/25/2020,"Mount Rogers","Southwest Region",0,0
+07/25/2020,"West Piedmont","Southwest Region",0,0
+07/25/2020,"Virginia Beach","Eastern Region",0,0
+07/25/2020,Peninsula,"Eastern Region",0,0
+07/26/2020,Fairfax,"Northern Region",2,0
+07/26/2020,Roanoke,"Southwest Region",0,0
+07/26/2020,"Eastern Shore","Eastern Region",0,0
+07/26/2020,"Western Tidewater","Eastern Region",0,0
+07/26/2020,"Thomas Jefferson","Northwest Region",0,0
+07/26/2020,Pittsylvania-Danville,"Southwest Region",0,0
+07/26/2020,"Cumberland Plateau","Southwest Region",0,0
+07/26/2020,Henrico,"Central Region",0,0
+07/26/2020,Portsmouth,"Eastern Region",0,0
+07/26/2020,Hampton,"Eastern Region",0,0
+07/26/2020,Chesapeake,"Eastern Region",0,0
+07/26/2020,Rappahannock,"Northwest Region",1,0
+07/26/2020,Loudoun,"Northern Region",0,0
+07/26/2020,Southside,"Central Region",0,0
+07/26/2020,Richmond,"Central Region",0,0
+07/26/2020,Piedmont,"Central Region",0,0
+07/26/2020,Norfolk,"Eastern Region",0,0
+07/26/2020,"Three Rivers","Eastern Region",0,0
+07/26/2020,"Prince William","Northern Region",3,0
+07/26/2020,Chickahominy,"Central Region",0,0
+07/26/2020,Alexandria,"Northern Region",1,0
+07/26/2020,"Rappahannock Rapidan","Northwest Region",0,0
+07/26/2020,Crater,"Central Region",0,0
+07/26/2020,Lenowisco,"Southwest Region",0,0
+07/26/2020,"Central Virginia","Southwest Region",0,0
+07/26/2020,"Lord Fairfax","Northwest Region",0,0
+07/26/2020,Chesterfield,"Central Region",0,0
+07/26/2020,Arlington,"Northern Region",0,0
+07/26/2020,"New River","Southwest Region",0,0
+07/26/2020,Alleghany,"Southwest Region",0,0
+07/26/2020,"Central Shenandoah","Northwest Region",1,0
+07/26/2020,"Mount Rogers","Southwest Region",0,0
+07/26/2020,"West Piedmont","Southwest Region",0,0
+07/26/2020,"Virginia Beach","Eastern Region",0,0
+07/26/2020,Peninsula,"Eastern Region",0,0
+07/27/2020,Fairfax,"Northern Region",2,0
+07/27/2020,Roanoke,"Southwest Region",0,0
+07/27/2020,"Eastern Shore","Eastern Region",0,0
+07/27/2020,"Western Tidewater","Eastern Region",0,0
+07/27/2020,"Thomas Jefferson","Northwest Region",0,0
+07/27/2020,Pittsylvania-Danville,"Southwest Region",0,0
+07/27/2020,"Cumberland Plateau","Southwest Region",0,0
+07/27/2020,Henrico,"Central Region",0,0
+07/27/2020,Portsmouth,"Eastern Region",0,0
+07/27/2020,Hampton,"Eastern Region",0,0
+07/27/2020,Chesapeake,"Eastern Region",0,0
+07/27/2020,Rappahannock,"Northwest Region",1,0
+07/27/2020,Loudoun,"Northern Region",0,0
+07/27/2020,Southside,"Central Region",0,0
+07/27/2020,Richmond,"Central Region",0,0
+07/27/2020,Piedmont,"Central Region",0,0
+07/27/2020,Norfolk,"Eastern Region",0,0
+07/27/2020,"Three Rivers","Eastern Region",0,0
+07/27/2020,"Prince William","Northern Region",3,0
+07/27/2020,Chickahominy,"Central Region",0,0
+07/27/2020,Alexandria,"Northern Region",1,0
+07/27/2020,"Rappahannock Rapidan","Northwest Region",0,0
+07/27/2020,Crater,"Central Region",0,0
+07/27/2020,Lenowisco,"Southwest Region",0,0
+07/27/2020,"Central Virginia","Southwest Region",0,0
+07/27/2020,"Lord Fairfax","Northwest Region",0,0
+07/27/2020,Chesterfield,"Central Region",0,0
+07/27/2020,Arlington,"Northern Region",0,0
+07/27/2020,"New River","Southwest Region",0,0
+07/27/2020,Alleghany,"Southwest Region",0,0
+07/27/2020,"Central Shenandoah","Northwest Region",1,0
+07/27/2020,"Mount Rogers","Southwest Region",0,0
+07/27/2020,"West Piedmont","Southwest Region",0,0
+07/27/2020,"Virginia Beach","Eastern Region",0,0
+07/27/2020,Peninsula,"Eastern Region",0,0
