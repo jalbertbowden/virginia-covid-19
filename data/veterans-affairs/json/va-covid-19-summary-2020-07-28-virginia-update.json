@@ -1,0 +1,32 @@
+[
+  {
+    "Facility ID": 652,
+    "Facility": "Richmond, VA HCS",
+    "Latitude": 37.49796,
+    "Longitude": -77.46681,
+    "VA Confirmed Total_Display": 250,
+    "Active": 27,
+    "Convalescent": 203,
+    "Known Deaths": 20
+  },
+  {
+    "Facility ID": 590,
+    "Facility": "Hampton, VA HCS",
+    "Latitude": 37.015768,
+    "Longitude": -76.332371,
+    "VA Confirmed Total_Display": 227,
+    "Active": 76,
+    "Convalescent": 146,
+    "Known Deaths": 5
+  },
+  {
+    "Facility ID": 658,
+    "Facility": "Salem, VA HCS",
+    "Latitude": 37.276111,
+    "Longitude": -80.023889,
+    "VA Confirmed Total_Display": 62,
+    "Active": 5,
+    "Convalescent": 53,
+    "Known Deaths": 4
+  }
+]
