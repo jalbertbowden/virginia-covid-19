@@ -1,0 +1,62 @@
+[
+  {
+    "URI": "https://www.corecivic.com/facilities/Ghent-Residential-Reentry-Center",
+    "Facility": "Corecivic (RRC)",
+    "Inmates Positive": false,
+    "Staff Positive": false,
+    "Inmate Deaths": false,
+    "Staff Deaths": false,
+    "Inmates Recovered": true,
+    "Staff Recovered": 0.0,
+    "City": "Norfolk",
+    "State": "VA"
+  },
+  {
+    "URI": "https://www.bop.gov/locations/institutions/lee/",
+    "Facility": "Lee USP",
+    "Inmates Positive": false,
+    "Staff Positive": true,
+    "Inmate Deaths": false,
+    "Staff Deaths": false,
+    "Inmates Recovered": false,
+    "Staff Recovered": 1.0,
+    "City": "Pennington Gap",
+    "State": "VA"
+  },
+  {
+    "URI": "https://www.bop.gov/locations/institutions/pet/",
+    "Facility": "Petersburg Low FCI",
+    "Inmates Positive": false,
+    "Staff Positive": true,
+    "Inmate Deaths": false,
+    "Staff Deaths": false,
+    "Inmates Recovered": false,
+    "Staff Recovered": 2.0,
+    "City": "Hopewell",
+    "State": "VA"
+  },
+  {
+    "URI": "https://www.bop.gov/locations/institutions/pem/",
+    "Facility": "Petersburg Medium FCI",
+    "Inmates Positive": true,
+    "Staff Positive": true,
+    "Inmate Deaths": false,
+    "Staff Deaths": false,
+    "Inmates Recovered": false,
+    "Staff Recovered": 0.0,
+    "City": "Hopewell",
+    "State": "VA"
+  },
+  {
+    "URI": "https://secorinc.com/",
+    "Facility": "Secor Incorporated (RRC)",
+    "Inmates Positive": true,
+    "Staff Positive": false,
+    "Inmate Deaths": false,
+    "Staff Deaths": false,
+    "Inmates Recovered": false,
+    "Staff Recovered": 0.0,
+    "City": "Lebanon",
+    "State": "VA"
+  }
+]
