@@ -1,0 +1,141 @@
+Facility,VA Confirmed Total_Display,Active,Convalescent,Known Deaths
+"Houston, TX HCS",1372,70,1256,46
+"San Antonio, TX HCS",1366,72,1244,50
+"North Chicago, IL HCS",1280,148,1124,8
+"Phoenix, AZ HCS",1266,40,1167,59
+"Orlando, FL HCS",1178,81,1081,16
+"Atlanta, GA HCS",1140,75,1028,37
+Texas Valley Coastal Bend HCS,1132,71,996,65
+New York Harbor HCS,1024,16,896,112
+New Jersey HCS,998,8,875,115
+"Columbia, SC HCS",986,81,864,41
+"New Orleans, LA HCS",956,22,872,62
+"Miami, FL HCS",954,62,875,17
+"Gainesville, FL HCS",906,129,756,21
+"Tampa, FL HCS",849,55,765,29
+"Charleston, SC HCS",847,55,778,14
+"Bay Pines, FL HCS",804,53,732,19
+"Bronx, NY HCS",756,6,663,87
+"Boston, MA HCS",720,11,624,85
+"Washington, DC HCS",713,19,633,61
+"Temple, TX HCS",697,55,627,15
+"Dallas, TX HCS",674,54,595,25
+"Philadelphia, PA HCS",667,22,600,45
+"Cleveland, OH HCS",660,37,562,61
+"Chicago, IL HCS",642,20,582,40
+"Loma Linda, CA HCS",591,33,549,9
+"Long Beach, CA HCS",585,38,533,14
+"Las Vegas, NV HCS",564,58,493,13
+"West Palm Beach, FL HCS",552,43,481,28
+"Gulf Coast, MS HCS",524,59,448,17
+Middle Tennessee HCS,521,63,444,14
+"Greater Los Angeles, CA HCS",518,23,466,29
+"Aurora, CO HCS",512,14,466,32
+"Hines, IL HCS",509,35,444,30
+"St. Louis, MO HCS",506,69,412,25
+"Salisbury, NC HCS",494,35,433,26
+"Indianapolis, IN HCS",483,31,403,49
+Nebraska-W Iowa HCS,445,48,364,33
+Connecticut HCS,440,4,401,35
+Central Alabama HCS,438,42,388,8
+"Shreveport, LA HCS",438,49,356,33
+"Alexandria, LA HCS",425,34,376,15
+"Birmingham, AL HCS",425,62,344,19
+"Augusta, GA HCS",423,56,348,19
+"San Diego, CA HCS",418,23,386,9
+"Dublin, GA HCS",414,45,362,7
+"Minneapolis, MN HCS",414,57,315,42
+"Kansas City, MO HCS",404,62,334,8
+"Jackson, MS HCS",398,37,338,23
+Southern Arizona HCS,396,15,346,35
+"Milwaukee, WI HCS",377,36,328,13
+"Fayetteville, NC HCS",371,30,328,13
+"Northport, NY HCS",371,3,327,41
+"Richmond, VA HCS",365,39,302,24
+"Little Rock, AR HCS",364,54,302,8
+"Baltimore, MD HCS",359,18,317,24
+"Detroit, MI HCS",358,6,311,41
+Western New York HCS,358,12,307,39
+"Durham, NC HCS",356,28,314,14
+"Palo Alto, CA HCS",353,42,293,18
+"Hampton, VA HCS",340,32,300,8
+N. California HCS,340,49,278,13
+"Memphis, TN HCS",323,37,272,14
+"Puget Sound, WA HCS",321,23,285,13
+"Fresno, CA HCS",317,30,274,13
+"Mountain Home, TN HCS",315,55,252,8
+"Bedford, MA HCS",298,4,259,35
+"Muskogee, OK HCS",297,38,234,25
+"Ann Arbor, MI HCS",285,13,246,26
+"Hudson Valley, NY HCS",279,0,262,17
+"Louisville, KY HCS",271,40,219,12
+"Boise, ID HCS",261,32,220,9
+"Lebanon, PA HCS",258,15,221,22
+"Asheville, NC HCS",245,21,202,22
+"Oklahoma City, OK HCS",236,29,189,18
+"El Paso, TX HCS",229,11,207,11
+"San Juan, PR HCS",226,44,174,8
+"Wilmington, DE HCS",217,9,193,15
+"Cincinnati, OH HCS",203,14,183,6
+"Pittsburgh, PA HCS",203,7,184,12
+"Columbus, OH HCS",199,13,176,10
+"Salt Lake City, UT HCS",179,11,160,8
+"Portland, OR HCS",172,9,156,7
+Central Western Massachusetts HCS,169,1,153,15
+"Tuscaloosa, AL HCS",169,10,150,9
+"Dayton, OH HCS",165,23,135,7
+"Providence, RI HCS",163,3,140,20
+"Spokane, WA HCS",161,14,134,13
+Northern Indiana HCS,160,14,138,8
+"Martinsburg, WV HCS",153,5,137,11
+New Mexico HCS,153,4,135,14
+"Amarillo, TX HCS",146,18,126,2
+"Lexington, KY HCS",144,32,107,5
+"Reno, NV HCS",143,8,120,15
+Northern Arizona HCS,141,8,128,5
+"San Francisco, CA HCS",140,9,125,6
+"Battle Creek, MI HCS",139,6,121,12
+Central Iowa HCS,138,28,102,8
+"Fayetteville, AR HCS",135,19,107,9
+"Wilkes-Barre, PA HCS",134,3,116,15
+"Madison, WI HCS",133,17,109,7
+"Fargo, ND HCS",122,11,98,13
+Eastern Kansas HCS,119,18,100,1
+"Iowa City, IA HCS",117,25,89,3
+"Walla Walla, WA HCS",116,10,100,6
+"Wichita, KS HCS",114,17,93,4
+"Sioux Falls, SD HCS",113,10,99,4
+"Salem, VA HCS",109,19,81,9
+"Coatesville, PA HCS",101,4,87,10
+"Big Spring, TX HCS",95,11,80,4
+"Saginaw, MI HCS",93,4,85,4
+"Columbia, MO HCS",83,28,54,1
+"Manchester, NH HCS",82,2,69,11
+"St. Cloud, MN HCS",66,7,55,4
+"Anchorage, AK HCS",62,14,48,0
+"Huntington, WV HCS",62,8,48,6
+"Tomah, WI HCS",58,5,52,1
+"Honolulu, HI HCS",55,18,37,0
+Montana HCS,55,9,45,1
+"Chillicothe, OH HCS",54,3,49,2
+"Albany, NY HCS",49,1,41,7
+"Black Hills, SD HCS",47,17,29,1
+"Danville, IL HCS",47,8,38,1
+"Cheyenne, WY HCS",46,1,43,2
+"Togus, ME HCS",46,4,39,3
+"Altoona, PA HCS",45,7,38,0
+"Iron Mountain, MI HCS",41,9,32,0
+"Poplar Bluff, MO HCS",37,8,29,0
+"Erie, PA HCS",34,3,28,3
+"Finger Lakes, NY HCS",30,1,28,1
+"Syracuse, NY HCS",30,1,26,3
+"Butler, PA HCS",29,1,24,4
+"Marion, IL HCS",26,2,24,0
+"White River Junction, VT HCS",24,2,20,2
+"Grand Junction, CO HCS",23,2,19,2
+"Roseburg, OR HCS",22,1,21,0
+"Clarksburg, WV HCS",18,4,14,0
+"Sheridan, WY HCS",15,5,10,0
+"Beckley, WV HCS",10,1,8,1
+"White City, OR HCS",6,2,4,0
+"Manila, PI HCS",0,0,0,0

@@ -1,0 +1,18 @@
+[
+  {
+    "Date": "2020-08-17",
+    "Office": "Washington D.C. Field Office",
+    "Custody/AOR/Facility": "Caroline Detention Facility",
+    "Confirmed cases currently under isolation or monitoring": 0.0,
+    "Detainee deaths3": false,
+    "Total confirmed COVID-19 cases": 5.0
+  },
+  {
+    "Date": "2020-08-17",
+    "Office": "Washington D.C. Field Office",
+    "Custody/AOR/Facility": "Immigration Centers of America - Farmville",
+    "Confirmed cases currently under isolation or monitoring": 250.0,
+    "Detainee deaths3": true,
+    "Total confirmed COVID-19 cases": 339.0
+  }
+]
