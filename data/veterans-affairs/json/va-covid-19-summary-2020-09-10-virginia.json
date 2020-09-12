@@ -1,0 +1,23 @@
+[
+   {
+      "Facility" : "Richmond, VA HCS",
+      "VA Confirmed Total_Display" : "424",
+      "Active" : "30",
+      "Convalescent" : "367",
+      "Known Deaths" : "27"
+   },
+   {
+      "Facility" : "Hampton, VA HCS",
+      "VA Confirmed Total_Display" : "386",
+      "Active" : "22",
+      "Convalescent" : "355",
+      "Known Deaths" : "9"
+   },
+   {
+      "Facility" : "Salem, VA HCS",
+      "VA Confirmed Total_Display" : "146",
+      "Active" : "12",
+      "Convalescent" : "124",
+      "Known Deaths" : "10"
+   }
+]
