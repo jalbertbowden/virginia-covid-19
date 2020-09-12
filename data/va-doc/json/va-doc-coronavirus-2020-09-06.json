@@ -1,0 +1,362 @@
+[
+  {
+    "Location": "Appalachian Men’s CCAP",
+    "Offenders on‑site": 0,
+    "Offenders in hospitals": 0,
+    "Death of COVID‑19 positive offender": 0,
+    "Total positive offendersonsite + hospital + deaths + releases + recovered + transfers in - transfers out": 0,
+    "Staff active cases including employees & contractors": 0
+  },
+  {
+    "Location": "Augusta Correctional Center",
+    "Offenders on‑site": 0,
+    "Offenders in hospitals": 0,
+    "Death of COVID‑19 positive offender": 0,
+    "Total positive offendersonsite + hospital + deaths + releases + recovered + transfers in - transfers out": 0,
+    "Staff active cases including employees & contractors": 2
+  },
+  {
+    "Location": "Baskerville Correctional Center",
+    "Offenders on‑site": 1,
+    "Offenders in hospitals": 0,
+    "Death of COVID‑19 positive offender": 0,
+    "Total positive offendersonsite + hospital + deaths + releases + recovered + transfers in - transfers out": 162,
+    "Staff active cases including employees & contractors": 7
+  },
+  {
+    "Location": "Bland Correctional Center",
+    "Offenders on‑site": 0,
+    "Offenders in hospitals": 0,
+    "Death of COVID‑19 positive offender": 0,
+    "Total positive offendersonsite + hospital + deaths + releases + recovered + transfers in - transfers out": 0,
+    "Staff active cases including employees & contractors": 0
+  },
+  {
+    "Location": "Brunswick CCAP",
+    "Offenders on‑site": 0,
+    "Offenders in hospitals": 0,
+    "Death of COVID‑19 positive offender": 0,
+    "Total positive offendersonsite + hospital + deaths + releases + recovered + transfers in - transfers out": 0,
+    "Staff active cases including employees & contractors": 0
+  },
+  {
+    "Location": "Buckingham Correctional Center",
+    "Offenders on‑site": 0,
+    "Offenders in hospitals": 0,
+    "Death of COVID‑19 positive offender": 4,
+    "Total positive offendersonsite + hospital + deaths + releases + recovered + transfers in - transfers out": 165,
+    "Staff active cases including employees & contractors": 1
+  },
+  {
+    "Location": "Caroline Correctional Unit",
+    "Offenders on‑site": 0,
+    "Offenders in hospitals": 0,
+    "Death of COVID‑19 positive offender": 0,
+    "Total positive offendersonsite + hospital + deaths + releases + recovered + transfers in - transfers out": 0,
+    "Staff active cases including employees & contractors": 0
+  },
+  {
+    "Location": "Central Virginia Correctional Unit #13",
+    "Offenders on‑site": 0,
+    "Offenders in hospitals": 0,
+    "Death of COVID‑19 positive offender": 0,
+    "Total positive offendersonsite + hospital + deaths + releases + recovered + transfers in - transfers out": 57,
+    "Staff active cases including employees & contractors": 0
+  },
+  {
+    "Location": "Chesterfield Women’s CCAP",
+    "Offenders on‑site": 0,
+    "Offenders in hospitals": 0,
+    "Death of COVID‑19 positive offender": 0,
+    "Total positive offendersonsite + hospital + deaths + releases + recovered + transfers in - transfers out": 0,
+    "Staff active cases including employees & contractors": 0
+  },
+  {
+    "Location": "Coffeewood Correctional Center",
+    "Offenders on‑site": 0,
+    "Offenders in hospitals": 0,
+    "Death of COVID‑19 positive offender": 0,
+    "Total positive offendersonsite + hospital + deaths + releases + recovered + transfers in - transfers out": 2,
+    "Staff active cases including employees & contractors": 1
+  },
+  {
+    "Location": "Cold Springs CCAP",
+    "Offenders on‑site": 0,
+    "Offenders in hospitals": 0,
+    "Death of COVID‑19 positive offender": 0,
+    "Total positive offendersonsite + hospital + deaths + releases + recovered + transfers in - transfers out": 0,
+    "Staff active cases including employees & contractors": 0
+  },
+  {
+    "Location": "Cold Springs Correctional Unit #10",
+    "Offenders on‑site": 0,
+    "Offenders in hospitals": 0,
+    "Death of COVID‑19 positive offender": 0,
+    "Total positive offendersonsite + hospital + deaths + releases + recovered + transfers in - transfers out": 0,
+    "Staff active cases including employees & contractors": 0
+  },
+  {
+    "Location": "Deerfield Correctional Center (includes Deerfield Work Centers)",
+    "Offenders on‑site": 288,
+    "Offenders in hospitals": 8,
+    "Death of COVID‑19 positive offender": 2,
+    "Total positive offendersonsite + hospital + deaths + releases + recovered + transfers in - transfers out": 376,
+    "Staff active cases including employees & contractors": 18
+  },
+  {
+    "Location": "Dillwyn Correctional Center",
+    "Offenders on‑site": 0,
+    "Offenders in hospitals": 0,
+    "Death of COVID‑19 positive offender": 2,
+    "Total positive offendersonsite + hospital + deaths + releases + recovered + transfers in - transfers out": 347,
+    "Staff active cases including employees & contractors": 1
+  },
+  {
+    "Location": "Fluvanna Correctional Center for Women",
+    "Offenders on‑site": 2,
+    "Offenders in hospitals": 0,
+    "Death of COVID‑19 positive offender": 0,
+    "Total positive offendersonsite + hospital + deaths + releases + recovered + transfers in - transfers out": 10,
+    "Staff active cases including employees & contractors": 2
+  },
+  {
+    "Location": "Green Rock Correctional Center",
+    "Offenders on‑site": 1,
+    "Offenders in hospitals": 1,
+    "Death of COVID‑19 positive offender": 0,
+    "Total positive offendersonsite + hospital + deaths + releases + recovered + transfers in - transfers out": 97,
+    "Staff active cases including employees & contractors": 1
+  },
+  {
+    "Location": "Greensville Correctional Center (includes Greensville Work Center)",
+    "Offenders on‑site": 0,
+    "Offenders in hospitals": 0,
+    "Death of COVID‑19 positive offender": 2,
+    "Total positive offendersonsite + hospital + deaths + releases + recovered + transfers in - transfers out": 655,
+    "Staff active cases including employees & contractors": 20
+  },
+  {
+    "Location": "Halifax Correctional Unit",
+    "Offenders on‑site": 0,
+    "Offenders in hospitals": 0,
+    "Death of COVID‑19 positive offender": 0,
+    "Total positive offendersonsite + hospital + deaths + releases + recovered + transfers in - transfers out": 0,
+    "Staff active cases including employees & contractors": 0
+  },
+  {
+    "Location": "Harrisonburg Men’s CCAP",
+    "Offenders on‑site": 0,
+    "Offenders in hospitals": 0,
+    "Death of COVID‑19 positive offender": 0,
+    "Total positive offendersonsite + hospital + deaths + releases + recovered + transfers in - transfers out": 26,
+    "Staff active cases including employees & contractors": 0
+  },
+  {
+    "Location": "Haynesville Correctional Center",
+    "Offenders on‑site": 0,
+    "Offenders in hospitals": 0,
+    "Death of COVID‑19 positive offender": 1,
+    "Total positive offendersonsite + hospital + deaths + releases + recovered + transfers in - transfers out": 256,
+    "Staff active cases including employees & contractors": 1
+  },
+  {
+    "Location": "Haynesville Correctional Unit #17",
+    "Offenders on‑site": 1,
+    "Offenders in hospitals": 0,
+    "Death of COVID‑19 positive offender": 0,
+    "Total positive offendersonsite + hospital + deaths + releases + recovered + transfers in - transfers out": 1,
+    "Staff active cases including employees & contractors": 0
+  },
+  {
+    "Location": "Indian Creek Correctional Center",
+    "Offenders on‑site": 0,
+    "Offenders in hospitals": 0,
+    "Death of COVID‑19 positive offender": 0,
+    "Total positive offendersonsite + hospital + deaths + releases + recovered + transfers in - transfers out": 54,
+    "Staff active cases including employees & contractors": 1
+  },
+  {
+    "Location": "Keen Mountain Correctional Center",
+    "Offenders on‑site": 0,
+    "Offenders in hospitals": 0,
+    "Death of COVID‑19 positive offender": 0,
+    "Total positive offendersonsite + hospital + deaths + releases + recovered + transfers in - transfers out": 9,
+    "Staff active cases including employees & contractors": 0
+  },
+  {
+    "Location": "Lawrenceville Correctional Center",
+    "Offenders on‑site": 0,
+    "Offenders in hospitals": 1,
+    "Death of COVID‑19 positive offender": 0,
+    "Total positive offendersonsite + hospital + deaths + releases + recovered + transfers in - transfers out": 93,
+    "Staff active cases including employees & contractors": 2
+  },
+  {
+    "Location": "Lunenburg Correctional Center",
+    "Offenders on‑site": 0,
+    "Offenders in hospitals": 0,
+    "Death of COVID‑19 positive offender": 0,
+    "Total positive offendersonsite + hospital + deaths + releases + recovered + transfers in - transfers out": 3,
+    "Staff active cases including employees & contractors": 2
+  },
+  {
+    "Location": "Marion Correctional Treatment Center",
+    "Offenders on‑site": 0,
+    "Offenders in hospitals": 0,
+    "Death of COVID‑19 positive offender": 0,
+    "Total positive offendersonsite + hospital + deaths + releases + recovered + transfers in - transfers out": 1,
+    "Staff active cases including employees & contractors": 0
+  },
+  {
+    "Location": "Nottoway Correctional Center (includes Nottoway Work Center)",
+    "Offenders on‑site": 0,
+    "Offenders in hospitals": 0,
+    "Death of COVID‑19 positive offender": 0,
+    "Total positive offendersonsite + hospital + deaths + releases + recovered + transfers in - transfers out": 1,
+    "Staff active cases including employees & contractors": 2
+  },
+  {
+    "Location": "Patrick Henry Correctional Unit",
+    "Offenders on‑site": 0,
+    "Offenders in hospitals": 0,
+    "Death of COVID‑19 positive offender": 0,
+    "Total positive offendersonsite + hospital + deaths + releases + recovered + transfers in - transfers out": 0,
+    "Staff active cases including employees & contractors": 1
+  },
+  {
+    "Location": "Pocahontas State Correctional Center",
+    "Offenders on‑site": 0,
+    "Offenders in hospitals": 0,
+    "Death of COVID‑19 positive offender": 0,
+    "Total positive offendersonsite + hospital + deaths + releases + recovered + transfers in - transfers out": 0,
+    "Staff active cases including employees & contractors": 1
+  },
+  {
+    "Location": "Red Onion State Prison",
+    "Offenders on‑site": 0,
+    "Offenders in hospitals": 0,
+    "Death of COVID‑19 positive offender": 0,
+    "Total positive offendersonsite + hospital + deaths + releases + recovered + transfers in - transfers out": 20,
+    "Staff active cases including employees & contractors": 0
+  },
+  {
+    "Location": "River North Correctional Center",
+    "Offenders on‑site": 0,
+    "Offenders in hospitals": 0,
+    "Death of COVID‑19 positive offender": 0,
+    "Total positive offendersonsite + hospital + deaths + releases + recovered + transfers in - transfers out": 0,
+    "Staff active cases including employees & contractors": 0
+  },
+  {
+    "Location": "Rustburg Correctional Unit",
+    "Offenders on‑site": 0,
+    "Offenders in hospitals": 0,
+    "Death of COVID‑19 positive offender": 0,
+    "Total positive offendersonsite + hospital + deaths + releases + recovered + transfers in - transfers out": 0,
+    "Staff active cases including employees & contractors": 0
+  },
+  {
+    "Location": "St. Brides Correctional Center",
+    "Offenders on‑site": 0,
+    "Offenders in hospitals": 0,
+    "Death of COVID‑19 positive offender": 0,
+    "Total positive offendersonsite + hospital + deaths + releases + recovered + transfers in - transfers out": 315,
+    "Staff active cases including employees & contractors": 5
+  },
+  {
+    "Location": "Stafford Men’s CCAP",
+    "Offenders on‑site": 0,
+    "Offenders in hospitals": 0,
+    "Death of COVID‑19 positive offender": 0,
+    "Total positive offendersonsite + hospital + deaths + releases + recovered + transfers in - transfers out": 1,
+    "Staff active cases including employees & contractors": 0
+  },
+  {
+    "Location": "State Farm Correctional Complex",
+    "Offenders on‑site": 0,
+    "Offenders in hospitals": 0,
+    "Death of COVID‑19 positive offender": 2,
+    "Total positive offendersonsite + hospital + deaths + releases + recovered + transfers in - transfers out": 161,
+    "Staff active cases including employees & contractors": 1
+  },
+  {
+    "Location": "Sussex I State Prison",
+    "Offenders on‑site": 0,
+    "Offenders in hospitals": 0,
+    "Death of COVID‑19 positive offender": 0,
+    "Total positive offendersonsite + hospital + deaths + releases + recovered + transfers in - transfers out": 2,
+    "Staff active cases including employees & contractors": 2
+  },
+  {
+    "Location": "Sussex II State Prison",
+    "Offenders on‑site": 0,
+    "Offenders in hospitals": 0,
+    "Death of COVID‑19 positive offender": 1,
+    "Total positive offendersonsite + hospital + deaths + releases + recovered + transfers in - transfers out": 73,
+    "Staff active cases including employees & contractors": 1
+  },
+  {
+    "Location": "Virginia Correctional Center for Women (includes State Farm Work Center)",
+    "Offenders on‑site": 0,
+    "Offenders in hospitals": 0,
+    "Death of COVID‑19 positive offender": 1,
+    "Total positive offendersonsite + hospital + deaths + releases + recovered + transfers in - transfers out": 46,
+    "Staff active cases including employees & contractors": 3
+  },
+  {
+    "Location": "Wallens Ridge State Prison",
+    "Offenders on‑site": 0,
+    "Offenders in hospitals": 0,
+    "Death of COVID‑19 positive offender": 0,
+    "Total positive offendersonsite + hospital + deaths + releases + recovered + transfers in - transfers out": 0,
+    "Staff active cases including employees & contractors": 2
+  },
+  {
+    "Location": "Wise Correctional Unit",
+    "Offenders on‑site": 0,
+    "Offenders in hospitals": 0,
+    "Death of COVID‑19 positive offender": 0,
+    "Total positive offendersonsite + hospital + deaths + releases + recovered + transfers in - transfers out": 0,
+    "Staff active cases including employees & contractors": 0
+  },
+  {
+    "Location": "Probation & Parole — Eastern Region",
+    "Offenders on‑site": "n/a",
+    "Offenders in hospitals": "n/a",
+    "Death of COVID‑19 positive offender": "n/a",
+    "Total positive offendersonsite + hospital + deaths + releases + recovered + transfers in - transfers out": "n/a",
+    "Staff active cases including employees & contractors": 1
+  },
+  {
+    "Location": "Probation & Parole — Central Region",
+    "Offenders on‑site": "n/a",
+    "Offenders in hospitals": "n/a",
+    "Death of COVID‑19 positive offender": "n/a",
+    "Total positive offendersonsite + hospital + deaths + releases + recovered + transfers in - transfers out": "n/a",
+    "Staff active cases including employees & contractors": 0
+  },
+  {
+    "Location": "Probation & Parole — Western Region",
+    "Offenders on‑site": "n/a",
+    "Offenders in hospitals": "n/a",
+    "Death of COVID‑19 positive offender": "n/a",
+    "Total positive offendersonsite + hospital + deaths + releases + recovered + transfers in - transfers out": "n/a",
+    "Staff active cases including employees & contractors": 1
+  },
+  {
+    "Location": "Administration & Operations",
+    "Offenders on‑site": "n/a",
+    "Offenders in hospitals": "n/a",
+    "Death of COVID‑19 positive offender": "n/a",
+    "Total positive offendersonsite + hospital + deaths + releases + recovered + transfers in - transfers out": "n/a",
+    "Staff active cases including employees & contractors": 0
+  },
+  {
+    "Location": "Totals",
+    "Offenders on‑site": 293,
+    "Offenders in hospitals": 10,
+    "Death of COVID‑19 positive offender": 15,
+    "Total positive offendersonsite + hospital + deaths + releases + recovered + transfers in - transfers out": 2933,
+    "Staff active cases including employees & contractors": 79
+  }
+]
