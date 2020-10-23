@@ -1,7 +1,7 @@
 # ![COVID-19 in Virginia](/img/sts-icon-stayhome2-a-invert-bg-white.png?raw=true "COVID-19 in Virginia"). 
-# Virginia COVID 19 Open Data.  
+# Virginia COVID-19 Open Data.  
 
-`virginia-covid-19` is the repository of COVID-19 open data across the commonwealth of Virginia.  
+*`virginia-covid-19`* is the repository of COVID-19 open data across the commonwealth of Virginia.  
 Collection of various datasets, documented, archived, cleaned, and published in open formats.
 
 ## Datasets  
