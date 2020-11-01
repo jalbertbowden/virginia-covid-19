@@ -1,0 +1,134 @@
+County,FIPS,State,FEMA Region,Population,NCHS Urban Rural Classification,Tests in prior 14 days,14-day test rate,Percent Positivity in prior 14 days,Test Positivity Classification - 14 days
+"Accomack County, VA",51001,VA,3,32316,Non-core,748,2315,1.6%,Green
+"Albemarle County, VA",51003,VA,3,109330,Small metro,3686,3371,5.3%,Yellow
+"Alexandria City, VA",51510,VA,3,159428,Large central metro,4899,3073,5.7%,Yellow
+"Alleghany County, VA",51005,VA,3,14860,Non-core,441,2968,2.5%,Green
+"Amelia County, VA",51007,VA,3,13145,Large fringe metro,275,2092,2.5%,Green
+"Amherst County, VA",51009,VA,3,31605,Medium metro,907,2870,8.8%,Yellow
+"Appomattox County, VA",51011,VA,3,15911,Medium metro,409,2571,8.6%,Yellow
+"Arlington County, VA",51013,VA,3,236842,Large central metro,6953,2936,3.4%,Green
+"Augusta County, VA",51015,VA,3,75558,Small metro,834,1104,8.8%,Yellow
+"Bath County, VA",51017,VA,3,4147,Non-core,73,1760,16.4%,Yellow
+"Bedford County, VA",51019,VA,3,78997,Medium metro,1968,2491,9.6%,Yellow
+"Bland County, VA",51021,VA,3,6280,Non-core,133,2118,1.5%,Green
+"Botetourt County, VA",51023,VA,3,33419,Medium metro,559,1673,7.9%,Yellow
+"Bristol City, VA",51520,VA,3,16762,Medium metro,264,1575,7.2%,Yellow
+"Brunswick County, VA",51025,VA,3,16231,Non-core,971,5982,3.9%,Green
+"Buchanan County, VA",51027,VA,3,21004,Non-core,155,738,29%,Yellow
+"Buckingham County, VA",51029,VA,3,17148,Small metro,273,1592,6.6%,Yellow
+"Buena Vista City, VA",51530,VA,3,6478,Non-core,105,1621,5.7%,Yellow
+"Campbell County, VA",51031,VA,3,54885,Medium metro,1055,1922,8.8%,Yellow
+"Caroline County, VA",51033,VA,3,30725,Large fringe metro,801,2607,8.4%,Yellow
+"Carroll County, VA",51035,VA,3,29791,Non-core,455,1527,11.6%,Yellow
+"Charles City County, VA",51036,VA,3,6963,Large fringe metro,117,1680,4.3%,Green
+"Charlotte County, VA",51037,VA,3,11880,Non-core,369,3106,11.1%,Red
+"Charlottesville City, VA",51540,VA,3,47266,Small metro,4717,9980,7.1%,Yellow
+"Chesapeake City, VA",51550,VA,3,244835,Large fringe metro,5631,2300,5.2%,Yellow
+"Chesterfield County, VA",51041,VA,3,352802,Large fringe metro,9527,2700,6.5%,Yellow
+"Clarke County, VA",51043,VA,3,14619,Large fringe metro,252,1724,4.8%,Green
+"Colonial Heights City, VA",51570,VA,3,17370,Large fringe metro,638,3673,6.1%,Yellow
+"Covington City, VA",51580,VA,3,5538,Non-core,23,415,17.4%,Yellow
+"Craig County, VA",51045,VA,3,5131,Medium metro,76,1481,5.3%,Yellow
+"Culpeper County, VA",51047,VA,3,52605,Large fringe metro,969,1842,3.6%,Green
+"Cumberland County, VA",51049,VA,3,9932,Non-core,131,1319,4.6%,Green
+"Danville City, VA",51590,VA,3,40044,Micropolitan,2459,6141,7.1%,Yellow
+"Dickenson County, VA",51051,VA,3,14318,Micropolitan,137,957,15.3%,Yellow
+"Dinwiddie County, VA",51053,VA,3,28544,Large fringe metro,462,1619,16%,Yellow
+"Emporia City, VA",51595,VA,3,5346,Non-core,44,823,52.3%,Yellow
+"Essex County, VA",51057,VA,3,10953,Non-core,387,3533,4.9%,Green
+"Fairfax City, VA",51600,VA,3,24019,Large fringe metro,<20 tests,<20 tests,<20 tests,Green
+"Fairfax County, VA",51059,VA,3,1147532,Large fringe metro,29076,2534,7.2%,Yellow
+"Falls Church City, VA",51610,VA,3,14617,Large fringe metro,414,2832,4.1%,Green
+"Fauquier County, VA",51061,VA,3,71222,Large fringe metro,1214,1705,3.1%,Green
+"Floyd County, VA",51063,VA,3,15749,Small metro,455,2889,6.4%,Yellow
+"Fluvanna County, VA",51065,VA,3,27270,Small metro,715,2622,5.7%,Yellow
+"Franklin City, VA",51620,VA,3,7967,Non-core,923,11585,7%,Yellow
+"Franklin County, VA",51067,VA,3,56042,Medium metro,860,1535,17.4%,Red
+"Frederick County, VA",51069,VA,3,89313,Small metro,2230,2497,5.2%,Yellow
+"Fredericksburg City, VA",51630,VA,3,29036,Large fringe metro,562,1936,4.3%,Green
+"Galax City, VA",51640,VA,3,6347,Non-core,235,3703,10.6%,Red
+"Giles County, VA",51071,VA,3,16720,Small metro,338,2022,5.9%,Yellow
+"Gloucester County, VA",51073,VA,3,37348,Large fringe metro,751,2011,3.2%,Green
+"Goochland County, VA",51075,VA,3,23753,Large fringe metro,457,1924,5.5%,Yellow
+"Grayson County, VA",51077,VA,3,15550,Non-core,373,2399,16.1%,Red
+"Greene County, VA",51079,VA,3,19819,Small metro,502,2533,4.8%,Green
+"Greensville County, VA",51081,VA,3,11336,Non-core,334,2946,12.3%,Red
+"Halifax County, VA",51083,VA,3,33911,Non-core,1644,4848,3.6%,Green
+"Hampton City, VA",51650,VA,3,134510,Large fringe metro,2636,1960,4.2%,Green
+"Hanover County, VA",51085,VA,3,107766,Large fringe metro,3008,2791,5.4%,Yellow
+"Harrisonburg City, VA",51660,VA,3,53016,Small metro,2348,4429,11.7%,Red
+"Henrico County, VA",51087,VA,3,330818,Large fringe metro,13315,4025,4.1%,Green
+"Henry County, VA",51089,VA,3,50557,Micropolitan,1329,2629,12%,Red
+"Highland County, VA",51091,VA,3,2190,Non-core,24,1096,4.2%,Green
+"Hopewell City, VA",51670,VA,3,22529,Large fringe metro,1464,6498,8.3%,Yellow
+"Isle of Wight County, VA",51093,VA,3,37109,Large fringe metro,1323,3565,6.7%,Yellow
+"James City County, VA",51095,VA,3,76523,Large fringe metro,1925,2516,2.3%,Green
+"King George County, VA",51099,VA,3,26836,Non-core,299,1114,3.3%,Green
+"King William County, VA",51101,VA,3,17148,Large fringe metro,429,2502,4.7%,Green
+"King and Queen County, VA",51097,VA,3,7025,Non-core,175,2491,7.4%,Yellow
+"Lancaster County, VA",51103,VA,3,10603,Non-core,725,6838,7.6%,Yellow
+"Lee County, VA",51105,VA,3,23423,Non-core,422,1802,8.5%,Yellow
+"Lexington City, VA",51678,VA,3,7446,Non-core,793,10650,3.9%,Green
+"Loudoun County, VA",51107,VA,3,413538,Large fringe metro,8369,2024,5.6%,Yellow
+"Louisa County, VA",51109,VA,3,37591,Non-core,817,2173,3.8%,Green
+"Lunenburg County, VA",51111,VA,3,12196,Non-core,328,2689,3.7%,Green
+"Lynchburg City, VA",51680,VA,3,82168,Medium metro,3892,4737,8.5%,Yellow
+"Madison County, VA",51113,VA,3,13261,Non-core,355,2677,1.7%,Green
+"Manassas City, VA",51683,VA,3,41085,Large fringe metro,1077,2621,8.8%,Yellow
+"Manassas Park City, VA",51685,VA,3,17478,Large fringe metro,39,223,41%,Yellow
+"Martinsville City, VA",51690,VA,3,12554,Micropolitan,138,1099,28.3%,Yellow
+"Mathews County, VA",51115,VA,3,8834,Large fringe metro,203,2298,22.7%,Red
+"Mecklenburg County, VA",51117,VA,3,30587,Non-core,2301,7523,4.9%,Green
+"Middlesex County, VA",51119,VA,3,10582,Non-core,292,2759,6.2%,Yellow
+"Montgomery County, VA",51121,VA,3,98535,Small metro,5862,5949,9.8%,Yellow
+"Nelson County, VA",51125,VA,3,14930,Small metro,281,1882,5%,Yellow
+"New Kent County, VA",51127,VA,3,23091,Large fringe metro,560,2425,2.9%,Green
+"Newport News City, VA",51700,VA,3,179225,Large fringe metro,6448,3598,3%,Green
+"Norfolk City, VA",51710,VA,3,242742,Large central metro,6522,2687,4.4%,Green
+"Northampton County, VA",51131,VA,3,11710,Non-core,296,2528,1%,Green
+"Northumberland County, VA",51133,VA,3,12095,Non-core,693,5730,8.4%,Yellow
+"Norton City, VA",51720,VA,3,3981,Micropolitan,159,3994,4.4%,Green
+"Nottoway County, VA",51135,VA,3,15232,Non-core,554,3637,5.4%,Yellow
+"Orange County, VA",51137,VA,3,37051,Non-core,962,2596,3.4%,Green
+"Page County, VA",51139,VA,3,23902,Non-core,478,2000,6.3%,Yellow
+"Patrick County, VA",51141,VA,3,17608,Non-core,212,1204,9.4%,Yellow
+"Petersburg City, VA",51730,VA,3,31346,Large fringe metro,2110,6731,4.1%,Green
+"Pittsylvania County, VA",51143,VA,3,60354,Micropolitan,1136,1882,12.4%,Red
+"Poquoson City, VA",51735,VA,3,12271,Large fringe metro,176,1434,0.6%,Green
+"Portsmouth City, VA",51740,VA,3,94398,Large fringe metro,2704,2864,9.5%,Yellow
+"Powhatan County, VA",51145,VA,3,29652,Large fringe metro,611,2061,5.9%,Yellow
+"Prince Edward County, VA",51147,VA,3,22802,Non-core,826,3622,7%,Yellow
+"Prince George County, VA",51149,VA,3,38353,Large fringe metro,805,2099,25.3%,Red
+"Prince William County, VA",51153,VA,3,470335,Large fringe metro,10825,2302,8.3%,Yellow
+"Pulaski County, VA",51155,VA,3,34027,Small metro,938,2757,5.2%,Yellow
+"Radford City, VA",51750,VA,3,18249,Small metro,831,4554,4.6%,Green
+"Rappahannock County, VA",51157,VA,3,7370,Large fringe metro,86,1167,0%,Green
+"Richmond City, VA",51760,VA,3,230436,Large central metro,8792,3815,4.7%,Green
+"Richmond County, VA",51159,VA,3,9023,Non-core,276,3059,4%,Green
+"Roanoke City, VA",51770,VA,3,99143,Medium metro,12766,12876,6.9%,Yellow
+"Roanoke County, VA",51161,VA,3,94186,Medium metro,2367,2513,8.9%,Yellow
+"Rockbridge County, VA",51163,VA,3,22573,Non-core,241,1068,6.2%,Yellow
+"Rockingham County, VA",51165,VA,3,81948,Small metro,1338,1633,12.9%,Red
+"Russell County, VA",51167,VA,3,26586,Non-core,408,1535,14.2%,Yellow
+"Salem City, VA",51775,VA,3,25301,Medium metro,2133,8430,5.1%,Yellow
+"Scott County, VA",51169,VA,3,21566,Medium metro,357,1655,7.3%,Yellow
+"Shenandoah County, VA",51171,VA,3,43616,Non-core,1410,3233,2%,Green
+"Smyth County, VA",51173,VA,3,30104,Non-core,1241,4122,5.2%,Yellow
+"Southampton County, VA",51175,VA,3,17631,Non-core,1220,6920,36.1%,Red
+"Spotsylvania County, VA",51177,VA,3,136215,Large fringe metro,2176,1597,5.2%,Yellow
+"Stafford County, VA",51179,VA,3,152882,Large fringe metro,2202,1440,5.7%,Yellow
+"Staunton City, VA",51790,VA,3,24932,Small metro,1296,5198,3.6%,Green
+"Suffolk City, VA",51800,VA,3,92108,Large fringe metro,2238,2430,6.6%,Yellow
+"Surry County, VA",51181,VA,3,6422,Non-core,186,2896,12.4%,Red
+"Sussex County, VA",51183,VA,3,11159,Large fringe metro,368,3298,23.4%,Red
+"Tazewell County, VA",51185,VA,3,40595,Micropolitan,611,1505,9.2%,Yellow
+"Virginia Beach City, VA",51810,VA,3,449974,Large central metro,9694,2154,5.4%,Yellow
+"Warren County, VA",51187,VA,3,40164,Large fringe metro,1199,2985,3.3%,Green
+"Washington County, VA",51191,VA,3,53740,Medium metro,1218,2266,10.3%,Red
+"Waynesboro City, VA",51820,VA,3,22630,Small metro,454,2006,4.4%,Green
+"Westmoreland County, VA",51193,VA,3,18015,Non-core,397,2204,8.6%,Yellow
+"Williamsburg City, VA",51830,VA,3,14954,Large fringe metro,34,227,38.2%,Yellow
+"Winchester City, VA",51840,VA,3,28078,Small metro,2199,7832,3%,Green
+"Wise County, VA",51195,VA,3,37383,Micropolitan,640,1712,8.4%,Yellow
+"Wythe County, VA",51197,VA,3,28684,Non-core,545,1900,9.4%,Yellow
+"York County, VA",51199,VA,3,68280,Large fringe metro,1003,1469,4.1%,Green

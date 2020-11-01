@@ -1,0 +1,975 @@
+[
+   {
+      "Facility" : "San Antonio, TX HCS",
+      "VA Confirmed Total_Display" : "1720",
+      "Active" : "47",
+      "Convalescent" : "1595",
+      "Known Deaths" : "78"
+   },
+   {
+      "Facility" : "Houston, TX HCS",
+      "VA Confirmed Total_Display" : "1682",
+      "Active" : "73",
+      "Convalescent" : "1544",
+      "Known Deaths" : "65"
+   },
+   {
+      "Facility" : "Orlando, FL HCS",
+      "VA Confirmed Total_Display" : "1599",
+      "Active" : "90",
+      "Convalescent" : "1475",
+      "Known Deaths" : "34"
+   },
+   {
+      "Facility" : "Atlanta, GA HCS",
+      "VA Confirmed Total_Display" : "1552",
+      "Active" : "77",
+      "Convalescent" : "1419",
+      "Known Deaths" : "56"
+   },
+   {
+      "Facility" : "Columbia, SC HCS",
+      "VA Confirmed Total_Display" : "1454",
+      "Active" : "96",
+      "Convalescent" : "1295",
+      "Known Deaths" : "63"
+   },
+   {
+      "Facility" : "Phoenix, AZ HCS",
+      "VA Confirmed Total_Display" : "1446",
+      "Active" : "31",
+      "Convalescent" : "1329",
+      "Known Deaths" : "86"
+   },
+   {
+      "Facility" : "Texas Valley Coastal Bend HCS",
+      "VA Confirmed Total_Display" : "1403",
+      "Active" : "34",
+      "Convalescent" : "1272",
+      "Known Deaths" : "97"
+   },
+   {
+      "Facility" : "Gainesville, FL HCS",
+      "VA Confirmed Total_Display" : "1369",
+      "Active" : "60",
+      "Convalescent" : "1253",
+      "Known Deaths" : "56"
+   },
+   {
+      "Facility" : "Tampa, FL HCS",
+      "VA Confirmed Total_Display" : "1174",
+      "Active" : "59",
+      "Convalescent" : "1055",
+      "Known Deaths" : "60"
+   },
+   {
+      "Facility" : "Miami, FL HCS",
+      "VA Confirmed Total_Display" : "1155",
+      "Active" : "25",
+      "Convalescent" : "1096",
+      "Known Deaths" : "34"
+   },
+   {
+      "Facility" : "Charleston, SC HCS",
+      "VA Confirmed Total_Display" : "1105",
+      "Active" : "66",
+      "Convalescent" : "1017",
+      "Known Deaths" : "22"
+   },
+   {
+      "Facility" : "New York Harbor HCS",
+      "VA Confirmed Total_Display" : "1085",
+      "Active" : "11",
+      "Convalescent" : "957",
+      "Known Deaths" : "117"
+   },
+   {
+      "Facility" : "New Orleans, LA HCS",
+      "VA Confirmed Total_Display" : "1081",
+      "Active" : "15",
+      "Convalescent" : "993",
+      "Known Deaths" : "73"
+   },
+   {
+      "Facility" : "Bay Pines, FL HCS",
+      "VA Confirmed Total_Display" : "1072",
+      "Active" : "51",
+      "Convalescent" : "978",
+      "Known Deaths" : "43"
+   },
+   {
+      "Facility" : "Dallas, TX HCS",
+      "VA Confirmed Total_Display" : "1065",
+      "Active" : "87",
+      "Convalescent" : "933",
+      "Known Deaths" : "45"
+   },
+   {
+      "Facility" : "New Jersey HCS",
+      "VA Confirmed Total_Display" : "1052",
+      "Active" : "12",
+      "Convalescent" : "919",
+      "Known Deaths" : "121"
+   },
+   {
+      "Facility" : "Temple, TX HCS",
+      "VA Confirmed Total_Display" : "1034",
+      "Active" : "65",
+      "Convalescent" : "942",
+      "Known Deaths" : "27"
+   },
+   {
+      "Facility" : "St. Louis, MO HCS",
+      "VA Confirmed Total_Display" : "928",
+      "Active" : "56",
+      "Convalescent" : "813",
+      "Known Deaths" : "59"
+   },
+   {
+      "Facility" : "Middle Tennessee HCS",
+      "VA Confirmed Total_Display" : "886",
+      "Active" : "74",
+      "Convalescent" : "778",
+      "Known Deaths" : "34"
+   },
+   {
+      "Facility" : "Cleveland, OH HCS",
+      "VA Confirmed Total_Display" : "881",
+      "Active" : "70",
+      "Convalescent" : "733",
+      "Known Deaths" : "78"
+   },
+   {
+      "Facility" : "Washington, DC HCS",
+      "VA Confirmed Total_Display" : "876",
+      "Active" : "37",
+      "Convalescent" : "775",
+      "Known Deaths" : "64"
+   },
+   {
+      "Facility" : "Nebraska-W Iowa HCS",
+      "VA Confirmed Total_Display" : "852",
+      "Active" : "82",
+      "Convalescent" : "721",
+      "Known Deaths" : "49"
+   },
+   {
+      "Facility" : "Chicago, IL HCS",
+      "VA Confirmed Total_Display" : "839",
+      "Active" : "66",
+      "Convalescent" : "725",
+      "Known Deaths" : "48"
+   },
+   {
+      "Facility" : "Minneapolis, MN HCS",
+      "VA Confirmed Total_Display" : "830",
+      "Active" : "144",
+      "Convalescent" : "624",
+      "Known Deaths" : "62"
+   },
+   {
+      "Facility" : "Bronx, NY HCS",
+      "VA Confirmed Total_Display" : "811",
+      "Active" : "10",
+      "Convalescent" : "708",
+      "Known Deaths" : "93"
+   },
+   {
+      "Facility" : "Milwaukee, WI HCS",
+      "VA Confirmed Total_Display" : "810",
+      "Active" : "180",
+      "Convalescent" : "611",
+      "Known Deaths" : "19"
+   },
+   {
+      "Facility" : "Aurora, CO HCS",
+      "VA Confirmed Total_Display" : "796",
+      "Active" : "77",
+      "Convalescent" : "683",
+      "Known Deaths" : "36"
+   },
+   {
+      "Facility" : "Loma Linda, CA HCS",
+      "VA Confirmed Total_Display" : "796",
+      "Active" : "33",
+      "Convalescent" : "745",
+      "Known Deaths" : "18"
+   },
+   {
+      "Facility" : "Boston, MA HCS",
+      "VA Confirmed Total_Display" : "790",
+      "Active" : "7",
+      "Convalescent" : "686",
+      "Known Deaths" : "97"
+   },
+   {
+      "Facility" : "Hines, IL HCS",
+      "VA Confirmed Total_Display" : "780",
+      "Active" : "65",
+      "Convalescent" : "677",
+      "Known Deaths" : "38"
+   },
+   {
+      "Facility" : "Kansas City, MO HCS",
+      "VA Confirmed Total_Display" : "774",
+      "Active" : "95",
+      "Convalescent" : "647",
+      "Known Deaths" : "32"
+   },
+   {
+      "Facility" : "Philadelphia, PA HCS",
+      "VA Confirmed Total_Display" : "764",
+      "Active" : "34",
+      "Convalescent" : "673",
+      "Known Deaths" : "57"
+   },
+   {
+      "Facility" : "Salisbury, NC HCS",
+      "VA Confirmed Total_Display" : "764",
+      "Active" : "46",
+      "Convalescent" : "670",
+      "Known Deaths" : "48"
+   },
+   {
+      "Facility" : "Las Vegas, NV HCS",
+      "VA Confirmed Total_Display" : "760",
+      "Active" : "50",
+      "Convalescent" : "681",
+      "Known Deaths" : "29"
+   },
+   {
+      "Facility" : "Gulf Coast, MS HCS",
+      "VA Confirmed Total_Display" : "741",
+      "Active" : "24",
+      "Convalescent" : "689",
+      "Known Deaths" : "28"
+   },
+   {
+      "Facility" : "Long Beach, CA HCS",
+      "VA Confirmed Total_Display" : "724",
+      "Active" : "28",
+      "Convalescent" : "678",
+      "Known Deaths" : "18"
+   },
+   {
+      "Facility" : "West Palm Beach, FL HCS",
+      "VA Confirmed Total_Display" : "716",
+      "Active" : "15",
+      "Convalescent" : "664",
+      "Known Deaths" : "37"
+   },
+   {
+      "Facility" : "Fayetteville, NC HCS",
+      "VA Confirmed Total_Display" : "694",
+      "Active" : "63",
+      "Convalescent" : "609",
+      "Known Deaths" : "22"
+   },
+   {
+      "Facility" : "Greater Los Angeles, CA HCS",
+      "VA Confirmed Total_Display" : "658",
+      "Active" : "27",
+      "Convalescent" : "594",
+      "Known Deaths" : "37"
+   },
+   {
+      "Facility" : "Mountain Home, TN HCS",
+      "VA Confirmed Total_Display" : "654",
+      "Active" : "95",
+      "Convalescent" : "527",
+      "Known Deaths" : "32"
+   },
+   {
+      "Facility" : "Birmingham, AL HCS",
+      "VA Confirmed Total_Display" : "651",
+      "Active" : "40",
+      "Convalescent" : "575",
+      "Known Deaths" : "36"
+   },
+   {
+      "Facility" : "Shreveport, LA HCS",
+      "VA Confirmed Total_Display" : "633",
+      "Active" : "39",
+      "Convalescent" : "545",
+      "Known Deaths" : "49"
+   },
+   {
+      "Facility" : "Little Rock, AR HCS",
+      "VA Confirmed Total_Display" : "626",
+      "Active" : "49",
+      "Convalescent" : "556",
+      "Known Deaths" : "21"
+   },
+   {
+      "Facility" : "Muskogee, OK HCS",
+      "VA Confirmed Total_Display" : "626",
+      "Active" : "86",
+      "Convalescent" : "492",
+      "Known Deaths" : "48"
+   },
+   {
+      "Facility" : "Central Alabama HCS",
+      "VA Confirmed Total_Display" : "619",
+      "Active" : "32",
+      "Convalescent" : "572",
+      "Known Deaths" : "15"
+   },
+   {
+      "Facility" : "Dublin, GA HCS",
+      "VA Confirmed Total_Display" : "618",
+      "Active" : "33",
+      "Convalescent" : "565",
+      "Known Deaths" : "20"
+   },
+   {
+      "Facility" : "Augusta, GA HCS",
+      "VA Confirmed Total_Display" : "607",
+      "Active" : "18",
+      "Convalescent" : "552",
+      "Known Deaths" : "37"
+   },
+   {
+      "Facility" : "Indianapolis, IN HCS",
+      "VA Confirmed Total_Display" : "595",
+      "Active" : "29",
+      "Convalescent" : "506",
+      "Known Deaths" : "60"
+   },
+   {
+      "Facility" : "Durham, NC HCS",
+      "VA Confirmed Total_Display" : "592",
+      "Active" : "37",
+      "Convalescent" : "521",
+      "Known Deaths" : "34"
+   },
+   {
+      "Facility" : "Richmond, VA HCS",
+      "VA Confirmed Total_Display" : "568",
+      "Active" : "34",
+      "Convalescent" : "501",
+      "Known Deaths" : "33"
+   },
+   {
+      "Facility" : "San Diego, CA HCS",
+      "VA Confirmed Total_Display" : "563",
+      "Active" : "23",
+      "Convalescent" : "529",
+      "Known Deaths" : "11"
+   },
+   {
+      "Facility" : "Alexandria, LA HCS",
+      "VA Confirmed Total_Display" : "558",
+      "Active" : "17",
+      "Convalescent" : "515",
+      "Known Deaths" : "26"
+   },
+   {
+      "Facility" : "Jackson, MS HCS",
+      "VA Confirmed Total_Display" : "553",
+      "Active" : "22",
+      "Convalescent" : "485",
+      "Known Deaths" : "46"
+   },
+   {
+      "Facility" : "Oklahoma City, OK HCS",
+      "VA Confirmed Total_Display" : "537",
+      "Active" : "62",
+      "Convalescent" : "440",
+      "Known Deaths" : "35"
+   },
+   {
+      "Facility" : "Connecticut HCS",
+      "VA Confirmed Total_Display" : "531",
+      "Active" : "18",
+      "Convalescent" : "473",
+      "Known Deaths" : "40"
+   },
+   {
+      "Facility" : "N. California HCS",
+      "VA Confirmed Total_Display" : "511",
+      "Active" : "36",
+      "Convalescent" : "449",
+      "Known Deaths" : "26"
+   },
+   {
+      "Facility" : "Baltimore, MD HCS",
+      "VA Confirmed Total_Display" : "495",
+      "Active" : "18",
+      "Convalescent" : "444",
+      "Known Deaths" : "33"
+   },
+   {
+      "Facility" : "Memphis, TN HCS",
+      "VA Confirmed Total_Display" : "489",
+      "Active" : "42",
+      "Convalescent" : "426",
+      "Known Deaths" : "21"
+   },
+   {
+      "Facility" : "Louisville, KY HCS",
+      "VA Confirmed Total_Display" : "481",
+      "Active" : "76",
+      "Convalescent" : "385",
+      "Known Deaths" : "20"
+   },
+   {
+      "Facility" : "Palo Alto, CA HCS",
+      "VA Confirmed Total_Display" : "472",
+      "Active" : "12",
+      "Convalescent" : "430",
+      "Known Deaths" : "30"
+   },
+   {
+      "Facility" : "Southern Arizona HCS",
+      "VA Confirmed Total_Display" : "462",
+      "Active" : "12",
+      "Convalescent" : "409",
+      "Known Deaths" : "41"
+   },
+   {
+      "Facility" : "Madison, WI HCS",
+      "VA Confirmed Total_Display" : "449",
+      "Active" : "110",
+      "Convalescent" : "325",
+      "Known Deaths" : "14"
+   },
+   {
+      "Facility" : "Hampton, VA HCS",
+      "VA Confirmed Total_Display" : "448",
+      "Active" : "10",
+      "Convalescent" : "426",
+      "Known Deaths" : "12"
+   },
+   {
+      "Facility" : "San Juan, PR HCS",
+      "VA Confirmed Total_Display" : "445",
+      "Active" : "65",
+      "Convalescent" : "370",
+      "Known Deaths" : "10"
+   },
+   {
+      "Facility" : "Salt Lake City, UT HCS",
+      "VA Confirmed Total_Display" : "438",
+      "Active" : "54",
+      "Convalescent" : "361",
+      "Known Deaths" : "23"
+   },
+   {
+      "Facility" : "Boise, ID HCS",
+      "VA Confirmed Total_Display" : "430",
+      "Active" : "39",
+      "Convalescent" : "378",
+      "Known Deaths" : "13"
+   },
+   {
+      "Facility" : "Puget Sound, WA HCS",
+      "VA Confirmed Total_Display" : "429",
+      "Active" : "20",
+      "Convalescent" : "388",
+      "Known Deaths" : "21"
+   },
+   {
+      "Facility" : "Asheville, NC HCS",
+      "VA Confirmed Total_Display" : "425",
+      "Active" : "27",
+      "Convalescent" : "368",
+      "Known Deaths" : "30"
+   },
+   {
+      "Facility" : "Fresno, CA HCS",
+      "VA Confirmed Total_Display" : "420",
+      "Active" : "19",
+      "Convalescent" : "382",
+      "Known Deaths" : "19"
+   },
+   {
+      "Facility" : "Amarillo, TX HCS",
+      "VA Confirmed Total_Display" : "403",
+      "Active" : "89",
+      "Convalescent" : "302",
+      "Known Deaths" : "12"
+   },
+   {
+      "Facility" : "Fargo, ND HCS",
+      "VA Confirmed Total_Display" : "402",
+      "Active" : "107",
+      "Convalescent" : "265",
+      "Known Deaths" : "30"
+   },
+   {
+      "Facility" : "Columbia, MO HCS",
+      "VA Confirmed Total_Display" : "400",
+      "Active" : "101",
+      "Convalescent" : "284",
+      "Known Deaths" : "15"
+   },
+   {
+      "Facility" : "Western New York HCS",
+      "VA Confirmed Total_Display" : "400",
+      "Active" : "9",
+      "Convalescent" : "348",
+      "Known Deaths" : "43"
+   },
+   {
+      "Facility" : "Detroit, MI HCS",
+      "VA Confirmed Total_Display" : "399",
+      "Active" : "6",
+      "Convalescent" : "335",
+      "Known Deaths" : "58"
+   },
+   {
+      "Facility" : "Ann Arbor, MI HCS",
+      "VA Confirmed Total_Display" : "397",
+      "Active" : "38",
+      "Convalescent" : "329",
+      "Known Deaths" : "30"
+   },
+   {
+      "Facility" : "Northport, NY HCS",
+      "VA Confirmed Total_Display" : "392",
+      "Active" : "0",
+      "Convalescent" : "342",
+      "Known Deaths" : "50"
+   },
+   {
+      "Facility" : "Fayetteville, AR HCS",
+      "VA Confirmed Total_Display" : "382",
+      "Active" : "40",
+      "Convalescent" : "324",
+      "Known Deaths" : "18"
+   },
+   {
+      "Facility" : "Lebanon, PA HCS",
+      "VA Confirmed Total_Display" : "380",
+      "Active" : "29",
+      "Convalescent" : "321",
+      "Known Deaths" : "30"
+   },
+   {
+      "Facility" : "El Paso, TX HCS",
+      "VA Confirmed Total_Display" : "371",
+      "Active" : "56",
+      "Convalescent" : "301",
+      "Known Deaths" : "14"
+   },
+   {
+      "Facility" : "Sioux Falls, SD HCS",
+      "VA Confirmed Total_Display" : "353",
+      "Active" : "70",
+      "Convalescent" : "264",
+      "Known Deaths" : "19"
+   },
+   {
+      "Facility" : "Cincinnati, OH HCS",
+      "VA Confirmed Total_Display" : "340",
+      "Active" : "53",
+      "Convalescent" : "278",
+      "Known Deaths" : "9"
+   },
+   {
+      "Facility" : "Dayton, OH HCS",
+      "VA Confirmed Total_Display" : "328",
+      "Active" : "56",
+      "Convalescent" : "257",
+      "Known Deaths" : "15"
+   },
+   {
+      "Facility" : "Bedford, MA HCS",
+      "VA Confirmed Total_Display" : "324",
+      "Active" : "3",
+      "Convalescent" : "284",
+      "Known Deaths" : "37"
+   },
+   {
+      "Facility" : "Hudson Valley, NY HCS",
+      "VA Confirmed Total_Display" : "307",
+      "Active" : "6",
+      "Convalescent" : "280",
+      "Known Deaths" : "21"
+   },
+   {
+      "Facility" : "Lexington, KY HCS",
+      "VA Confirmed Total_Display" : "304",
+      "Active" : "38",
+      "Convalescent" : "246",
+      "Known Deaths" : "20"
+   },
+   {
+      "Facility" : "Black Hills, SD HCS",
+      "VA Confirmed Total_Display" : "298",
+      "Active" : "65",
+      "Convalescent" : "224",
+      "Known Deaths" : "9"
+   },
+   {
+      "Facility" : "Pittsburgh, PA HCS",
+      "VA Confirmed Total_Display" : "289",
+      "Active" : "24",
+      "Convalescent" : "251",
+      "Known Deaths" : "14"
+   },
+   {
+      "Facility" : "Columbus, OH HCS",
+      "VA Confirmed Total_Display" : "284",
+      "Active" : "25",
+      "Convalescent" : "240",
+      "Known Deaths" : "19"
+   },
+   {
+      "Facility" : "Iowa City, IA HCS",
+      "VA Confirmed Total_Display" : "282",
+      "Active" : "57",
+      "Convalescent" : "218",
+      "Known Deaths" : "7"
+   },
+   {
+      "Facility" : "Wilmington, DE HCS",
+      "VA Confirmed Total_Display" : "282",
+      "Active" : "8",
+      "Convalescent" : "255",
+      "Known Deaths" : "19"
+   },
+   {
+      "Facility" : "St. Cloud, MN HCS",
+      "VA Confirmed Total_Display" : "281",
+      "Active" : "84",
+      "Convalescent" : "185",
+      "Known Deaths" : "12"
+   },
+   {
+      "Facility" : "Portland, OR HCS",
+      "VA Confirmed Total_Display" : "274",
+      "Active" : "20",
+      "Convalescent" : "240",
+      "Known Deaths" : "14"
+   },
+   {
+      "Facility" : "Northern Indiana HCS",
+      "VA Confirmed Total_Display" : "264",
+      "Active" : "32",
+      "Convalescent" : "223",
+      "Known Deaths" : "9"
+   },
+   {
+      "Facility" : "Providence, RI HCS",
+      "VA Confirmed Total_Display" : "262",
+      "Active" : "19",
+      "Convalescent" : "217",
+      "Known Deaths" : "26"
+   },
+   {
+      "Facility" : "Salem, VA HCS",
+      "VA Confirmed Total_Display" : "257",
+      "Active" : "28",
+      "Convalescent" : "207",
+      "Known Deaths" : "22"
+   },
+   {
+      "Facility" : "Eastern Kansas HCS",
+      "VA Confirmed Total_Display" : "255",
+      "Active" : "27",
+      "Convalescent" : "227",
+      "Known Deaths" : "1"
+   },
+   {
+      "Facility" : "Central Iowa HCS",
+      "VA Confirmed Total_Display" : "248",
+      "Active" : "25",
+      "Convalescent" : "211",
+      "Known Deaths" : "12"
+   },
+   {
+      "Facility" : "New Mexico HCS",
+      "VA Confirmed Total_Display" : "246",
+      "Active" : "44",
+      "Convalescent" : "188",
+      "Known Deaths" : "14"
+   },
+   {
+      "Facility" : "Tuscaloosa, AL HCS",
+      "VA Confirmed Total_Display" : "245",
+      "Active" : "11",
+      "Convalescent" : "222",
+      "Known Deaths" : "12"
+   },
+   {
+      "Facility" : "Martinsburg, WV HCS",
+      "VA Confirmed Total_Display" : "235",
+      "Active" : "18",
+      "Convalescent" : "204",
+      "Known Deaths" : "13"
+   },
+   {
+      "Facility" : "Wichita, KS HCS",
+      "VA Confirmed Total_Display" : "231",
+      "Active" : "55",
+      "Convalescent" : "166",
+      "Known Deaths" : "10"
+   },
+   {
+      "Facility" : "Reno, NV HCS",
+      "VA Confirmed Total_Display" : "230",
+      "Active" : "32",
+      "Convalescent" : "183",
+      "Known Deaths" : "15"
+   },
+   {
+      "Facility" : "Spokane, WA HCS",
+      "VA Confirmed Total_Display" : "228",
+      "Active" : "13",
+      "Convalescent" : "195",
+      "Known Deaths" : "20"
+   },
+   {
+      "Facility" : "Danville, IL HCS",
+      "VA Confirmed Total_Display" : "224",
+      "Active" : "42",
+      "Convalescent" : "179",
+      "Known Deaths" : "3"
+   },
+   {
+      "Facility" : "Poplar Bluff, MO HCS",
+      "VA Confirmed Total_Display" : "224",
+      "Active" : "49",
+      "Convalescent" : "172",
+      "Known Deaths" : "3"
+   },
+   {
+      "Facility" : "Montana HCS",
+      "VA Confirmed Total_Display" : "221",
+      "Active" : "52",
+      "Convalescent" : "164",
+      "Known Deaths" : "5"
+   },
+   {
+      "Facility" : "Tomah, WI HCS",
+      "VA Confirmed Total_Display" : "215",
+      "Active" : "46",
+      "Convalescent" : "167",
+      "Known Deaths" : "2"
+   },
+   {
+      "Facility" : "San Francisco, CA HCS",
+      "VA Confirmed Total_Display" : "212",
+      "Active" : "9",
+      "Convalescent" : "191",
+      "Known Deaths" : "12"
+   },
+   {
+      "Facility" : "Battle Creek, MI HCS",
+      "VA Confirmed Total_Display" : "197",
+      "Active" : "9",
+      "Convalescent" : "173",
+      "Known Deaths" : "15"
+   },
+   {
+      "Facility" : "Central Western Massachusetts HCS",
+      "VA Confirmed Total_Display" : "196",
+      "Active" : "4",
+      "Convalescent" : "171",
+      "Known Deaths" : "21"
+   },
+   {
+      "Facility" : "Wilkes-Barre, PA HCS",
+      "VA Confirmed Total_Display" : "181",
+      "Active" : "16",
+      "Convalescent" : "146",
+      "Known Deaths" : "19"
+   },
+   {
+      "Facility" : "Big Spring, TX HCS",
+      "VA Confirmed Total_Display" : "180",
+      "Active" : "10",
+      "Convalescent" : "164",
+      "Known Deaths" : "6"
+   },
+   {
+      "Facility" : "Northern Arizona HCS",
+      "VA Confirmed Total_Display" : "180",
+      "Active" : "6",
+      "Convalescent" : "166",
+      "Known Deaths" : "8"
+   },
+   {
+      "Facility" : "Iron Mountain, MI HCS",
+      "VA Confirmed Total_Display" : "179",
+      "Active" : "58",
+      "Convalescent" : "118",
+      "Known Deaths" : "3"
+   },
+   {
+      "Facility" : "Anchorage, AK HCS",
+      "VA Confirmed Total_Display" : "158",
+      "Active" : "26",
+      "Convalescent" : "131",
+      "Known Deaths" : "1"
+   },
+   {
+      "Facility" : "Honolulu, HI HCS",
+      "VA Confirmed Total_Display" : "157",
+      "Active" : "9",
+      "Convalescent" : "144",
+      "Known Deaths" : "4"
+   },
+   {
+      "Facility" : "Huntington, WV HCS",
+      "VA Confirmed Total_Display" : "156",
+      "Active" : "25",
+      "Convalescent" : "116",
+      "Known Deaths" : "15"
+   },
+   {
+      "Facility" : "Walla Walla, WA HCS",
+      "VA Confirmed Total_Display" : "154",
+      "Active" : "9",
+      "Convalescent" : "135",
+      "Known Deaths" : "10"
+   },
+   {
+      "Facility" : "Coatesville, PA HCS",
+      "VA Confirmed Total_Display" : "134",
+      "Active" : "3",
+      "Convalescent" : "119",
+      "Known Deaths" : "12"
+   },
+   {
+      "Facility" : "Saginaw, MI HCS",
+      "VA Confirmed Total_Display" : "126",
+      "Active" : "6",
+      "Convalescent" : "112",
+      "Known Deaths" : "8"
+   },
+   {
+      "Facility" : "Marion, IL HCS",
+      "VA Confirmed Total_Display" : "123",
+      "Active" : "30",
+      "Convalescent" : "86",
+      "Known Deaths" : "7"
+   },
+   {
+      "Facility" : "Manchester, NH HCS",
+      "VA Confirmed Total_Display" : "110",
+      "Active" : "6",
+      "Convalescent" : "89",
+      "Known Deaths" : "15"
+   },
+   {
+      "Facility" : "Chillicothe, OH HCS",
+      "VA Confirmed Total_Display" : "101",
+      "Active" : "2",
+      "Convalescent" : "97",
+      "Known Deaths" : "2"
+   },
+   {
+      "Facility" : "Altoona, PA HCS",
+      "VA Confirmed Total_Display" : "97",
+      "Active" : "18",
+      "Convalescent" : "76",
+      "Known Deaths" : "3"
+   },
+   {
+      "Facility" : "Cheyenne, WY HCS",
+      "VA Confirmed Total_Display" : "91",
+      "Active" : "17",
+      "Convalescent" : "71",
+      "Known Deaths" : "3"
+   },
+   {
+      "Facility" : "Finger Lakes, NY HCS",
+      "VA Confirmed Total_Display" : "84",
+      "Active" : "25",
+      "Convalescent" : "57",
+      "Known Deaths" : "2"
+   },
+   {
+      "Facility" : "Butler, PA HCS",
+      "VA Confirmed Total_Display" : "79",
+      "Active" : "6",
+      "Convalescent" : "68",
+      "Known Deaths" : "5"
+   },
+   {
+      "Facility" : "Togus, ME HCS",
+      "VA Confirmed Total_Display" : "69",
+      "Active" : "5",
+      "Convalescent" : "60",
+      "Known Deaths" : "4"
+   },
+   {
+      "Facility" : "Grand Junction, CO HCS",
+      "VA Confirmed Total_Display" : "68",
+      "Active" : "12",
+      "Convalescent" : "51",
+      "Known Deaths" : "5"
+   },
+   {
+      "Facility" : "Erie, PA HCS",
+      "VA Confirmed Total_Display" : "63",
+      "Active" : "10",
+      "Convalescent" : "50",
+      "Known Deaths" : "3"
+   },
+   {
+      "Facility" : "Albany, NY HCS",
+      "VA Confirmed Total_Display" : "61",
+      "Active" : "4",
+      "Convalescent" : "50",
+      "Known Deaths" : "7"
+   },
+   {
+      "Facility" : "Syracuse, NY HCS",
+      "VA Confirmed Total_Display" : "51",
+      "Active" : "4",
+      "Convalescent" : "42",
+      "Known Deaths" : "5"
+   },
+   {
+      "Facility" : "Sheridan, WY HCS",
+      "VA Confirmed Total_Display" : "49",
+      "Active" : "14",
+      "Convalescent" : "35",
+      "Known Deaths" : "0"
+   },
+   {
+      "Facility" : "Clarksburg, WV HCS",
+      "VA Confirmed Total_Display" : "46",
+      "Active" : "6",
+      "Convalescent" : "39",
+      "Known Deaths" : "1"
+   },
+   {
+      "Facility" : "Roseburg, OR HCS",
+      "VA Confirmed Total_Display" : "45",
+      "Active" : "8",
+      "Convalescent" : "37",
+      "Known Deaths" : "0"
+   },
+   {
+      "Facility" : "White River Junction, VT HCS",
+      "VA Confirmed Total_Display" : "31",
+      "Active" : "2",
+      "Convalescent" : "27",
+      "Known Deaths" : "2"
+   },
+   {
+      "Facility" : "Beckley, WV HCS",
+      "VA Confirmed Total_Display" : "30",
+      "Active" : "5",
+      "Convalescent" : "24",
+      "Known Deaths" : "1"
+   },
+   {
+      "Facility" : "White City, OR HCS",
+      "VA Confirmed Total_Display" : "28",
+      "Active" : "2",
+      "Convalescent" : "24",
+      "Known Deaths" : "2"
+   },
+   {
+      "Facility" : "Manila, PI HCS",
+      "VA Confirmed Total_Display" : "0",
+      "Active" : "0",
+      "Convalescent" : "0",
+      "Known Deaths" : "0"
+   }
+]

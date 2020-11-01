@@ -1,0 +1,134 @@
+County,FIPS code,State,FEMA region,Population,Percent Positive in prior 7 days,Test Positivity Classification
+"Accomack County, VA",51001,VA,3,32316,2.6%,Green
+"Albemarle County, VA",51003,VA,3,109330,8.7%,Yellow
+"Alexandria City, VA",51510,VA,3,159428,5.5%,Yellow
+"Alleghany County, VA",51005,VA,3,14860,8.1%,Yellow
+"Amelia County, VA",51007,VA,3,13145,10.5%,Red
+"Amherst County, VA",51009,VA,3,31605,6.6%,Yellow
+"Appomattox County, VA",51011,VA,3,15911,18.9%,Red
+"Arlington County, VA",51013,VA,3,236842,4.8%,Green
+"Augusta County, VA",51015,VA,3,75558,6.8%,Yellow
+"Bath County, VA",51017,VA,3,4147,0%,Green
+"Bedford County, VA",51019,VA,3,78997,8.3%,Yellow
+"Bland County, VA",51021,VA,3,6280,9.3%,Yellow
+"Botetourt County, VA",51023,VA,3,33419,7.7%,Yellow
+"Bristol City, VA",51520,VA,3,16762,16.7%,Red
+"Brunswick County, VA",51025,VA,3,16231,20.6%,Red
+"Buchanan County, VA",51027,VA,3,21004,3.8%,Green
+"Buckingham County, VA",51029,VA,3,17148,7.3%,Yellow
+"Buena Vista City, VA",51530,VA,3,6478,9.1%,Yellow
+"Campbell County, VA",51031,VA,3,54885,8.3%,Yellow
+"Caroline County, VA",51033,VA,3,30725,7.7%,Yellow
+"Carroll County, VA",51035,VA,3,29791,24.4%,Red
+"Charles City County, VA",51036,VA,3,6963,8.2%,Yellow
+"Charlotte County, VA",51037,VA,3,11880,19.5%,Red
+"Charlottesville City, VA",51540,VA,3,47266,10.2%,Red
+"Chesapeake City, VA",51550,VA,3,244835,10.3%,Red
+"Chesterfield County, VA",51041,VA,3,352802,11.3%,Red
+"Clarke County, VA",51043,VA,3,14619,5.9%,Yellow
+"Colonial Heights City, VA",51570,VA,3,17370,8.3%,Yellow
+"Covington City, VA",51580,VA,3,5538,<10 tests,Green
+"Craig County, VA",51045,VA,3,5131,0%,Green
+"Culpeper County, VA",51047,VA,3,52605,8.2%,Yellow
+"Cumberland County, VA",51049,VA,3,9932,6.7%,Yellow
+"Danville City, VA",51590,VA,3,40044,16.3%,Red
+"Dickenson County, VA",51051,VA,3,14318,12.5%,Red
+"Dinwiddie County, VA",51053,VA,3,28544,16.7%,Red
+"Emporia City, VA",51595,VA,3,5346,89.7%,Red
+"Essex County, VA",51057,VA,3,10953,12.3%,Red
+"Fairfax City, VA",51600,VA,3,24019,<10 tests,Green
+"Fairfax County, VA",51059,VA,3,1147532,10.1%,Red
+"Falls Church City, VA",51610,VA,3,14617,2%,Green
+"Fauquier County, VA",51061,VA,3,71222,6.4%,Yellow
+"Floyd County, VA",51063,VA,3,15749,17.5%,Red
+"Fluvanna County, VA",51065,VA,3,27270,3.6%,Green
+"Franklin City, VA",51620,VA,3,7967,22.9%,Red
+"Franklin County, VA",51067,VA,3,56042,20.6%,Red
+"Frederick County, VA",51069,VA,3,89313,3.3%,Green
+"Fredericksburg City, VA",51630,VA,3,29036,8.8%,Yellow
+"Galax City, VA",51640,VA,3,6347,15.7%,Red
+"Giles County, VA",51071,VA,3,16720,11.3%,Red
+"Gloucester County, VA",51073,VA,3,37348,2.5%,Green
+"Goochland County, VA",51075,VA,3,23753,3.6%,Green
+"Grayson County, VA",51077,VA,3,15550,27.2%,Red
+"Greene County, VA",51079,VA,3,19819,1.5%,Green
+"Greensville County, VA",51081,VA,3,11336,15.1%,Red
+"Halifax County, VA",51083,VA,3,33911,8.9%,Yellow
+"Hampton City, VA",51650,VA,3,134510,9.1%,Yellow
+"Hanover County, VA",51085,VA,3,107766,12.2%,Red
+"Harrisonburg City, VA",51660,VA,3,53016,35.1%,Red
+"Henrico County, VA",51087,VA,3,330818,8.7%,Yellow
+"Henry County, VA",51089,VA,3,50557,21.2%,Red
+"Highland County, VA",51091,VA,3,2190,0%,Green
+"Hopewell City, VA",51670,VA,3,22529,5.6%,Yellow
+"Isle of Wight County, VA",51093,VA,3,37109,17.4%,Red
+"James City County, VA",51095,VA,3,76523,6%,Yellow
+"King George County, VA",51099,VA,3,26836,7.1%,Yellow
+"King William County, VA",51101,VA,3,17148,5.5%,Yellow
+"King and Queen County, VA",51097,VA,3,7025,6.9%,Yellow
+"Lancaster County, VA",51103,VA,3,10603,7.4%,Yellow
+"Lee County, VA",51105,VA,3,23423,6.7%,Yellow
+"Lexington City, VA",51678,VA,3,7446,3.8%,Green
+"Loudoun County, VA",51107,VA,3,413538,10.2%,Red
+"Louisa County, VA",51109,VA,3,37591,4.5%,Green
+"Lunenburg County, VA",51111,VA,3,12196,7.5%,Yellow
+"Lynchburg City, VA",51680,VA,3,82168,7.8%,Yellow
+"Madison County, VA",51113,VA,3,13261,11.7%,Red
+"Manassas City, VA",51683,VA,3,41085,10.8%,Red
+"Manassas Park City, VA",51685,VA,3,17478,47.8%,Red
+"Martinsville City, VA",51690,VA,3,12554,62.1%,Red
+"Mathews County, VA",51115,VA,3,8834,0%,Green
+"Mecklenburg County, VA",51117,VA,3,30587,15.9%,Red
+"Middlesex County, VA",51119,VA,3,10582,0%,Green
+"Montgomery County, VA",51121,VA,3,98535,23.7%,Red
+"Nelson County, VA",51125,VA,3,14930,4.9%,Green
+"New Kent County, VA",51127,VA,3,23091,7.4%,Yellow
+"Newport News City, VA",51700,VA,3,179225,13.2%,Red
+"Norfolk City, VA",51710,VA,3,242742,9.6%,Yellow
+"Northampton County, VA",51131,VA,3,11710,1%,Green
+"Northumberland County, VA",51133,VA,3,12095,10.4%,Red
+"Norton City, VA",51720,VA,3,3981,1.5%,Green
+"Nottoway County, VA",51135,VA,3,15232,11%,Red
+"Orange County, VA",51137,VA,3,37051,5.6%,Yellow
+"Page County, VA",51139,VA,3,23902,5.1%,Yellow
+"Patrick County, VA",51141,VA,3,17608,16%,Red
+"Petersburg City, VA",51730,VA,3,31346,8.2%,Yellow
+"Pittsylvania County, VA",51143,VA,3,60354,23.9%,Red
+"Poquoson City, VA",51735,VA,3,12271,5.1%,Yellow
+"Portsmouth City, VA",51740,VA,3,94398,13.2%,Red
+"Powhatan County, VA",51145,VA,3,29652,6.2%,Yellow
+"Prince Edward County, VA",51147,VA,3,22802,4.9%,Green
+"Prince George County, VA",51149,VA,3,38353,11.5%,Red
+"Prince William County, VA",51153,VA,3,470335,10.5%,Red
+"Pulaski County, VA",51155,VA,3,34027,14.4%,Red
+"Radford City, VA",51750,VA,3,18249,36.7%,Red
+"Rappahannock County, VA",51157,VA,3,7370,2.6%,Green
+"Richmond City, VA",51760,VA,3,230436,8.2%,Yellow
+"Richmond County, VA",51159,VA,3,9023,3.4%,Green
+"Roanoke City, VA",51770,VA,3,99143,9.1%,Yellow
+"Roanoke County, VA",51161,VA,3,94186,14.3%,Red
+"Rockbridge County, VA",51163,VA,3,22573,3%,Green
+"Rockingham County, VA",51165,VA,3,81948,14.8%,Red
+"Russell County, VA",51167,VA,3,26586,13.4%,Red
+"Salem City, VA",51775,VA,3,25301,10.3%,Red
+"Scott County, VA",51169,VA,3,21566,21.4%,Red
+"Shenandoah County, VA",51171,VA,3,43616,8.1%,Yellow
+"Smyth County, VA",51173,VA,3,30104,13.6%,Red
+"Southampton County, VA",51175,VA,3,17631,20.4%,Red
+"Spotsylvania County, VA",51177,VA,3,136215,9.6%,Yellow
+"Stafford County, VA",51179,VA,3,152882,7.3%,Yellow
+"Staunton City, VA",51790,VA,3,24932,0%,Green
+"Suffolk City, VA",51800,VA,3,92108,12.3%,Red
+"Surry County, VA",51181,VA,3,6422,28.9%,Red
+"Sussex County, VA",51183,VA,3,11159,19.4%,Red
+"Tazewell County, VA",51185,VA,3,40595,4.1%,Green
+"Virginia Beach City, VA",51810,VA,3,449974,7.8%,Yellow
+"Warren County, VA",51187,VA,3,40164,1.6%,Green
+"Washington County, VA",51191,VA,3,53740,17.9%,Red
+"Waynesboro City, VA",51820,VA,3,22630,3.8%,Green
+"Westmoreland County, VA",51193,VA,3,18015,5%,Yellow
+"Williamsburg City, VA",51830,VA,3,14954,25%,Red
+"Winchester City, VA",51840,VA,3,28078,3.9%,Green
+"Wise County, VA",51195,VA,3,37383,13.3%,Red
+"Wythe County, VA",51197,VA,3,28684,20.3%,Red
+"York County, VA",51199,VA,3,68280,10.8%,Red
