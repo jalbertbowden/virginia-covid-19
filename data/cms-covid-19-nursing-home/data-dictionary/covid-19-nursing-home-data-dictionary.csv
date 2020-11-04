@@ -1,0 +1,56 @@
+Column Name,Description,Type
+Week Ending,Last day (MM/DD/YYYY) of reporting week (a reporting week is from Monday through Sunday).,Date
+Federal Provider Number,The CMS Certification Number (CCN) for the provider.,Text
+Provider Name,The provider's name.,Text
+Provider Address,The provider's address.,Text
+Provider City,The provider's city.,Text
+Provider State,The provider's state.,Text
+Provider Zip Code,The provider's zip code.,Text
+Submitted Data,Indicates (Y/N) if any data was submitted for the reporting week.,Text
+Passed Quality Assurance Check,Indicates (Y/N) if the data passed the quality assurance check.,Text
+Residents Weekly Admissions COVID-19,Number of residents admitted or readmitted who were previously hospitalized and treated for COVID-19 (ADMISSIONS) as reported by the provider for this collection date. Note: Numbers for Week Ending 05/24/2020 may include reporting for any time between 01/01/2020 through 05/24/2020. Reporting for subsequent weeks is on a weekly basis.,Number
+Residents Total Admissions COVID-19,Number of residents admitted or readmitted who were previously hospitalized and treated for COVID-19 (ADMISSIONS) since 01/01/2020 as reported by the provider.,Number
+Residents Weekly Confirmed COVID-19,Number of residents with new laboratory positive COVID-19 (CONFIRMED) as reported by the provider for this collection date. Note: Numbers for Week Ending 05/24/2020 may include reporting for any time between 01/01/2020 through 05/24/2020. Reporting for subsequent weeks is on a weekly basis.,Number
+Residents Total Confirmed COVID-19,Number of residents with laboratory positive COVID-19 (CONFIRMED) since 01/01/2020 as reported by the provider.,Number
+Residents Weekly Suspected COVID-19,Number of residents with new suspected COVID-19 (SUSPECTED) as reported by the provider for this collection date. Note: Numbers for Week Ending 05/24/2020 may include reporting for any time between 01/01/2020 through 05/24/2020. Reporting for subsequent weeks is on a weekly basis.,Number
+Residents Total Suspected COVID-19,Number of residents with suspected COVID-19 (SUSPECTED) since 01/01/2020 as reported by the provider.,Number
+Residents Weekly All Deaths,Number of residents who have died in the facility or another location (TOTAL DEATHS) as reported by the provider for this collection date. Note: Numbers for Week Ending 05/24/2020 may include reporting for any time between 01/01/2020 through 05/24/2020. Reporting for subsequent weeks is on a weekly basis.,Number
+Residents Total All Deaths,Number of residents who have died in the facility or another location (TOTAL DEATHS) since 01/01/2020 as reported by the provider.,Number
+Residents Weekly COVID-19 Deaths,Number of residents with new suspected or laboratory positive COVID-19 who died in the facility or another location (COVID-19 DEATHS) as reported by the provider for this collection date. Note: Numbers for Week Ending 05/24/2020 may include reporting for any time between 01/01/2020 through 05/24/2020. Reporting for subsequent weeks is on a weekly basis.,Number
+Residents Total COVID-19 Deaths,Number of residents with suspected or laboratory positive COVID-19 who died in the facility or another location (COVID-19 DEATHS) since 1/1/20 as reported by the provider.,Number
+Number of All Beds,Total number of resident beds in the facility as reported by the provider.,Number
+Total Number of Occupied Beds,Total number of resident beds that are currently occupied as reported by the provider.,Number
+Resident Access to Testing in Facility,Indicates (Y/N) if facility has access to COVID-19 testing while the resident is in the facility as reported by the provider.,Text
+Laboratory Type Is State Health Dept,Indicates (Y/N) if laboratory type is state health department lab as reported by the provider.,Text
+Laboratory Type Is Private Lab,"Indicates (Y/N) if laboratory type is private lab (hospital, corporation, academic institution) as reported by the provider.",Text
+Laboratory Type Is Other,Indicates (Y/N) if laboratory type is other as reported by the provider.,Text
+Staff Weekly Confirmed COVID-19,Number of staff and facility personnel with new laboratory positive COVID-19 (CONFIRMED) as reported by the provider for this collection date. Note: Numbers for Week Ending 05/24/2020 may include reporting for any time between 01/01/2020 through 05/24/2020. Reporting for subsequent weeks is on a weekly basis.,Number
+Staff Total Confirmed COVID-19,Number of staff and facility personnel with laboratory positive COVID-19 (CONFIRMED) since 01/01/2020 as reported by the provider.,Number
+Staff Weekly Suspected COVID-19,Staff and facility personnel with new suspected COVID-19 who are being managed as though they have it (SUSPECTED) as reported by the provider for this collection date. Note: Numbers for Week Ending 05/24/2020 may include reporting for any time between 01/01/2020 through 05/24/2020. Reporting for subsequent weeks is on a weekly basis.,Number
+Staff Total Suspected COVID-19,Staff and facility personnel with suspected COVID-19 who are being managed as though they have it (SUSPECTED) since 01/01/2020 as reported by the provider.,Number
+Staff Weekly COVID-19 Deaths,Staff and facility personnel with new suspected or laboratory positive COVID-19 who died (COVID_19 DEATHS) as reported by the provider for this collection date. Note: Numbers for Week Ending 05/24/2020 may include reporting for any time between 01/01/2020 through 05/24/2020. Reporting for subsequent weeks is on a weekly basis.,Number
+Staff Total COVID-19 Deaths,Staff and facility personnel with suspected or laboratory positive COVID-19 who died (COVID_19 DEATHS) since 01/01/2020 as reported by the provider.,Number
+Shortage of Nursing Staff,"Indicates (Y/N) if staffing shortage of Nursing Staff: registered nurse, licensed practical nurse, vocational nurse as reported by the provider.",Text
+Shortage of Clinical Staff,"Indicates (Y/N) if staffing shortage of Clinical Staff: physician, physician assistant, advanced practice nurse as reported by the provider.",Text
+Shortage of Aides,"Indicates (Y/N) if staffing shortage of Aides: certified nursing assistant, nurse aide, medication aide, and medication technician as reported by the provider.",Text
+Shortage of Other Staff,"Indicates (Y/N) if staffing shortage of Other staff or facility personnel, regardless of clinical responsibility or resident contact not included in the categories above (for example, environmental services) as reported by the provider.",Text
+Any Current Supply of N95 Masks,Indicates (Y/N) if facility currently has any supply of N95 masks as reported by the provider.,Text
+One-Week Supply of N95 Masks,Indicates (Y/N) if facility has enough supply of N95 masks for one week as reported by the provider.,Text
+Any Current Supply of Surgical Masks,Indicates (Y/N) if facility currently has any supply of surgical masks as reported by the provider.,Text
+One-Week Supply of Surgical Masks,Indicates (Y/N) if facility has enough supply of surgical masks for one week as reported by the provider.,Text
+Any Current Supply of Eye Protection,"Indicates (Y/N) if facility currently has any supply of eye protection, including face shields and goggles as reported by the provider.",Text
+One-Week Supply of Eye Protection,"Indicates (Y/N) if facility has enough supply of eye protection, including face shields and goggles, for one week as reported by the provider.",Text
+Any Current Supply of Gowns,Indicates (Y/N) if facility currently has any supply of gowns as reported by the provider.,Text
+One-Week Supply of Gowns,Indicates (Y/N) if facility has enough supply of gowns for one week as reported by the provider.,Text
+Any Current Supply of Gloves,Indicates (Y/N) if facility currently has any supply of gloves as reported by the provider.,Text
+One-Week Supply of Gloves,Indicates (Y/N) if facility has enough supply of gloves for one week as reported by the provider.,Text
+Any Current Supply of Hand Sanitizer,Indicates (Y/N) if facility currently has any supply of alcohol-based hand sanitizer as reported by the provider.,Text
+One-Week Supply of Hand Sanitizer,Indicates (Y/N) if facility has enough supply of alcohol-based hand sanitizer for one week as reported by the provider.,Text
+Ventilator Dependent Unit,Indicates (Y/N) if there is a ventilator dependent unit in the facility as reported by the provider.,Text
+Number of Ventilators in Facility,Total number of mechanical ventilators in the facility as reported by the provider.,Number
+Number of Ventilators in Use for COVID-19,Total number of mechanical ventilators in use for residents who have suspected or lab-confirmed COVID-19 as reported by the provider.,Number
+Any Current Supply of Ventilator Supplies,Indicates (Y/N) if facility currently has any supply of ventilator supplies (including tubing) as reported by the provider.,Text
+One-Week Supply of Ventilator Supplies,Indicates (Y/N) if facility has enough supply of ventilator supplies (including tubing) for one week as reported by the provider.,Text
+"Total Resident Confirmed COVID-19 Cases Per 1,000 Residents","Number of residents with laboratory positive COVID-19 (CONFIRMED) since 01/01/2020 per 1,000 residents as reported by the provider.",Number
+"Total Resident COVID-19 Deaths Per 1,000 Residents","Number of residents with suspected or laboratory positive COVID-19 who died in the facility or another location (COVID-19 DEATHS) since 1/1/20 per 1,000 residents as reported by the provider.",Number
+Total Residents COVID-19 Deaths as a Percentage of Confirmed COVID-19 Cases,Total residents with suspected or laboratory positive COVID-19 who died in the facility or another location (COVID-19 DEATHS) as a percentage of residents with laboratory positive COVID-19 (CONFIRMED) since 01/01/2020 as reported by the provider.,Number
