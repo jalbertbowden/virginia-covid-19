@@ -48,6 +48,11 @@ References:
 [Nursing Home Data - QA PDF](https://data.cms.gov/download/bqa5-3dzf/application%2Fpdf)  
 
 
+## Documents  
+[Skilled Nursing Facility 3-Day Rule Waiver Guidance](https://www.cms.gov/Medicare/Medicare-Fee-for-Service-Payment/sharedsavingsprogram/Downloads/SNF-Waiver-Guidance.pdf)  
+[COVID19 Survey Activity Suspension FAQs](https://www.cms.gov/files/document/covid19survey-activity-suspension-faqs.pdf)  
+
+
 ## Sources  
 [COVID-19 Nursing Home Data | Data.CMS.gov](https://data.cms.gov/stories/s/bkwz-xpvg)  
 [List of Frequently Asked Questions](https://data.cms.gov/download/b62a-ieuz/application%2Fpdf)  

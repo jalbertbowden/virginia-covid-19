@@ -25,3 +25,18 @@ VDH updated the algorithm for COVID-19 molecular testing and added an algorithm 
 VDH released a new [algorithm](https://www.vdh.virginia.gov/content/uploads/sites/182/2020/08/Evaluating-Symptoms-in-a-Child.pdf) to assist parents and guardians, schools and childcare facilities, and healthcare providers for when a child should be excluded from the facility, when care and further evaluation for COVID-19 should be pursued, and when the child can return to the school or childcare facility. A revised version is under development.
 
 ## cite: [COVID-19 Update for Virginia - Clinicians 2020-09-14](https://www.vdh.virginia.gov/clinicians/covid-19-update-for-virginia-7/)  
+
+
+
+
+## Miscellaneous  
+[Evaluating-Symptoms-in-a-Child](https://www.vdh.virginia.gov/content/uploads/sites/182/2020/08/Evaluating-Symptoms-in-a-Child.pdf)  
+[Child-School-COVID-19-Algorithm-2020-2-pages_Final-1.pdf](https://www.vdh.virginia.gov/content/uploads/sites/182/2020/10/Child-School-COVID-19-Algorithm-2020-2-pages_Final-1.pdf)  
+[Child-School_COVID-19_Booklet](https://www.vdh.virginia.gov/content/uploads/sites/182/2020/10/Child-School_COVID-19_Booklet.pdf
+[Health Update 8.25.20](https://www.alexandriava.gov/uploadedFiles/health/info/Health%20Update21-%20COVID19-%202020.08.25.pdf
+[VDH Flow Chart](https://www.acpsweb.net/cms/lib/VA02205093/Centricity/Domain/105/VDH%20Flow%20Chart.pdf)  
+[Child-School-COVID-19-Algorithm-Infographics2020-FINAL.pdf](https://www.vdh.virginia.gov/content/uploads/sites/182/2020/10/Child-School-COVID-19-Algorithm-Infographics2020-FINAL.pdf)  
+[Do Better FCPS Obtains Virginia Department of Health COVID-19 Metrics and Other Documents](https://www.dobetterfcps.com/blog/do-better-fcps-obtains-virginia-department-of-health-covid-19-metrics-and-other-documents)  
+[K-12_VDH_MetricsDRAFT_081722.pdf](https://static1.squarespace.com/static/5f03b37b1d65dd7602cb12c3/t/5f60fa0f6b21aa02acc16845/1600190991340/K-12_VDH_MetricsDRAFT_081722.pdf)  
+
+

@@ -1,0 +1,32 @@
+[
+  {
+    "Facility Name": "Ghent RRC (Norfolk, VA) (RRC)",
+    "No. of Inmates with Completed Tests": 1.0,
+    "No. of Inmates with Pending Tests": 0.0,
+    "No. of Inmates with Positive Tests": 1.0
+  },
+  {
+    "Facility Name": "Lebanon Community Corr Center (Lebanon, VA) (RRC)",
+    "No. of Inmates with Completed Tests": 2.0,
+    "No. of Inmates with Pending Tests": 0.0,
+    "No. of Inmates with Positive Tests": 2.0
+  },
+  {
+    "Facility Name": "Lee USP",
+    "No. of Inmates with Completed Tests": 486.0,
+    "No. of Inmates with Pending Tests": 19.0,
+    "No. of Inmates with Positive Tests": 84.0
+  },
+  {
+    "Facility Name": "Petersburg Low FCI",
+    "No. of Inmates with Completed Tests": 285.0,
+    "No. of Inmates with Pending Tests": 2.0,
+    "No. of Inmates with Positive Tests": 141.0
+  },
+  {
+    "Facility Name": "Petersburg Medium FCI",
+    "No. of Inmates with Completed Tests": 536.0,
+    "No. of Inmates with Pending Tests": 67.0,
+    "No. of Inmates with Positive Tests": 179.0
+  }
+]
