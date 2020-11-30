@@ -1,0 +1,5 @@
+﻿"Note", "Description"
+"1", "Data are for calendar years."
+"2", "Data are for nursing facility residents in certified nursing facilities surveyed in the U.S."
+"Sources", "Kaiser Family Foundation analysis of Certification and Survey Provider Enhanced Reports (CASPER) data. "
+"Sources", "Oscar data are for 2011 and were converted to CASPER data, which were used for 2012-2019. The CASPER/OSCAR system includes data for all certified nursing facilities in the U.S. Since data change slightly based on time of retrieval, independent analysis of the same data elements may yield slightly different results."

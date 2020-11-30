@@ -51,7 +51,13 @@ References:
 ## Documents  
 [Skilled Nursing Facility 3-Day Rule Waiver Guidance](https://www.cms.gov/Medicare/Medicare-Fee-for-Service-Payment/sharedsavingsprogram/Downloads/SNF-Waiver-Guidance.pdf)  
 [COVID19 Survey Activity Suspension FAQs](https://www.cms.gov/files/document/covid19survey-activity-suspension-faqs.pdf)  
-
+[COVID-19: Considerations, Strategies, and Resources for Crisis Standards of Care in Post-Acute and Long-Term Care (PALTC) Facilities](https://files.asprtracie.hhs.gov/documents/covid-19-considerations-strategies-and-resources-for-crisis-standards-of-care-in-paltc-facilities.pdf)  
+[COVID-19 Considerations for Long-Term Care Facilities](https://files.asprtracie.hhs.gov/documents/aspr-tracie-covid-19-long-term-care-considerations-toolkit-final.pdf)  
+[Hospital Data Reporting Status Update 2020-10-20 HHS.gov](https://essentialhospitals.org/wp-content/uploads/2020/10/Hospital-Reporting-Webinar-Slide-Deck.pdf)  
+[Hospital Mandatory COVID-19 Reporting Enforcement Workflow](https://www.cms.gov/files/document/hospital-mandatory-covid-19-reporting-enforcement-workflow.pdf)  
+[Hospital-Level Data Collection by State (2020-09-04 – 2020-09-10)](https://www.mhaonline.org/docs/default-source/resources/coronavirus/hospital-level-data-collection-by-state.pdf)  
+[New COVID-19 Testing and Reporting Requirements](https://www.cms.gov/files/document/covid-ppt-nh-all-call.pdf)  
+[Interim Final Rule (IFC), CMS-3401-IFC; Requirements and Enforcement Process for Reporting of COVID-19 Data Elements for Hospitals and Critical Access Hospitals](https://www.cms.gov/files/document/qso-21-03-hospitalscahs.pdf-0)  
 
 ## Sources  
 [COVID-19 Nursing Home Data | Data.CMS.gov](https://data.cms.gov/stories/s/bkwz-xpvg)  

@@ -1,0 +1,5 @@
+# [VDH-COVID-19-PublicUseDataset-Outbreaks_By-Date](https://data.virginia.gov/Government/VDH-COVID-19-PublicUseDataset-Outbreaks_By-Date/qddp-x2uu)  
+
+The number of COVID-19 outbreaks reported in Virginia by date VDH notified of the outbreak and by facility type group. This data set was first published on 2020-05-09. The data set increases in size daily and as a result, the dataset may take longer to update; however, it is expected to be available by 12:00 noon daily. When you download the data set, the dates will be sorted in ascending order, meaning that the earliest date will be at the top. To see data for the most recent date, please scroll down to the bottom of the data set. Starting on 2020-09-25, the Educational Setting Outbreaks will be divided into the following categories: Child care, K-12 and Colleges/ Universities.
+
+[CSV](https://data.virginia.gov/api/views/qddp-x2uu/rows.csv?accessType=DOWNLOAD)  
