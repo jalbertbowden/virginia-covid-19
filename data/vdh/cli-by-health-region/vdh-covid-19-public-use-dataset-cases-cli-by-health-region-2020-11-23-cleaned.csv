@@ -1,0 +1,457 @@
+Report Date,Week End Date,Geography Type,Geography Name,Facility Type,Count of CLI Visits,Count of ED Visits,Count of UC Visits,Percent of CLI Visits,Count of CLI Hospitalizations,Percent of  CLI Hospitalizations
+2020-11-23,2020-07-18,Health Region,Eastern Region,Emergency Department,1742,17000,0,10,328,19
+2020-11-23,2020-09-19,Health Region,Northwest Region,Urgent Care,300,0,2732,11,0,0
+2020-11-23,2020-09-12,Health Region,Northwest Region,Emergency Department,433,8786,0,5,126,29
+2020-11-23,2020-07-11,Health Region,Central Region,Urgent Care,1875,0,6781,28,0,0
+2020-11-23,2020-07-25,Health Region,Eastern Region,Urgent Care,1480,0,8747,17,0,0
+2020-11-23,2020-04-25,Health Region,Northwest Region,Emergency Department,565,6587,0,9,151,27
+2020-11-23,2020-05-02,Health Region,Northwest Region,Urgent Care,211,0,1637,13,0,0
+2020-11-23,2020-04-25,Health Region,Northern Region,Emergency Department,1386,7201,0,19,109,8
+2020-11-23,2020-03-07,Health Region,Eastern Region,Urgent Care,980,0,12703,8,0,0
+2020-11-23,2020-07-11,Health Region,Northern Region,Urgent Care,2300,0,7177,32,0,0
+2020-11-23,2020-10-17,Health Region,Northern Region,Urgent Care,2181,0,7498,29,0,0
+2020-11-23,2020-09-26,Health Region,Eastern Region,Urgent Care,1369,0,8953,15,0,0
+2020-11-23,2020-06-27,Health Region,Northwest Region,Emergency Department,367,8301,0,4,120,33
+2020-11-23,2020-11-14,Health Region,Southwest Region,Emergency Department,1082,9729,0,11,305,28
+2020-11-23,2020-04-25,Health Region,Southwest Region,Emergency Department,385,6516,0,6,167,43
+2020-11-23,2020-10-17,Health Region,Northern Region,Emergency Department,622,9432,0,7,80,13
+2020-11-23,2020-09-12,Health Region,Central Region,Emergency Department,912,12303,0,7,246,27
+2020-11-23,2020-04-11,Health Region,Eastern Region,Emergency Department,865,9649,0,9,218,25
+2020-11-23,2020-04-04,Health Region,Central Region,Urgent Care,93,0,3003,3,0,0
+2020-11-23,2020-05-09,Health Region,Eastern Region,Urgent Care,808,0,5829,14,0,0
+2020-11-23,2020-09-12,Health Region,Southwest Region,Emergency Department,617,9665,0,6,170,28
+2020-11-23,2020-08-15,Health Region,Northern Region,Urgent Care,1404,0,6332,22,0,0
+2020-11-23,2020-10-17,Health Region,Southwest Region,Urgent Care,143,0,1549,9,0,0
+2020-11-23,2020-09-12,Health Region,Northern Region,Urgent Care,1811,0,7121,25,0,0
+2020-11-23,2020-06-27,Health Region,Northern Region,Emergency Department,526,8855,0,6,74,14
+2020-11-23,2020-04-18,Health Region,Northwest Region,Urgent Care,105,0,1415,7,0,0
+2020-11-23,2020-08-29,Health Region,Southwest Region,Emergency Department,567,9524,0,6,160,28
+2020-11-23,2020-08-15,Health Region,Northern Region,Emergency Department,618,9198,0,7,65,11
+2020-11-23,2020-07-11,Health Region,Southwest Region,Emergency Department,595,9969,0,6,166,28
+2020-11-23,2020-06-13,Health Region,Eastern Region,Emergency Department,484,13430,0,4,195,40
+2020-11-23,2020-08-01,Health Region,Eastern Region,Emergency Department,1709,15705,0,11,327,19
+2020-11-23,2020-05-23,Health Region,Southwest Region,Emergency Department,321,7872,0,4,144,45
+2020-11-23,2020-10-10,Health Region,Eastern Region,Urgent Care,2053,0,9867,21,0,0
+2020-11-23,2020-07-11,Health Region,Northwest Region,Emergency Department,474,8818,0,5,149,31
+2020-11-23,2020-08-29,Health Region,Northwest Region,Emergency Department,488,8798,0,6,142,29
+2020-11-23,2020-05-09,Health Region,Central Region,Urgent Care,1035,0,4505,23,0,0
+2020-11-23,2020-11-14,Health Region,Central Region,Emergency Department,1091,12533,0,9,313,29
+2020-11-23,2020-09-26,Health Region,Central Region,Emergency Department,889,12073,0,7,291,33
+2020-11-23,2020-11-14,Health Region,Northwest Region,Emergency Department,641,9471,0,7,187,29
+2020-11-23,2020-11-21,Health Region,Northwest Region,Urgent Care,979,0,3370,29,0,0
+2020-11-23,2020-10-03,Health Region,Eastern Region,Emergency Department,888,14890,0,6,265,30
+2020-11-23,2020-08-15,Health Region,Eastern Region,Emergency Department,1298,14943,0,9,273,21
+2020-11-23,2020-03-21,Health Region,Southwest Region,Emergency Department,849,9056,0,9,181,21
+2020-11-23,2020-05-09,Health Region,Southwest Region,Emergency Department,392,7253,0,5,178,45
+2020-11-23,2020-06-27,Health Region,Southwest Region,Emergency Department,477,9462,0,5,158,33
+2020-11-23,2020-10-31,Health Region,Northern Region,Urgent Care,2304,0,7223,32,0,0
+2020-11-23,2020-10-31,Health Region,Northwest Region,Emergency Department,533,8393,0,6,151,28
+2020-11-23,2020-03-07,Health Region,Central Region,Urgent Care,398,0,7414,5,0,0
+2020-11-23,2020-04-11,Health Region,Northern Region,Urgent Care,379,0,2984,13,0,0
+2020-11-23,2020-06-13,Health Region,Southwest Region,Urgent Care,37,0,1694,2,0,0
+2020-11-23,2020-07-25,Health Region,Southwest Region,Emergency Department,590,9370,0,6,137,23
+2020-11-23,2020-05-30,Health Region,Eastern Region,Emergency Department,528,12295,0,4,185,35
+2020-11-23,2020-03-07,Health Region,Central Region,Emergency Department,709,15695,0,5,206,29
+2020-11-23,2020-03-07,Health Region,Northwest Region,Emergency Department,595,11249,0,5,145,24
+2020-11-23,2020-05-23,Health Region,Central Region,Emergency Department,817,10003,0,8,337,41
+2020-11-23,2020-06-13,Health Region,Northern Region,Emergency Department,608,8492,0,7,86,14
+2020-11-23,2020-11-14,Health Region,Northern Region,Urgent Care,2633,0,7739,34,0,0
+2020-11-23,2020-10-31,Health Region,Southwest Region,Urgent Care,166,0,1619,10,0,0
+2020-11-23,2020-08-29,Health Region,Northern Region,Urgent Care,1652,0,6545,25,0,0
+2020-11-23,2020-03-21,Health Region,Central Region,Urgent Care,329,0,4706,7,0,0
+2020-11-23,2020-04-11,Health Region,Northern Region,Emergency Department,1118,6591,0,17,101,9
+2020-11-23,2020-06-27,Health Region,Northern Region,Urgent Care,2262,0,6401,35,0,0
+2020-11-23,2020-08-29,Health Region,Southwest Region,Urgent Care,90,0,1479,6,0,0
+2020-11-23,2020-03-28,Health Region,Eastern Region,Emergency Department,1301,12118,0,11,259,20
+2020-11-23,2020-03-21,Health Region,Eastern Region,Urgent Care,660,0,8081,8,0,0
+2020-11-23,2020-10-10,Health Region,Central Region,Urgent Care,1585,0,6772,23,0,0
+2020-11-23,2020-08-08,Health Region,Eastern Region,Urgent Care,1136,0,7995,14,0,0
+2020-11-23,2020-11-14,Health Region,Eastern Region,Urgent Care,3154,0,10700,29,0,0
+2020-11-23,2020-10-31,Health Region,Northern Region,Emergency Department,618,9276,0,7,70,11
+2020-11-23,2020-05-09,Health Region,Northwest Region,Emergency Department,617,6781,0,9,160,26
+2020-11-23,2020-08-29,Health Region,Northern Region,Emergency Department,680,9509,0,7,77,11
+2020-11-23,2020-06-20,Health Region,Northwest Region,Urgent Care,324,0,2496,13,0,0
+2020-11-23,2020-03-07,Health Region,Southwest Region,Emergency Department,643,11799,0,5,180,28
+2020-11-23,2020-05-23,Health Region,Central Region,Urgent Care,1717,0,5535,31,0,0
+2020-11-23,2020-10-17,Health Region,Eastern Region,Emergency Department,896,15018,0,6,258,29
+2020-11-23,2020-07-25,Health Region,Central Region,Emergency Department,901,11926,0,8,278,31
+2020-11-23,2020-11-07,Health Region,Northwest Region,Urgent Care,726,0,3017,24,0,0
+2020-11-23,2020-03-21,Health Region,Central Region,Emergency Department,1354,12504,0,11,217,16
+2020-11-23,2020-06-06,Health Region,Central Region,Urgent Care,1889,0,6009,31,0,0
+2020-11-23,2020-07-11,Health Region,Eastern Region,Urgent Care,2680,0,10349,26,0,0
+2020-11-23,2020-10-24,Health Region,Northwest Region,Urgent Care,573,0,3079,19,0,0
+2020-11-23,2020-05-09,Health Region,Central Region,Emergency Department,733,9092,0,8,353,48
+2020-11-23,2020-07-25,Health Region,Central Region,Urgent Care,1114,0,5976,19,0,0
+2020-11-23,2020-05-23,Health Region,Eastern Region,Urgent Care,1176,0,6611,18,0,0
+2020-11-23,2020-05-16,Health Region,Eastern Region,Emergency Department,569,11312,0,5,203,36
+2020-11-23,2020-04-25,Health Region,Northern Region,Urgent Care,532,0,3124,17,0,0
+2020-11-23,2020-06-13,Health Region,Northern Region,Urgent Care,2184,0,6317,35,0,0
+2020-11-23,2020-09-05,Health Region,Northwest Region,Urgent Care,313,0,2733,11,0,0
+2020-11-23,2020-07-18,Health Region,Northwest Region,Urgent Care,517,0,2941,18,0,0
+2020-11-23,2020-04-11,Health Region,Southwest Region,Urgent Care,60,0,852,7,0,0
+2020-11-23,2020-09-26,Health Region,Southwest Region,Emergency Department,590,9353,0,6,163,28
+2020-11-23,2020-03-28,Health Region,Northern Region,Emergency Department,1129,7966,0,14,94,8
+2020-11-23,2020-06-27,Health Region,Southwest Region,Urgent Care,111,0,2085,5,0,0
+2020-11-23,2020-08-15,Health Region,Southwest Region,Urgent Care,54,0,1455,4,0,0
+2020-11-23,2020-07-04,Health Region,Northwest Region,Urgent Care,364,0,2707,13,0,0
+2020-11-23,2020-07-11,Health Region,Central Region,Emergency Department,878,12366,0,7,290,33
+2020-11-23,2020-08-22,Health Region,Northwest Region,Urgent Care,261,0,2741,10,0,0
+2020-11-23,2020-09-26,Health Region,Central Region,Urgent Care,1505,0,6757,22,0,0
+2020-11-23,2020-08-08,Health Region,Central Region,Urgent Care,994,0,5764,17,0,0
+2020-11-23,2020-09-12,Health Region,Eastern Region,Urgent Care,1398,0,8906,16,0,0
+2020-11-23,2020-03-14,Health Region,Eastern Region,Emergency Department,1356,18863,0,7,238,18
+2020-11-23,2020-04-25,Health Region,Southwest Region,Urgent Care,36,0,782,5,0,0
+2020-11-23,2020-08-15,Health Region,Eastern Region,Urgent Care,1148,0,8597,13,0,0
+2020-11-23,2020-08-01,Health Region,Northern Region,Emergency Department,613,9207,0,7,76,12
+2020-11-23,2020-05-30,Health Region,Northern Region,Urgent Care,2375,0,5866,40,0,0
+2020-11-23,2020-04-25,Health Region,Central Region,Emergency Department,555,7997,0,7,211,38
+2020-11-23,2020-10-03,Health Region,Southwest Region,Emergency Department,755,9452,0,8,211,28
+2020-11-23,2020-09-12,Health Region,Southwest Region,Urgent Care,97,0,1555,6,0,0
+2020-11-23,2020-03-14,Health Region,Northern Region,Urgent Care,629,0,8754,7,0,0
+2020-11-23,2020-08-01,Health Region,Southwest Region,Emergency Department,686,9688,0,7,168,24
+2020-11-23,2020-10-24,Health Region,Eastern Region,Emergency Department,852,14957,0,6,237,28
+2020-11-23,2020-06-13,Health Region,Northwest Region,Urgent Care,367,0,2473,15,0,0
+2020-11-23,2020-10-03,Health Region,Northwest Region,Emergency Department,562,8960,0,6,162,29
+2020-11-23,2020-10-17,Health Region,Central Region,Urgent Care,1466,0,6452,23,0,0
+2020-11-23,2020-09-05,Health Region,Northern Region,Emergency Department,597,9629,0,6,65,11
+2020-11-23,2020-11-21,Health Region,Northern Region,Urgent Care,3593,0,8685,41,0,0
+2020-11-23,2020-05-30,Health Region,Northern Region,Emergency Department,999,8403,0,12,108,11
+2020-11-23,2020-07-11,Health Region,Southwest Region,Urgent Care,147,0,2499,6,0,0
+2020-11-23,2020-11-14,Health Region,Southwest Region,Urgent Care,162,0,1612,10,0,0
+2020-11-23,2020-10-17,Health Region,Northwest Region,Emergency Department,468,8478,0,6,147,31
+2020-11-23,2020-05-30,Health Region,Central Region,Emergency Department,840,10299,0,8,330,39
+2020-11-23,2020-09-26,Health Region,Southwest Region,Urgent Care,106,0,1526,7,0,0
+2020-11-23,2020-10-17,Health Region,Southwest Region,Emergency Department,856,9373,0,9,243,28
+2020-11-23,2020-06-27,Health Region,Central Region,Urgent Care,1760,0,6132,29,0,0
+2020-11-23,2020-04-11,Health Region,Central Region,Emergency Department,778,7803,0,10,307,39
+2020-11-23,2020-08-15,Health Region,Central Region,Urgent Care,1095,0,6067,18,0,0
+2020-11-23,2020-06-13,Health Region,Eastern Region,Urgent Care,1090,0,7462,15,0,0
+2020-11-23,2020-08-15,Health Region,Northwest Region,Urgent Care,302,0,2672,11,0,0
+2020-11-23,2020-10-03,Health Region,Northwest Region,Urgent Care,379,0,2970,13,0,0
+2020-11-23,2020-03-28,Health Region,Central Region,Emergency Department,1064,9789,0,11,253,24
+2020-11-23,2020-07-25,Health Region,Southwest Region,Urgent Care,215,0,2927,7,0,0
+2020-11-23,2020-11-21,Health Region,Eastern Region,Emergency Department,1128,14736,0,8,205,18
+2020-11-23,2020-11-21,Health Region,Northern Region,Emergency Department,1188,9607,0,12,115,10
+2020-11-23,2020-11-07,Health Region,Eastern Region,Emergency Department,874,14409,0,6,218,25
+2020-11-23,2020-09-19,Health Region,Eastern Region,Emergency Department,797,14461,0,6,244,31
+2020-11-23,2020-10-03,Health Region,Northern Region,Emergency Department,587,9822,0,6,55,9
+2020-11-23,2020-10-17,Health Region,Northwest Region,Urgent Care,543,0,3047,18,0,0
+2020-11-23,2020-04-25,Health Region,Central Region,Urgent Care,736,0,3692,20,0,0
+2020-11-23,2020-06-13,Health Region,Central Region,Urgent Care,1793,0,6315,28,0,0
+2020-11-23,2020-04-11,Health Region,Eastern Region,Urgent Care,170,0,4661,4,0,0
+2020-11-23,2020-03-28,Health Region,Southwest Region,Emergency Department,706,7355,0,10,177,25
+2020-11-23,2020-08-29,Health Region,Central Region,Urgent Care,966,0,5921,16,0,0
+2020-11-23,2020-09-19,Health Region,Northern Region,Emergency Department,575,9332,0,6,64,11
+2020-11-23,2020-09-05,Health Region,Eastern Region,Emergency Department,1004,14899,0,7,276,27
+2020-11-23,2020-06-13,Health Region,Central Region,Emergency Department,684,11151,0,6,263,38
+2020-11-23,2020-03-14,Health Region,Northwest Region,Urgent Care,299,0,3805,8,0,0
+2020-11-23,2020-08-15,Health Region,Southwest Region,Emergency Department,639,9623,0,7,184,29
+2020-11-23,2020-04-11,Health Region,Central Region,Urgent Care,100,0,2892,3,0,0
+2020-11-23,2020-04-18,Health Region,Eastern Region,Emergency Department,694,9490,0,7,222,32
+2020-11-23,2020-07-04,Health Region,Northern Region,Emergency Department,555,9037,0,6,59,11
+2020-11-23,2020-04-25,Health Region,Eastern Region,Urgent Care,304,0,4938,6,0,0
+2020-11-23,2020-06-13,Health Region,Southwest Region,Emergency Department,322,9111,0,4,139,43
+2020-11-23,2020-08-15,Health Region,Northwest Region,Emergency Department,512,9015,0,6,155,30
+2020-11-23,2020-07-18,Health Region,Northern Region,Emergency Department,591,9107,0,6,76,13
+2020-11-23,2020-10-03,Health Region,Northern Region,Urgent Care,2305,0,7749,30,0,0
+2020-11-23,2020-05-23,Health Region,Southwest Region,Urgent Care,27,0,1013,3,0,0
+2020-11-23,2020-06-27,Health Region,Eastern Region,Urgent Care,1531,0,7760,20,0,0
+2020-11-23,2020-03-28,Health Region,Northwest Region,Emergency Department,756,7025,0,11,150,20
+2020-11-23,2020-10-31,Health Region,Southwest Region,Emergency Department,999,9411,0,11,272,27
+2020-11-23,2020-10-31,Health Region,Central Region,Emergency Department,922,11884,0,8,288,31
+2020-11-23,2020-08-01,Health Region,Northwest Region,Urgent Care,312,0,2730,11,0,0
+2020-11-23,2020-04-11,Health Region,Northwest Region,Emergency Department,600,6025,0,10,168,28
+2020-11-23,2020-08-22,Health Region,Eastern Region,Emergency Department,1215,15052,0,8,289,24
+2020-11-23,2020-08-29,Health Region,Eastern Region,Urgent Care,950,0,8466,11,0,0
+2020-11-23,2020-05-30,Health Region,Northwest Region,Emergency Department,530,7779,0,7,144,27
+2020-11-23,2020-03-28,Health Region,Northern Region,Urgent Care,316,0,3692,9,0,0
+2020-11-23,2020-05-16,Health Region,Northern Region,Urgent Care,1620,0,4469,36,0,0
+2020-11-23,2020-09-12,Health Region,Central Region,Urgent Care,1452,0,6444,23,0,0
+2020-11-23,2020-10-17,Health Region,Eastern Region,Urgent Care,1958,0,9553,20,0,0
+2020-11-23,2020-10-17,Health Region,Central Region,Emergency Department,934,12252,0,8,330,35
+2020-11-23,2020-07-04,Health Region,Eastern Region,Emergency Department,1011,14858,0,7,235,23
+2020-11-23,2020-04-11,Health Region,Southwest Region,Emergency Department,460,6244,0,7,160,35
+2020-11-23,2020-05-30,Health Region,Southwest Region,Emergency Department,314,8593,0,4,126,40
+2020-11-23,2020-05-16,Health Region,Northern Region,Emergency Department,1312,8119,0,16,137,10
+2020-11-23,2020-05-09,Health Region,Southwest Region,Urgent Care,47,0,956,5,0,0
+2020-11-23,2020-03-21,Health Region,Southwest Region,Urgent Care,200,0,1744,11,0,0
+2020-11-23,2020-05-02,Health Region,Eastern Region,Emergency Department,694,10369,0,7,205,30
+2020-11-23,2020-08-29,Health Region,Central Region,Emergency Department,865,12258,0,7,269,31
+2020-11-23,2020-08-01,Health Region,Northern Region,Urgent Care,1315,0,6070,22,0,0
+2020-11-23,2020-09-19,Health Region,Northern Region,Urgent Care,1960,0,7294,27,0,0
+2020-11-23,2020-05-30,Health Region,Northwest Region,Urgent Care,380,0,2174,17,0,0
+2020-11-23,2020-04-11,Health Region,Northwest Region,Urgent Care,99,0,1481,7,0,0
+2020-11-23,2020-10-31,Health Region,Central Region,Urgent Care,1706,0,6626,26,0,0
+2020-11-23,2020-08-15,Health Region,Central Region,Emergency Department,836,11942,0,7,304,36
+2020-11-23,2020-05-16,Health Region,Northwest Region,Urgent Care,333,0,1911,17,0,0
+2020-11-23,2020-11-14,Health Region,Central Region,Urgent Care,1907,0,7052,27,0,0
+2020-11-23,2020-10-31,Health Region,Eastern Region,Urgent Care,2277,0,9604,24,0,0
+2020-11-23,2020-08-01,Health Region,Northwest Region,Emergency Department,496,9076,0,5,132,27
+2020-11-23,2020-06-13,Health Region,Northwest Region,Emergency Department,379,8128,0,5,118,31
+2020-11-23,2020-06-27,Health Region,Central Region,Emergency Department,716,11668,0,6,268,37
+2020-11-23,2020-05-02,Health Region,Northern Region,Emergency Department,1498,7927,0,19,147,10
+2020-11-23,2020-07-18,Health Region,Northern Region,Urgent Care,2561,0,7482,34,0,0
+2020-11-23,2020-03-28,Health Region,Northwest Region,Urgent Care,161,0,1745,9,0,0
+2020-11-23,2020-03-07,Health Region,Southwest Region,Urgent Care,212,0,2596,8,0,0
+2020-11-23,2020-06-20,Health Region,Eastern Region,Emergency Department,525,13537,0,4,183,35
+2020-11-23,2020-03-14,Health Region,Northern Region,Emergency Department,1165,12639,0,9,69,6
+2020-11-23,2020-03-21,Health Region,Eastern Region,Emergency Department,1691,14983,0,11,248,15
+2020-11-23,2020-05-16,Health Region,Northwest Region,Emergency Department,605,6985,0,9,166,27
+2020-11-23,2020-04-04,Health Region,Southwest Region,Urgent Care,77,0,949,8,0,0
+2020-11-23,2020-03-14,Health Region,Central Region,Urgent Care,417,0,7210,6,0,0
+2020-11-23,2020-04-04,Health Region,Northern Region,Emergency Department,1005,6820,0,15,95,9
+2020-11-23,2020-06-20,Health Region,Northern Region,Urgent Care,2205,0,6196,36,0,0
+2020-11-23,2020-08-22,Health Region,Southwest Region,Urgent Care,61,0,1499,4,0,0
+2020-11-23,2020-08-01,Health Region,Central Region,Emergency Department,960,12150,0,8,300,31
+2020-11-23,2020-11-07,Health Region,Northern Region,Emergency Department,738,9343,0,8,77,10
+2020-11-23,2020-11-07,Health Region,Northern Region,Urgent Care,2389,0,7212,33,0,0
+2020-11-23,2020-05-30,Health Region,Central Region,Urgent Care,1838,0,5755,32,0,0
+2020-11-23,2020-03-14,Health Region,Central Region,Emergency Department,978,15867,0,6,192,20
+2020-11-23,2020-03-28,Health Region,Eastern Region,Urgent Care,384,0,5652,7,0,0
+2020-11-23,2020-06-06,Health Region,Eastern Region,Emergency Department,518,12701,0,4,211,41
+2020-11-23,2020-08-22,Health Region,Northern Region,Emergency Department,686,9571,0,7,69,10
+2020-11-23,2020-10-31,Health Region,Northwest Region,Urgent Care,606,0,3116,19,0,0
+2020-11-23,2020-07-18,Health Region,Southwest Region,Emergency Department,609,9581,0,6,163,27
+2020-11-23,2020-11-07,Health Region,Central Region,Emergency Department,1019,11824,0,9,325,32
+2020-11-23,2020-11-14,Health Region,Northwest Region,Urgent Care,808,0,3161,26,0,0
+2020-11-23,2020-05-23,Health Region,Eastern Region,Emergency Department,596,11713,0,5,216,36
+2020-11-23,2020-05-16,Health Region,Central Region,Urgent Care,1466,0,4999,29,0,0
+2020-11-23,2020-11-21,Health Region,Eastern Region,Urgent Care,3860,0,10958,35,0,0
+2020-11-23,2020-03-07,Health Region,Northwest Region,Urgent Care,262,0,3831,7,0,0
+2020-11-23,2020-07-18,Health Region,Central Region,Emergency Department,878,12100,0,7,272,31
+2020-11-23,2020-10-03,Health Region,Central Region,Urgent Care,1584,0,6905,23,0,0
+2020-11-23,2020-10-24,Health Region,Northern Region,Emergency Department,640,9614,0,7,81,13
+2020-11-23,2020-09-05,Health Region,Central Region,Emergency Department,960,12361,0,8,324,34
+2020-11-23,2020-11-07,Health Region,Southwest Region,Emergency Department,1006,9410,0,11,307,31
+2020-11-23,2020-08-01,Health Region,Eastern Region,Urgent Care,1362,0,8581,16,0,0
+2020-11-23,2020-05-09,Health Region,Northwest Region,Urgent Care,250,0,1727,14,0,0
+2020-11-23,2020-05-02,Health Region,Northwest Region,Emergency Department,633,6897,0,9,137,22
+2020-11-23,2020-04-18,Health Region,Southwest Region,Urgent Care,47,0,811,6,0,0
+2020-11-23,2020-11-21,Health Region,Central Region,Urgent Care,2221,0,7222,31,0,0
+2020-11-23,2020-09-19,Health Region,Eastern Region,Urgent Care,1408,0,8963,16,0,0
+2020-11-23,2020-03-14,Health Region,Northwest Region,Emergency Department,774,11149,0,7,139,18
+2020-11-23,2020-06-27,Health Region,Northwest Region,Urgent Care,350,0,2465,14,0,0
+2020-11-23,2020-05-02,Health Region,Central Region,Emergency Department,647,8448,0,8,225,35
+2020-11-23,2020-04-18,Health Region,Northern Region,Urgent Care,355,0,2861,12,0,0
+2020-11-23,2020-06-06,Health Region,Southwest Region,Urgent Care,30,0,1330,2,0,0
+2020-11-23,2020-08-08,Health Region,Southwest Region,Urgent Care,65,0,1733,4,0,0
+2020-11-23,2020-05-02,Health Region,Southwest Region,Urgent Care,33,0,883,4,0,0
+2020-11-23,2020-06-20,Health Region,Southwest Region,Urgent Care,35,0,1890,2,0,0
+2020-11-23,2020-07-04,Health Region,Central Region,Emergency Department,710,11502,0,6,257,36
+2020-11-23,2020-05-16,Health Region,Central Region,Emergency Department,699,9334,0,7,300,43
+2020-11-23,2020-08-29,Health Region,Northwest Region,Urgent Care,261,0,2708,10,0,0
+2020-11-23,2020-09-19,Health Region,Central Region,Urgent Care,1507,0,6857,22,0,0
+2020-11-23,2020-08-01,Health Region,Central Region,Urgent Care,972,0,5889,17,0,0
+2020-11-23,2020-05-30,Health Region,Eastern Region,Urgent Care,1249,0,7116,18,0,0
+2020-11-23,2020-07-18,Health Region,Eastern Region,Urgent Care,2406,0,9986,24,0,0
+2020-11-23,2020-04-18,Health Region,Northwest Region,Emergency Department,600,6171,0,10,155,26
+2020-11-23,2020-10-10,Health Region,Southwest Region,Urgent Care,132,0,1629,8,0,0
+2020-11-23,2020-10-03,Health Region,Eastern Region,Urgent Care,1661,0,9536,17,0,0
+2020-11-23,2020-07-11,Health Region,Northwest Region,Urgent Care,427,0,2937,15,0,0
+2020-11-23,2020-07-04,Health Region,Northwest Region,Emergency Department,414,8342,0,5,140,34
+2020-11-23,2020-11-21,Health Region,Northwest Region,Emergency Department,800,8825,0,9,177,22
+2020-11-23,2020-11-21,Health Region,Southwest Region,Emergency Department,1076,8952,0,12,321,30
+2020-11-23,2020-05-16,Health Region,Eastern Region,Urgent Care,894,0,6213,14,0,0
+2020-11-23,2020-05-02,Health Region,Northern Region,Urgent Care,838,0,3571,23,0,0
+2020-11-23,2020-10-10,Health Region,Northern Region,Emergency Department,618,9514,0,6,71,11
+2020-11-23,2020-07-18,Health Region,Central Region,Urgent Care,1815,0,6731,27,0,0
+2020-11-23,2020-09-05,Health Region,Southwest Region,Emergency Department,640,9545,0,7,183,29
+2020-11-23,2020-09-12,Health Region,Northwest Region,Urgent Care,323,0,2699,12,0,0
+2020-11-23,2020-09-19,Health Region,Central Region,Emergency Department,921,12265,0,8,297,32
+2020-11-23,2020-07-04,Health Region,Southwest Region,Urgent Care,80,0,1949,4,0,0
+2020-11-23,2020-09-19,Health Region,Southwest Region,Emergency Department,562,9391,0,6,162,29
+2020-11-23,2020-04-04,Health Region,Eastern Region,Emergency Department,1130,10157,0,11,254,22
+2020-11-23,2020-04-25,Health Region,Northwest Region,Urgent Care,105,0,1446,7,0,0
+2020-11-23,2020-03-28,Health Region,Central Region,Urgent Care,154,0,3394,5,0,0
+2020-11-23,2020-10-10,Health Region,Eastern Region,Emergency Department,990,15132,0,7,272,27
+2020-11-23,2020-03-14,Health Region,Eastern Region,Urgent Care,983,0,12420,8,0,0
+2020-11-23,2020-04-18,Health Region,Northern Region,Emergency Department,1109,6628,0,17,121,11
+2020-11-23,2020-09-05,Health Region,Southwest Region,Urgent Care,100,0,1478,7,0,0
+2020-11-23,2020-07-04,Health Region,Northern Region,Urgent Care,2269,0,6925,33,0,0
+2020-11-23,2020-08-22,Health Region,Northern Region,Urgent Care,1387,0,6304,22,0,0
+2020-11-23,2020-07-18,Health Region,Northwest Region,Emergency Department,521,8797,0,6,155,30
+2020-11-23,2020-06-06,Health Region,Northern Region,Emergency Department,766,8283,0,9,82,11
+2020-11-23,2020-10-24,Health Region,Southwest Region,Urgent Care,171,0,1650,10,0,0
+2020-11-23,2020-07-25,Health Region,Eastern Region,Emergency Department,1867,16096,0,12,329,18
+2020-11-23,2020-03-14,Health Region,Southwest Region,Emergency Department,722,11677,0,6,166,23
+2020-11-23,2020-05-02,Health Region,Southwest Region,Emergency Department,351,7033,0,5,147,42
+2020-11-23,2020-10-03,Health Region,Central Region,Emergency Department,1008,12455,0,8,319,32
+2020-11-23,2020-08-08,Health Region,Northern Region,Emergency Department,643,9396,0,7,68,11
+2020-11-23,2020-10-24,Health Region,Northern Region,Urgent Care,2242,0,7368,30,0,0
+2020-11-23,2020-11-21,Health Region,Central Region,Emergency Department,1204,11818,0,10,304,25
+2020-11-23,2020-09-05,Health Region,Northern Region,Urgent Care,1774,0,6743,26,0,0
+2020-11-23,2020-09-05,Health Region,Northwest Region,Emergency Department,428,8728,0,5,133,31
+2020-11-23,2020-11-07,Health Region,Northwest Region,Emergency Department,540,8556,0,6,156,29
+2020-11-23,2020-09-19,Health Region,Northwest Region,Emergency Department,429,8791,0,5,132,31
+2020-11-23,2020-08-08,Health Region,Eastern Region,Emergency Department,1452,15117,0,10,306,21
+2020-11-23,2020-07-04,Health Region,Southwest Region,Emergency Department,481,9321,0,5,140,29
+2020-11-23,2020-09-26,Health Region,Eastern Region,Emergency Department,828,14542,0,6,272,33
+2020-11-23,2020-06-20,Health Region,Northern Region,Emergency Department,526,8290,0,6,67,13
+2020-11-23,2020-05-16,Health Region,Southwest Region,Emergency Department,320,7468,0,4,140,44
+2020-11-23,2020-11-07,Health Region,Southwest Region,Urgent Care,169,0,1517,11,0,0
+2020-11-23,2020-11-14,Health Region,Eastern Region,Emergency Department,1065,15280,0,7,221,21
+2020-11-23,2020-08-22,Health Region,Central Region,Emergency Department,964,12136,0,8,310,32
+2020-11-23,2020-05-23,Health Region,Northwest Region,Urgent Care,374,0,2080,18,0,0
+2020-11-23,2020-06-20,Health Region,Central Region,Urgent Care,1959,0,6475,30,0,0
+2020-11-23,2020-04-18,Health Region,Eastern Region,Urgent Care,138,0,4585,3,0,0
+2020-11-23,2020-09-26,Health Region,Northern Region,Urgent Care,2041,0,7131,29,0,0
+2020-11-23,2020-07-11,Health Region,Northern Region,Emergency Department,616,9156,0,7,68,11
+2020-11-23,2020-06-27,Health Region,Eastern Region,Emergency Department,610,14192,0,4,225,37
+2020-11-23,2020-10-24,Health Region,Southwest Region,Emergency Department,919,9551,0,10,282,31
+2020-11-23,2020-04-04,Health Region,Central Region,Emergency Department,848,8312,0,10,268,32
+2020-11-23,2020-07-04,Health Region,Eastern Region,Urgent Care,1967,0,9062,22,0,0
+2020-11-23,2020-04-04,Health Region,Northwest Region,Emergency Department,659,6228,0,11,161,24
+2020-11-23,2020-08-29,Health Region,Eastern Region,Emergency Department,1074,15031,0,7,285,27
+2020-11-23,2020-08-22,Health Region,Central Region,Urgent Care,927,0,5857,16,0,0
+2020-11-23,2020-09-12,Health Region,Northern Region,Emergency Department,593,9542,0,6,54,9
+2020-11-23,2020-05-16,Health Region,Southwest Region,Urgent Care,44,0,967,5,0,0
+2020-11-23,2020-08-08,Health Region,Northwest Region,Urgent Care,298,0,2688,11,0,0
+2020-11-23,2020-06-20,Health Region,Eastern Region,Urgent Care,1248,0,7538,17,0,0
+2020-11-23,2020-03-21,Health Region,Northwest Region,Emergency Department,991,8685,0,11,162,16
+2020-11-23,2020-08-22,Health Region,Northwest Region,Emergency Department,470,8808,0,5,130,28
+2020-11-23,2020-06-06,Health Region,Southwest Region,Emergency Department,358,8475,0,4,141,39
+2020-11-23,2020-06-06,Health Region,Central Region,Emergency Department,750,10396,0,7,297,40
+2020-11-23,2020-05-09,Health Region,Northern Region,Urgent Care,1104,0,3997,28,0,0
+2020-11-23,2020-11-07,Health Region,Eastern Region,Urgent Care,2436,0,9821,25,0,0
+2020-11-23,2020-08-08,Health Region,Northwest Region,Emergency Department,496,8626,0,6,141,28
+2020-11-23,2020-04-25,Health Region,Eastern Region,Emergency Department,736,10266,0,7,240,33
+2020-11-23,2020-06-06,Health Region,Northwest Region,Urgent Care,308,0,2232,14,0,0
+2020-11-23,2020-05-09,Health Region,Northern Region,Emergency Department,1565,8172,0,19,192,12
+2020-11-23,2020-10-24,Health Region,Central Region,Emergency Department,912,12242,0,7,329,36
+2020-11-23,2020-10-24,Health Region,Central Region,Urgent Care,1602,0,6733,24,0,0
+2020-11-23,2020-08-08,Health Region,Central Region,Emergency Department,916,11838,0,8,281,31
+2020-11-23,2020-07-25,Health Region,Northwest Region,Urgent Care,330,0,2732,12,0,0
+2020-11-23,2020-06-20,Health Region,Central Region,Emergency Department,671,10860,0,6,273,41
+2020-11-23,2020-09-05,Health Region,Central Region,Urgent Care,1254,0,6508,19,0,0
+2020-11-23,2020-04-04,Health Region,Northern Region,Urgent Care,299,0,3042,10,0,0
+2020-11-23,2020-09-26,Health Region,Northwest Region,Emergency Department,472,8567,0,6,135,29
+2020-11-23,2020-06-20,Health Region,Northwest Region,Emergency Department,364,8035,0,5,98,27
+2020-11-23,2020-03-21,Health Region,Northwest Region,Urgent Care,187,0,2509,7,0,0
+2020-11-23,2020-03-07,Health Region,Northern Region,Emergency Department,690,12719,0,5,71,10
+2020-11-23,2020-05-23,Health Region,Northern Region,Urgent Care,2125,0,5377,40,0,0
+2020-11-23,2020-04-04,Health Region,Southwest Region,Emergency Department,541,6178,0,9,151,28
+2020-11-23,2020-03-21,Health Region,Northern Region,Emergency Department,1413,10270,0,14,67,5
+2020-11-23,2020-03-14,Health Region,Southwest Region,Urgent Care,241,0,2342,10,0,0
+2020-11-23,2020-03-07,Health Region,Eastern Region,Emergency Department,1058,18693,0,6,233,22
+2020-11-23,2020-07-25,Health Region,Northern Region,Urgent Care,1618,0,6443,25,0,0
+2020-11-23,2020-06-06,Health Region,Northern Region,Urgent Care,2202,0,5988,37,0,0
+2020-11-23,2020-04-04,Health Region,Northwest Region,Urgent Care,134,0,1586,8,0,0
+2020-11-23,2020-11-07,Health Region,Central Region,Urgent Care,1774,0,6557,27,0,0
+2020-11-23,2020-10-24,Health Region,Eastern Region,Urgent Care,2136,0,9881,22,0,0
+2020-11-23,2020-09-05,Health Region,Eastern Region,Urgent Care,1190,0,8783,14,0,0
+2020-11-23,2020-06-06,Health Region,Northwest Region,Emergency Department,461,7700,0,6,142,31
+2020-11-23,2020-07-25,Health Region,Northwest Region,Emergency Department,479,8764,0,5,134,28
+2020-11-23,2020-05-02,Health Region,Central Region,Urgent Care,749,0,3981,19,0,0
+2020-11-23,2020-06-06,Health Region,Eastern Region,Urgent Care,1144,0,7128,16,0,0
+2020-11-23,2020-08-08,Health Region,Northern Region,Urgent Care,1329,0,6107,22,0,0
+2020-11-23,2020-05-23,Health Region,Northern Region,Emergency Department,1301,8145,0,16,154,12
+2020-11-23,2020-10-10,Health Region,Central Region,Emergency Department,996,12237,0,8,314,32
+2020-11-23,2020-05-09,Health Region,Eastern Region,Emergency Department,607,11039,0,5,216,36
+2020-11-23,2020-11-21,Health Region,Southwest Region,Urgent Care,190,0,1570,12,0,0
+2020-11-23,2020-08-22,Health Region,Eastern Region,Urgent Care,974,0,8207,12,0,0
+2020-11-23,2020-05-23,Health Region,Northwest Region,Emergency Department,655,7524,0,9,162,25
+2020-11-23,2020-03-28,Health Region,Southwest Region,Urgent Care,136,0,1108,12,0,0
+2020-11-23,2020-10-10,Health Region,Northern Region,Urgent Care,2429,0,8042,30,0,0
+2020-11-23,2020-09-26,Health Region,Northwest Region,Urgent Care,316,0,2680,12,0,0
+2020-11-23,2020-04-18,Health Region,Southwest Region,Emergency Department,392,6237,0,6,156,40
+2020-11-23,2020-07-04,Health Region,Central Region,Urgent Care,1630,0,6380,26,0,0
+2020-11-23,2020-10-10,Health Region,Northwest Region,Emergency Department,569,8676,0,7,133,23
+2020-11-23,2020-07-11,Health Region,Eastern Region,Emergency Department,1392,16568,0,8,257,18
+2020-11-23,2020-04-18,Health Region,Central Region,Emergency Department,636,7863,0,8,253,40
+2020-11-23,2020-03-21,Health Region,Northern Region,Urgent Care,393,0,5202,8,0,0
+2020-11-23,2020-03-07,Health Region,Northern Region,Urgent Care,656,0,9522,7,0,0
+2020-11-23,2020-05-02,Health Region,Eastern Region,Urgent Care,543,0,5347,10,0,0
+2020-11-23,2020-07-18,Health Region,Southwest Region,Urgent Care,169,0,2657,6,0,0
+2020-11-23,2020-04-18,Health Region,Central Region,Urgent Care,245,0,2984,8,0,0
+2020-11-23,2020-07-25,Health Region,Northern Region,Emergency Department,541,8948,0,6,66,12
+2020-11-23,2020-05-30,Health Region,Southwest Region,Urgent Care,30,0,1140,3,0,0
+2020-11-23,2020-10-31,Health Region,Eastern Region,Emergency Department,875,14576,0,6,236,27
+2020-11-23,2020-09-12,Health Region,Eastern Region,Emergency Department,841,14548,0,6,254,30
+2020-11-23,2020-08-08,Health Region,Southwest Region,Emergency Department,676,9309,0,7,173,26
+2020-11-23,2020-06-20,Health Region,Southwest Region,Emergency Department,382,8783,0,4,133,35
+2020-11-23,2020-10-03,Health Region,Southwest Region,Urgent Care,150,0,1607,9,0,0
+2020-11-23,2020-10-24,Health Region,Northwest Region,Emergency Department,514,8931,0,6,131,25
+2020-11-23,2020-10-10,Health Region,Southwest Region,Emergency Department,883,9663,0,9,266,30
+2020-11-23,2020-04-04,Health Region,Eastern Region,Urgent Care,207,0,4825,4,0,0
+2020-11-23,2020-11-14,Health Region,Northern Region,Emergency Department,929,10010,0,9,102,11
+2020-11-23,2020-10-10,Health Region,Northwest Region,Urgent Care,522,0,3107,17,0,0
+2020-11-23,2020-09-19,Health Region,Southwest Region,Urgent Care,93,0,1505,6,0,0
+2020-11-23,2020-09-26,Health Region,Northern Region,Emergency Department,561,9366,0,6,69,12
+2020-11-23,2020-08-22,Health Region,Southwest Region,Emergency Department,603,9578,0,6,177,29
+2020-11-23,2020-08-01,Health Region,Southwest Region,Urgent Care,144,0,2586,6,0,0
+2020-11-23,2020-10-10,State,Virginia,Urgent Care,6721,0,29417,23,0,0
+2020-11-23,2020-10-31,State,Virginia,Emergency Department,3947,53540,0,7,1017,26
+2020-11-23,2020-08-15,State,Virginia,Emergency Department,3903,54721,0,7,981,25
+2020-11-23,2020-05-23,State,Virginia,Urgent Care,5419,0,20616,26,0,0
+2020-11-23,2020-07-25,State,Virginia,Urgent Care,4757,0,26825,18,0,0
+2020-11-23,2020-06-13,State,Virginia,Emergency Department,2477,50312,0,5,801,32
+2020-11-23,2020-05-30,State,Virginia,Emergency Department,3211,47369,0,7,893,28
+2020-11-23,2020-04-11,State,Virginia,Emergency Department,3821,36312,0,11,954,25
+2020-11-23,2020-09-26,State,Virginia,Urgent Care,5337,0,27047,20,0,0
+2020-11-23,2020-08-08,State,Virginia,Urgent Care,3822,0,24287,16,0,0
+2020-11-23,2020-03-28,State,Virginia,Emergency Department,4956,44253,0,11,933,19
+2020-11-23,2020-10-03,State,Virginia,Emergency Department,3800,55579,0,7,1012,27
+2020-11-23,2020-04-04,State,Virginia,Urgent Care,810,0,13405,6,0,0
+2020-11-23,2020-08-01,State,Virginia,Emergency Department,4464,55826,0,8,1003,22
+2020-11-23,2020-06-06,State,Virginia,Urgent Care,5573,0,22687,25,0,0
+2020-11-23,2020-10-17,State,Virginia,Emergency Department,3776,54553,0,7,1058,28
+2020-11-23,2020-03-21,State,Virginia,Urgent Care,1769,0,22242,8,0,0
+2020-11-23,2020-07-04,State,Virginia,Emergency Department,3171,53060,0,6,831,26
+2020-11-23,2020-03-07,State,Virginia,Urgent Care,2508,0,36066,7,0,0
+2020-11-23,2020-08-29,State,Virginia,Urgent Care,3919,0,25119,16,0,0
+2020-11-23,2020-11-21,State,Virginia,Emergency Department,5396,53938,0,10,1122,21
+2020-11-23,2020-09-19,State,Virginia,Emergency Department,3284,54240,0,6,899,27
+2020-11-23,2020-05-02,State,Virginia,Emergency Department,3823,40674,0,9,861,23
+2020-11-23,2020-10-31,State,Virginia,Urgent Care,7059,0,28188,25,0,0
+2020-11-23,2020-11-14,State,Virginia,Urgent Care,8664,0,30264,29,0,0
+2020-11-23,2020-09-05,State,Virginia,Emergency Department,3629,55162,0,7,981,27
+2020-11-23,2020-07-18,State,Virginia,Emergency Department,4341,56585,0,8,994,23
+2020-11-23,2020-05-16,State,Virginia,Emergency Department,3505,43218,0,8,946,27
+2020-11-23,2020-04-25,State,Virginia,Urgent Care,1713,0,13982,12,0,0
+2020-11-23,2020-07-11,State,Virginia,Urgent Care,7429,0,29743,25,0,0
+2020-11-23,2020-03-14,State,Virginia,Emergency Department,4995,70195,0,7,804,16
+2020-11-23,2020-11-07,State,Virginia,Emergency Department,4177,53542,0,8,1083,26
+2020-11-23,2020-09-12,State,Virginia,Urgent Care,5081,0,26725,19,0,0
+2020-11-23,2020-05-09,State,Virginia,Urgent Care,3244,0,17014,19,0,0
+2020-11-23,2020-06-27,State,Virginia,Urgent Care,6014,0,24843,24,0,0
+2020-11-23,2020-06-13,State,Virginia,Urgent Care,5471,0,24261,23,0,0
+2020-11-23,2020-04-18,State,Virginia,Emergency Department,3431,36389,0,9,907,26
+2020-11-23,2020-04-11,State,Virginia,Urgent Care,808,0,12870,6,0,0
+2020-11-23,2020-06-20,State,Virginia,Emergency Department,2468,49505,0,5,754,31
+2020-11-23,2020-08-08,State,Virginia,Emergency Department,4183,54286,0,8,969,23
+2020-11-23,2020-10-24,State,Virginia,Emergency Department,3837,55295,0,7,1060,28
+2020-11-23,2020-03-28,State,Virginia,Urgent Care,1151,0,15591,7,0,0
+2020-11-23,2020-10-10,State,Virginia,Emergency Department,4056,55222,0,7,1056,26
+2020-11-23,2020-08-01,State,Virginia,Urgent Care,4105,0,25856,16,0,0
+2020-11-23,2020-08-22,State,Virginia,Emergency Department,3938,55145,0,7,975,25
+2020-11-23,2020-03-14,State,Virginia,Urgent Care,2569,0,34531,7,0,0
+2020-11-23,2020-06-06,State,Virginia,Emergency Department,2853,47555,0,6,873,31
+2020-11-23,2020-05-30,State,Virginia,Urgent Care,5872,0,22051,27,0,0
+2020-11-23,2020-03-21,State,Virginia,Emergency Department,6298,55498,0,11,875,14
+2020-11-23,2020-10-17,State,Virginia,Urgent Care,6291,0,28099,22,0,0
+2020-11-23,2020-08-15,State,Virginia,Urgent Care,4003,0,25123,16,0,0
+2020-11-23,2020-04-04,State,Virginia,Emergency Department,4183,37695,0,11,929,22
+2020-11-23,2020-10-03,State,Virginia,Urgent Care,6079,0,28767,21,0,0
+2020-11-23,2020-07-25,State,Virginia,Emergency Department,4378,55104,0,8,944,22
+2020-11-23,2020-09-19,State,Virginia,Urgent Care,5268,0,27351,19,0,0
+2020-11-23,2020-04-18,State,Virginia,Urgent Care,890,0,12656,7,0,0
+2020-11-23,2020-03-07,State,Virginia,Emergency Department,3695,70155,0,5,835,23
+2020-11-23,2020-09-05,State,Virginia,Urgent Care,4631,0,26245,18,0,0
+2020-11-23,2020-07-18,State,Virginia,Urgent Care,7468,0,29797,25,0,0
+2020-11-23,2020-10-24,State,Virginia,Urgent Care,6724,0,28711,23,0,0
+2020-11-23,2020-11-14,State,Virginia,Emergency Department,4808,57023,0,8,1128,23
+2020-11-23,2020-09-26,State,Virginia,Emergency Department,3340,53901,0,6,930,28
+2020-11-23,2020-06-20,State,Virginia,Urgent Care,5771,0,24595,23,0,0
+2020-11-23,2020-05-02,State,Virginia,Urgent Care,2374,0,15419,15,0,0
+2020-11-23,2020-07-04,State,Virginia,Urgent Care,6310,0,27023,23,0,0
+2020-11-23,2020-05-16,State,Virginia,Urgent Care,4357,0,18559,23,0,0
+2020-11-23,2020-09-12,State,Virginia,Emergency Department,3396,54844,0,6,850,25
+2020-11-23,2020-08-22,State,Virginia,Urgent Care,3610,0,24608,15,0,0
+2020-11-23,2020-11-07,State,Virginia,Urgent Care,7494,0,28124,27,0,0
+2020-11-23,2020-04-25,State,Virginia,Emergency Department,3627,38567,0,9,878,24
+2020-11-23,2020-05-09,State,Virginia,Emergency Department,3914,42337,0,9,1099,28
+2020-11-23,2020-06-27,State,Virginia,Emergency Department,2696,52478,0,5,845,31
+2020-11-23,2020-11-21,State,Virginia,Urgent Care,10843,0,31805,34,0,0
+2020-11-23,2020-07-11,State,Virginia,Emergency Department,3955,56877,0,7,930,24
+2020-11-23,2020-05-23,State,Virginia,Emergency Department,3690,45257,0,8,1013,27
+2020-11-23,2020-08-29,State,Virginia,Emergency Department,3674,55120,0,7,933,25

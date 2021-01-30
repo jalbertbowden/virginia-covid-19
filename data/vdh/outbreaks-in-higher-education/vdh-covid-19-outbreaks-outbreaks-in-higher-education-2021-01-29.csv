@@ -1,0 +1,46 @@
+"Locality","Facility","Status","Date VDH Notified","Cases","Deaths"
+"Albemarle/Charlottesville","University of Virginia","Outbreak Pending Closure","2020-09-28", 6, 0
+"Albemarle/Charlottesville","University of Virginia","Outbreak Pending Closure","2020-09-28", 8, 0
+"Albemarle/Charlottesville","University of Virginia","Outbreak Pending Closure","2020-09-28", 21, 0
+"Albemarle/Charlottesville","University of Virginia","Outbreak Pending Closure","2020-09-07", 8, 0
+"Albemarle/Charlottesville","University of Virginia","Outbreak Closed","2020-09-16", 16, 0
+"Alexandria","Virginia Theological Seminary","Outbreak Closed","2020-12-28", 5, 0
+"Arlington","Marymount University","Outbreak Closed","2020-10-14", 62, 0
+"Hanover","Randolph-Macon College","Outbreak Closed","2020-09-17", 11, 0
+"Henrico","Bon Secours Memorial College of Nursing","Outbreak Closed","2020-08-31", 6, 0
+"Henrico","University of Richmond","Outbreak Closed","2020-12-17", *, 0 
+"Henrico","University of Richmond","Outbreak Closed","2020-12-16", 5, 0 
+"Henrico","University of Richmond","Outbreak Closed","2020-11-24", *, 0 
+"Henrico","University of Richmond","Outbreak Closed","2020-11-16", 9, 0
+"Henrico","University of Richmond","Outbreak Closed","2020-11-11", 21, 0
+"Lynchburg","Liberty University","Outbreak Pending Closure","2020-12-08", 31, 0
+"Lynchburg","Liberty University","Outbreak Closed","2020-09-17", 6, 0
+"Lynchburg","Liberty University","Outbreak Closed","2020-09-16", *, 0
+"Lynchburg","University of Lynchburg","Outbreak Closed","2020-10-02", 17, 0
+"Norfolk","Old Dominion University","Outbreak Closed","2020-12-02", 5, 0
+"Norfolk","Old Dominion University","Outbreak Closed","2020-10-28", 10, 0
+"Norfolk","Old Dominion University","Outbreak Closed","2020-10-09", 13, 0
+"Prince Edward","Longwood University","Outbreak Closed","2020-09-03", 37, 0
+"Radford","Radford University","Outbreak Closed","2020-08-06", 17, 0
+"Richmond","Virginia Commonwealth University","Outbreak in Progress","2021-01-21", 7, 0
+"Richmond","Virginia Commonwealth University","Outbreak in Progress","2021-01-19", 7, 0
+"Richmond","Virginia Commonwealth University","Outbreak Pending Closure","2020-12-09", *, 0
+"Richmond","Virginia Commonwealth University","Outbreak Pending Closure","2020-12-03", *, 0
+"Richmond","Virginia Commonwealth University","Outbreak Closed","2020-11-13", 8, 0
+"Richmond","Virginia Commonwealth University","Outbreak Closed","2020-11-13", *, 0
+"Richmond","Virginia Commonwealth University","Outbreak Closed","2020-11-02", *, 0
+"Richmond","Virginia Commonwealth University","Outbreak Closed","2020-10-19", 7, 0
+"Richmond","Virginia Commonwealth University","Outbreak Closed","2020-10-15", *, 0
+"Richmond","Virginia Commonwealth University","Outbreak Closed","2020-09-04", 12, 0
+"Richmond","Virginia Commonwealth University","Outbreak Closed","2020-09-04", 13, 0
+"Richmond","Virginia Commonwealth University","Outbreak Closed","2020-09-04", 16, 0
+"Richmond","Virginia Commonwealth University","Outbreak Closed","2020-09-04", 39, 0
+"Richmond","Virginia Commonwealth University","Outbreak Closed","2020-08-24", 43, 0
+"Richmond","Virginia Union University","Outbreak Closed","2020-10-21", *, 0
+"Salem","Roanoke College","Outbreak Closed","2020-08-21", 17, 0
+"Tazewell","Bluefield College","Outbreak Pending Closure","2020-08-19", 29, 0
+"Williamsburg","William & Mary","Outbreak Closed","2020-10-06", *, 0
+"Williamsburg","William & Mary","Outbreak Closed","2020-10-02", 14, 0
+"Winchester","Shenandoah University","Outbreak Closed","2020-10-28", 24, 0
+"Winchester","Shenandoah University","Outbreak Closed","2020-10-22", 30, 0
+"Winchester","University of Richmond","Outbreak Closed","2020-10-15", 8, 0
