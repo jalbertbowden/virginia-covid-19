@@ -1,0 +1,56 @@
+Report Date,Date VDH Notified,Status,Locality,FIPS,Facility,Facility Type,Cases,Deaths,Active
+11/27/2020,10/01/2020,Outbreak Closed,Alexandria,51510,Episcopal High School,K-12,*,0,0
+11/27/2020,10/23/2020,Outbreak Closed,Roanoke County,51161,North Cross School,K-12,*,0,0
+11/27/2020,09/17/2020,Outbreak Pending Closure,Staunton,51790,Grace Christian School,K-12,19,0,0
+11/27/2020,10/21/2020,Outbreak Pending Closure,Amherst,51009,Temple Christian School,K-12,11,0,0
+11/27/2020,10/22/2020,Outbreak Pending Closure,Bedford,51019,Forest Middle School,K-12,7,0,0
+11/27/2020,09/24/2020,Outbreak Closed,Bedford,51019,Stewartsville Elementary School,K-12,*,0,0
+11/27/2020,09/11/2020,Outbreak Closed,Campbell,51031,Altavista Elementary School,K-12,*,0,0
+11/27/2020,10/23/2020,Outbreak in Progress,Campbell,51031,Beacon Academy School,K-12,*,0,1
+11/27/2020,09/22/2020,Outbreak Closed,Lynchburg,51680,Rivermont School,K-12,11,0,0
+11/27/2020,09/18/2020,Outbreak Closed,Chesapeake,51550,Atlantic Shores Christian School,K-12,*,0,0
+11/27/2020,08/16/2020,Outbreak Closed,Chesapeake,51550,Plan Bee Academy,K-12,*,0,0
+11/27/2020,09/18/2020,Outbreak Closed,Chesapeake,51550,Stonebridge School,K-12,10,0,0
+11/27/2020,11/04/2020,Outbreak in Progress,Chesterfield,51041,Al Madina School of Richmond,K-12,6,0,1
+11/27/2020,10/21/2020,Outbreak in Progress,Chesterfield,51041,Bon Air Elementary School,K-12,*,0,1
+11/27/2020,09/22/2020,Outbreak Closed,Chesterfield,51041,Clover Hill Elementary School,K-12,*,0,0
+11/27/2020,11/13/2020,Outbreak in Progress,Chesterfield,51041,O.B. Gates Elementary School,K-12,*,0,1
+11/27/2020,10/30/2020,Outbreak Pending Closure,Chesterfield,51041,Providence Middle School,K-12,*,0,0
+11/27/2020,09/04/2020,Outbreak Closed,Chesterfield,51041,Richmond Christian School,K-12,19,0,0
+11/27/2020,09/11/2020,Outbreak Closed,Goochland,51075,Benedictine Schools of Richmond,K-12,*,0,0
+11/27/2020,09/24/2020,Outbreak Closed,Hanover,51085,John Gandy Elementary School,K-12,*,0,0
+11/27/2020,09/18/2020,Outbreak Closed,Hanover,51085,Kersey Elementary School,K-12,*,0,0
+11/27/2020,09/07/2020,Outbreak Closed,Hanover,51085,Liberty Middle School,K-12,8,0,0
+11/27/2020,09/24/2020,Outbreak Closed,Dinwiddie,51053,Centra Rivermont School of Greater Petersburg,K-12,5,0,0
+11/27/2020,10/20/2020,Outbreak Pending Closure,Hopewell,51670,Hopewell High School,K-12,*,0,0
+11/27/2020,04/10/2020,Outbreak Closed,Buchanan,51027,Mountain Mission School,K-12,17,0,0
+11/27/2020,09/10/2020,Outbreak Closed,Dickenson,51051,Ridgeview High School,K-12,*,0,0
+11/27/2020,11/03/2020,Outbreak in Progress,Russell,51167,Honaker Elementary School,K-12,6,0,1
+11/27/2020,10/21/2020,Outbreak Closed,Tazewell,51185,Richlands Elementary School,K-12,7,0,0
+11/27/2020,10/21/2020,Outbreak Pending Closure,Accomack,51001,Nandua High School,K-12,*,0,0
+11/27/2020,11/12/2020,Outbreak in Progress,Fairfax,51059,W.T. Woodson High School,K-12,5,0,1
+11/27/2020,08/28/2020,Outbreak Closed,Lee,51105,Lee High School,K-12,11,0,0
+11/27/2020,08/28/2020,Outbreak Closed,Lee,51105,St. Charles Elementary School,K-12,*,0,0
+11/27/2020,11/10/2020,Outbreak in Progress,Scott,51169,Gate City Christian School,K-12,13,0,1
+11/27/2020,10/21/2020,Outbreak in Progress,Scott,51169,Gate City Middle School,K-12,*,0,1
+11/27/2020,09/15/2020,Outbreak Closed,Wise,51195,J.W. Adams Elementary School,K-12,13,0,0
+11/27/2020,09/14/2020,Outbreak Closed,Wise,51195,Union Middle School,K-12,5,0,0
+11/27/2020,09/15/2020,Outbreak Pending Closure,Wise,51195,Union Primary School,K-12,5,0,0
+11/27/2020,08/10/2020,Outbreak Closed,Loudoun,51107,Dominion High School,K-12,*,0,0
+11/27/2020,11/07/2020,Outbreak in Progress,Loudoun,51107,Virginia Academy,K-12,6,0,1
+11/27/2020,10/30/2020,Outbreak in Progress,Williamsburg,51830,Matoaka Elementary School,K-12,*,0,1
+11/27/2020,08/06/2020,Outbreak Closed,Caroline,51033,Caroline High School,K-12,*,0,0
+11/27/2020,11/20/2020,Outbreak in Progress,Caroline,51033,The Carmel School,K-12,5,0,1
+11/27/2020,11/04/2020,Outbreak Pending Closure,Spotsylvania,51177,Spotsylvania High School,K-12,*,0,0
+11/27/2020,11/12/2020,Outbreak in Progress,Stafford,51179,Rivermont School,K-12,7,0,1
+11/27/2020,08/04/2020,Outbreak Closed,Fauquier,51061,C.M. Bradley Elementary School,K-12,*,0,0
+11/27/2020,10/29/2020,Outbreak in Progress,Fauquier,51061,Highland School,K-12,7,0,1
+11/27/2020,11/17/2020,Outbreak in Progress,Roanoke City,51770,Wasena Elementary School,K-12,*,0,1
+11/27/2020,11/09/2020,Outbreak in Progress,Roanoke City,51770,William Fleming High School,K-12,*,0,1
+11/27/2020,07/04/2020,Outbreak Closed,Virginia Beach,51810,Cox High School,K-12,*,0,0
+11/27/2020,11/06/2020,Outbreak in Progress,Virginia Beach,51810,OakTree Academy,K-12,*,0,1
+11/27/2020,11/13/2020,Outbreak in Progress,Franklin County,51067,Burnt Chimney Elementary School,K-12,*,0,1
+11/27/2020,11/04/2020,Outbreak in Progress,Franklin County,51067,Rocky Mount Elementary School,K-12,*,0,1
+11/27/2020,10/09/2020,Outbreak Closed,Henry,51089,Meadow View Elementary School,K-12,*,0,0
+11/27/2020,10/29/2020,Outbreak Closed,Henry,51089,Victory Baptist Academy,K-12,6,0,0
+11/27/2020,11/09/2020,Outbreak in Progress,Martinsville,51690,Patrick Henry Elementary School,K-12,*,0,1
