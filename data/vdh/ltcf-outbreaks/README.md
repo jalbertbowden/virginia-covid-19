@@ -1,0 +1,6 @@
+# [VDH-COVID-19-PublicUseDataset-LTCF-Outbreaks - VDH COVID-19 Open Data](https://data.virginia.gov/Government/VDH-COVID-19-PublicUseDataset-LTCF-Outbreaks/rx3b-xxds)
+
+This data set includes data reported to VDH on outbreaks in Nursing Homes, Assisted Living Facilities and Multicare Facilities. The data included is the name of the facility, the date VDH was notified and the number of cases and deaths as well as the status of the outbreak. This data set was first published on 2020-07-03. The data set increases in size daily and as a result, the dataset may take longer to update; however, it is expected to be available by 12:00 noon weekly. When you download the data set, the dates will be sorted in ascending order, meaning that the earliest date will be at the top. To see data for the most recent date, please scroll down to the bottom of the data set. Starting 2020-11-02, the data set update schedule has changed from daily to weekly.
+
+[VDH-COVID-19-PublicUseDataset-LTCF-Outbreaks](https://data.virginia.gov/Government/VDH-COVID-19-PublicUseDataset-LTCF-Outbreaks/rx3b-xxds)
+[CSV](https://data.virginia.gov/api/views/rx3b-xxds/rows.csv?accessType=DOWNLOAD)

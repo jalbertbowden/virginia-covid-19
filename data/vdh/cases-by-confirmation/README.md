@@ -1,0 +1,6 @@
+# [VDH-COVID-19-PublicUseDataset-Cases_By-Confirmation - VDH COVID-19 Open Data](https://data.virginia.gov/Government/VDH-COVID-19-PublicUseDataset-Cases_By-Confirmatio/uqs3-x7zh)
+
+This dataset includes the cumulative (total) number of confirmed or probable COVID-19 cases, hospitalizations, and deaths in Virginia by report date. These data are reported at the state level. This dataset was first published on April 21, 2020. The data set increases in size daily and as a result, the dataset may take longer to update; however, it is expected to be available by 12:00 noon daily. When you download the data set, the dates will be sorted in ascending order, meaning that the earliest date will be at the top. To see data for the most recent date, please scroll down to the bottom of the data set.
+
+[VDH-COVID-19-PublicUseDataset-Cases_By-Confirmation](https://data.virginia.gov/Government/VDH-COVID-19-PublicUseDataset-Cases_By-Confirmatio/uqs3-x7zh)
+[CSV](https://data.virginia.gov/api/views/uqs3-x7zh/rows.csv?accessType=DOWNLOAD)

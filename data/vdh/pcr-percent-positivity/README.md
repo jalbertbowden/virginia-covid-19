@@ -1,0 +1,6 @@
+# [VDH-COVID-19-PublicUseDataset-PCR-Percent-Positivity - VDH COVID-19 Open Data](https://data.virginia.gov/Government/VDH-COVID-19-PublicUseDataset-PCR-Percent-Positivi/w74x-ky77)
+
+This dataset includes the number of COVID-19 PCR testing encounters, positive PCR tests, and percent positivity for PCR tests for each locality in Virginia by 14-day lab report date periods. Data for Covington, Emporia, Lexington, and Manassas Park are represented by the data for Alleghany, Greensville, Rockbridge, and Manassas, respectively. This data set was first published on 2020-10-05.The data set increases in size daily and as a result, the dataset may take longer to update; however, it is expected to be available by 12:00 noon weekly. When the data set is downloaded via the "Export" option, the dates will be sorted in ascending order, meaning that the earliest date will be at the top. To see data for the most recent date, please scroll down to the bottom of the data set.
+
+[VDH-COVID-19-PublicUseDataset-PCR-Percent-Positivity](https://data.virginia.gov/Government/VDH-COVID-19-PublicUseDataset-PCR-Percent-Positivi/w74x-ky77)
+[CSV](https://data.virginia.gov/api/views/w74x-ky77/rows.csv?accessType=DOWNLOAD)

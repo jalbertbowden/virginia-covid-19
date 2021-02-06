@@ -1,0 +1,6 @@
+# [VDH-COVID-19-PublicUseDataset-CLI_By-HealthDistrict - VDH COVID-19 Open Data](https://data.virginia.gov/Government/VDH-COVID-19-PublicUseDataset-CLI_By-HealthDistric/nchp-nti3)
+
+This data set includes the number and percent of visits for COVID-19 like illness (CLI) at emergency departments and urgent cares in Virginia by week end date and by health district. This data set was first published on 2020-07-20. The data set increases in size daily and as a result, the dataset may take longer to update; however, it is expected to be available by 12:00 noon weekly. When you download the data set, the dates will be sorted in ascending order, meaning that the earliest date will be at the top. To see data for the most recent date, please scroll down to the bottom of the data set.
+
+[VDH-COVID-19-PublicUseDataset-CLI_By-HealthDistrict](https://data.virginia.gov/Government/VDH-COVID-19-PublicUseDataset-CLI_By-HealthDistric/nchp-nti3)
+[CSV](https://data.virginia.gov/api/views/nchp-nti3/rows.csv?accessType=DOWNLOAD)

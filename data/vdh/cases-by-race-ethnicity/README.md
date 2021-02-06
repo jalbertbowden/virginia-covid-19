@@ -1,0 +1,6 @@
+# [VDH-COVID-19-PublicUseDataset-Cases_By-Race-Ethnicity - VDH COVID-19 Open Data](https://data.virginia.gov/Government/VDH-COVID-19-PublicUseDataset-Cases_By-Race-Ethnic/9sba-m86n)
+
+This dataset includes the cumulative (total) number of COVID-19 cases, hospitalizations, and deaths for each health district in Virginia by report date and by race and ethnicity. This dataset was first published on 2020-06-15. The data set increases in size daily and as a result, the dataset may take longer to update; however, it is expected to be available by 12:00 noon daily. When you download the data set, the dates will be sorted in ascending order, meaning that the earliest date will be at the top. To see data for the most recent date, please scroll down to the bottom of the data set. The Virginia Department of Health’s Thomas Jefferson Health District (TJHD) will be renamed to Blue Ridge Health District (BRHD), 2021-01. More information about this change can be found here: https://www.vdh.virginia.gov/blue-ridge/name-change/
+
+[VDH-COVID-19-PublicUseDataset-Cases_By-Race-Ethnicity](https://data.virginia.gov/Government/VDH-COVID-19-PublicUseDataset-Cases_By-Race-Ethnic/9sba-m86n)
+[CSV](https://data.virginia.gov/api/views/9sba-m86n/rows.csv?accessType=DOWNLOAD)

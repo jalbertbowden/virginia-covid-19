@@ -1,0 +1,6 @@
+# [VDH-COVID-19-PublicUseDataset-MIS-C - VDH COVID-19 Open Data](https://data.virginia.gov/Government/VDH-COVID-19-PublicUseDataset-MIS-C/nkw4-x92z)
+
+This data set includes the cumulative (total) number of Multisystem Inflammatory Syndrome in Children (MIS-C) cases and deaths in Virginia by report date. This data set was first published on 2020-05-24. When you download the data set, the dates will be sorted in ascending order, meaning that the earliest date will be at the top. To see data for the most recent date, please scroll down to the bottom of the data set. The Virginia Department of Health’s Thomas Jefferson Health District (TJHD) will be renamed to Blue Ridge Health District (BRHD), effective 2021-01. More information about this change can be found here: https://www.vdh.virginia.gov/blue-ridge/name-change/
+
+[VDH-COVID-19-PublicUseDataset-MIS-C](https://data.virginia.gov/Government/VDH-COVID-19-PublicUseDataset-MIS-C/nkw4-x92z)
+[CSV](https://data.virginia.gov/api/views/nkw4-x92z/rows.csv?accessType=DOWNLOAD)
