@@ -1,0 +1,1220 @@
+Ship Date,FIPS,Locality,Health District,Facility Type,Vaccine Manufacturer,Dose Number,Vaccine Doses Shipped Count
+2021-02-07,51720,Norton,Lenowisco,Hospitals,Moderna,1,200
+2021-01-28,51630,Fredericksburg,Rappahannock,Hospitals,Moderna,2,2000
+2021-02-07,51590,Danville,Pittsylvania-Danville,Local Health Departments,Moderna,1,300
+2021-01-23,51683,Manassas City,Prince William,Hospitals,Pfizer,1,975
+2021-01-03,51187,Warren,Lord Fairfax,Local Health Departments,Moderna,1,200
+2020-12-28,51760,Richmond City,Richmond,Local Health Departments,Moderna,1,900
+2021-02-01,51089,Henry,West Piedmont,Pharmacies,Moderna,1,100
+2021-02-04,51067,Franklin County,West Piedmont,Local Health Departments,Moderna,2,200
+2021-02-10,51059,Fairfax,Fairfax,Medical Practices,Pfizer,2,975
+2021-01-24,51183,Sussex,Crater,Local Health Departments,Moderna,1,700
+2021-01-03,51107,Loudoun,Loudoun,Local Health Departments,Moderna,1,2000
+2020-12-28,51630,Fredericksburg,Rappahannock,Hospitals,Moderna,1,6000
+2021-02-01,51041,Chesterfield,Chesterfield,Local Health Departments,Moderna,1,1400
+2021-02-01,51067,Franklin County,West Piedmont,Medical Practices,Moderna,1,100
+2021-01-30,51107,Loudoun,Loudoun,Local Health Departments,Pfizer,1,2925
+2021-02-07,51195,Wise,Lenowisco,Local Health Departments,Moderna,2,500
+2021-01-18,51195,Wise,Lenowisco,Local Health Departments,Moderna,1,600
+2021-02-04,51840,Winchester,Lord Fairfax,Hospitals,Moderna,2,3800
+2021-02-06,51710,Norfolk,Norfolk,Medical Practices,Pfizer,2,975
+2021-02-04,51041,Chesterfield,Chesterfield,Pharmacies,Moderna,2,600
+2021-01-11,51013,Arlington,Arlington,Local Health Departments,Moderna,2,1000
+2021-02-04,51700,Newport News,Peninsula,Hospitals,Moderna,2,1600
+2021-01-10,51147,Prince Edward,Piedmont,Local Health Departments,Moderna,1,1000
+2021-02-07,51630,Fredericksburg,Rappahannock,Local Health Departments,Moderna,1,1800
+2021-01-11,51199,York,Peninsula,Hospitals,Moderna,2,2000
+2021-02-04,51013,Arlington,Arlington,Local Health Departments,Moderna,2,1400
+2021-01-18,51760,Richmond City,Richmond,Pharmacies,Moderna,1,3000
+2021-02-12,51770,Roanoke City,Roanoke,Local Health Departments,Pfizer,2,975
+2021-02-02,51041,Chesterfield,Chesterfield,Other Community Health Providers,Pfizer,1,1950
+2021-01-11,51061,Fauquier,Rappahannock Rapidan,Hospitals,Moderna,2,1000
+2021-02-01,Not Reported,Not Reported,Not Reported,Medical Practices,Moderna,1,100
+2021-02-08,51059,Fairfax,Fairfax,Pharmacies,Moderna,1,200
+2021-02-13,51107,Loudoun,Loudoun,Local Health Departments,Pfizer,1,2925
+2021-02-07,51107,Loudoun,Loudoun,Local Health Departments,Moderna,1,1500
+2020-12-22,51173,Smyth,Mount Rogers,Hospitals,Moderna,1,500
+2021-01-11,51117,Mecklenburg,Southside,Hospitals,Moderna,2,1000
+2020-12-22,51041,Chesterfield,Chesterfield,Hospitals,Moderna,1,1000
+2021-01-03,51153,Prince William,Prince William,Local Health Departments,Moderna,1,5000
+2021-02-04,51169,Scott,Lenowisco,Pharmacies,Moderna,2,100
+2021-01-24,51145,Powhatan,Chesterfield,Other Community Health Providers,Moderna,1,100
+2021-01-10,51740,Portsmouth,Portsmouth,Local Health Departments,Moderna,1,600
+2021-01-18,51107,Loudoun,Loudoun,Other Community Health Providers,Moderna,1,100
+2021-02-08,51810,Virginia Beach,Virginia Beach,Medical Practices,Moderna,1,500
+2021-02-07,51027,Buchanan,Cumberland Plateau,Other Community Health Providers,Moderna,1,100
+2021-02-01,51760,Richmond City,Richmond,Local Health Departments,Moderna,1,300
+2021-01-30,51510,Alexandria,Alexandria,Local Health Departments,Pfizer,1,975
+2020-12-30,51690,Martinsville,West Piedmont,Hospitals,Pfizer,1,975
+2020-12-30,51013,Arlington,Arlington,Hospitals,Pfizer,1,2925
+2021-02-07,51083,Halifax,Southside,Other Community Health Providers,Moderna,1,100
+2021-01-10,51800,Suffolk,Western Tidewater,Local Health Departments,Moderna,1,400
+2021-02-01,51145,Powhatan,Chesterfield,Other Community Health Providers,Moderna,1,200
+2021-01-20,51550,Chesapeake,Chesapeake,Local Health Departments,Moderna,2,400
+2021-02-04,51730,Petersburg,Crater,Local Health Departments,Moderna,2,500
+2021-01-30,51059,Fairfax,Fairfax,Hospitals,Pfizer,2,14625
+2021-01-23,51173,Smyth,Mount Rogers,Local Health Departments,Pfizer,1,975
+2021-01-20,51147,Prince Edward,Piedmont,Local Health Departments,Moderna,2,1400
+2021-01-18,51840,Winchester,Lord Fairfax,Local Health Departments,Moderna,1,600
+2021-01-11,51085,Hanover,Chickahominy,Hospitals,Moderna,2,1000
+2020-12-30,51760,Richmond City,Richmond,Hospitals,Pfizer,2,3900
+2021-02-04,51081,Greensville,Crater,Other Community Health Providers,Moderna,2,400
+2021-01-24,51510,Alexandria,Alexandria,Pharmacies,Moderna,1,600
+2021-01-03,51740,Portsmouth,Portsmouth,Local Health Departments,Moderna,1,500
+2021-01-30,51540,Charlottesville,Blue Ridge,Local Health Departments,Pfizer,1,1950
+2021-02-03,51760,Richmond City,Richmond,Local Health Departments,Moderna,1,1000
+2021-02-01,51700,Newport News,Peninsula,Pharmacies,Moderna,1,200
+2021-02-01,51690,Martinsville,West Piedmont,Pharmacies,Moderna,1,100
+2021-01-11,51740,Portsmouth,Portsmouth,Hospitals,Moderna,2,2000
+2021-02-12,51630,Fredericksburg,Rappahannock,Hospitals,Pfizer,1,1950
+2021-01-18,51600,Fairfax City,Fairfax,Local Health Departments,Pfizer,1,16575
+2021-02-08,51700,Newport News,Peninsula,Pharmacies,Moderna,1,300
+2021-02-06,51059,Fairfax,Fairfax,Hospitals,Pfizer,2,9750
+2021-01-09,51700,Newport News,Peninsula,Hospitals,Pfizer,1,1950
+2020-12-21,51595,Emporia,Crater,Other Community Health Providers,Moderna,1,500
+2021-01-24,51019,Bedford,Central Virginia,Pharmacies,Moderna,1,100
+2021-01-18,51770,Roanoke City,Roanoke,Pharmacies,Moderna,1,100
+2020-12-28,51119,Middlesex,Three Rivers,Local Health Departments,Moderna,1,500
+2021-01-10,51167,Russell,Cumberland Plateau,Local Health Departments,Moderna,1,300
+2021-02-07,51163,Rockbridge,Central Shenandoah,Local Health Departments,Moderna,1,200
+2021-02-07,51195,Wise,Lenowisco,Other Community Health Providers,Moderna,1,900
+2021-01-18,51137,Orange,Rappahannock Rapidan,Local Health Departments,Moderna,1,600
+2021-01-18,51061,Fauquier,Rappahannock Rapidan,Pharmacies,Moderna,1,200
+2021-02-07,51191,Washington,Mount Rogers,Pharmacies,Moderna,1,1600
+2020-12-14,51720,Norton,Lenowisco,Hospitals,Pfizer,1,975
+2021-02-04,51001,Accomack,Eastern Shore,Other Community Health Providers,Moderna,2,400
+2021-01-10,51159,Richmond County,Three Rivers,Other Community Health Providers,Moderna,1,400
+2021-01-18,51680,Lynchburg,Central Virginia,Pharmacies,Moderna,1,100
+2020-12-28,51690,Martinsville,West Piedmont,Local Health Departments,Moderna,1,100
+2021-01-12,51685,Manassas Park,Prince William,Other Community Health Providers,Moderna,2,500
+2021-01-30,51173,Smyth,Mount Rogers,Local Health Departments,Pfizer,1,975
+2021-01-24,51550,Chesapeake,Chesapeake,Pharmacies,Moderna,1,500
+2021-02-06,51510,Alexandria,Alexandria,Local Health Departments,Pfizer,1,975
+2020-12-21,51770,Roanoke City,Roanoke,Local Health Departments,Moderna,1,300
+2021-01-20,51107,Loudoun,Loudoun,Local Health Departments,Moderna,2,2900
+2021-01-11,51683,Manassas City,Prince William,Hospitals,Moderna,2,5000
+2020-12-22,51057,Essex,Three Rivers,Hospitals,Moderna,1,500
+2021-02-13,51840,Winchester,Lord Fairfax,Hospitals,Pfizer,1,1950
+2020-12-22,51770,Roanoke City,Roanoke,Hospitals,Moderna,1,2500
+2021-02-07,51510,Alexandria,Alexandria,Local Health Departments,Moderna,2,2400
+2020-12-21,51187,Warren,Lord Fairfax,Hospitals,Moderna,1,500
+2021-01-24,51065,Fluvanna,Blue Ridge,Other Community Health Providers,Moderna,1,900
+2020-12-28,51087,Henrico,Henrico,Hospitals,Moderna,1,300
+2021-01-23,51630,Fredericksburg,Rappahannock,Hospitals,Pfizer,1,1950
+2021-01-18,51660,Harrisonburg,Central Shenandoah,Pharmacies,Moderna,1,100
+2021-02-01,51179,Stafford,Rappahannock,Pharmacies,Moderna,1,200
+2020-12-22,51700,Newport News,Peninsula,Hospitals,Moderna,1,4000
+2021-02-04,51760,Richmond City,Richmond,Other Community Health Providers,Moderna,2,200
+2021-02-07,51085,Hanover,Chickahominy,Hospitals,Moderna,2,300
+2021-01-24,51700,Newport News,Peninsula,Local Health Departments,Moderna,1,1200
+2021-01-11,51121,Montgomery,New River,Local Health Departments,Moderna,2,2700
+2021-01-28,51153,Prince William,Prince William,Pharmacies,Moderna,2,400
+2021-01-30,51013,Arlington,Arlington,Local Health Departments,Pfizer,1,1950
+2021-02-04,51051,Dickenson,Cumberland Plateau,Pharmacies,Moderna,2,100
+2021-02-01,51089,Henry,West Piedmont,Medical Practices,Moderna,1,200
+2020-12-22,51710,Norfolk,Norfolk,Hospitals,Moderna,1,5700
+2021-01-28,51187,Warren,Lord Fairfax,Local Health Departments,Moderna,2,200
+2021-01-20,51137,Orange,Rappahannock Rapidan,Local Health Departments,Moderna,2,400
+2021-01-28,51001,Accomack,Eastern Shore,Local Health Departments,Moderna,2,300
+2021-02-04,51121,Montgomery,New River,Other Community Health Providers,Moderna,2,100
+2021-01-11,51790,Staunton,Central Shenandoah,Local Health Departments,Moderna,2,200
+2021-01-18,51073,Gloucester,Three Rivers,Pharmacies,Moderna,1,100
+2021-02-12,51510,Alexandria,Alexandria,Local Health Departments,Pfizer,1,975
+2021-02-07,51121,Montgomery,New River,Local Health Departments,Moderna,2,5500
+2021-02-01,51680,Lynchburg,Central Virginia,Pharmacies,Moderna,1,200
+2021-02-07,51550,Chesapeake,Chesapeake,Local Health Departments,Moderna,2,800
+2021-02-01,51710,Norfolk,Norfolk,Local Health Departments,Moderna,1,1700
+2021-01-20,51013,Arlington,Arlington,Local Health Departments,Moderna,2,900
+2021-02-13,51073,Gloucester,Three Rivers,Hospitals,Pfizer,2,975
+2021-01-11,51550,Chesapeake,Chesapeake,Medical Practices,Moderna,2,2000
+2021-01-23,51121,Montgomery,New River,Local Health Departments,Pfizer,1,975
+2021-02-13,51600,Fairfax City,Fairfax,Local Health Departments,Pfizer,2,7800
+2021-01-19,51073,Gloucester,Three Rivers,Hospitals,Pfizer,2,975
+2021-01-28,51137,Orange,Rappahannock Rapidan,Local Health Departments,Moderna,2,1000
+2020-12-28,51540,Charlottesville,Blue Ridge,Hospitals,Moderna,1,2100
+2021-02-06,51770,Roanoke City,Roanoke,Local Health Departments,Pfizer,1,975
+2020-12-22,51800,Suffolk,Western Tidewater,Hospitals,Moderna,1,1000
+2020-12-22,51013,Arlington,Arlington,Hospitals,Moderna,1,2000
+2021-01-24,51630,Fredericksburg,Rappahannock,Local Health Departments,Moderna,1,2400
+2021-01-18,51087,Henrico,Henrico,Pharmacies,Moderna,1,1200
+2021-02-01,51800,Suffolk,Western Tidewater,Medical Practices,Moderna,1,200
+2021-01-18,51680,Lynchburg,Central Virginia,Local Health Departments,Moderna,1,800
+2021-02-08,51093,Isle of Wight,Western Tidewater,Medical Practices,Moderna,1,300
+2020-12-28,51760,Richmond City,Richmond,Hospitals,Moderna,1,3100
+2021-01-10,51730,Petersburg,Crater,Local Health Departments,Moderna,1,1000
+2021-02-03,51680,Lynchburg,Central Virginia,Local Health Departments,Moderna,1,1000
+2021-01-18,51013,Arlington,Arlington,Local Health Departments,Moderna,1,1400
+2021-02-08,51041,Chesterfield,Chesterfield,Medical Practices,Moderna,1,200
+2020-12-22,51051,Dickenson,Cumberland Plateau,Hospitals,Moderna,1,1000
+2020-12-28,51590,Danville,Pittsylvania-Danville,Local Health Departments,Moderna,1,300
+2021-01-04,51678,Lexington,Central Shenandoah,Hospitals,Pfizer,1,5850
+2021-01-11,51540,Charlottesville,Blue Ridge,Local Health Departments,Moderna,2,1700
+2020-12-28,51117,Mecklenburg,Southside,Local Health Departments,Moderna,1,300
+2021-01-10,51510,Alexandria,Alexandria,Other Community Health Providers,Moderna,1,600
+2021-01-24,51710,Norfolk,Norfolk,Local Health Departments,Moderna,1,1700
+2021-02-01,51095,James City,Peninsula,Pharmacies,Moderna,1,100
+2021-02-08,51680,Lynchburg,Central Virginia,Other Community Health Providers,Moderna,1,100
+2021-02-01,51117,Mecklenburg,Southside,Medical Practices,Moderna,1,200
+2021-01-19,51830,Williamsburg,Peninsula,Hospitals,Pfizer,2,975
+2021-02-08,51810,Virginia Beach,Virginia Beach,Local Health Departments,Moderna,1,1700
+2021-02-01,51051,Dickenson,Cumberland Plateau,Local Health Departments,Moderna,1,100
+2020-12-28,51061,Fauquier,Rappahannock Rapidan,Hospitals,Moderna,1,300
+2021-01-30,51001,Accomack,Eastern Shore,Hospitals,Pfizer,2,975
+2021-02-08,51089,Henry,West Piedmont,Medical Practices,Moderna,1,100
+2021-01-30,51760,Richmond City,Richmond,Pharmacies,Pfizer,1,2925
+2021-02-01,51683,Manassas City,Prince William,Medical Practices,Moderna,1,300
+2021-02-03,51125,Nelson,Blue Ridge,Medical Practices,Moderna,1,200
+2021-01-10,51650,Hampton,Hampton,Local Health Departments,Moderna,1,200
+2021-01-18,51740,Portsmouth,Portsmouth,Local Health Departments,Moderna,1,600
+2020-12-28,51041,Chesterfield,Chesterfield,Local Health Departments,Moderna,1,700
+2021-02-13,51710,Norfolk,Norfolk,Hospitals,Pfizer,2,4875
+2021-01-24,51690,Martinsville,West Piedmont,Local Health Departments,Moderna,1,1200
+2021-01-11,51760,Richmond City,Richmond,Local Health Departments,Moderna,2,1500
+2021-02-08,51041,Chesterfield,Chesterfield,Pharmacies,Moderna,1,300
+2020-12-30,51630,Fredericksburg,Rappahannock,Hospitals,Pfizer,1,1950
+2021-01-24,51175,Southampton,Western Tidewater,Other Community Health Providers,Moderna,1,600
+2021-01-12,51015,Augusta,Central Shenandoah,Hospitals,Pfizer,2,1950
+2021-02-04,51770,Roanoke City,Roanoke,Hospitals,Moderna,2,300
+2021-01-10,51043,Clarke,Lord Fairfax,Local Health Departments,Moderna,1,800
+2020-12-28,51107,Loudoun,Loudoun,Local Health Departments,Moderna,1,3000
+2020-12-28,51087,Henrico,Henrico,Local Health Departments,Moderna,1,1100
+2020-12-22,51041,Chesterfield,Chesterfield,Local Health Departments,Moderna,1,500
+2021-01-11,51630,Fredericksburg,Rappahannock,Hospitals,Moderna,2,3000
+2021-01-11,51139,Page,Lord Fairfax,Hospitals,Moderna,2,300
+2021-01-19,51027,Buchanan,Cumberland Plateau,Local Health Departments,Moderna,1,200
+2021-02-13,51683,Manassas City,Prince William,Hospitals,Pfizer,1,2925
+2021-02-07,51690,Martinsville,West Piedmont,Hospitals,Moderna,1,100
+2021-02-01,51195,Wise,Lenowisco,Local Health Departments,Moderna,1,100
+2020-12-21,51137,Orange,Rappahannock Rapidan,Local Health Departments,Moderna,1,300
+2021-02-04,51820,Waynesboro,Central Shenandoah,Local Health Departments,Moderna,2,100
+2021-02-08,51019,Bedford,Central Virginia,Pharmacies,Moderna,1,200
+2021-02-04,51071,Giles,New River,Pharmacies,Moderna,2,100
+2021-02-13,51680,Lynchburg,Central Virginia,Local Health Departments,Pfizer,1,1950
+2021-02-07,51087,Henrico,Henrico,Local Health Departments,Moderna,1,1000
+2020-12-28,51600,Fairfax City,Fairfax,Local Health Departments,Moderna,1,7000
+2020-12-22,51600,Fairfax City,Fairfax,Local Health Departments,Moderna,1,7000
+2021-01-11,51600,Fairfax City,Fairfax,Local Health Departments,Moderna,2,5600
+2021-01-18,51085,Hanover,Chickahominy,Local Health Departments,Moderna,1,3000
+2021-01-25,51810,Virginia Beach,Virginia Beach,Local Health Departments,Pfizer,1,2925
+2021-02-07,51139,Page,Lord Fairfax,Local Health Departments,Moderna,2,900
+2020-12-30,51710,Norfolk,Norfolk,Hospitals,Pfizer,2,12675
+2021-01-10,51630,Fredericksburg,Rappahannock,Local Health Departments,Moderna,1,1000
+2020-12-20,51015,Augusta,Central Shenandoah,Hospitals,Moderna,1,1000
+2021-02-06,51700,Newport News,Peninsula,Hospitals,Pfizer,2,2925
+2020-12-28,51137,Orange,Rappahannock Rapidan,Local Health Departments,Moderna,1,500
+2021-01-11,51185,Tazewell,Cumberland Plateau,Hospitals,Moderna,2,1000
+2020-12-14,51700,Newport News,Peninsula,Hospitals,Pfizer,1,4875
+2021-01-11,51019,Bedford,Central Virginia,Hospitals,Moderna,2,1000
+2021-01-11,51015,Augusta,Central Shenandoah,Hospitals,Moderna,2,1000
+2021-01-04,51540,Charlottesville,Blue Ridge,Hospitals,Pfizer,1,3900
+2020-12-22,51840,Winchester,Lord Fairfax,Hospitals,Moderna,1,2000
+2021-01-24,51075,Goochland,Chickahominy,Other Community Health Providers,Moderna,1,700
+2021-02-04,51061,Fauquier,Rappahannock Rapidan,Hospitals,Moderna,2,400
+2021-02-08,51099,King George,Rappahannock,Pharmacies,Moderna,1,100
+2021-01-24,51590,Danville,Pittsylvania-Danville,Other Community Health Providers,Moderna,1,200
+2021-02-01,51163,Rockbridge,Central Shenandoah,Local Health Departments,Moderna,1,100
+2021-02-06,51770,Roanoke City,Roanoke,Local Health Departments,Pfizer,2,2925
+2021-02-07,51550,Chesapeake,Chesapeake,Local Health Departments,Moderna,1,1400
+2020-12-28,51043,Clarke,Lord Fairfax,Local Health Departments,Moderna,1,200
+2021-02-04,51678,Lexington,Central Shenandoah,Hospitals,Moderna,2,600
+2021-01-20,51510,Alexandria,Alexandria,Local Health Departments,Moderna,2,4900
+2021-02-04,51161,Roanoke County,Alleghany,Pharmacies,Moderna,2,100
+2020-12-28,51840,Winchester,Lord Fairfax,Hospitals,Moderna,1,3100
+2020-12-22,51059,Fairfax,Fairfax,Medical Practices,Moderna,1,1900
+2021-01-24,51195,Wise,Lenowisco,Local Health Departments,Moderna,1,400
+2021-02-04,51680,Lynchburg,Central Virginia,Hospitals,Moderna,2,200
+2021-01-10,51169,Scott,Lenowisco,Local Health Departments,Moderna,1,600
+2021-02-07,51760,Richmond City,Richmond,Local Health Departments,Moderna,2,1400
+2021-01-10,51119,Middlesex,Three Rivers,Local Health Departments,Moderna,1,800
+2021-01-18,51071,Giles,New River,Pharmacies,Moderna,1,100
+2021-02-13,51087,Henrico,Henrico,Local Health Departments,Pfizer,1,1950
+2021-02-07,51800,Suffolk,Western Tidewater,Local Health Departments,Moderna,1,700
+2021-02-04,51031,Campbell,Central Virginia,Pharmacies,Moderna,2,100
+2021-01-16,51015,Augusta,Central Shenandoah,Hospitals,Pfizer,1,975
+2021-01-30,51700,Newport News,Peninsula,Hospitals,Pfizer,2,2925
+2021-02-04,51019,Bedford,Central Virginia,Medical Practices,Moderna,2,100
+2021-02-04,51143,Pittsylvania,Pittsylvania-Danville,Other Community Health Providers,Moderna,2,700
+2021-02-04,51105,Lee,Lenowisco,Pharmacies,Moderna,2,100
+2020-12-22,51540,Charlottesville,Blue Ridge,Hospitals,Moderna,1,2500
+2021-02-01,51071,Giles,New River,Pharmacies,Moderna,1,200
+2020-12-22,51195,Wise,Lenowisco,Hospitals,Moderna,1,1000
+2021-01-11,51001,Accomack,Eastern Shore,Hospitals,Moderna,2,500
+2021-01-18,51001,Accomack,Eastern Shore,Local Health Departments,Moderna,1,600
+2021-01-18,51001,Accomack,Eastern Shore,Other Community Health Providers,Moderna,1,300
+2021-01-28,51087,Henrico,Henrico,Pharmacies,Moderna,2,500
+2021-02-08,51143,Pittsylvania,Pittsylvania-Danville,Medical Practices,Moderna,1,200
+2021-02-04,51800,Suffolk,Western Tidewater,Local Health Departments,Moderna,2,400
+2021-02-07,51620,Franklin City,Western Tidewater,Hospitals,Moderna,2,100
+2021-02-01,51059,Fairfax,Fairfax,Pharmacies,Moderna,1,500
+2021-02-01,51510,Alexandria,Alexandria,Medical Practices,Moderna,1,300
+2021-01-18,51067,Franklin County,West Piedmont,Pharmacies,Moderna,1,100
+2021-01-20,51087,Henrico,Henrico,Local Health Departments,Moderna,2,1000
+2021-01-02,51540,Charlottesville,Blue Ridge,Hospitals,Pfizer,1,13650
+2021-02-07,51145,Powhatan,Chesterfield,Other Community Health Providers,Moderna,1,200
+2021-01-11,51059,Fairfax,Fairfax,Hospitals,Moderna,2,5600
+2021-01-30,51061,Fauquier,Rappahannock Rapidan,Local Health Departments,Pfizer,1,975
+2021-02-01,51121,Montgomery,New River,Local Health Departments,Moderna,1,1500
+2021-02-01,51730,Petersburg,Crater,Local Health Departments,Moderna,1,1500
+2021-02-01,51117,Mecklenburg,Southside,Other Community Health Providers,Moderna,1,100
+2021-01-04,51191,Washington,Mount Rogers,Hospitals,Pfizer,1,1950
+2021-02-08,51800,Suffolk,Western Tidewater,Medical Practices,Moderna,1,300
+2021-02-07,51678,Lexington,Central Shenandoah,Hospitals,Moderna,2,1900
+2021-02-13,51810,Virginia Beach,Virginia Beach,Local Health Departments,Pfizer,2,4875
+2021-01-18,51183,Sussex,Crater,Other Community Health Providers,Moderna,1,800
+2021-02-01,51139,Page,Lord Fairfax,Local Health Departments,Moderna,1,100
+2021-01-03,51059,Fairfax,Fairfax,Other Community Health Providers,Moderna,1,400
+2021-01-23,51061,Fauquier,Rappahannock Rapidan,Medical Practices,Pfizer,1,975
+2021-02-01,51107,Loudoun,Loudoun,Medical Practices,Moderna,1,100
+2021-01-28,51790,Staunton,Central Shenandoah,Local Health Departments,Moderna,2,1200
+2021-01-11,51087,Henrico,Henrico,Hospitals,Moderna,2,2000
+2021-01-11,51073,Gloucester,Three Rivers,Hospitals,Moderna,2,500
+2021-02-04,51103,Lancaster,Three Rivers,Medical Practices,Moderna,2,300
+2021-02-04,51520,Bristol,Mount Rogers,Medical Practices,Moderna,2,100
+2021-02-06,51041,Chesterfield,Chesterfield,Local Health Departments,Pfizer,1,2925
+2021-01-11,51770,Roanoke City,Roanoke,Local Health Departments,Moderna,2,400
+2021-02-01,51027,Buchanan,Cumberland Plateau,Local Health Departments,Moderna,1,100
+2021-02-06,51678,Lexington,Central Shenandoah,Hospitals,Pfizer,2,5850
+2020-12-30,51678,Lexington,Central Shenandoah,Hospitals,Pfizer,2,4875
+2021-01-24,51800,Suffolk,Western Tidewater,Local Health Departments,Moderna,1,900
+2021-02-07,51153,Prince William,Prince William,Local Health Departments,Moderna,2,1900
+2021-02-01,51153,Prince William,Prince William,Other Community Health Providers,Moderna,1,300
+2021-02-04,51175,Southampton,Western Tidewater,Other Community Health Providers,Moderna,2,300
+2021-01-11,51650,Hampton,Hampton,Hospitals,Moderna,1,1600
+2021-01-03,51155,Pulaski,New River,Pharmacies,Moderna,1,200
+2021-01-11,51087,Henrico,Henrico,Local Health Departments,Moderna,2,300
+2020-12-22,51083,Halifax,Southside,Hospitals,Moderna,1,500
+2021-02-04,51117,Mecklenburg,Southside,Medical Practices,Moderna,2,100
+2020-12-22,51197,Wythe,Mount Rogers,Hospitals,Moderna,1,1000
+2021-02-08,51510,Alexandria,Alexandria,Pharmacies,Moderna,1,400
+2021-01-24,51185,Tazewell,Cumberland Plateau,Local Health Departments,Moderna,1,400
+2021-01-11,51119,Middlesex,Three Rivers,Local Health Departments,Moderna,2,300
+2021-01-10,51167,Russell,Cumberland Plateau,Pharmacies,Moderna,1,500
+2021-02-06,51680,Lynchburg,Central Virginia,Local Health Departments,Pfizer,1,1950
+2021-01-23,51680,Lynchburg,Central Virginia,Local Health Departments,Pfizer,1,975
+2021-02-01,51770,Roanoke City,Roanoke,Pharmacies,Moderna,1,100
+2021-02-01,51720,Norton,Lenowisco,Hospitals,Moderna,1,200
+2021-01-30,51730,Petersburg,Crater,Local Health Departments,Pfizer,1,975
+2020-12-22,51173,Smyth,Mount Rogers,Local Health Departments,Moderna,1,3600
+2021-02-04,51770,Roanoke City,Roanoke,Pharmacies,Moderna,2,100
+2021-02-01,51550,Chesapeake,Chesapeake,Medical Practices,Moderna,1,1400
+2021-01-10,51191,Washington,Mount Rogers,Other Community Health Providers,Moderna,1,100
+2020-12-30,51087,Henrico,Henrico,Hospitals,Pfizer,2,4875
+2021-01-24,51019,Bedford,Central Virginia,Medical Practices,Moderna,1,200
+2021-02-07,51153,Prince William,Prince William,Pharmacies,Moderna,1,1200
+2021-02-13,51013,Arlington,Arlington,Local Health Departments,Pfizer,1,1950
+2021-02-03,51013,Arlington,Arlington,Local Health Departments,Moderna,1,800
+2021-02-13,51015,Augusta,Central Shenandoah,Hospitals,Pfizer,1,1950
+2020-12-21,51119,Middlesex,Three Rivers,Local Health Departments,Moderna,1,300
+2021-01-18,51678,Lexington,Central Shenandoah,Pharmacies,Moderna,1,200
+2021-02-13,51540,Charlottesville,Blue Ridge,Local Health Departments,Pfizer,1,975
+2021-01-18,51041,Chesterfield,Chesterfield,Medical Practices,Moderna,1,100
+2020-12-22,51790,Staunton,Central Shenandoah,Local Health Departments,Moderna,1,200
+2020-12-14,51840,Winchester,Lord Fairfax,Hospitals,Pfizer,1,2925
+2021-02-08,51550,Chesapeake,Chesapeake,Pharmacies,Moderna,1,600
+2021-02-01,51810,Virginia Beach,Virginia Beach,Local Health Departments,Moderna,1,2200
+2021-01-11,51195,Wise,Lenowisco,Hospitals,Moderna,2,1000
+2020-12-22,51059,Fairfax,Fairfax,Hospitals,Moderna,1,10000
+2021-01-04,51840,Winchester,Lord Fairfax,Hospitals,Pfizer,1,2925
+2021-01-24,51173,Smyth,Mount Rogers,Other Community Health Providers,Moderna,1,1100
+2021-02-04,51183,Sussex,Crater,Other Community Health Providers,Moderna,2,300
+2020-12-22,51550,Chesapeake,Chesapeake,Medical Practices,Moderna,1,2000
+2021-02-01,51051,Dickenson,Cumberland Plateau,Pharmacies,Moderna,1,100
+2021-02-09,51193,Westmoreland,Three Rivers,Other Community Health Providers,Moderna,1,100
+2021-01-10,51690,Martinsville,West Piedmont,Local Health Departments,Moderna,1,300
+2021-01-10,51085,Hanover,Chickahominy,Local Health Departments,Moderna,1,500
+2021-02-01,51153,Prince William,Prince William,Medical Practices,Moderna,1,500
+2021-01-10,51700,Newport News,Peninsula,Local Health Departments,Moderna,1,500
+2021-01-28,51590,Danville,Pittsylvania-Danville,Local Health Departments,Moderna,2,100
+2021-01-03,51075,Goochland,Chickahominy,Other Community Health Providers,Moderna,1,800
+2021-02-12,51061,Fauquier,Rappahannock Rapidan,Local Health Departments,Pfizer,2,975
+2021-01-28,51119,Middlesex,Three Rivers,Local Health Departments,Moderna,2,800
+2021-02-04,51191,Washington,Mount Rogers,Medical Practices,Moderna,2,100
+2020-12-28,51590,Danville,Pittsylvania-Danville,Hospitals,Moderna,1,2000
+2021-02-01,51600,Fairfax City,Fairfax,Local Health Departments,Moderna,1,900
+2021-01-23,51073,Gloucester,Three Rivers,Hospitals,Pfizer,1,975
+2021-01-24,51167,Russell,Cumberland Plateau,Local Health Departments,Moderna,1,500
+2021-01-20,51690,Martinsville,West Piedmont,Hospitals,Moderna,1,100
+2021-01-11,51590,Danville,Pittsylvania-Danville,Local Health Departments,Moderna,2,100
+2021-01-30,51760,Richmond City,Richmond,Hospitals,Pfizer,2,3900
+2020-12-22,51760,Richmond City,Richmond,Hospitals,Moderna,1,4300
+2021-02-06,51121,Montgomery,New River,Local Health Departments,Pfizer,1,975
+2021-02-08,51830,Williamsburg,Peninsula,Pharmacies,Moderna,1,300
+2020-12-21,51510,Alexandria,Alexandria,Local Health Departments,Moderna,1,2200
+2020-12-22,51121,Montgomery,New River,Local Health Departments,Moderna,1,600
+2021-02-07,51143,Pittsylvania,Pittsylvania-Danville,Pharmacies,Moderna,1,200
+2021-01-24,51680,Lynchburg,Central Virginia,Medical Practices,Moderna,1,100
+2020-12-28,51121,Montgomery,New River,Local Health Departments,Moderna,1,2500
+2021-01-11,51730,Petersburg,Crater,Hospitals,Moderna,2,2000
+2021-02-13,51073,Gloucester,Three Rivers,Hospitals,Pfizer,1,975
+2021-02-07,51590,Danville,Pittsylvania-Danville,Medical Practices,Moderna,1,200
+2021-01-28,51091,Highland,Central Shenandoah,Local Health Departments,Moderna,2,100
+2021-02-04,51087,Henrico,Henrico,Medical Practices,Moderna,2,400
+2021-01-20,51800,Suffolk,Western Tidewater,Local Health Departments,Moderna,2,200
+2021-02-04,51195,Wise,Lenowisco,Pharmacies,Moderna,2,200
+2021-01-18,51167,Russell,Cumberland Plateau,Other Community Health Providers,Moderna,1,100
+2020-12-22,51590,Danville,Pittsylvania-Danville,Hospitals,Moderna,1,2000
+2021-01-30,51073,Gloucester,Three Rivers,Hospitals,Pfizer,1,975
+2021-01-24,51095,James City,Peninsula,Other Community Health Providers,Moderna,1,200
+2021-01-24,51041,Chesterfield,Chesterfield,Local Health Departments,Moderna,1,100
+2021-01-18,51173,Smyth,Mount Rogers,Local Health Departments,Moderna,1,2700
+2021-01-04,51073,Gloucester,Three Rivers,Hospitals,Pfizer,1,975
+2021-01-24,51840,Winchester,Lord Fairfax,Local Health Departments,Moderna,1,800
+2020-12-30,51015,Augusta,Central Shenandoah,Hospitals,Pfizer,2,1950
+2021-02-01,51630,Fredericksburg,Rappahannock,Pharmacies,Moderna,1,100
+2021-01-11,51137,Orange,Rappahannock Rapidan,Local Health Departments,Moderna,2,500
+2021-01-24,51770,Roanoke City,Roanoke,Local Health Departments,Moderna,1,800
+2021-01-20,51770,Roanoke City,Roanoke,Local Health Departments,Moderna,2,1100
+2021-01-18,51059,Fairfax,Fairfax,Hospitals,Pfizer,1,19500
+2021-01-28,51678,Lexington,Central Shenandoah,Hospitals,Moderna,2,2000
+2021-01-11,51003,Albemarle,Blue Ridge,Hospitals,Moderna,2,2000
+2021-01-30,51770,Roanoke City,Roanoke,Hospitals,Pfizer,1,975
+2021-01-28,51155,Pulaski,New River,Pharmacies,Moderna,2,200
+2020-12-13,51710,Norfolk,Norfolk,Hospitals,Pfizer,1,11700
+2021-01-03,51700,Newport News,Peninsula,Local Health Departments,Moderna,1,700
+2021-01-20,51680,Lynchburg,Central Virginia,Local Health Departments,Moderna,2,400
+2021-01-24,51173,Smyth,Mount Rogers,Local Health Departments,Moderna,1,1100
+2021-01-10,51760,Richmond City,Richmond,Local Health Departments,Moderna,1,1000
+2021-02-04,51185,Tazewell,Cumberland Plateau,Pharmacies,Moderna,2,200
+2021-02-04,51083,Halifax,Southside,Local Health Departments,Moderna,2,100
+2021-01-28,51800,Suffolk,Western Tidewater,Local Health Departments,Moderna,2,500
+2021-02-06,51683,Manassas City,Prince William,Hospitals,Pfizer,1,2925
+2021-01-18,51025,Brunswick,Southside,Other Community Health Providers,Moderna,1,200
+2021-02-01,51650,Hampton,Hampton,Local Health Departments,Moderna,1,600
+2021-01-23,51059,Fairfax,Fairfax,Hospitals,Pfizer,1,975
+2021-01-20,51710,Norfolk,Norfolk,Hospitals,Moderna,2,4000
+2021-01-24,51083,Halifax,Southside,Pharmacies,Moderna,1,200
+2021-02-07,51550,Chesapeake,Chesapeake,Pharmacies,Moderna,1,100
+2021-02-06,51760,Richmond City,Richmond,Hospitals,Pfizer,2,975
+2021-02-01,51165,Rockingham,Central Shenandoah,Pharmacies,Moderna,1,600
+2021-01-11,51041,Chesterfield,Chesterfield,Local Health Departments,Moderna,2,6100
+2021-01-18,51019,Bedford,Central Virginia,Pharmacies,Moderna,1,100
+2021-01-16,51073,Gloucester,Three Rivers,Hospitals,Pfizer,1,975
+2021-01-03,51790,Staunton,Central Shenandoah,Other Community Health Providers,Moderna,1,900
+2021-02-12,51059,Fairfax,Fairfax,Medical Practices,Pfizer,2,1950
+2020-12-28,51013,Arlington,Arlington,Local Health Departments,Moderna,1,1000
+2021-02-08,51510,Alexandria,Alexandria,Medical Practices,Moderna,1,100
+2021-01-03,51680,Lynchburg,Central Virginia,Local Health Departments,Moderna,1,200
+2021-01-24,51015,Augusta,Central Shenandoah,Other Community Health Providers,Moderna,1,600
+2021-01-03,51053,Dinwiddie,Crater,Local Health Departments,Moderna,1,600
+2021-01-10,51195,Wise,Lenowisco,Other Community Health Providers,Moderna,1,1100
+2021-02-08,51011,Appomattox,Central Virginia,Pharmacies,Moderna,1,200
+2021-02-08,51685,Manassas Park,Prince William,Other Community Health Providers,Moderna,2,100
+2021-02-07,51139,Page,Lord Fairfax,Local Health Departments,Moderna,1,100
+2021-02-04,51195,Wise,Lenowisco,Local Health Departments,Moderna,2,1100
+2021-02-01,51083,Halifax,Southside,Other Community Health Providers,Moderna,1,100
+2020-12-28,51770,Roanoke City,Roanoke,Local Health Departments,Moderna,1,1200
+2021-01-03,51087,Henrico,Henrico,Pharmacies,Moderna,1,500
+2021-01-11,51195,Wise,Lenowisco,Local Health Departments,Moderna,2,1500
+2021-01-03,51590,Danville,Pittsylvania-Danville,Other Community Health Providers,Moderna,1,200
+2021-02-08,51690,Martinsville,West Piedmont,Medical Practices,Moderna,1,100
+2021-02-01,51770,Roanoke City,Roanoke,Local Health Departments,Moderna,1,700
+2020-12-14,51710,Norfolk,Norfolk,Hospitals,Pfizer,1,975
+2021-02-07,51730,Petersburg,Crater,Local Health Departments,Moderna,1,800
+2021-01-10,51143,Pittsylvania,Pittsylvania-Danville,Pharmacies,Moderna,1,200
+2021-01-19,51107,Loudoun,Loudoun,Local Health Departments,Moderna,1,5600
+2021-01-18,51760,Richmond City,Richmond,Local Health Departments,Moderna,1,2000
+2021-01-04,51059,Fairfax,Fairfax,Hospitals,Pfizer,1,5850
+2021-01-11,51171,Shenandoah,Lord Fairfax,Hospitals,Moderna,2,500
+2021-02-01,51169,Scott,Lenowisco,Pharmacies,Moderna,1,400
+2020-12-21,51027,Buchanan,Cumberland Plateau,Hospitals,Moderna,1,500
+2020-12-30,51041,Chesterfield,Chesterfield,Local Health Departments,Pfizer,2,8775
+2021-02-07,51760,Richmond City,Richmond,Other Community Health Providers,Moderna,1,200
+2021-02-06,51087,Henrico,Henrico,Local Health Departments,Pfizer,2,1950
+2021-02-04,51790,Staunton,Central Shenandoah,Other Community Health Providers,Moderna,2,300
+2021-01-11,51165,Rockingham,Central Shenandoah,Hospitals,Moderna,2,2000
+2021-02-07,51580,Covington,Alleghany,Local Health Departments,Moderna,2,300
+2021-02-07,51840,Winchester,Lord Fairfax,Pharmacies,Moderna,1,100
+2021-01-18,51047,Culpeper,Rappahannock Rapidan,Pharmacies,Moderna,1,100
+2021-02-04,51187,Warren,Lord Fairfax,Local Health Departments,Moderna,2,1000
+2021-02-04,51510,Alexandria,Alexandria,Pharmacies,Moderna,2,600
+2020-12-28,51001,Accomack,Eastern Shore,Local Health Departments,Moderna,1,400
+2021-01-28,51550,Chesapeake,Chesapeake,Local Health Departments,Moderna,2,100
+2021-02-13,51121,Montgomery,New River,Local Health Departments,Pfizer,2,975
+2021-01-28,51161,Roanoke County,Alleghany,Hospitals,Moderna,2,200
+2021-01-18,51041,Chesterfield,Chesterfield,Pharmacies,Moderna,1,100
+2021-02-01,51185,Tazewell,Cumberland Plateau,Local Health Departments,Moderna,1,100
+2021-02-02,51800,Suffolk,Western Tidewater,Local Health Departments,Moderna,1,1000
+2021-01-28,51810,Virginia Beach,Virginia Beach,Local Health Departments,Moderna,2,800
+2020-12-28,51690,Martinsville,West Piedmont,Hospitals,Moderna,1,200
+2021-02-01,51167,Russell,Cumberland Plateau,Local Health Departments,Moderna,1,100
+2021-01-19,51678,Lexington,Central Shenandoah,Hospitals,Pfizer,2,5850
+2021-02-04,51159,Richmond County,Three Rivers,Other Community Health Providers,Moderna,2,200
+2021-01-24,51580,Covington,Alleghany,Local Health Departments,Moderna,1,300
+2020-12-28,51680,Lynchburg,Central Virginia,Local Health Departments,Moderna,1,500
+2021-02-01,51550,Chesapeake,Chesapeake,Local Health Departments,Moderna,1,1000
+2021-02-07,51117,Mecklenburg,Southside,Local Health Departments,Moderna,1,200
+2021-01-03,51660,Harrisonburg,Central Shenandoah,Local Health Departments,Moderna,1,100
+2021-02-08,51810,Virginia Beach,Virginia Beach,Local Health Departments,Pfizer,1,2925
+2021-02-04,51023,Botetourt,Alleghany,Pharmacies,Moderna,2,100
+2021-01-18,51790,Staunton,Central Shenandoah,Local Health Departments,Moderna,1,2500
+2021-01-10,51710,Norfolk,Norfolk,Medical Practices,Moderna,1,100
+2021-01-24,51153,Prince William,Prince William,Local Health Departments,Moderna,1,3200
+2021-01-18,51155,Pulaski,New River,Pharmacies,Moderna,1,700
+2021-02-04,51710,Norfolk,Norfolk,Local Health Departments,Moderna,2,700
+2020-12-28,51790,Staunton,Central Shenandoah,Local Health Departments,Moderna,1,500
+2021-02-01,51540,Charlottesville,Blue Ridge,Local Health Departments,Moderna,1,800
+2021-01-23,51770,Roanoke City,Roanoke,Local Health Departments,Pfizer,1,1950
+2021-02-08,51650,Hampton,Hampton,Pharmacies,Moderna,1,100
+2020-12-30,51700,Newport News,Peninsula,Hospitals,Pfizer,1,1950
+2021-01-11,51720,Norton,Lenowisco,Hospitals,Moderna,2,1000
+2021-02-04,51550,Chesapeake,Chesapeake,Pharmacies,Moderna,2,100
+2021-01-20,51590,Danville,Pittsylvania-Danville,Local Health Departments,Moderna,2,200
+2021-01-10,51105,Lee,Lenowisco,Local Health Departments,Moderna,1,400
+2021-02-02,51073,Gloucester,Three Rivers,Hospitals,Moderna,1,200
+2020-12-22,51061,Fauquier,Rappahannock Rapidan,Hospitals,Moderna,1,1000
+2021-01-18,51153,Prince William,Prince William,Local Health Departments,Moderna,1,1000
+2021-02-01,51510,Alexandria,Alexandria,Other Community Health Providers,Moderna,1,200
+2021-02-06,51191,Washington,Mount Rogers,Hospitals,Pfizer,2,975
+2020-12-28,51059,Fairfax,Fairfax,Medical Practices,Moderna,1,1500
+2021-01-10,51051,Dickenson,Cumberland Plateau,Local Health Departments,Moderna,1,500
+2021-01-12,51059,Fairfax,Fairfax,Hospitals,Moderna,2,4400
+2021-01-28,51117,Mecklenburg,Southside,Local Health Departments,Moderna,2,300
+2021-01-10,51185,Tazewell,Cumberland Plateau,Local Health Departments,Moderna,1,500
+2021-02-08,51031,Campbell,Central Virginia,Pharmacies,Moderna,1,200
+2021-02-07,51051,Dickenson,Cumberland Plateau,Local Health Departments,Moderna,1,100
+2021-01-18,51041,Chesterfield,Chesterfield,Local Health Departments,Moderna,1,500
+2021-01-24,51001,Accomack,Eastern Shore,Local Health Departments,Moderna,1,500
+2021-02-01,51187,Warren,Lord Fairfax,Local Health Departments,Moderna,1,100
+2021-01-28,51153,Prince William,Prince William,Other Community Health Providers,Moderna,2,300
+2021-01-11,51107,Loudoun,Loudoun,Local Health Departments,Moderna,2,2200
+2021-01-28,51121,Montgomery,New River,Local Health Departments,Moderna,2,1500
+2021-02-03,51830,Williamsburg,Peninsula,Pharmacies,Moderna,1,200
+2021-02-13,51760,Richmond City,Richmond,Hospitals,Pfizer,2,3900
+2021-02-01,51087,Henrico,Henrico,Pharmacies,Moderna,1,1400
+2021-01-20,51043,Clarke,Lord Fairfax,Local Health Departments,Moderna,2,100
+2021-02-01,51105,Lee,Lenowisco,Medical Practices,Moderna,1,100
+2021-01-18,51680,Lynchburg,Central Virginia,Hospitals,Moderna,1,500
+2021-01-03,51081,Greensville,Crater,Other Community Health Providers,Moderna,1,700
+2021-01-11,51680,Lynchburg,Central Virginia,Local Health Departments,Moderna,2,100
+2021-01-23,51540,Charlottesville,Blue Ridge,Local Health Departments,Pfizer,1,1950
+2021-01-28,51173,Smyth,Mount Rogers,Other Community Health Providers,Moderna,2,400
+2021-01-20,51690,Martinsville,West Piedmont,Local Health Departments,Moderna,2,100
+2021-02-07,51740,Portsmouth,Portsmouth,Local Health Departments,Moderna,2,300
+2021-02-07,51121,Montgomery,New River,Local Health Departments,Moderna,1,1100
+2021-02-07,51167,Russell,Cumberland Plateau,Local Health Departments,Moderna,1,100
+2021-01-11,51147,Prince Edward,Piedmont,Hospitals,Moderna,2,1000
+2021-02-07,51031,Campbell,Central Virginia,Pharmacies,Moderna,1,100
+2021-02-01,51840,Winchester,Lord Fairfax,Pharmacies,Moderna,1,100
+2021-01-03,51161,Roanoke County,Alleghany,Hospitals,Moderna,1,300
+2021-01-18,51840,Winchester,Lord Fairfax,Hospitals,Moderna,1,3000
+2021-02-01,51740,Portsmouth,Portsmouth,Local Health Departments,Moderna,1,1100
+2021-02-07,51169,Scott,Lenowisco,Pharmacies,Moderna,1,400
+2021-02-04,51680,Lynchburg,Central Virginia,Local Health Departments,Moderna,2,300
+2021-01-12,51840,Winchester,Lord Fairfax,Hospitals,Pfizer,2,2925
+2021-01-04,51065,Fluvanna,Blue Ridge,Other Community Health Providers,Moderna,1,900
+2021-02-08,51199,York,Peninsula,Pharmacies,Moderna,1,100
+2020-12-30,51760,Richmond City,Richmond,Hospitals,Pfizer,1,5850
+2021-02-04,51087,Henrico,Henrico,Pharmacies,Moderna,2,1000
+2021-02-02,51810,Virginia Beach,Virginia Beach,Local Health Departments,Pfizer,1,2925
+2021-01-23,51107,Loudoun,Loudoun,Local Health Departments,Pfizer,1,4875
+2021-02-07,51185,Tazewell,Cumberland Plateau,Hospitals,Moderna,2,100
+2021-02-01,51760,Richmond City,Richmond,Other Community Health Providers,Moderna,1,200
+2021-02-04,51191,Washington,Mount Rogers,Other Community Health Providers,Moderna,2,100
+2021-02-08,51171,Shenandoah,Lord Fairfax,Pharmacies,Moderna,1,100
+2021-01-23,51550,Chesapeake,Chesapeake,Medical Practices,Pfizer,1,975
+2021-01-18,51027,Buchanan,Cumberland Plateau,Other Community Health Providers,Moderna,1,100
+2020-12-30,51680,Lynchburg,Central Virginia,Hospitals,Pfizer,2,2925
+2021-02-06,51173,Smyth,Mount Rogers,Local Health Departments,Pfizer,1,975
+2021-01-18,51067,Franklin County,West Piedmont,Medical Practices,Moderna,1,100
+2021-02-01,51067,Franklin County,West Piedmont,Pharmacies,Moderna,1,100
+2021-02-03,51540,Charlottesville,Blue Ridge,Local Health Departments,Moderna,1,1200
+2021-02-04,51191,Washington,Mount Rogers,Pharmacies,Moderna,2,500
+2021-02-01,51069,Frederick,Lord Fairfax,Pharmacies,Moderna,1,100
+2021-02-07,51041,Chesterfield,Chesterfield,Local Health Departments,Moderna,2,1500
+2021-01-10,51173,Smyth,Mount Rogers,Other Community Health Providers,Moderna,1,1200
+2021-02-09,51730,Petersburg,Crater,Local Health Departments,Moderna,1,2700
+2021-01-03,51175,Southampton,Western Tidewater,Other Community Health Providers,Moderna,1,600
+2021-02-04,51031,Campbell,Central Virginia,Medical Practices,Moderna,2,300
+2021-01-10,51510,Alexandria,Alexandria,Pharmacies,Moderna,1,200
+2021-02-04,51173,Smyth,Mount Rogers,Local Health Departments,Moderna,2,1000
+2021-01-04,51830,Williamsburg,Peninsula,Hospitals,Pfizer,1,975
+2021-01-30,51121,Montgomery,New River,Local Health Departments,Pfizer,1,975
+2021-01-04,51810,Virginia Beach,Virginia Beach,Local Health Departments,Moderna,1,800
+2021-01-30,51830,Williamsburg,Peninsula,Hospitals,Pfizer,2,975
+2021-01-11,51810,Virginia Beach,Virginia Beach,Local Health Departments,Moderna,2,2900
+2020-12-13,51013,Arlington,Arlington,Hospitals,Pfizer,1,1950
+2020-12-28,51800,Suffolk,Western Tidewater,Local Health Departments,Moderna,1,300
+2020-12-22,51640,Galax,Mount Rogers,Hospitals,Moderna,1,1000
+2021-01-28,51121,Montgomery,New River,Pharmacies,Moderna,2,100
+2021-01-12,51710,Norfolk,Norfolk,Hospitals,Pfizer,2,7800
+2020-12-30,51840,Winchester,Lord Fairfax,Hospitals,Pfizer,1,5850
+2021-02-07,51119,Middlesex,Three Rivers,Local Health Departments,Moderna,1,400
+2021-01-11,51840,Winchester,Lord Fairfax,Hospitals,Moderna,2,2000
+2021-01-03,51095,James City,Peninsula,Other Community Health Providers,Moderna,1,800
+2021-01-11,51678,Lexington,Central Shenandoah,Hospitals,Moderna,2,2500
+2021-02-01,51085,Hanover,Chickahominy,Local Health Departments,Moderna,1,1900
+2021-01-04,51001,Accomack,Eastern Shore,Hospitals,Pfizer,1,975
+2021-02-04,51147,Prince Edward,Piedmont,Local Health Departments,Moderna,2,100
+2021-01-03,51137,Orange,Rappahannock Rapidan,Local Health Departments,Moderna,1,1000
+2021-01-10,51163,Rockbridge,Central Shenandoah,Local Health Departments,Moderna,1,100
+2021-01-18,51153,Prince William,Prince William,Pharmacies,Moderna,1,300
+2021-01-18,51530,Buena Vista City,Central Shenandoah,Pharmacies,Moderna,1,100
+2021-02-13,51107,Loudoun,Loudoun,Local Health Departments,Pfizer,2,3900
+2021-02-08,51710,Norfolk,Norfolk,Pharmacies,Moderna,1,300
+2021-02-13,51540,Charlottesville,Blue Ridge,Hospitals,Pfizer,1,975
+2021-01-09,51015,Augusta,Central Shenandoah,Hospitals,Pfizer,1,975
+2021-01-10,51690,Martinsville,West Piedmont,Hospitals,Moderna,1,3000
+2020-12-21,51107,Loudoun,Loudoun,Medical Practices,Moderna,1,100
+2021-01-10,51169,Scott,Lenowisco,Pharmacies,Moderna,1,500
+2021-02-07,51015,Augusta,Central Shenandoah,Other Community Health Providers,Moderna,2,200
+2021-02-09,51550,Chesapeake,Chesapeake,Medical Practices,Moderna,1,2000
+2021-02-01,51011,Appomattox,Central Virginia,Pharmacies,Moderna,1,200
+2021-02-07,51173,Smyth,Mount Rogers,Other Community Health Providers,Moderna,2,300
+2021-01-10,51041,Chesterfield,Chesterfield,Pharmacies,Moderna,1,800
+2021-02-01,51800,Suffolk,Western Tidewater,Local Health Departments,Moderna,1,500
+2021-01-24,51680,Lynchburg,Central Virginia,Other Community Health Providers,Moderna,1,400
+2021-02-08,51680,Lynchburg,Central Virginia,Medical Practices,Moderna,1,100
+2021-02-04,51067,Franklin County,West Piedmont,Pharmacies,Moderna,2,100
+2020-12-22,51810,Virginia Beach,Virginia Beach,Hospitals,Moderna,1,3000
+2020-12-30,51710,Norfolk,Norfolk,Hospitals,Pfizer,1,7800
+2021-01-03,51001,Accomack,Eastern Shore,Local Health Departments,Moderna,1,300
+2021-02-07,51760,Richmond City,Richmond,Pharmacies,Moderna,2,200
+2021-01-10,51155,Pulaski,New River,Pharmacies,Moderna,1,200
+2020-12-21,51001,Accomack,Eastern Shore,Hospitals,Moderna,1,500
+2021-01-30,51073,Gloucester,Three Rivers,Hospitals,Pfizer,2,975
+2021-02-13,51145,Powhatan,Chesterfield,Other Community Health Providers,Pfizer,1,975
+2021-01-30,51840,Winchester,Lord Fairfax,Hospitals,Pfizer,1,1950
+2021-01-20,51710,Norfolk,Norfolk,Local Health Departments,Moderna,2,400
+2021-01-20,51630,Fredericksburg,Rappahannock,Hospitals,Moderna,2,5900
+2021-02-13,51830,Williamsburg,Peninsula,Hospitals,Pfizer,2,975
+2021-01-30,51015,Augusta,Central Shenandoah,Hospitals,Pfizer,1,1950
+2021-02-02,51590,Danville,Pittsylvania-Danville,Local Health Departments,Moderna,1,1500
+2021-01-12,51760,Richmond City,Richmond,Hospitals,Pfizer,2,5850
+2021-02-08,51089,Henry,West Piedmont,Pharmacies,Moderna,1,100
+2021-01-28,51195,Wise,Lenowisco,Local Health Departments,Moderna,2,600
+2021-01-10,51107,Loudoun,Loudoun,Local Health Departments,Moderna,1,1800
+2021-02-02,51059,Fairfax,Fairfax,Medical Practices,Moderna,2,4000
+2021-01-18,51153,Prince William,Prince William,Other Community Health Providers,Moderna,1,100
+2021-02-07,51067,Franklin County,West Piedmont,Medical Practices,Moderna,1,100
+2021-01-24,51135,Nottoway,Piedmont,Other Community Health Providers,Moderna,1,600
+2021-02-07,51027,Buchanan,Cumberland Plateau,Local Health Departments,Moderna,1,100
+2021-02-04,51135,Nottoway,Piedmont,Medical Practices,Moderna,2,100
+2021-01-18,51820,Waynesboro,Central Shenandoah,Pharmacies,Moderna,1,100
+2020-12-22,51683,Manassas City,Prince William,Hospitals,Moderna,1,5000
+2021-01-23,51680,Lynchburg,Central Virginia,Hospitals,Pfizer,1,975
+2021-01-24,51119,Middlesex,Three Rivers,Local Health Departments,Moderna,1,700
+2021-02-07,51043,Clarke,Lord Fairfax,Local Health Departments,Moderna,1,200
+2020-12-30,51059,Fairfax,Fairfax,Hospitals,Pfizer,1,4875
+2021-02-07,51169,Scott,Lenowisco,Local Health Departments,Moderna,1,100
+2021-01-03,51630,Fredericksburg,Rappahannock,Local Health Departments,Moderna,1,700
+2021-02-08,51810,Virginia Beach,Virginia Beach,Local Health Departments,Moderna,2,1500
+2021-02-01,51001,Accomack,Eastern Shore,Local Health Departments,Moderna,1,500
+2021-02-04,51540,Charlottesville,Blue Ridge,Local Health Departments,Moderna,2,1300
+2021-02-04,51137,Orange,Rappahannock Rapidan,Medical Practices,Moderna,2,100
+2021-01-11,51153,Prince William,Prince William,Pharmacies,Moderna,2,500
+2021-02-07,51700,Newport News,Peninsula,Hospitals,Moderna,2,100
+2021-01-10,51710,Norfolk,Norfolk,Local Health Departments,Moderna,1,400
+2021-01-10,51001,Accomack,Eastern Shore,Local Health Departments,Moderna,1,300
+2021-01-10,51041,Chesterfield,Chesterfield,Local Health Departments,Moderna,1,1200
+2021-02-08,51075,Goochland,Chickahominy,Other Community Health Providers,Moderna,2,100
+2021-02-01,51143,Pittsylvania,Pittsylvania-Danville,Medical Practices,Moderna,1,200
+2021-01-18,51041,Chesterfield,Chesterfield,Other Community Health Providers,Moderna,1,1000
+2021-01-18,51019,Bedford,Central Virginia,Medical Practices,Moderna,1,200
+2021-02-04,51043,Clarke,Lord Fairfax,Local Health Departments,Moderna,2,300
+2021-02-04,51061,Fauquier,Rappahannock Rapidan,Pharmacies,Moderna,2,100
+2021-02-04,51121,Montgomery,New River,Pharmacies,Moderna,2,300
+2021-02-04,51155,Pulaski,New River,Medical Practices,Moderna,2,100
+2021-01-24,51013,Arlington,Arlington,Local Health Departments,Moderna,1,1800
+2021-01-10,51600,Fairfax City,Fairfax,Local Health Departments,Moderna,1,4600
+2021-02-06,51730,Petersburg,Crater,Local Health Departments,Pfizer,1,975
+2021-02-08,51105,Lee,Lenowisco,Medical Practices,Moderna,1,100
+2021-02-04,51041,Chesterfield,Chesterfield,Other Community Health Providers,Moderna,2,1400
+2021-01-20,51119,Middlesex,Three Rivers,Local Health Departments,Moderna,2,400
+2021-02-04,51770,Roanoke City,Roanoke,Medical Practices,Moderna,2,200
+2021-01-10,51031,Campbell,Central Virginia,Pharmacies,Moderna,1,100
+2021-02-07,51117,Mecklenburg,Southside,Medical Practices,Moderna,1,200
+2020-12-30,51720,Norton,Lenowisco,Hospitals,Pfizer,2,975
+2021-01-20,51790,Staunton,Central Shenandoah,Local Health Departments,Moderna,2,400
+2021-02-04,51770,Roanoke City,Roanoke,Local Health Departments,Moderna,2,100
+2021-02-07,51087,Henrico,Henrico,Pharmacies,Moderna,1,200
+2021-01-28,51690,Martinsville,West Piedmont,Local Health Departments,Moderna,2,300
+2021-02-04,51163,Rockbridge,Central Shenandoah,Local Health Departments,Moderna,2,100
+2021-02-07,51840,Winchester,Lord Fairfax,Local Health Departments,Moderna,1,200
+2020-12-22,51121,Montgomery,New River,Hospitals,Moderna,1,2000
+2021-01-20,51760,Richmond City,Richmond,Local Health Departments,Moderna,2,800
+2020-12-14,51191,Washington,Mount Rogers,Hospitals,Pfizer,1,975
+2021-02-13,51041,Chesterfield,Chesterfield,Local Health Departments,Pfizer,1,1950
+2021-01-11,51051,Dickenson,Cumberland Plateau,Hospitals,Moderna,2,1000
+2021-02-01,51590,Danville,Pittsylvania-Danville,Local Health Departments,Moderna,1,1800
+2020-12-14,51015,Augusta,Central Shenandoah,Hospitals,Pfizer,1,975
+2021-01-18,51760,Richmond City,Richmond,Other Community Health Providers,Moderna,1,200
+2021-01-11,51630,Fredericksburg,Rappahannock,Local Health Departments,Moderna,2,900
+2021-02-06,51073,Gloucester,Three Rivers,Hospitals,Pfizer,1,975
+2020-12-22,51830,Williamsburg,Peninsula,Hospitals,Moderna,1,1000
+2021-02-07,51117,Mecklenburg,Southside,Other Community Health Providers,Moderna,1,100
+2021-02-01,51580,Covington,Alleghany,Local Health Departments,Moderna,1,400
+2021-01-18,51121,Montgomery,New River,Local Health Departments,Moderna,1,2500
+2020-12-22,51650,Hampton,Hampton,Hospitals,Moderna,1,1600
+2021-02-08,51179,Stafford,Rappahannock,Pharmacies,Moderna,1,200
+2021-01-12,51680,Lynchburg,Central Virginia,Hospitals,Pfizer,1,2925
+2021-01-28,51680,Lynchburg,Central Virginia,Local Health Departments,Moderna,2,200
+2021-01-20,51173,Smyth,Mount Rogers,Local Health Departments,Moderna,2,1400
+2021-02-01,51660,Harrisonburg,Central Shenandoah,Local Health Departments,Moderna,1,300
+2021-02-04,51001,Accomack,Eastern Shore,Local Health Departments,Moderna,2,100
+2021-02-04,51167,Russell,Cumberland Plateau,Pharmacies,Moderna,2,100
+2021-02-01,51690,Martinsville,West Piedmont,Local Health Departments,Moderna,1,800
+2021-02-04,51680,Lynchburg,Central Virginia,Pharmacies,Moderna,2,100
+2021-01-12,51600,Fairfax City,Fairfax,Local Health Departments,Moderna,2,1400
+2021-01-18,51117,Mecklenburg,Southside,Local Health Departments,Moderna,1,300
+2021-02-04,51550,Chesapeake,Chesapeake,Local Health Departments,Moderna,2,600
+2021-01-11,51640,Galax,Mount Rogers,Hospitals,Moderna,2,1000
+2021-02-08,51173,Smyth,Mount Rogers,Medical Practices,Moderna,1,100
+2021-02-01,51760,Richmond City,Richmond,Pharmacies,Moderna,1,200
+2020-12-14,51540,Charlottesville,Blue Ridge,Hospitals,Pfizer,1,2925
+2021-01-12,51630,Fredericksburg,Rappahannock,Hospitals,Pfizer,2,1950
+2021-02-01,51075,Goochland,Chickahominy,Other Community Health Providers,Moderna,2,300
+2020-12-21,51680,Lynchburg,Central Virginia,Local Health Departments,Moderna,1,100
+2021-01-10,51550,Chesapeake,Chesapeake,Local Health Departments,Moderna,1,2000
+2021-01-30,51550,Chesapeake,Chesapeake,Medical Practices,Pfizer,1,975
+2021-02-04,51660,Harrisonburg,Central Shenandoah,Pharmacies,Moderna,2,200
+2021-01-18,51810,Virginia Beach,Virginia Beach,Local Health Departments,Pfizer,1,5850
+2020-12-22,51047,Culpeper,Rappahannock Rapidan,Hospitals,Moderna,1,1000
+2021-01-10,51091,Highland,Central Shenandoah,Local Health Departments,Moderna,1,100
+2021-02-07,51740,Portsmouth,Portsmouth,Local Health Departments,Moderna,1,1100
+2021-01-04,51760,Richmond City,Richmond,Hospitals,Pfizer,1,3900
+2021-01-11,51083,Halifax,Southside,Hospitals,Moderna,2,500
+2021-01-30,51630,Fredericksburg,Rappahannock,Hospitals,Pfizer,2,975
+2021-01-10,51139,Page,Lord Fairfax,Local Health Departments,Moderna,1,300
+2021-02-04,51135,Nottoway,Piedmont,Other Community Health Providers,Moderna,2,400
+2021-01-03,51590,Danville,Pittsylvania-Danville,Local Health Departments,Moderna,1,100
+2021-01-11,51117,Mecklenburg,Southside,Local Health Departments,Moderna,2,200
+2021-02-04,51153,Prince William,Prince William,Pharmacies,Moderna,2,300
+2021-01-28,Not Reported,Not Reported,Not Reported,Medical Practices,Moderna,2,200
+2021-01-24,51141,Patrick,West Piedmont,Local Health Departments,Moderna,1,400
+2021-01-12,51700,Newport News,Peninsula,Hospitals,Pfizer,2,1950
+2020-12-22,51610,Falls Church,Fairfax,Medical Practices,Moderna,1,500
+2021-02-01,51019,Bedford,Central Virginia,Medical Practices,Moderna,1,200
+2021-01-10,51790,Staunton,Central Shenandoah,Local Health Departments,Moderna,1,1000
+2021-02-07,51710,Norfolk,Norfolk,Medical Practices,Moderna,1,100
+2021-01-28,51153,Prince William,Prince William,Local Health Departments,Moderna,2,5000
+2021-01-11,51107,Loudoun,Loudoun,Medical Practices,Moderna,2,100
+2021-02-04,51107,Loudoun,Loudoun,Hospitals,Moderna,2,100
+2021-02-04,51117,Mecklenburg,Southside,Local Health Departments,Moderna,2,100
+2021-02-02,51760,Richmond City,Richmond,Local Health Departments,Moderna,1,1600
+2020-12-14,51590,Danville,Pittsylvania-Danville,Hospitals,Pfizer,1,975
+2021-02-01,51550,Chesapeake,Chesapeake,Pharmacies,Moderna,1,500
+2021-02-01,51119,Middlesex,Three Rivers,Local Health Departments,Moderna,1,400
+2021-01-11,51121,Montgomery,New River,Hospitals,Moderna,2,2000
+2021-01-09,51840,Winchester,Lord Fairfax,Hospitals,Pfizer,1,1950
+2021-01-03,51540,Charlottesville,Blue Ridge,Local Health Departments,Moderna,1,500
+2021-02-07,51167,Russell,Cumberland Plateau,Pharmacies,Moderna,1,400
+2020-12-21,51117,Mecklenburg,Southside,Local Health Departments,Moderna,1,200
+2021-01-02,51540,Charlottesville,Blue Ridge,Hospitals,Pfizer,2,2925
+2021-01-30,51700,Newport News,Peninsula,Hospitals,Pfizer,1,2925
+2021-01-20,51540,Charlottesville,Blue Ridge,Hospitals,Moderna,2,2000
+2021-01-24,51730,Petersburg,Crater,Local Health Departments,Moderna,1,800
+2021-02-04,51143,Pittsylvania,Pittsylvania-Danville,Pharmacies,Moderna,2,100
+2021-02-07,51015,Augusta,Central Shenandoah,Other Community Health Providers,Moderna,1,200
+2021-02-07,51025,Brunswick,Southside,Other Community Health Providers,Moderna,2,100
+2021-02-01,51167,Russell,Cumberland Plateau,Pharmacies,Moderna,1,500
+2021-01-19,51191,Washington,Mount Rogers,Hospitals,Pfizer,2,1950
+2021-02-02,51710,Norfolk,Norfolk,Local Health Departments,Moderna,1,2000
+2021-01-23,51700,Newport News,Peninsula,Hospitals,Pfizer,1,1950
+2021-01-11,51690,Martinsville,West Piedmont,Local Health Departments,Moderna,2,100
+2021-01-28,51650,Hampton,Hampton,Local Health Departments,Moderna,2,100
+2021-01-03,51167,Russell,Cumberland Plateau,Local Health Departments,Moderna,1,600
+2020-12-14,51059,Fairfax,Fairfax,Hospitals,Pfizer,1,13650
+2021-02-04,51085,Hanover,Chickahominy,Medical Practices,Moderna,2,100
+2021-02-01,51630,Fredericksburg,Rappahannock,Local Health Departments,Moderna,1,200
+2021-02-13,51059,Fairfax,Fairfax,Hospitals,Pfizer,2,6825
+2021-01-09,51710,Norfolk,Norfolk,Hospitals,Pfizer,1,1950
+2021-02-08,51093,Isle of Wight,Western Tidewater,Pharmacies,Moderna,1,100
+2021-02-04,51590,Danville,Pittsylvania-Danville,Local Health Departments,Moderna,2,200
+2021-01-20,51700,Newport News,Peninsula,Local Health Departments,Moderna,2,500
+2021-01-24,51540,Charlottesville,Blue Ridge,Local Health Departments,Moderna,1,1000
+2021-02-04,51025,Brunswick,Southside,Local Health Departments,Moderna,2,100
+2021-01-23,51015,Augusta,Central Shenandoah,Hospitals,Pfizer,1,1950
+2021-01-03,51800,Suffolk,Western Tidewater,Local Health Departments,Moderna,1,500
+2020-12-22,51147,Prince Edward,Piedmont,Hospitals,Moderna,1,1000
+2021-01-28,51700,Newport News,Peninsula,Local Health Departments,Moderna,2,700
+2020-12-14,51678,Lexington,Central Shenandoah,Hospitals,Pfizer,1,4875
+2021-01-10,51051,Dickenson,Cumberland Plateau,Pharmacies,Moderna,1,200
+2021-01-28,51660,Harrisonburg,Central Shenandoah,Local Health Departments,Moderna,2,100
+2021-01-28,51001,Accomack,Eastern Shore,Hospitals,Moderna,2,500
+2020-12-20,51017,Bath,Central Shenandoah,Hospitals,Moderna,1,400
+2021-01-11,51830,Williamsburg,Peninsula,Hospitals,Moderna,2,1000
+2021-01-03,51770,Roanoke City,Roanoke,Local Health Departments,Moderna,1,1000
+2021-02-01,51137,Orange,Rappahannock Rapidan,Local Health Departments,Moderna,1,1100
+2021-01-20,51001,Accomack,Eastern Shore,Local Health Departments,Moderna,2,300
+2021-01-20,51085,Hanover,Chickahominy,Local Health Departments,Moderna,2,400
+2021-02-06,51700,Newport News,Peninsula,Hospitals,Pfizer,1,1950
+2021-01-20,51590,Danville,Pittsylvania-Danville,Hospitals,Moderna,2,1900
+2021-01-09,51013,Arlington,Arlington,Hospitals,Pfizer,1,1950
+2021-02-04,51153,Prince William,Prince William,Other Community Health Providers,Moderna,2,200
+2021-01-10,51121,Montgomery,New River,Pharmacies,Moderna,1,100
+2021-01-11,51187,Warren,Lord Fairfax,Hospitals,Moderna,2,500
+2021-01-24,51085,Hanover,Chickahominy,Local Health Departments,Moderna,1,1700
+2021-02-07,51700,Newport News,Peninsula,Local Health Departments,Moderna,1,1500
+2021-02-04,51680,Lynchburg,Central Virginia,Medical Practices,Moderna,2,100
+2021-01-10,51041,Chesterfield,Chesterfield,Other Community Health Providers,Moderna,1,300
+2021-01-03,51043,Clarke,Lord Fairfax,Local Health Departments,Moderna,1,200
+2021-01-19,51087,Henrico,Henrico,Pharmacies,Moderna,1,300
+2021-01-24,51830,Williamsburg,Peninsula,Pharmacies,Moderna,1,200
+2021-01-25,51810,Virginia Beach,Virginia Beach,Local Health Departments,Moderna,1,2300
+2020-12-28,51840,Winchester,Lord Fairfax,Local Health Departments,Moderna,1,200
+2021-01-04,51700,Newport News,Peninsula,Hospitals,Pfizer,1,975
+2021-01-11,51540,Charlottesville,Blue Ridge,Hospitals,Moderna,2,2500
+2021-02-09,51193,Westmoreland,Three Rivers,Other Community Health Providers,Moderna,2,100
+2021-02-07,51153,Prince William,Prince William,Other Community Health Providers,Moderna,2,100
+2021-02-07,51153,Prince William,Prince William,Local Health Departments,Moderna,1,1700
+2020-12-22,51167,Russell,Cumberland Plateau,Hospitals,Moderna,1,500
+2021-01-09,51720,Norton,Lenowisco,Hospitals,Pfizer,1,975
+2021-01-28,51053,Dinwiddie,Crater,Local Health Departments,Moderna,2,600
+2021-02-04,51840,Winchester,Lord Fairfax,Pharmacies,Moderna,2,100
+2020-12-14,51690,Martinsville,West Piedmont,Hospitals,Pfizer,1,975
+2021-02-04,51107,Loudoun,Loudoun,Other Community Health Providers,Moderna,2,100
+2021-02-07,51580,Covington,Alleghany,Local Health Departments,Moderna,1,400
+2021-02-07,51001,Accomack,Eastern Shore,Local Health Departments,Moderna,1,500
+2021-02-08,51690,Martinsville,West Piedmont,Pharmacies,Moderna,1,100
+2020-12-28,51650,Hampton,Hampton,Local Health Departments,Moderna,1,100
+2020-12-22,51167,Russell,Cumberland Plateau,Local Health Departments,Moderna,1,1500
+2021-02-01,51103,Lancaster,Three Rivers,Medical Practices,Moderna,1,100
+2021-01-18,51550,Chesapeake,Chesapeake,Pharmacies,Moderna,1,100
+2021-01-18,51650,Hampton,Hampton,Pharmacies,Moderna,1,100
+2021-02-07,51143,Pittsylvania,Pittsylvania-Danville,Other Community Health Providers,Moderna,1,100
+2021-01-10,51143,Pittsylvania,Pittsylvania-Danville,Other Community Health Providers,Moderna,1,700
+2021-01-20,51760,Richmond City,Richmond,Hospitals,Moderna,2,3000
+2021-01-20,51041,Chesterfield,Chesterfield,Local Health Departments,Moderna,2,600
+2020-12-28,51153,Prince William,Prince William,Pharmacies,Moderna,1,1500
+2021-02-08,51079,Greene,Blue Ridge,Pharmacies,Moderna,1,100
+2021-01-30,51683,Manassas City,Prince William,Hospitals,Pfizer,1,2925
+2021-01-24,51510,Alexandria,Alexandria,Other Community Health Providers,Moderna,1,100
+2021-01-24,51195,Wise,Lenowisco,Other Community Health Providers,Moderna,1,1000
+2021-01-24,51027,Buchanan,Cumberland Plateau,Local Health Departments,Moderna,1,100
+2021-02-12,51770,Roanoke City,Roanoke,Local Health Departments,Pfizer,1,975
+2021-01-24,51760,Richmond City,Richmond,Other Community Health Providers,Moderna,1,200
+2021-02-13,51680,Lynchburg,Central Virginia,Hospitals,Pfizer,2,975
+2021-01-11,51059,Fairfax,Fairfax,Medical Practices,Moderna,2,1500
+2021-01-28,51107,Loudoun,Loudoun,Local Health Departments,Moderna,2,2000
+2021-01-03,51760,Richmond City,Richmond,Local Health Departments,Moderna,1,500
+2020-12-28,51510,Alexandria,Alexandria,Local Health Departments,Moderna,1,5000
+2021-02-01,51043,Clarke,Lord Fairfax,Local Health Departments,Moderna,1,200
+2021-02-09,51760,Richmond City,Richmond,Pharmacies,Moderna,1,2000
+2021-02-07,51770,Roanoke City,Roanoke,Hospitals,Moderna,1,100
+2021-02-01,51830,Williamsburg,Peninsula,Pharmacies,Moderna,1,300
+2021-01-19,51001,Accomack,Eastern Shore,Hospitals,Pfizer,2,975
+2021-02-07,51041,Chesterfield,Chesterfield,Hospitals,Moderna,2,300
+2021-01-11,51001,Accomack,Eastern Shore,Local Health Departments,Moderna,2,200
+2021-01-18,51161,Roanoke County,Alleghany,Pharmacies,Moderna,1,100
+2020-12-22,51810,Virginia Beach,Virginia Beach,Local Health Departments,Moderna,1,1100
+2020-12-20,51041,Chesterfield,Chesterfield,Local Health Departments,Moderna,1,9500
+2021-02-07,51173,Smyth,Mount Rogers,Other Community Health Providers,Moderna,1,600
+2021-01-10,51540,Charlottesville,Blue Ridge,Local Health Departments,Moderna,1,1800
+2020-12-21,51059,Fairfax,Fairfax,Hospitals,Pfizer,1,7800
+2021-02-08,51185,Tazewell,Cumberland Plateau,Pharmacies,Moderna,1,100
+2021-01-20,51187,Warren,Lord Fairfax,Local Health Departments,Moderna,2,100
+2021-01-03,51087,Henrico,Henrico,Local Health Departments,Moderna,1,800
+2021-01-30,51015,Augusta,Central Shenandoah,Hospitals,Pfizer,2,975
+2021-02-04,51041,Chesterfield,Chesterfield,Medical Practices,Moderna,2,100
+2020-12-28,51173,Smyth,Mount Rogers,Local Health Departments,Moderna,1,1500
+2021-01-12,51540,Charlottesville,Blue Ridge,Hospitals,Pfizer,2,13650
+2021-02-01,51590,Danville,Pittsylvania-Danville,Medical Practices,Moderna,1,300
+2020-12-20,51139,Page,Lord Fairfax,Hospitals,Moderna,1,300
+2021-01-03,51121,Montgomery,New River,Local Health Departments,Moderna,1,1500
+2021-02-01,51087,Henrico,Henrico,Local Health Departments,Moderna,1,1700
+2020-12-30,51680,Lynchburg,Central Virginia,Hospitals,Pfizer,1,2925
+2021-01-09,51059,Fairfax,Fairfax,Hospitals,Pfizer,1,9750
+2021-01-03,51013,Arlington,Arlington,Local Health Departments,Moderna,1,1200
+2020-12-30,51700,Newport News,Peninsula,Hospitals,Pfizer,2,4875
+2021-02-03,51059,Fairfax,Fairfax,Pharmacies,Moderna,1,100
+2020-12-28,51810,Virginia Beach,Virginia Beach,Local Health Departments,Moderna,1,1500
+2021-02-07,51630,Fredericksburg,Rappahannock,Local Health Departments,Moderna,2,300
+2021-02-04,51680,Lynchburg,Central Virginia,Other Community Health Providers,Moderna,2,300
+2020-12-21,51590,Danville,Pittsylvania-Danville,Local Health Departments,Moderna,1,100
+2021-01-24,51700,Newport News,Peninsula,Medical Practices,Moderna,1,300
+2020-12-22,51179,Stafford,Rappahannock,Hospitals,Moderna,1,1000
+2021-01-28,51760,Richmond City,Richmond,Local Health Departments,Moderna,2,500
+2021-01-18,51510,Alexandria,Alexandria,Local Health Departments,Moderna,1,2000
+2020-12-22,51171,Shenandoah,Lord Fairfax,Hospitals,Moderna,1,500
+2021-01-10,51021,Bland,Mount Rogers,Pharmacies,Moderna,1,200
+2021-02-07,51083,Halifax,Southside,Pharmacies,Moderna,1,300
+2021-01-18,51087,Henrico,Henrico,Local Health Departments,Pfizer,1,1950
+2021-01-11,51169,Scott,Lenowisco,Local Health Departments,Moderna,2,200
+2021-02-01,51009,Amherst,Central Virginia,Pharmacies,Moderna,1,100
+2021-01-23,51650,Hampton,Hampton,Hospitals,Pfizer,1,975
+2021-01-24,51760,Richmond City,Richmond,Local Health Departments,Moderna,1,700
+2021-01-11,51690,Martinsville,West Piedmont,Hospitals,Moderna,2,2500
+2020-12-22,51690,Martinsville,West Piedmont,Hospitals,Moderna,1,1000
+2021-01-28,51043,Clarke,Lord Fairfax,Local Health Departments,Moderna,2,200
+2021-01-10,51840,Winchester,Lord Fairfax,Local Health Departments,Moderna,1,500
+2021-01-11,51610,Falls Church,Fairfax,Medical Practices,Moderna,2,500
+2021-01-11,51650,Hampton,Hampton,Local Health Departments,Moderna,2,100
+2021-02-04,51073,Gloucester,Three Rivers,Pharmacies,Moderna,2,100
+2020-12-22,51073,Gloucester,Three Rivers,Hospitals,Moderna,1,500
+2021-02-07,51015,Augusta,Central Shenandoah,Hospitals,Moderna,2,100
+2020-12-22,51085,Hanover,Chickahominy,Hospitals,Moderna,1,1000
+2021-01-03,51153,Prince William,Prince William,Other Community Health Providers,Moderna,1,300
+2021-01-20,51810,Virginia Beach,Virginia Beach,Local Health Departments,Moderna,2,1000
+2020-12-14,51740,Portsmouth,Portsmouth,Hospitals,Pfizer,1,2925
+2021-02-01,51105,Lee,Lenowisco,Local Health Departments,Moderna,1,100
+2021-02-04,51840,Winchester,Lord Fairfax,Local Health Departments,Moderna,2,100
+2020-12-13,51087,Henrico,Henrico,Hospitals,Pfizer,1,4875
+2021-01-10,51770,Roanoke City,Roanoke,Local Health Departments,Moderna,1,1400
+2021-01-03,51119,Middlesex,Three Rivers,Local Health Departments,Moderna,1,800
+2021-01-03,51510,Alexandria,Alexandria,Local Health Departments,Moderna,1,3000
+2021-01-10,51660,Harrisonburg,Central Shenandoah,Local Health Departments,Moderna,1,100
+2021-01-30,51840,Winchester,Lord Fairfax,Hospitals,Pfizer,2,1950
+2021-01-03,51600,Fairfax City,Fairfax,Local Health Departments,Moderna,1,12000
+2021-02-07,51790,Staunton,Central Shenandoah,Local Health Departments,Moderna,2,1200
+2021-02-04,51700,Newport News,Peninsula,Local Health Departments,Moderna,2,500
+2021-02-06,51087,Henrico,Henrico,Local Health Departments,Pfizer,1,1950
+2021-02-04,51059,Fairfax,Fairfax,Other Community Health Providers,Moderna,2,300
+2021-02-08,51683,Manassas City,Prince William,Pharmacies,Moderna,1,100
+2021-02-07,51185,Tazewell,Cumberland Plateau,Local Health Departments,Moderna,1,100
+2021-02-01,51143,Pittsylvania,Pittsylvania-Danville,Pharmacies,Moderna,1,200
+2021-01-20,51650,Hampton,Hampton,Local Health Departments,Moderna,2,100
+2020-12-22,51540,Charlottesville,Blue Ridge,Local Health Departments,Moderna,1,1500
+2020-12-21,51141,Patrick,West Piedmont,Local Health Departments,Moderna,1,100
+2021-01-03,51650,Hampton,Hampton,Local Health Departments,Moderna,1,100
+2021-01-24,51091,Highland,Central Shenandoah,Local Health Departments,Moderna,1,200
+2021-02-13,51760,Richmond City,Richmond,Pharmacies,Pfizer,1,1950
+2021-01-23,51087,Henrico,Henrico,Local Health Departments,Pfizer,1,3900
+2021-02-07,51710,Norfolk,Norfolk,Local Health Departments,Moderna,1,1700
+2021-02-13,51001,Accomack,Eastern Shore,Hospitals,Pfizer,2,975
+2021-01-18,51085,Hanover,Chickahominy,Pharmacies,Moderna,1,100
+2021-01-18,51790,Staunton,Central Shenandoah,Pharmacies,Moderna,1,100
+2021-01-10,51015,Augusta,Central Shenandoah,Other Community Health Providers,Moderna,1,600
+2021-02-03,51085,Hanover,Chickahominy,Pharmacies,Moderna,1,600
+2020-12-28,51710,Norfolk,Norfolk,Local Health Departments,Moderna,1,500
+2021-02-07,51650,Hampton,Hampton,Local Health Departments,Moderna,1,600
+2021-02-08,51620,Franklin City,Western Tidewater,Pharmacies,Moderna,1,100
+2021-02-01,51710,Norfolk,Norfolk,Pharmacies,Moderna,1,500
+2021-01-24,51510,Alexandria,Alexandria,Medical Practices,Moderna,1,100
+2021-02-07,51085,Hanover,Chickahominy,Local Health Departments,Moderna,1,1900
+2021-01-10,51153,Prince William,Prince William,Local Health Departments,Moderna,1,2500
+2021-02-01,51107,Loudoun,Loudoun,Pharmacies,Moderna,1,100
+2021-01-18,51061,Fauquier,Rappahannock Rapidan,Hospitals,Moderna,1,1000
+2021-02-04,51067,Franklin County,West Piedmont,Medical Practices,Moderna,2,100
+2021-02-13,51770,Roanoke City,Roanoke,Hospitals,Pfizer,1,975
+2021-01-11,51013,Arlington,Arlington,Hospitals,Moderna,2,2000
+2020-12-22,51153,Prince William,Prince William,Pharmacies,Moderna,1,500
+2021-02-04,51085,Hanover,Chickahominy,Local Health Departments,Moderna,2,1500
+2021-01-11,51197,Wythe,Mount Rogers,Hospitals,Moderna,2,1000
+2021-02-06,51087,Henrico,Henrico,Hospitals,Pfizer,2,975
+2021-01-20,51061,Fauquier,Rappahannock Rapidan,Hospitals,Moderna,2,200
+2021-01-19,51193,Westmoreland,Three Rivers,Other Community Health Providers,Moderna,1,100
+2021-01-18,51131,Northampton,Eastern Shore,Other Community Health Providers,Moderna,1,100
+2021-02-04,51678,Lexington,Central Shenandoah,Pharmacies,Moderna,2,100
+2021-02-13,51700,Newport News,Peninsula,Hospitals,Pfizer,1,1950
+2021-01-11,51620,Franklin City,Western Tidewater,Hospitals,Moderna,2,1000
+2020-12-22,51730,Petersburg,Crater,Hospitals,Moderna,1,2000
+2021-01-10,51195,Wise,Lenowisco,Local Health Departments,Moderna,1,400
+2021-02-07,51195,Wise,Lenowisco,Other Community Health Providers,Moderna,2,300
+2021-02-08,51009,Amherst,Central Virginia,Pharmacies,Moderna,1,100
+2021-01-11,51167,Russell,Cumberland Plateau,Local Health Departments,Moderna,2,1500
+2021-02-08,51550,Chesapeake,Chesapeake,Medical Practices,Moderna,1,200
+2021-01-12,51059,Fairfax,Fairfax,Hospitals,Pfizer,2,5850
+2020-12-30,51740,Portsmouth,Portsmouth,Hospitals,Pfizer,2,2925
+2021-01-18,51121,Montgomery,New River,Pharmacies,Moderna,1,400
+2021-01-24,51650,Hampton,Hampton,Local Health Departments,Moderna,1,600
+2021-02-07,51770,Roanoke City,Roanoke,Local Health Departments,Moderna,2,1100
+2021-02-04,51075,Goochland,Chickahominy,Other Community Health Providers,Moderna,2,100
+2021-01-20,51121,Montgomery,New River,Local Health Departments,Moderna,2,2400
+2020-12-30,51059,Fairfax,Fairfax,Hospitals,Pfizer,2,13650
+2020-12-14,51760,Richmond City,Richmond,Hospitals,Pfizer,1,3900
+2021-01-10,51087,Henrico,Henrico,Local Health Departments,Moderna,1,1000
+2020-12-14,51041,Chesterfield,Chesterfield,Local Health Departments,Pfizer,1,8775
+2021-02-12,51153,Prince William,Prince William,Pharmacies,Pfizer,2,975
+2021-02-07,51690,Martinsville,West Piedmont,Local Health Departments,Moderna,1,700
+2020-12-28,51085,Hanover,Chickahominy,Local Health Departments,Moderna,1,500
+2021-02-04,51650,Hampton,Hampton,Local Health Departments,Moderna,2,300
+2021-01-19,51139,Page,Lord Fairfax,Local Health Departments,Moderna,1,600
+2021-02-06,51015,Augusta,Central Shenandoah,Hospitals,Pfizer,1,1950
+2021-01-24,51163,Rockbridge,Central Shenandoah,Local Health Departments,Moderna,1,200
+2021-02-04,51085,Hanover,Chickahominy,Pharmacies,Moderna,2,400
+2020-12-22,51620,Franklin City,Western Tidewater,Hospitals,Moderna,1,1000
+2021-01-11,51057,Essex,Three Rivers,Hospitals,Moderna,2,500
+2021-02-07,51195,Wise,Lenowisco,Pharmacies,Moderna,1,100
+2021-02-08,51103,Lancaster,Three Rivers,Pharmacies,Moderna,1,200
+2021-02-06,51013,Arlington,Arlington,Hospitals,Pfizer,2,1950
+2021-02-07,51590,Danville,Pittsylvania-Danville,Other Community Health Providers,Moderna,1,100
+2021-01-11,51027,Buchanan,Cumberland Plateau,Hospitals,Moderna,2,500
+2021-01-24,51143,Pittsylvania,Pittsylvania-Danville,Other Community Health Providers,Moderna,1,800
+2020-12-30,51590,Danville,Pittsylvania-Danville,Hospitals,Pfizer,2,975
+2021-01-11,51770,Roanoke City,Roanoke,Hospitals,Moderna,2,2500
+2021-01-28,51630,Fredericksburg,Rappahannock,Local Health Departments,Moderna,2,700
+2021-01-23,51840,Winchester,Lord Fairfax,Hospitals,Pfizer,1,1950
+2021-01-20,51630,Fredericksburg,Rappahannock,Local Health Departments,Moderna,2,400
+2020-12-20,51680,Lynchburg,Central Virginia,Hospitals,Moderna,1,1000
+2021-01-03,51195,Wise,Lenowisco,Local Health Departments,Moderna,1,600
+2021-02-10,51600,Fairfax City,Fairfax,Local Health Departments,Pfizer,2,2925
+2021-01-11,51700,Newport News,Peninsula,Local Health Departments,Moderna,2,600
+2021-01-18,51165,Rockingham,Central Shenandoah,Pharmacies,Moderna,1,100
+2021-02-06,51061,Fauquier,Rappahannock Rapidan,Local Health Departments,Pfizer,1,975
+2021-02-04,51650,Hampton,Hampton,Pharmacies,Moderna,2,100
+2021-01-18,51107,Loudoun,Loudoun,Local Health Departments,Moderna,1,2400
+2020-12-21,51087,Henrico,Henrico,Local Health Departments,Moderna,1,300
+2020-12-28,51187,Warren,Lord Fairfax,Local Health Departments,Moderna,1,200
+2021-02-04,51690,Martinsville,West Piedmont,Medical Practices,Moderna,2,100
+2021-02-01,51085,Hanover,Chickahominy,Pharmacies,Moderna,1,600
+2021-02-01,51117,Mecklenburg,Southside,Local Health Departments,Moderna,1,1200
+2021-01-28,51167,Russell,Cumberland Plateau,Local Health Departments,Moderna,2,600
+2021-01-18,51199,York,Peninsula,Pharmacies,Moderna,1,200
+2021-01-11,51710,Norfolk,Norfolk,Hospitals,Moderna,2,7700
+2021-02-07,51730,Petersburg,Crater,Hospitals,Moderna,2,100
+2021-02-04,51021,Bland,Mount Rogers,Pharmacies,Moderna,2,100
+2021-01-20,51600,Fairfax City,Fairfax,Local Health Departments,Moderna,2,6800
+2021-02-01,51041,Chesterfield,Chesterfield,Hospitals,Moderna,1,1800
+2021-01-11,51595,Emporia,Crater,Other Community Health Providers,Moderna,1,500
+2021-02-07,51660,Harrisonburg,Central Shenandoah,Local Health Departments,Moderna,1,200
+2021-01-03,51121,Montgomery,New River,Pharmacies,Moderna,1,100
+2021-02-01,51073,Gloucester,Three Rivers,Hospitals,Moderna,1,800
+2020-12-28,51630,Fredericksburg,Rappahannock,Local Health Departments,Moderna,1,500
+2021-01-11,51017,Bath,Central Shenandoah,Hospitals,Moderna,2,400
+2021-01-24,51121,Montgomery,New River,Local Health Departments,Moderna,1,1100
+2021-01-24,51740,Portsmouth,Portsmouth,Local Health Departments,Moderna,1,1100
+2021-01-11,51700,Newport News,Peninsula,Hospitals,Moderna,2,4000
+2020-12-22,51195,Wise,Lenowisco,Local Health Departments,Moderna,1,1500
+2021-01-03,51135,Nottoway,Piedmont,Hospitals,Moderna,1,900
+2021-02-03,51153,Prince William,Prince William,Pharmacies,Moderna,1,200
+2021-02-08,Not Reported,Not Reported,Not Reported,Medical Practices,Moderna,1,100
+2021-01-18,51087,Henrico,Henrico,Medical Practices,Moderna,1,200
+2021-01-11,51510,Alexandria,Alexandria,Local Health Departments,Moderna,2,1200
+2021-01-11,51167,Russell,Cumberland Plateau,Hospitals,Moderna,2,500
+2021-01-10,51191,Washington,Mount Rogers,Pharmacies,Moderna,1,1000
+2021-01-03,51690,Martinsville,West Piedmont,Local Health Departments,Moderna,1,300
+2021-02-01,51153,Prince William,Prince William,Local Health Departments,Moderna,1,1000
+2020-12-20,51678,Lexington,Central Shenandoah,Hospitals,Moderna,1,2500
+2021-02-13,51173,Smyth,Mount Rogers,Local Health Departments,Pfizer,1,975
+2021-02-04,51087,Henrico,Henrico,Local Health Departments,Moderna,2,1500
+2021-01-24,51550,Chesapeake,Chesapeake,Medical Practices,Moderna,1,1000
+2021-01-24,51087,Henrico,Henrico,Local Health Departments,Moderna,1,500
+2021-02-01,51510,Alexandria,Alexandria,Pharmacies,Moderna,1,500
+2021-01-24,51510,Alexandria,Alexandria,Local Health Departments,Moderna,1,800
+2021-02-01,51107,Loudoun,Loudoun,Local Health Departments,Moderna,1,1600
+2021-02-02,51193,Westmoreland,Three Rivers,Other Community Health Providers,Moderna,1,100
+2021-01-10,51680,Lynchburg,Central Virginia,Local Health Departments,Moderna,1,100
+2021-01-18,51023,Botetourt,Alleghany,Pharmacies,Moderna,1,100
+2021-02-07,51630,Fredericksburg,Rappahannock,Hospitals,Moderna,2,3700
+2021-01-03,51091,Highland,Central Shenandoah,Local Health Departments,Moderna,1,100
+2021-01-23,51600,Fairfax City,Fairfax,Local Health Departments,Pfizer,1,13650
+2021-01-10,51117,Mecklenburg,Southside,Local Health Departments,Moderna,1,300
+2021-01-28,51840,Winchester,Lord Fairfax,Local Health Departments,Moderna,2,200
+2021-02-04,51510,Alexandria,Alexandria,Medical Practices,Moderna,2,100
+2021-02-08,51770,Roanoke City,Roanoke,Medical Practices,Moderna,2,100
+2021-02-01,51680,Lynchburg,Central Virginia,Other Community Health Providers,Moderna,1,100
+2021-01-12,51013,Arlington,Arlington,Hospitals,Pfizer,2,2925
+2021-01-24,51041,Chesterfield,Chesterfield,Other Community Health Providers,Moderna,1,1800
+2021-02-01,51027,Buchanan,Cumberland Plateau,Other Community Health Providers,Moderna,1,100
+2021-01-10,51027,Buchanan,Cumberland Plateau,Local Health Departments,Moderna,1,500
+2021-02-06,51840,Winchester,Lord Fairfax,Hospitals,Pfizer,2,3900
+2021-02-07,51510,Alexandria,Alexandria,Other Community Health Providers,Moderna,1,100
+2021-01-10,51195,Wise,Lenowisco,Pharmacies,Moderna,1,100
+2021-02-04,51760,Richmond City,Richmond,Hospitals,Moderna,2,500
+2021-02-01,51173,Smyth,Mount Rogers,Local Health Departments,Moderna,1,1100
+2021-01-30,51087,Henrico,Henrico,Local Health Departments,Pfizer,1,975
+2021-01-11,51810,Virginia Beach,Virginia Beach,Hospitals,Moderna,2,3000
+2021-02-03,51760,Richmond City,Richmond,Pharmacies,Moderna,1,100
+2020-12-22,51003,Albemarle,Blue Ridge,Hospitals,Moderna,1,2000
+2021-02-04,51017,Bath,Central Shenandoah,Hospitals,Moderna,2,100
+2021-01-24,51105,Lee,Lenowisco,Local Health Departments,Moderna,1,200
+2021-01-24,51159,Richmond County,Three Rivers,Other Community Health Providers,Moderna,1,400
+2020-12-22,51630,Fredericksburg,Rappahannock,Hospitals,Moderna,1,3000
+2021-01-24,51143,Pittsylvania,Pittsylvania-Danville,Pharmacies,Moderna,1,200
+2021-01-11,51680,Lynchburg,Central Virginia,Hospitals,Moderna,2,2000
+2020-12-20,51191,Washington,Mount Rogers,Hospitals,Moderna,1,3000
+2021-02-07,51147,Prince Edward,Piedmont,Local Health Departments,Moderna,1,2000
+2021-01-18,51710,Norfolk,Norfolk,Hospitals,Pfizer,1,1950
+2021-01-18,51800,Suffolk,Western Tidewater,Local Health Departments,Moderna,1,1000
+2021-02-04,51630,Fredericksburg,Rappahannock,Local Health Departments,Moderna,2,1300
+2021-02-07,51075,Goochland,Chickahominy,Other Community Health Providers,Moderna,1,400
+2021-02-01,51680,Lynchburg,Central Virginia,Local Health Departments,Moderna,1,200
+2020-12-22,51153,Prince William,Prince William,Hospitals,Moderna,1,4000
+2021-02-04,51155,Pulaski,New River,Pharmacies,Moderna,2,300
+2021-02-01,51171,Shenandoah,Lord Fairfax,Pharmacies,Moderna,1,700
+2021-02-07,51770,Roanoke City,Roanoke,Local Health Departments,Moderna,1,800
+2021-02-01,51083,Halifax,Southside,Pharmacies,Moderna,1,300
+2021-01-10,51173,Smyth,Mount Rogers,Local Health Departments,Moderna,1,1000
+2021-01-03,Not Reported,Not Reported,Not Reported,Medical Practices,Moderna,1,200
+2021-02-08,51630,Fredericksburg,Rappahannock,Pharmacies,Moderna,1,100
+2021-02-01,51059,Fairfax,Fairfax,Other Community Health Providers,Moderna,2,100
+2021-01-28,51163,Rockbridge,Central Shenandoah,Local Health Departments,Moderna,2,100
+2021-01-23,51013,Arlington,Arlington,Hospitals,Pfizer,1,975
+2021-01-24,51051,Dickenson,Cumberland Plateau,Local Health Departments,Moderna,1,100
+2021-02-08,Not Reported,Not Reported,Not Reported,Pharmacies,Moderna,1,100
+2021-02-01,51700,Newport News,Peninsula,Local Health Departments,Moderna,1,2400
+2021-02-04,51093,Isle of Wight,Western Tidewater,Local Health Departments,Moderna,2,300
+2021-02-09,51013,Arlington,Arlington,Local Health Departments,Moderna,2,1500
+2020-12-14,51680,Lynchburg,Central Virginia,Hospitals,Pfizer,1,2925
+2021-02-04,51199,York,Peninsula,Pharmacies,Moderna,2,200
+2021-01-11,51047,Culpeper,Rappahannock Rapidan,Hospitals,Moderna,2,1000
+2021-02-04,51740,Portsmouth,Portsmouth,Local Health Departments,Moderna,2,200
+2021-01-18,51051,Dickenson,Cumberland Plateau,Other Community Health Providers,Moderna,1,100
+2021-02-01,51169,Scott,Lenowisco,Local Health Departments,Moderna,1,100
+2020-12-22,51680,Lynchburg,Central Virginia,Hospitals,Moderna,1,1000
+2021-01-03,51550,Chesapeake,Chesapeake,Local Health Departments,Moderna,1,100
+2021-01-20,51117,Mecklenburg,Southside,Local Health Departments,Moderna,2,200
+2021-01-30,51041,Chesterfield,Chesterfield,Local Health Departments,Pfizer,1,975
+2020-12-28,51700,Newport News,Peninsula,Local Health Departments,Moderna,1,600
+2021-02-13,51710,Norfolk,Norfolk,Medical Practices,Pfizer,1,975
+2021-01-18,51137,Orange,Rappahannock Rapidan,Medical Practices,Moderna,1,100
+2021-02-06,51840,Winchester,Lord Fairfax,Hospitals,Pfizer,1,1950
+2021-02-04,51131,Northampton,Eastern Shore,Other Community Health Providers,Moderna,2,200
+2021-01-18,51550,Chesapeake,Chesapeake,Medical Practices,Moderna,1,700
+2021-01-30,51680,Lynchburg,Central Virginia,Local Health Departments,Pfizer,1,1950
+2020-12-20,51720,Norton,Lenowisco,Hospitals,Moderna,1,1000
+2021-01-11,51760,Richmond City,Richmond,Hospitals,Moderna,2,4300
+2021-02-13,51041,Chesterfield,Chesterfield,Local Health Departments,Pfizer,2,2925
+2021-02-07,51550,Chesapeake,Chesapeake,Medical Practices,Moderna,1,600
+2020-12-20,51710,Norfolk,Norfolk,Hospitals,Moderna,1,2000
+2020-12-20,51740,Portsmouth,Portsmouth,Hospitals,Moderna,1,2000
+2021-01-03,51053,Dinwiddie,Crater,Hospitals,Moderna,1,1000
+2021-01-11,51173,Smyth,Mount Rogers,Hospitals,Moderna,2,500
+2021-02-04,51041,Chesterfield,Chesterfield,Local Health Departments,Moderna,2,600
+2021-02-07,51137,Orange,Rappahannock Rapidan,Local Health Departments,Moderna,1,1100
+2021-01-24,51147,Prince Edward,Piedmont,Local Health Departments,Moderna,1,1200
+2020-12-21,51760,Richmond City,Richmond,Local Health Departments,Moderna,1,1300
+2021-01-28,51770,Roanoke City,Roanoke,Local Health Departments,Moderna,2,1000
+2021-01-18,51840,Winchester,Lord Fairfax,Pharmacies,Moderna,1,100
+2021-02-04,51019,Bedford,Central Virginia,Pharmacies,Moderna,2,100
+2021-01-18,51187,Warren,Lord Fairfax,Local Health Departments,Moderna,1,600
+2021-02-07,51760,Richmond City,Richmond,Local Health Departments,Moderna,1,1000
+2021-02-13,51650,Hampton,Hampton,Hospitals,Pfizer,1,975
+2021-01-30,51630,Fredericksburg,Rappahannock,Hospitals,Pfizer,1,1950
+2021-02-13,51810,Virginia Beach,Virginia Beach,Local Health Departments,Pfizer,1,2925
+2021-02-01,51093,Isle of Wight,Western Tidewater,Medical Practices,Moderna,1,100
+2021-01-03,51147,Prince Edward,Piedmont,Local Health Departments,Moderna,1,500
+2021-01-24,51590,Danville,Pittsylvania-Danville,Medical Practices,Moderna,1,200
+2021-01-10,51121,Montgomery,New River,Local Health Departments,Moderna,1,2400
+2021-02-13,51710,Norfolk,Norfolk,Local Health Departments,Pfizer,1,975
+2021-02-04,51019,Bedford,Central Virginia,Hospitals,Moderna,2,100
+2021-02-04,51167,Russell,Cumberland Plateau,Local Health Departments,Moderna,2,1000
+2021-02-01,51840,Winchester,Lord Fairfax,Local Health Departments,Moderna,1,100
+2021-02-08,51087,Henrico,Henrico,Pharmacies,Moderna,1,400
+2021-01-11,51041,Chesterfield,Chesterfield,Hospitals,Moderna,2,1000
+2021-01-20,51840,Winchester,Lord Fairfax,Hospitals,Moderna,2,3000
+2021-02-13,51840,Winchester,Lord Fairfax,Hospitals,Pfizer,2,975
+2021-01-11,51153,Prince William,Prince William,Hospitals,Moderna,2,4000
+2021-02-13,51550,Chesapeake,Chesapeake,Medical Practices,Pfizer,2,975
+2021-02-13,51173,Smyth,Mount Rogers,Local Health Departments,Pfizer,2,975
+2021-02-07,51051,Dickenson,Cumberland Plateau,Pharmacies,Moderna,1,100
+2021-01-11,51153,Prince William,Prince William,Local Health Departments,Moderna,2,1100
+2021-02-01,51031,Campbell,Central Virginia,Medical Practices,Moderna,1,100
+2021-02-07,51041,Chesterfield,Chesterfield,Local Health Departments,Moderna,1,900
+2021-02-06,51107,Loudoun,Loudoun,Local Health Departments,Pfizer,1,2925
+2021-01-08,51191,Washington,Mount Rogers,Hospitals,Pfizer,1,975
+2021-01-04,51085,Hanover,Chickahominy,Local Health Departments,Moderna,1,500
+2021-02-06,51600,Fairfax City,Fairfax,Local Health Departments,Pfizer,1,13650
+2021-02-01,51143,Pittsylvania,Pittsylvania-Danville,Other Community Health Providers,Moderna,1,100
+2021-01-03,51840,Winchester,Lord Fairfax,Local Health Departments,Moderna,1,200
+2021-02-07,51107,Loudoun,Loudoun,Local Health Departments,Moderna,2,4000
+2021-01-24,51117,Mecklenburg,Southside,Other Community Health Providers,Moderna,1,200
+2021-02-04,51119,Middlesex,Three Rivers,Local Health Departments,Moderna,2,800
+2021-01-30,51600,Fairfax City,Fairfax,Local Health Departments,Pfizer,1,12675
+2021-01-24,51117,Mecklenburg,Southside,Medical Practices,Moderna,1,200
+2021-01-30,51770,Roanoke City,Roanoke,Local Health Departments,Pfizer,1,975
+2021-01-23,51710,Norfolk,Norfolk,Local Health Departments,Pfizer,1,975
+2021-02-04,51131,Northampton,Eastern Shore,Local Health Departments,Moderna,2,200
+2021-02-07,51840,Winchester,Lord Fairfax,Local Health Departments,Moderna,2,800
+2021-01-24,51590,Danville,Pittsylvania-Danville,Local Health Departments,Moderna,1,300
+2020-12-30,51013,Arlington,Arlington,Hospitals,Pfizer,2,1950
+2021-01-03,51117,Mecklenburg,Southside,Local Health Departments,Moderna,1,300
+2021-01-12,51041,Chesterfield,Chesterfield,Local Health Departments,Moderna,2,3900
+2021-01-11,51800,Suffolk,Western Tidewater,Hospitals,Moderna,2,1000
+2021-02-04,51065,Fluvanna,Blue Ridge,Other Community Health Providers,Moderna,2,500
+2021-01-11,51179,Stafford,Rappahannock,Hospitals,Moderna,1,1000
+2021-02-04,51510,Alexandria,Alexandria,Other Community Health Providers,Moderna,2,200
+2021-02-06,51650,Hampton,Hampton,Hospitals,Pfizer,1,975
+2021-02-06,51760,Richmond City,Richmond,Pharmacies,Pfizer,1,1950
+2020-12-21,51059,Fairfax,Fairfax,Medical Practices,Moderna,1,300
+2021-01-24,51025,Brunswick,Southside,Other Community Health Providers,Moderna,1,200
+2020-12-28,51147,Prince Edward,Piedmont,Local Health Departments,Moderna,1,1500
+2021-01-18,51087,Henrico,Henrico,Other Community Health Providers,Moderna,1,100
+2020-12-22,51117,Mecklenburg,Southside,Hospitals,Moderna,1,1000
+2020-12-30,51191,Washington,Mount Rogers,Hospitals,Pfizer,2,975
+2021-02-04,51047,Culpeper,Rappahannock Rapidan,Pharmacies,Moderna,2,100
+2021-02-01,51147,Prince Edward,Piedmont,Local Health Departments,Moderna,1,1900
+2020-12-22,51153,Prince William,Prince William,Local Health Departments,Moderna,1,1100
+2021-02-04,51059,Fairfax,Fairfax,Medical Practices,Moderna,2,200
+2021-02-13,51121,Montgomery,New River,Local Health Departments,Pfizer,1,975
+2021-01-10,51135,Nottoway,Piedmont,Other Community Health Providers,Moderna,1,600
+2021-02-06,51770,Roanoke City,Roanoke,Hospitals,Pfizer,1,975
+2021-02-04,51087,Henrico,Henrico,Other Community Health Providers,Moderna,2,100
+2021-01-19,51700,Newport News,Peninsula,Hospitals,Pfizer,2,975
+2021-02-07,51105,Lee,Lenowisco,Local Health Departments,Moderna,1,100
+2020-12-22,51185,Tazewell,Cumberland Plateau,Hospitals,Moderna,1,1000
+2021-02-08,51141,Patrick,West Piedmont,Pharmacies,Moderna,1,100
+2021-01-18,51710,Norfolk,Norfolk,Local Health Departments,Moderna,1,1300
+2021-02-13,51760,Richmond City,Richmond,Pharmacies,Pfizer,2,7800
+2021-02-03,51085,Hanover,Chickahominy,Local Health Departments,Moderna,1,1000
+2021-01-18,51089,Henry,West Piedmont,Medical Practices,Moderna,1,100
+2021-02-01,Not Reported,Not Reported,Not Reported,Pharmacies,Moderna,1,100
+2021-02-06,51015,Augusta,Central Shenandoah,Hospitals,Pfizer,2,1950
+2021-02-01,51013,Arlington,Arlington,Local Health Departments,Moderna,1,800
+2021-01-24,51710,Norfolk,Norfolk,Medical Practices,Moderna,1,100
+2021-02-08,51067,Franklin County,West Piedmont,Pharmacies,Moderna,1,100
+2021-02-01,51650,Hampton,Hampton,Other Community Health Providers,Moderna,1,500
+2021-01-30,51710,Norfolk,Norfolk,Local Health Departments,Pfizer,1,975
+2021-01-24,51083,Halifax,Southside,Other Community Health Providers,Moderna,1,200
+2021-01-23,51041,Chesterfield,Chesterfield,Local Health Departments,Pfizer,1,2925
+2020-12-22,51001,Accomack,Eastern Shore,Local Health Departments,Moderna,1,200
+2021-02-06,51710,Norfolk,Norfolk,Local Health Departments,Pfizer,1,975
+2021-01-23,51153,Prince William,Prince William,Pharmacies,Pfizer,1,975
+2021-01-24,51169,Scott,Lenowisco,Local Health Departments,Moderna,1,400
+2021-01-10,51137,Orange,Rappahannock Rapidan,Local Health Departments,Moderna,1,1000
+2021-01-24,51095,James City,Peninsula,Pharmacies,Moderna,1,200
+2021-02-01,51031,Campbell,Central Virginia,Pharmacies,Moderna,1,100
+2021-02-06,51540,Charlottesville,Blue Ridge,Local Health Departments,Pfizer,1,1950
+2021-02-06,51630,Fredericksburg,Rappahannock,Hospitals,Pfizer,1,1950
+2021-02-08,51800,Suffolk,Western Tidewater,Pharmacies,Moderna,1,200
+2021-01-28,51600,Fairfax City,Fairfax,Local Health Departments,Moderna,2,12000
+2021-02-07,51075,Goochland,Chickahominy,Other Community Health Providers,Moderna,2,100
+2021-02-06,51630,Fredericksburg,Rappahannock,Hospitals,Pfizer,2,1950
+2021-02-08,51069,Frederick,Lord Fairfax,Pharmacies,Moderna,1,100
+2021-01-10,51153,Prince William,Prince William,Other Community Health Providers,Moderna,1,200
+2021-02-12,51061,Fauquier,Rappahannock Rapidan,Local Health Departments,Pfizer,1,975
+2021-02-04,51820,Waynesboro,Central Shenandoah,Pharmacies,Moderna,2,100
+2021-02-07,51173,Smyth,Mount Rogers,Local Health Departments,Moderna,1,1100
+2021-02-08,51153,Prince William,Prince William,Other Community Health Providers,Moderna,1,100
+2020-12-22,51199,York,Peninsula,Hospitals,Moderna,1,2000
+2021-01-03,51163,Rockbridge,Central Shenandoah,Local Health Departments,Moderna,1,100
+2021-01-18,51770,Roanoke City,Roanoke,Local Health Departments,Pfizer,1,1950
+2021-01-24,51117,Mecklenburg,Southside,Local Health Departments,Moderna,1,100
+2021-02-13,51600,Fairfax City,Fairfax,Local Health Departments,Pfizer,1,13650
+2021-01-10,51087,Henrico,Henrico,Pharmacies,Moderna,1,900
+2021-01-20,51840,Winchester,Lord Fairfax,Local Health Departments,Moderna,2,100
+2020-12-28,51610,Falls Church,Fairfax,Medical Practices,Moderna,1,1000
+2021-02-06,51013,Arlington,Arlington,Local Health Departments,Pfizer,1,1950
+2021-02-01,51141,Patrick,West Piedmont,Pharmacies,Moderna,1,100
+2021-01-10,51590,Danville,Pittsylvania-Danville,Local Health Departments,Moderna,1,200
+2021-02-01,51099,King George,Rappahannock,Pharmacies,Moderna,1,100
+2021-02-01,51103,Lancaster,Three Rivers,Pharmacies,Moderna,1,100
+2021-01-10,51187,Warren,Lord Fairfax,Local Health Departments,Moderna,1,300
+2021-01-24,51059,Fairfax,Fairfax,Hospitals,Moderna,1,200
+2021-01-18,51640,Galax,Mount Rogers,Hospitals,Moderna,1,200
+2021-01-24,51680,Lynchburg,Central Virginia,Pharmacies,Moderna,1,100
+2021-01-11,51590,Danville,Pittsylvania-Danville,Hospitals,Moderna,2,2000
+2021-01-20,51087,Henrico,Henrico,Hospitals,Moderna,2,200
+2021-01-18,51550,Chesapeake,Chesapeake,Local Health Departments,Moderna,1,1500
+2021-01-11,51191,Washington,Mount Rogers,Hospitals,Moderna,2,3000
+2021-01-24,51081,Greensville,Crater,Other Community Health Providers,Moderna,1,600
+2020-12-22,51019,Bedford,Central Virginia,Hospitals,Moderna,1,1000
+2020-12-20,51087,Henrico,Henrico,Hospitals,Moderna,1,2000
+2021-02-08,51107,Loudoun,Loudoun,Pharmacies,Moderna,1,300
+2021-02-01,51790,Staunton,Central Shenandoah,Local Health Departments,Moderna,1,2500
+2021-01-03,51550,Chesapeake,Chesapeake,Other Community Health Providers,Moderna,1,400
+2021-01-28,51700,Newport News,Peninsula,Hospitals,Moderna,2,3000
+2021-01-28,51840,Winchester,Lord Fairfax,Hospitals,Moderna,2,3400
+2021-01-18,51107,Loudoun,Loudoun,Hospitals,Moderna,1,100
+2020-12-30,51015,Augusta,Central Shenandoah,Hospitals,Pfizer,1,975
+2021-02-07,51019,Bedford,Central Virginia,Pharmacies,Moderna,1,100
+2021-01-11,51173,Smyth,Mount Rogers,Local Health Departments,Moderna,2,4100
+2021-02-04,51147,Prince Edward,Piedmont,Other Community Health Providers,Moderna,2,600
+2021-02-04,51137,Orange,Rappahannock Rapidan,Local Health Departments,Moderna,2,1400
+2021-01-24,51087,Henrico,Henrico,Pharmacies,Moderna,1,1400
+2021-01-18,51191,Washington,Mount Rogers,Pharmacies,Moderna,1,200
+2021-01-03,51790,Staunton,Central Shenandoah,Local Health Departments,Moderna,1,1200
+2021-01-24,51137,Orange,Rappahannock Rapidan,Local Health Departments,Moderna,1,1200
+2021-02-07,51790,Staunton,Central Shenandoah,Local Health Departments,Moderna,1,1100
+2021-01-18,51770,Roanoke City,Roanoke,Hospitals,Pfizer,1,2925
+2021-01-03,51173,Smyth,Mount Rogers,Other Community Health Providers,Moderna,1,600
+2020-12-28,51710,Norfolk,Norfolk,Hospitals,Moderna,1,4100
+2021-02-04,51710,Norfolk,Norfolk,Medical Practices,Moderna,2,1600
+2020-12-22,51165,Rockingham,Central Shenandoah,Hospitals,Moderna,1,2000
+2021-02-08,51103,Lancaster,Three Rivers,Medical Practices,Moderna,1,100
+2021-01-24,51790,Staunton,Central Shenandoah,Local Health Departments,Moderna,1,1100
+2021-01-24,51031,Campbell,Central Virginia,Pharmacies,Moderna,1,100
+2021-01-24,51550,Chesapeake,Chesapeake,Local Health Departments,Moderna,1,1400
+2021-02-01,51153,Prince William,Prince William,Pharmacies,Moderna,1,1000
+2020-12-21,51177,Spotsylvania,Rappahannock,Local Health Departments,Moderna,1,100
+2021-02-07,51510,Alexandria,Alexandria,Pharmacies,Moderna,1,300
