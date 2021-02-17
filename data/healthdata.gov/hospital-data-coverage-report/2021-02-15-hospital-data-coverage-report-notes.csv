@@ -1,0 +1,119 @@
+Category,Details
+Report Description,"Previous coverage reports initially focused on specific fields, primarily around remdesivir allocation, and also focused on a subset of priority hospitals. The Secretary's Guidance for Hospital Reporting and FAQ and the new CMS Interim Final Rule with Comment Period (IFC) require all hospitals who are licensed to provide 24 hour care to report all of the mandatory non-supply fields seven days a week within 1 business day of the reporting date (except for psychiatric and rehabilitation facilities who must report weekly). This includes short term, long term, critical access, childrens, Medicaid only short term, Medicaid only childrens,  Distinct Part Psychiatric Hospital, and Medicaid only long term hospitals and refers to items 1 - 24 in the Guidance for Hospital Reporting and FAQ. Hospitals are only required to report supply related fields (items 26, 27, 29, 30, 31) on Wednesdays. 
+
+Psychiatric, Rehabilitation, Medicaid only Childrens Psychiatric, Medicaid only Psychiatric, and Medicaid only Rehabilitation hospitals are required to report all mandatory fields on Wednesdays only. This refers to items 1 - 24, 26, 27, 29, 30, and 31 in the FAQ. 
+
+This Hospital Data Coverage Report covers the last week from Friday to Thursday and lists each hospital in the state, the percentage of mandatory fields reported, the number of days reported at 100%, whether a hospital is required to report on Wednesdays only, and lists each required field with the number of days that specific field was reported for the week. For facilities that are only required to report once a week, the overall count of days at 100% are shown as 7 if reported successfully for Wednesday and 0 otherwise. Individual fields are shown as Yes if reported successfully on Wednesday and No otherwise. To support identification of missing fields, cells showing required fields are shaded as follows: Fields reported 0-3 times are shaded red, fields reported 4-6 times are shaded yellow. Fields that are only required to be reported on Wednesdays are listed as Yes/No indicating if the fields was reported as required. All No indicators are shaded red. We appreciate your feedback on this collaborative effort to improve COVID-19 hospital reporting for the pandemic response. Please let us know of any discrepancies or issues you find in the report by emailing protect-servicedesk@hhs.gov"
+URL for Secretary's Guidance for Hospital Reporting and FAQ,https://www.hhs.gov/sites/default/files/covid-19-faqs-hospitals-hospital-laboratory-acute-care-facility-data-reporting.pdf
+URL for CMS Interim Final Rule with Comment Period,https://www.cms.gov/medicareprovider-enrollment-and-certificationsurveycertificationgeninfopolicy-and-memos-states-and/interim-final-rule-ifc-cms-3401-ifc-requirements-and-enforcement-process-reporting-covid-19-data
+Date Report Produced,02/15/2021
+Date Range,02/05/2021 - 02/11/2021
+Field Definitions,Additional information about the fields in the report is listed below.
+Hospital metadata fields,"Hospital metadata fields including state, CCN (CMS certification number), facility name, street address, city, zip code, fips county, and provider subtype are pulled from the most recent Centers for Medicare and Medicaid Services (CMS) Provider of Service (POS) file."
+Report Source,"Reflects the source of hospital-reported data used for the completeness report. State indicates data submitted directly to HHS Protect by a state on behalf of hospitals, TT indicates data submitted through Teletracking, State/TT indicates data is submitted through both sources, N/A indicates no data was submitted. For hospitals with data from both State and Teletracking (TT), a single data source is used for each day of the week, but data source may be mixed over the week."
+Dates with Missing Data,"If any, the dates when a facility did not fully report all required fields during the enforcement period"
+Certified Bed Count,The certified bed count associated with the hospital in the CMS POS file.
+Component Hospitals,The number of individual hospital campuses covered by the CCN level reported displayed in this report. 
+Week Ending,The last day of the 7 day period used to asses reporting completeness. The 7 day period is the prior Friday to Thursday.
+Days at 100%,The number of the days in the prior 7 day period that the hospital reported 100% of required fields.
+Percentage of Required Fields Reported,The percentage of required fields reported over the prior 7 day period.
+Hospital Required to Report Wed Only,"Indicates whether a hospital is only required to report once a week, on Wednesdays."
+Required Fields,The mandatory fields included in this report are listed below. Note a subset of fields related to supplies are only mandatory on Wednesdays.
+Hospitals in Suspense,A separate tab showing facilities currently in suspense regarding CoP requirements due to being in a work plan or other related reasons is shown if any facilities are currently in suspense. These CCNs will not be included in the tab listing all other hospitals or included in any summary counts while in suspense.
+Fields Required  7 Days a Week,total_beds (2A)
+,all_adult_hospital_beds (2B)
+,inpatient_beds (3A)
+,all_adult_hospital_inpatient_beds (3B)
+,inpatient_beds_used (4A)
+,all_adult_hospital_inpatient_bed_occupied (4B)
+,total_icu_beds (5A)
+,total_staffed_adult_icu_beds (5B)
+,icu_beds_used (6A)
+,staffed_adult_icu_bed_occupancy (6B)
+,total_ventilators (7)
+,ventilators_used (8)
+,total_adult_patients_hospitalized_confirmed_and_suspected_covid (9A)
+,total_adult_patients_hospitalized_confirmed_covid (9B)
+,total_pediatric_patients_hospitalized_confirmed_and_suspected_covid (10A)
+,total_pediatric_patients_hospitalized_confirmed_covid (10B)
+,inpatient_ventilators_used_covid (11)
+,staffed_icu_adult_patients_confirmed_and_suspected_covid (12A)
+,staffed_icu_adult_patients_confirmed_covid (12B)
+,hospital_onset_covid (13)
+,overflow_covid (14)
+,overflow_ventilators_used_covid (15)
+,deaths_covid (16)
+,previous_day_admission_adult_covid_confirmed (17A)
+,previous_day_admission_adult_covid_suspected (17B)
+,previous_day_admission_adult_covid_confirmed_all** (17A)
+,previous_day_admission_adult_covid_suspected_all* (17B)
+,previous_day_admission_pediatric_covid_confirmed (18A)
+,previous_day_admission_pediatric_covid_suspected (18B)
+,previous_day_total_ED_visits (19)
+,previous_day_covid_ED_visits (20)
+,﻿total_patients_hospitalized_confirmed_influenza (33)
+,previous_day_admission_influenza_confirmed (34)
+,icu_patients_confirmed_influenza (35)
+,total_patients_hospitalized_confirmed_influenza_and_covid (36)
+,previous_day_deaths_influenza (37)
+,previous_day_deaths_covid_and_influenza (38)
+Previous Day Admission Covid Confirmed Age Fields Grouped together** (17A),previous_day_admission_adult_covid_confirmed_18-19**
+,previous_day_admission_adult_covid_confirmed_20-29**
+,previous_day_admission_adult_covid_confirmed_30-39**
+,previous_day_admission_adult_covid_confirmed_40-49**
+,previous_day_admission_adult_covid_confirmed_50-59**
+,previous_day_admission_adult_covid_confirmed_60-69**
+,previous_day_admission_adult_covid_confirmed_70-79**
+,previous_day_admission_adult_covid_confirmed_80+**
+Previous Day Admission Covid Suspected Age Fields Grouped together* (17B),previous_day_admission_adult_covid_suspected_18-19*
+,previous_day_admission_adult_covid_suspected_20-29*
+,previous_day_admission_adult_covid_suspected_30-39*
+,previous_day_admission_adult_covid_suspected_40-49*
+,previous_day_admission_adult_covid_suspected_50-59*
+,previous_day_admission_adult_covid_suspected_60-69*
+,previous_day_admission_adult_covid_suspected_70-79*
+,previous_day_admission_adult_covid_suspected_80+*
+Fields required on Wednesday only ,on_hand_ventilator_supplies_in_days (27A)
+,n95_respirators_days_available (27B)
+,on_hand_supply_of_surgical_masks_in_days (27C)
+,on_hand_supply_of_eye_protection_in_days (27D)
+,on_hand_supply_of_single_use_surgical_gowns_in_days (27E)
+,on_hand_supply_of_gloves_in_days (27F)
+,able_to_obtain_ventilator_supplies (29A)
+,able_to_obtain_ventilator_medications (29B)
+,able_to_obtain_n95_masks (29C)
+,able_to_obtain_PAPRs (29D)
+,able_to_obtain_surgical_masks (29E)
+,able_to_obtain_eye_protection (29F)
+,able_to_obtain_single_use_gowns (29G)
+,able_to_obtain_gloves (29H)
+,able_to_maintain_ventilator_supplies (30A)
+,able_to_maintain_ventilator_medications (30B)
+,able_to_maintain_n95_masks (30C)
+,able_to_maintain_PAPRs (30D)
+,able_to_maintain_surgical_masks (30E)
+,able_to_maintain_eye_protection (30F)
+,able_to_maintain_single_use_gowns (30G)
+,able_to_maintain_gloves (30H)
+,able_to_maintain_lab_nasal_pharyngeal_swabs (30I)
+,able_to_maintain_lab_nasal_swabs (30J)
+,able_to_maintain_lab_viral_transport_media (30K)
+,reusable_isolation_gowns_used (31A)
+,reusable_PAPRs_or_elastomerics_used (31B)
+,reusable_n95_masks_used (31C)
+,on_hand_supply_therapeutic_a_casirivimab_imdevimab_courses (40A)
+,previous_week_therapeutic_a_casirivimab_imdevimab_courses_used (40B)
+,on_hand_supply_therapeutic_b_bamlanivimab_courses (40C)
+,previous_week_therapeutic_b_bamlanivimab_courses_used (40D)
+For Information Only,PPE_supply_management_source (26)
+,previous_day_remdesivir_used (21)
+,on_hand_supply_remdesivir_vials (22)
+,critical_staffing_shortage_today (23)
+,critical_staffing_shortage_anticipated_within_week (24)
+,previous_week_personnel_covid_vaccinated_doses_administered (41)
+,total_personnel_covid_vaccinated_doses_none (42)
+,total_personnel_covid_vaccinated_doses_one (43)
+,total_personnel_covid_vaccinated_doses_all (44)
+,total_personnel (45)
+,previous_week_patients_covid_vaccinated_doses_one (46)
+,previous_week_patients_covid_vaccinated_doses_all (47)
