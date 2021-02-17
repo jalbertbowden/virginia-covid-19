@@ -1,0 +1,1253 @@
+[
+   {
+      "Facility" : "North Chicago, IL HCS",
+      "VA Confirmed Total_Display" : "4218",
+      "Active" : "39",
+      "Convalescent" : "4156",
+      "Known Deaths" : "23",
+      "InitialVaccineVeteranTotal" : "4434",
+      "CompletedVaccineVeteranTotal" : "881"
+   },
+   {
+      "Facility" : "Columbia, SC HCS",
+      "VA Confirmed Total_Display" : "4021",
+      "Active" : "163",
+      "Convalescent" : "3683",
+      "Known Deaths" : "175",
+      "InitialVaccineVeteranTotal" : "6298",
+      "CompletedVaccineVeteranTotal" : "775"
+   },
+   {
+      "Facility" : "Phoenix, AZ HCS",
+      "VA Confirmed Total_Display" : "3969",
+      "Active" : "120",
+      "Convalescent" : "3649",
+      "Known Deaths" : "200",
+      "InitialVaccineVeteranTotal" : "10262",
+      "CompletedVaccineVeteranTotal" : "3193"
+   },
+   {
+      "Facility" : "San Antonio, TX HCS",
+      "VA Confirmed Total_Display" : "3891",
+      "Active" : "107",
+      "Convalescent" : "3642",
+      "Known Deaths" : "142",
+      "InitialVaccineVeteranTotal" : "14182",
+      "CompletedVaccineVeteranTotal" : "10057"
+   },
+   {
+      "Facility" : "Atlanta, GA HCS",
+      "VA Confirmed Total_Display" : "3776",
+      "Active" : "162",
+      "Convalescent" : "3500",
+      "Known Deaths" : "114",
+      "InitialVaccineVeteranTotal" : "7828",
+      "CompletedVaccineVeteranTotal" : "1187"
+   },
+   {
+      "Facility" : "Loma Linda, CA HCS",
+      "VA Confirmed Total_Display" : "3612",
+      "Active" : "92",
+      "Convalescent" : "3391",
+      "Known Deaths" : "129",
+      "InitialVaccineVeteranTotal" : "7903",
+      "CompletedVaccineVeteranTotal" : "694"
+   },
+   {
+      "Facility" : "Dallas, TX HCS",
+      "VA Confirmed Total_Display" : "3556",
+      "Active" : "174",
+      "Convalescent" : "3245",
+      "Known Deaths" : "137",
+      "InitialVaccineVeteranTotal" : "11084",
+      "CompletedVaccineVeteranTotal" : "2343"
+   },
+   {
+      "Facility" : "Orlando, FL HCS",
+      "VA Confirmed Total_Display" : "3548",
+      "Active" : "132",
+      "Convalescent" : "3347",
+      "Known Deaths" : "69",
+      "InitialVaccineVeteranTotal" : "24400",
+      "CompletedVaccineVeteranTotal" : "13426"
+   },
+   {
+      "Facility" : "Houston, TX HCS",
+      "VA Confirmed Total_Display" : "3474",
+      "Active" : "111",
+      "Convalescent" : "3249",
+      "Known Deaths" : "114",
+      "InitialVaccineVeteranTotal" : "13151",
+      "CompletedVaccineVeteranTotal" : "3257"
+   },
+   {
+      "Facility" : "Gainesville, FL HCS",
+      "VA Confirmed Total_Display" : "3345",
+      "Active" : "123",
+      "Convalescent" : "3094",
+      "Known Deaths" : "128",
+      "InitialVaccineVeteranTotal" : "19284",
+      "CompletedVaccineVeteranTotal" : "6466"
+   },
+   {
+      "Facility" : "Middle Tennessee HCS",
+      "VA Confirmed Total_Display" : "3319",
+      "Active" : "111",
+      "Convalescent" : "3061",
+      "Known Deaths" : "147",
+      "InitialVaccineVeteranTotal" : "9870",
+      "CompletedVaccineVeteranTotal" : "2276"
+   },
+   {
+      "Facility" : "Temple, TX HCS",
+      "VA Confirmed Total_Display" : "3266",
+      "Active" : "127",
+      "Convalescent" : "3049",
+      "Known Deaths" : "90",
+      "InitialVaccineVeteranTotal" : "6151",
+      "CompletedVaccineVeteranTotal" : "1978"
+   },
+   {
+      "Facility" : "Minneapolis, MN HCS",
+      "VA Confirmed Total_Display" : "2957",
+      "Active" : "62",
+      "Convalescent" : "2722",
+      "Known Deaths" : "173",
+      "InitialVaccineVeteranTotal" : "18111",
+      "CompletedVaccineVeteranTotal" : "4731"
+   },
+   {
+      "Facility" : "Greater Los Angeles, CA HCS",
+      "VA Confirmed Total_Display" : "2833",
+      "Active" : "62",
+      "Convalescent" : "2665",
+      "Known Deaths" : "106",
+      "InitialVaccineVeteranTotal" : "9695",
+      "CompletedVaccineVeteranTotal" : "4813"
+   },
+   {
+      "Facility" : "Long Beach, CA HCS",
+      "VA Confirmed Total_Display" : "2819",
+      "Active" : "70",
+      "Convalescent" : "2655",
+      "Known Deaths" : "94",
+      "InitialVaccineVeteranTotal" : "7876",
+      "CompletedVaccineVeteranTotal" : "1602"
+   },
+   {
+      "Facility" : "Salisbury, NC HCS",
+      "VA Confirmed Total_Display" : "2676",
+      "Active" : "91",
+      "Convalescent" : "2463",
+      "Known Deaths" : "122",
+      "InitialVaccineVeteranTotal" : "11338",
+      "CompletedVaccineVeteranTotal" : "2943"
+   },
+   {
+      "Facility" : "Aurora, CO HCS",
+      "VA Confirmed Total_Display" : "2670",
+      "Active" : "57",
+      "Convalescent" : "2529",
+      "Known Deaths" : "84",
+      "InitialVaccineVeteranTotal" : "6751",
+      "CompletedVaccineVeteranTotal" : "1073"
+   },
+   {
+      "Facility" : "Tampa, FL HCS",
+      "VA Confirmed Total_Display" : "2600",
+      "Active" : "69",
+      "Convalescent" : "2421",
+      "Known Deaths" : "110",
+      "InitialVaccineVeteranTotal" : "20561",
+      "CompletedVaccineVeteranTotal" : "8498"
+   },
+   {
+      "Facility" : "Bay Pines, FL HCS",
+      "VA Confirmed Total_Display" : "2575",
+      "Active" : "77",
+      "Convalescent" : "2414",
+      "Known Deaths" : "84",
+      "InitialVaccineVeteranTotal" : "18582",
+      "CompletedVaccineVeteranTotal" : "7804"
+   },
+   {
+      "Facility" : "Mountain Home, TN HCS",
+      "VA Confirmed Total_Display" : "2569",
+      "Active" : "77",
+      "Convalescent" : "2340",
+      "Known Deaths" : "152",
+      "InitialVaccineVeteranTotal" : "7446",
+      "CompletedVaccineVeteranTotal" : "3092"
+   },
+   {
+      "Facility" : "Milwaukee, WI HCS",
+      "VA Confirmed Total_Display" : "2567",
+      "Active" : "45",
+      "Convalescent" : "2441",
+      "Known Deaths" : "81",
+      "InitialVaccineVeteranTotal" : "9096",
+      "CompletedVaccineVeteranTotal" : "3268"
+   },
+   {
+      "Facility" : "Charleston, SC HCS",
+      "VA Confirmed Total_Display" : "2486",
+      "Active" : "90",
+      "Convalescent" : "2339",
+      "Known Deaths" : "57",
+      "InitialVaccineVeteranTotal" : "10687",
+      "CompletedVaccineVeteranTotal" : "2601"
+   },
+   {
+      "Facility" : "Las Vegas, NV HCS",
+      "VA Confirmed Total_Display" : "2417",
+      "Active" : "101",
+      "Convalescent" : "2229",
+      "Known Deaths" : "87",
+      "InitialVaccineVeteranTotal" : "8578",
+      "CompletedVaccineVeteranTotal" : "3853"
+   },
+   {
+      "Facility" : "N. California HCS",
+      "VA Confirmed Total_Display" : "2378",
+      "Active" : "98",
+      "Convalescent" : "2186",
+      "Known Deaths" : "94",
+      "InitialVaccineVeteranTotal" : "12575",
+      "CompletedVaccineVeteranTotal" : "4287"
+   },
+   {
+      "Facility" : "Indianapolis, IN HCS",
+      "VA Confirmed Total_Display" : "2287",
+      "Active" : "63",
+      "Convalescent" : "2116",
+      "Known Deaths" : "108",
+      "InitialVaccineVeteranTotal" : "6969",
+      "CompletedVaccineVeteranTotal" : "1611"
+   },
+   {
+      "Facility" : "Little Rock, AR HCS",
+      "VA Confirmed Total_Display" : "2283",
+      "Active" : "90",
+      "Convalescent" : "2107",
+      "Known Deaths" : "86",
+      "InitialVaccineVeteranTotal" : "5849",
+      "CompletedVaccineVeteranTotal" : "2304"
+   },
+   {
+      "Facility" : "San Diego, CA HCS",
+      "VA Confirmed Total_Display" : "2254",
+      "Active" : "86",
+      "Convalescent" : "2131",
+      "Known Deaths" : "37",
+      "InitialVaccineVeteranTotal" : "9288",
+      "CompletedVaccineVeteranTotal" : "2478"
+   },
+   {
+      "Facility" : "Birmingham, AL HCS",
+      "VA Confirmed Total_Display" : "2196",
+      "Active" : "91",
+      "Convalescent" : "1997",
+      "Known Deaths" : "108",
+      "InitialVaccineVeteranTotal" : "9470",
+      "CompletedVaccineVeteranTotal" : "3005"
+   },
+   {
+      "Facility" : "Hines, IL HCS",
+      "VA Confirmed Total_Display" : "2191",
+      "Active" : "39",
+      "Convalescent" : "2071",
+      "Known Deaths" : "81",
+      "InitialVaccineVeteranTotal" : "10814",
+      "CompletedVaccineVeteranTotal" : "5334"
+   },
+   {
+      "Facility" : "Texas Valley Coastal Bend HCS",
+      "VA Confirmed Total_Display" : "2183",
+      "Active" : "37",
+      "Convalescent" : "2005",
+      "Known Deaths" : "141",
+      "InitialVaccineVeteranTotal" : "3561",
+      "CompletedVaccineVeteranTotal" : "1548"
+   },
+   {
+      "Facility" : "St. Louis, MO HCS",
+      "VA Confirmed Total_Display" : "2164",
+      "Active" : "53",
+      "Convalescent" : "2029",
+      "Known Deaths" : "82",
+      "InitialVaccineVeteranTotal" : "9586",
+      "CompletedVaccineVeteranTotal" : "3911"
+   },
+   {
+      "Facility" : "Muskogee, OK HCS",
+      "VA Confirmed Total_Display" : "2150",
+      "Active" : "50",
+      "Convalescent" : "1971",
+      "Known Deaths" : "129",
+      "InitialVaccineVeteranTotal" : "3991",
+      "CompletedVaccineVeteranTotal" : "1121"
+   },
+   {
+      "Facility" : "Kansas City, MO HCS",
+      "VA Confirmed Total_Display" : "2142",
+      "Active" : "68",
+      "Convalescent" : "1983",
+      "Known Deaths" : "91",
+      "InitialVaccineVeteranTotal" : "10703",
+      "CompletedVaccineVeteranTotal" : "4699"
+   },
+   {
+      "Facility" : "Fayetteville, NC HCS",
+      "VA Confirmed Total_Display" : "2060",
+      "Active" : "98",
+      "Convalescent" : "1899",
+      "Known Deaths" : "63",
+      "InitialVaccineVeteranTotal" : "10356",
+      "CompletedVaccineVeteranTotal" : "2467"
+   },
+   {
+      "Facility" : "Durham, NC HCS",
+      "VA Confirmed Total_Display" : "2033",
+      "Active" : "99",
+      "Convalescent" : "1851",
+      "Known Deaths" : "83",
+      "InitialVaccineVeteranTotal" : "11191",
+      "CompletedVaccineVeteranTotal" : "2178"
+   },
+   {
+      "Facility" : "Nebraska-W Iowa HCS",
+      "VA Confirmed Total_Display" : "2016",
+      "Active" : "64",
+      "Convalescent" : "1838",
+      "Known Deaths" : "114",
+      "InitialVaccineVeteranTotal" : "18149",
+      "CompletedVaccineVeteranTotal" : "6921"
+   },
+   {
+      "Facility" : "Columbia, MO HCS",
+      "VA Confirmed Total_Display" : "1999",
+      "Active" : "59",
+      "Convalescent" : "1812",
+      "Known Deaths" : "128",
+      "InitialVaccineVeteranTotal" : "8949",
+      "CompletedVaccineVeteranTotal" : "4947"
+   },
+   {
+      "Facility" : "Washington, DC HCS",
+      "VA Confirmed Total_Display" : "1979",
+      "Active" : "94",
+      "Convalescent" : "1776",
+      "Known Deaths" : "109",
+      "InitialVaccineVeteranTotal" : "7004",
+      "CompletedVaccineVeteranTotal" : "1798"
+   },
+   {
+      "Facility" : "Southern Arizona HCS",
+      "VA Confirmed Total_Display" : "1965",
+      "Active" : "58",
+      "Convalescent" : "1764",
+      "Known Deaths" : "143",
+      "InitialVaccineVeteranTotal" : "7481",
+      "CompletedVaccineVeteranTotal" : "949"
+   },
+   {
+      "Facility" : "Oklahoma City, OK HCS",
+      "VA Confirmed Total_Display" : "1953",
+      "Active" : "60",
+      "Convalescent" : "1758",
+      "Known Deaths" : "135",
+      "InitialVaccineVeteranTotal" : "8203",
+      "CompletedVaccineVeteranTotal" : "1765"
+   },
+   {
+      "Facility" : "Miami, FL HCS",
+      "VA Confirmed Total_Display" : "1909",
+      "Active" : "58",
+      "Convalescent" : "1804",
+      "Known Deaths" : "47",
+      "InitialVaccineVeteranTotal" : "12303",
+      "CompletedVaccineVeteranTotal" : "4477"
+   },
+   {
+      "Facility" : "Boston, MA HCS",
+      "VA Confirmed Total_Display" : "1871",
+      "Active" : "69",
+      "Convalescent" : "1680",
+      "Known Deaths" : "122",
+      "InitialVaccineVeteranTotal" : "8734",
+      "CompletedVaccineVeteranTotal" : "1206"
+   },
+   {
+      "Facility" : "Philadelphia, PA HCS",
+      "VA Confirmed Total_Display" : "1859",
+      "Active" : "50",
+      "Convalescent" : "1719",
+      "Known Deaths" : "90",
+      "InitialVaccineVeteranTotal" : "10476",
+      "CompletedVaccineVeteranTotal" : "3926"
+   },
+   {
+      "Facility" : "New Jersey HCS",
+      "VA Confirmed Total_Display" : "1840",
+      "Active" : "73",
+      "Convalescent" : "1621",
+      "Known Deaths" : "146",
+      "InitialVaccineVeteranTotal" : "5293",
+      "CompletedVaccineVeteranTotal" : "368"
+   },
+   {
+      "Facility" : "New Orleans, LA HCS",
+      "VA Confirmed Total_Display" : "1822",
+      "Active" : "47",
+      "Convalescent" : "1679",
+      "Known Deaths" : "96",
+      "InitialVaccineVeteranTotal" : "15374",
+      "CompletedVaccineVeteranTotal" : "6384"
+   },
+   {
+      "Facility" : "Asheville, NC HCS",
+      "VA Confirmed Total_Display" : "1816",
+      "Active" : "61",
+      "Convalescent" : "1665",
+      "Known Deaths" : "90",
+      "InitialVaccineVeteranTotal" : "4377",
+      "CompletedVaccineVeteranTotal" : "917"
+   },
+   {
+      "Facility" : "Gulf Coast, MS HCS",
+      "VA Confirmed Total_Display" : "1806",
+      "Active" : "66",
+      "Convalescent" : "1672",
+      "Known Deaths" : "68",
+      "InitialVaccineVeteranTotal" : "6413",
+      "CompletedVaccineVeteranTotal" : "1521"
+   },
+   {
+      "Facility" : "Louisville, KY HCS",
+      "VA Confirmed Total_Display" : "1792",
+      "Active" : "60",
+      "Convalescent" : "1649",
+      "Known Deaths" : "83",
+      "InitialVaccineVeteranTotal" : "5830",
+      "CompletedVaccineVeteranTotal" : "1295"
+   },
+   {
+      "Facility" : "Chicago, IL HCS",
+      "VA Confirmed Total_Display" : "1787",
+      "Active" : "46",
+      "Convalescent" : "1661",
+      "Known Deaths" : "80",
+      "InitialVaccineVeteranTotal" : "7236",
+      "CompletedVaccineVeteranTotal" : "3809"
+   },
+   {
+      "Facility" : "Fayetteville, AR HCS",
+      "VA Confirmed Total_Display" : "1758",
+      "Active" : "41",
+      "Convalescent" : "1621",
+      "Known Deaths" : "96",
+      "InitialVaccineVeteranTotal" : "5273",
+      "CompletedVaccineVeteranTotal" : "1677"
+   },
+   {
+      "Facility" : "Connecticut HCS",
+      "VA Confirmed Total_Display" : "1749",
+      "Active" : "72",
+      "Convalescent" : "1596",
+      "Known Deaths" : "81",
+      "InitialVaccineVeteranTotal" : "13772",
+      "CompletedVaccineVeteranTotal" : "5313"
+   },
+   {
+      "Facility" : "Lebanon, PA HCS",
+      "VA Confirmed Total_Display" : "1690",
+      "Active" : "53",
+      "Convalescent" : "1526",
+      "Known Deaths" : "111",
+      "InitialVaccineVeteranTotal" : "6951",
+      "CompletedVaccineVeteranTotal" : "1722"
+   },
+   {
+      "Facility" : "New York Harbor HCS",
+      "VA Confirmed Total_Display" : "1680",
+      "Active" : "58",
+      "Convalescent" : "1495",
+      "Known Deaths" : "127",
+      "InitialVaccineVeteranTotal" : "9154",
+      "CompletedVaccineVeteranTotal" : "4997"
+   },
+   {
+      "Facility" : "Richmond, VA HCS",
+      "VA Confirmed Total_Display" : "1642",
+      "Active" : "102",
+      "Convalescent" : "1464",
+      "Known Deaths" : "76",
+      "InitialVaccineVeteranTotal" : "7411",
+      "CompletedVaccineVeteranTotal" : "1752"
+   },
+   {
+      "Facility" : "Augusta, GA HCS",
+      "VA Confirmed Total_Display" : "1631",
+      "Active" : "88",
+      "Convalescent" : "1464",
+      "Known Deaths" : "79",
+      "InitialVaccineVeteranTotal" : "6362",
+      "CompletedVaccineVeteranTotal" : "3724"
+   },
+   {
+      "Facility" : "Palo Alto, CA HCS",
+      "VA Confirmed Total_Display" : "1605",
+      "Active" : "63",
+      "Convalescent" : "1460",
+      "Known Deaths" : "82",
+      "InitialVaccineVeteranTotal" : "7916",
+      "CompletedVaccineVeteranTotal" : "1633"
+   },
+   {
+      "Facility" : "Shreveport, LA HCS",
+      "VA Confirmed Total_Display" : "1603",
+      "Active" : "52",
+      "Convalescent" : "1455",
+      "Known Deaths" : "96",
+      "InitialVaccineVeteranTotal" : "5722",
+      "CompletedVaccineVeteranTotal" : "2426"
+   },
+   {
+      "Facility" : "Cincinnati, OH HCS",
+      "VA Confirmed Total_Display" : "1580",
+      "Active" : "58",
+      "Convalescent" : "1473",
+      "Known Deaths" : "49",
+      "InitialVaccineVeteranTotal" : "4919",
+      "CompletedVaccineVeteranTotal" : "1831"
+   },
+   {
+      "Facility" : "Central Alabama HCS",
+      "VA Confirmed Total_Display" : "1537",
+      "Active" : "68",
+      "Convalescent" : "1422",
+      "Known Deaths" : "47",
+      "InitialVaccineVeteranTotal" : "4320",
+      "CompletedVaccineVeteranTotal" : "567"
+   },
+   {
+      "Facility" : "Dayton, OH HCS",
+      "VA Confirmed Total_Display" : "1507",
+      "Active" : "52",
+      "Convalescent" : "1402",
+      "Known Deaths" : "53",
+      "InitialVaccineVeteranTotal" : "5773",
+      "CompletedVaccineVeteranTotal" : "1211"
+   },
+   {
+      "Facility" : "Madison, WI HCS",
+      "VA Confirmed Total_Display" : "1507",
+      "Active" : "28",
+      "Convalescent" : "1406",
+      "Known Deaths" : "73",
+      "InitialVaccineVeteranTotal" : "6971",
+      "CompletedVaccineVeteranTotal" : "1524"
+   },
+   {
+      "Facility" : "Pittsburgh, PA HCS",
+      "VA Confirmed Total_Display" : "1505",
+      "Active" : "57",
+      "Convalescent" : "1371",
+      "Known Deaths" : "77",
+      "InitialVaccineVeteranTotal" : "14412",
+      "CompletedVaccineVeteranTotal" : "4630"
+   },
+   {
+      "Facility" : "Salt Lake City, UT HCS",
+      "VA Confirmed Total_Display" : "1500",
+      "Active" : "47",
+      "Convalescent" : "1394",
+      "Known Deaths" : "59",
+      "InitialVaccineVeteranTotal" : "5472",
+      "CompletedVaccineVeteranTotal" : "1365"
+   },
+   {
+      "Facility" : "West Palm Beach, FL HCS",
+      "VA Confirmed Total_Display" : "1495",
+      "Active" : "49",
+      "Convalescent" : "1386",
+      "Known Deaths" : "60",
+      "InitialVaccineVeteranTotal" : "14990",
+      "CompletedVaccineVeteranTotal" : "6690"
+   },
+   {
+      "Facility" : "Boise, ID HCS",
+      "VA Confirmed Total_Display" : "1493",
+      "Active" : "25",
+      "Convalescent" : "1410",
+      "Known Deaths" : "58",
+      "InitialVaccineVeteranTotal" : "5106",
+      "CompletedVaccineVeteranTotal" : "2252"
+   },
+   {
+      "Facility" : "Bronx, NY HCS",
+      "VA Confirmed Total_Display" : "1473",
+      "Active" : "54",
+      "Convalescent" : "1308",
+      "Known Deaths" : "111",
+      "InitialVaccineVeteranTotal" : "4149",
+      "CompletedVaccineVeteranTotal" : "229"
+   },
+   {
+      "Facility" : "Fresno, CA HCS",
+      "VA Confirmed Total_Display" : "1468",
+      "Active" : "55",
+      "Convalescent" : "1336",
+      "Known Deaths" : "77",
+      "InitialVaccineVeteranTotal" : "5228",
+      "CompletedVaccineVeteranTotal" : "643"
+   },
+   {
+      "Facility" : "Ann Arbor, MI HCS",
+      "VA Confirmed Total_Display" : "1456",
+      "Active" : "19",
+      "Convalescent" : "1384",
+      "Known Deaths" : "53",
+      "InitialVaccineVeteranTotal" : "16862",
+      "CompletedVaccineVeteranTotal" : "5984"
+   },
+   {
+      "Facility" : "Iowa City, IA HCS",
+      "VA Confirmed Total_Display" : "1439",
+      "Active" : "37",
+      "Convalescent" : "1337",
+      "Known Deaths" : "65",
+      "InitialVaccineVeteranTotal" : "5065",
+      "CompletedVaccineVeteranTotal" : "231"
+   },
+   {
+      "Facility" : "Dublin, GA HCS",
+      "VA Confirmed Total_Display" : "1431",
+      "Active" : "51",
+      "Convalescent" : "1336",
+      "Known Deaths" : "44",
+      "InitialVaccineVeteranTotal" : "5851",
+      "CompletedVaccineVeteranTotal" : "1549"
+   },
+   {
+      "Facility" : "Baltimore, MD HCS",
+      "VA Confirmed Total_Display" : "1405",
+      "Active" : "55",
+      "Convalescent" : "1295",
+      "Known Deaths" : "55",
+      "InitialVaccineVeteranTotal" : "9706",
+      "CompletedVaccineVeteranTotal" : "1934"
+   },
+   {
+      "Facility" : "New Mexico HCS",
+      "VA Confirmed Total_Display" : "1384",
+      "Active" : "46",
+      "Convalescent" : "1256",
+      "Known Deaths" : "82",
+      "InitialVaccineVeteranTotal" : "7730",
+      "CompletedVaccineVeteranTotal" : "1683"
+   },
+   {
+      "Facility" : "El Paso, TX HCS",
+      "VA Confirmed Total_Display" : "1319",
+      "Active" : "33",
+      "Convalescent" : "1188",
+      "Known Deaths" : "98",
+      "InitialVaccineVeteranTotal" : "2321",
+      "CompletedVaccineVeteranTotal" : "755"
+   },
+   {
+      "Facility" : "Northern Indiana HCS",
+      "VA Confirmed Total_Display" : "1319",
+      "Active" : "37",
+      "Convalescent" : "1226",
+      "Known Deaths" : "56",
+      "InitialVaccineVeteranTotal" : "5448",
+      "CompletedVaccineVeteranTotal" : "1377"
+   },
+   {
+      "Facility" : "Columbus, OH HCS",
+      "VA Confirmed Total_Display" : "1311",
+      "Active" : "30",
+      "Convalescent" : "1228",
+      "Known Deaths" : "53",
+      "InitialVaccineVeteranTotal" : "4255",
+      "CompletedVaccineVeteranTotal" : "847"
+   },
+   {
+      "Facility" : "Fargo, ND HCS",
+      "VA Confirmed Total_Display" : "1301",
+      "Active" : "13",
+      "Convalescent" : "1181",
+      "Known Deaths" : "107",
+      "InitialVaccineVeteranTotal" : "7480",
+      "CompletedVaccineVeteranTotal" : "1670"
+   },
+   {
+      "Facility" : "Western New York HCS",
+      "VA Confirmed Total_Display" : "1267",
+      "Active" : "35",
+      "Convalescent" : "1158",
+      "Known Deaths" : "74",
+      "InitialVaccineVeteranTotal" : "9009",
+      "CompletedVaccineVeteranTotal" : "2313"
+   },
+   {
+      "Facility" : "Wichita, KS HCS",
+      "VA Confirmed Total_Display" : "1266",
+      "Active" : "39",
+      "Convalescent" : "1158",
+      "Known Deaths" : "69",
+      "InitialVaccineVeteranTotal" : "3515",
+      "CompletedVaccineVeteranTotal" : "748"
+   },
+   {
+      "Facility" : "Lexington, KY HCS",
+      "VA Confirmed Total_Display" : "1245",
+      "Active" : "49",
+      "Convalescent" : "1113",
+      "Known Deaths" : "83",
+      "InitialVaccineVeteranTotal" : "8721",
+      "CompletedVaccineVeteranTotal" : "5481"
+   },
+   {
+      "Facility" : "Puget Sound, WA HCS",
+      "VA Confirmed Total_Display" : "1243",
+      "Active" : "42",
+      "Convalescent" : "1150",
+      "Known Deaths" : "51",
+      "InitialVaccineVeteranTotal" : "7911",
+      "CompletedVaccineVeteranTotal" : "1556"
+   },
+   {
+      "Facility" : "Memphis, TN HCS",
+      "VA Confirmed Total_Display" : "1237",
+      "Active" : "41",
+      "Convalescent" : "1127",
+      "Known Deaths" : "69",
+      "InitialVaccineVeteranTotal" : "8097",
+      "CompletedVaccineVeteranTotal" : "2499"
+   },
+   {
+      "Facility" : "Sioux Falls, SD HCS",
+      "VA Confirmed Total_Display" : "1231",
+      "Active" : "35",
+      "Convalescent" : "1127",
+      "Known Deaths" : "69",
+      "InitialVaccineVeteranTotal" : "5098",
+      "CompletedVaccineVeteranTotal" : "983"
+   },
+   {
+      "Facility" : "Eastern Kansas HCS",
+      "VA Confirmed Total_Display" : "1230",
+      "Active" : "27",
+      "Convalescent" : "1170",
+      "Known Deaths" : "33",
+      "InitialVaccineVeteranTotal" : "5397",
+      "CompletedVaccineVeteranTotal" : "1203"
+   },
+   {
+      "Facility" : "Hampton, VA HCS",
+      "VA Confirmed Total_Display" : "1230",
+      "Active" : "58",
+      "Convalescent" : "1154",
+      "Known Deaths" : "18",
+      "InitialVaccineVeteranTotal" : "3332",
+      "CompletedVaccineVeteranTotal" : "618"
+   },
+   {
+      "Facility" : "Amarillo, TX HCS",
+      "VA Confirmed Total_Display" : "1222",
+      "Active" : "18",
+      "Convalescent" : "1148",
+      "Known Deaths" : "56",
+      "InitialVaccineVeteranTotal" : "3452",
+      "CompletedVaccineVeteranTotal" : "1264"
+   },
+   {
+      "Facility" : "St. Cloud, MN HCS",
+      "VA Confirmed Total_Display" : "1201",
+      "Active" : "16",
+      "Convalescent" : "1129",
+      "Known Deaths" : "56",
+      "InitialVaccineVeteranTotal" : "6060",
+      "CompletedVaccineVeteranTotal" : "1105"
+   },
+   {
+      "Facility" : "Central Iowa HCS",
+      "VA Confirmed Total_Display" : "1168",
+      "Active" : "39",
+      "Convalescent" : "1073",
+      "Known Deaths" : "56",
+      "InitialVaccineVeteranTotal" : "4110",
+      "CompletedVaccineVeteranTotal" : "168"
+   },
+   {
+      "Facility" : "Montana HCS",
+      "VA Confirmed Total_Display" : "1149",
+      "Active" : "24",
+      "Convalescent" : "1078",
+      "Known Deaths" : "47",
+      "InitialVaccineVeteranTotal" : "4204",
+      "CompletedVaccineVeteranTotal" : "640"
+   },
+   {
+      "Facility" : "Martinsburg, WV HCS",
+      "VA Confirmed Total_Display" : "1144",
+      "Active" : "37",
+      "Convalescent" : "1059",
+      "Known Deaths" : "48",
+      "InitialVaccineVeteranTotal" : "4638",
+      "CompletedVaccineVeteranTotal" : "185"
+   },
+   {
+      "Facility" : "Poplar Bluff, MO HCS",
+      "VA Confirmed Total_Display" : "1108",
+      "Active" : "31",
+      "Convalescent" : "998",
+      "Known Deaths" : "79",
+      "InitialVaccineVeteranTotal" : "1756",
+      "CompletedVaccineVeteranTotal" : "337"
+   },
+   {
+      "Facility" : "Jackson, MS HCS",
+      "VA Confirmed Total_Display" : "1098",
+      "Active" : "34",
+      "Convalescent" : "995",
+      "Known Deaths" : "69",
+      "InitialVaccineVeteranTotal" : "5766",
+      "CompletedVaccineVeteranTotal" : "2178"
+   },
+   {
+      "Facility" : "Portland, OR HCS",
+      "VA Confirmed Total_Display" : "1077",
+      "Active" : "26",
+      "Convalescent" : "1011",
+      "Known Deaths" : "40",
+      "InitialVaccineVeteranTotal" : "11875",
+      "CompletedVaccineVeteranTotal" : "6350"
+   },
+   {
+      "Facility" : "Alexandria, LA HCS",
+      "VA Confirmed Total_Display" : "1031",
+      "Active" : "23",
+      "Convalescent" : "961",
+      "Known Deaths" : "47",
+      "InitialVaccineVeteranTotal" : "3863",
+      "CompletedVaccineVeteranTotal" : "1485"
+   },
+   {
+      "Facility" : "Salem, VA HCS",
+      "VA Confirmed Total_Display" : "1020",
+      "Active" : "36",
+      "Convalescent" : "917",
+      "Known Deaths" : "67",
+      "InitialVaccineVeteranTotal" : "3560",
+      "CompletedVaccineVeteranTotal" : "519"
+   },
+   {
+      "Facility" : "Providence, RI HCS",
+      "VA Confirmed Total_Display" : "1014",
+      "Active" : "49",
+      "Convalescent" : "891",
+      "Known Deaths" : "74",
+      "InitialVaccineVeteranTotal" : "3408",
+      "CompletedVaccineVeteranTotal" : "635"
+   },
+   {
+      "Facility" : "San Juan, PR HCS",
+      "VA Confirmed Total_Display" : "1002",
+      "Active" : "16",
+      "Convalescent" : "939",
+      "Known Deaths" : "47",
+      "InitialVaccineVeteranTotal" : "12003",
+      "CompletedVaccineVeteranTotal" : "1458"
+   },
+   {
+      "Facility" : "Black Hills, SD HCS",
+      "VA Confirmed Total_Display" : "983",
+      "Active" : "20",
+      "Convalescent" : "925",
+      "Known Deaths" : "38",
+      "InitialVaccineVeteranTotal" : "4956",
+      "CompletedVaccineVeteranTotal" : "1485"
+   },
+   {
+      "Facility" : "Battle Creek, MI HCS",
+      "VA Confirmed Total_Display" : "981",
+      "Active" : "16",
+      "Convalescent" : "900",
+      "Known Deaths" : "65",
+      "InitialVaccineVeteranTotal" : "4454",
+      "CompletedVaccineVeteranTotal" : "622"
+   },
+   {
+      "Facility" : "Reno, NV HCS",
+      "VA Confirmed Total_Display" : "967",
+      "Active" : "20",
+      "Convalescent" : "890",
+      "Known Deaths" : "57",
+      "InitialVaccineVeteranTotal" : "4334",
+      "CompletedVaccineVeteranTotal" : "681"
+   },
+   {
+      "Facility" : "Marion, IL HCS",
+      "VA Confirmed Total_Display" : "926",
+      "Active" : "32",
+      "Convalescent" : "845",
+      "Known Deaths" : "49",
+      "InitialVaccineVeteranTotal" : "3216",
+      "CompletedVaccineVeteranTotal" : "958"
+   },
+   {
+      "Facility" : "Altoona, PA HCS",
+      "VA Confirmed Total_Display" : "908",
+      "Active" : "17",
+      "Convalescent" : "844",
+      "Known Deaths" : "47",
+      "InitialVaccineVeteranTotal" : "4724",
+      "CompletedVaccineVeteranTotal" : "1535"
+   },
+   {
+      "Facility" : "Wilkes-Barre, PA HCS",
+      "VA Confirmed Total_Display" : "907",
+      "Active" : "37",
+      "Convalescent" : "818",
+      "Known Deaths" : "52",
+      "InitialVaccineVeteranTotal" : "5538",
+      "CompletedVaccineVeteranTotal" : "910"
+   },
+   {
+      "Facility" : "Tomah, WI HCS",
+      "VA Confirmed Total_Display" : "880",
+      "Active" : "12",
+      "Convalescent" : "843",
+      "Known Deaths" : "25",
+      "InitialVaccineVeteranTotal" : "4703",
+      "CompletedVaccineVeteranTotal" : "1081"
+   },
+   {
+      "Facility" : "Wilmington, DE HCS",
+      "VA Confirmed Total_Display" : "868",
+      "Active" : "36",
+      "Convalescent" : "798",
+      "Known Deaths" : "34",
+      "InitialVaccineVeteranTotal" : "7342",
+      "CompletedVaccineVeteranTotal" : "2046"
+   },
+   {
+      "Facility" : "Syracuse, NY HCS",
+      "VA Confirmed Total_Display" : "860",
+      "Active" : "34",
+      "Convalescent" : "769",
+      "Known Deaths" : "57",
+      "InitialVaccineVeteranTotal" : "5621",
+      "CompletedVaccineVeteranTotal" : "717"
+   },
+   {
+      "Facility" : "Northport, NY HCS",
+      "VA Confirmed Total_Display" : "847",
+      "Active" : "35",
+      "Convalescent" : "756",
+      "Known Deaths" : "56",
+      "InitialVaccineVeteranTotal" : "5055",
+      "CompletedVaccineVeteranTotal" : "408"
+   },
+   {
+      "Facility" : "Detroit, MI HCS",
+      "VA Confirmed Total_Display" : "781",
+      "Active" : "13",
+      "Convalescent" : "686",
+      "Known Deaths" : "82",
+      "InitialVaccineVeteranTotal" : "3587",
+      "CompletedVaccineVeteranTotal" : "915"
+   },
+   {
+      "Facility" : "Northern Arizona HCS",
+      "VA Confirmed Total_Display" : "778",
+      "Active" : "14",
+      "Convalescent" : "725",
+      "Known Deaths" : "39",
+      "InitialVaccineVeteranTotal" : "3376",
+      "CompletedVaccineVeteranTotal" : "1231"
+   },
+   {
+      "Facility" : "Huntington, WV HCS",
+      "VA Confirmed Total_Display" : "774",
+      "Active" : "42",
+      "Convalescent" : "675",
+      "Known Deaths" : "57",
+      "InitialVaccineVeteranTotal" : "4991",
+      "CompletedVaccineVeteranTotal" : "1115"
+   },
+   {
+      "Facility" : "Danville, IL HCS",
+      "VA Confirmed Total_Display" : "762",
+      "Active" : "17",
+      "Convalescent" : "704",
+      "Known Deaths" : "41",
+      "InitialVaccineVeteranTotal" : "4008",
+      "CompletedVaccineVeteranTotal" : "891"
+   },
+   {
+      "Facility" : "Hudson Valley, NY HCS",
+      "VA Confirmed Total_Display" : "761",
+      "Active" : "16",
+      "Convalescent" : "715",
+      "Known Deaths" : "30",
+      "InitialVaccineVeteranTotal" : "5409",
+      "CompletedVaccineVeteranTotal" : "1013"
+   },
+   {
+      "Facility" : "Bedford, MA HCS",
+      "VA Confirmed Total_Display" : "742",
+      "Active" : "12",
+      "Convalescent" : "687",
+      "Known Deaths" : "43",
+      "InitialVaccineVeteranTotal" : "8002",
+      "CompletedVaccineVeteranTotal" : "3246"
+   },
+   {
+      "Facility" : "Saginaw, MI HCS",
+      "VA Confirmed Total_Display" : "692",
+      "Active" : "24",
+      "Convalescent" : "628",
+      "Known Deaths" : "40",
+      "InitialVaccineVeteranTotal" : "4272",
+      "CompletedVaccineVeteranTotal" : "984"
+   },
+   {
+      "Facility" : "Finger Lakes, NY HCS",
+      "VA Confirmed Total_Display" : "688",
+      "Active" : "27",
+      "Convalescent" : "631",
+      "Known Deaths" : "30",
+      "InitialVaccineVeteranTotal" : "4945",
+      "CompletedVaccineVeteranTotal" : "595"
+   },
+   {
+      "Facility" : "Iron Mountain, MI HCS",
+      "VA Confirmed Total_Display" : "671",
+      "Active" : "10",
+      "Convalescent" : "633",
+      "Known Deaths" : "28",
+      "InitialVaccineVeteranTotal" : "4817",
+      "CompletedVaccineVeteranTotal" : "1167"
+   },
+   {
+      "Facility" : "Erie, PA HCS",
+      "VA Confirmed Total_Display" : "661",
+      "Active" : "21",
+      "Convalescent" : "612",
+      "Known Deaths" : "28",
+      "InitialVaccineVeteranTotal" : "3974",
+      "CompletedVaccineVeteranTotal" : "864"
+   },
+   {
+      "Facility" : "Tuscaloosa, AL HCS",
+      "VA Confirmed Total_Display" : "660",
+      "Active" : "13",
+      "Convalescent" : "612",
+      "Known Deaths" : "35",
+      "InitialVaccineVeteranTotal" : "2190",
+      "CompletedVaccineVeteranTotal" : "225"
+   },
+   {
+      "Facility" : "Central Western Massachusetts HCS",
+      "VA Confirmed Total_Display" : "645",
+      "Active" : "24",
+      "Convalescent" : "575",
+      "Known Deaths" : "46",
+      "InitialVaccineVeteranTotal" : "3946",
+      "CompletedVaccineVeteranTotal" : "1050"
+   },
+   {
+      "Facility" : "Cheyenne, WY HCS",
+      "VA Confirmed Total_Display" : "628",
+      "Active" : "14",
+      "Convalescent" : "587",
+      "Known Deaths" : "27",
+      "InitialVaccineVeteranTotal" : "3399",
+      "CompletedVaccineVeteranTotal" : "703"
+   },
+   {
+      "Facility" : "San Francisco, CA HCS",
+      "VA Confirmed Total_Display" : "624",
+      "Active" : "26",
+      "Convalescent" : "567",
+      "Known Deaths" : "31",
+      "InitialVaccineVeteranTotal" : "5147",
+      "CompletedVaccineVeteranTotal" : "174"
+   },
+   {
+      "Facility" : "Anchorage, AK HCS",
+      "VA Confirmed Total_Display" : "615",
+      "Active" : "13",
+      "Convalescent" : "591",
+      "Known Deaths" : "11",
+      "InitialVaccineVeteranTotal" : "2653",
+      "CompletedVaccineVeteranTotal" : "606"
+   },
+   {
+      "Facility" : "Chillicothe, OH HCS",
+      "VA Confirmed Total_Display" : "570",
+      "Active" : "18",
+      "Convalescent" : "539",
+      "Known Deaths" : "13",
+      "InitialVaccineVeteranTotal" : "4193",
+      "CompletedVaccineVeteranTotal" : "1840"
+   },
+   {
+      "Facility" : "Albany, NY HCS",
+      "VA Confirmed Total_Display" : "564",
+      "Active" : "31",
+      "Convalescent" : "497",
+      "Known Deaths" : "36",
+      "InitialVaccineVeteranTotal" : "4909",
+      "CompletedVaccineVeteranTotal" : "489"
+   },
+   {
+      "Facility" : "Big Spring, TX HCS",
+      "VA Confirmed Total_Display" : "534",
+      "Active" : "7",
+      "Convalescent" : "486",
+      "Known Deaths" : "41",
+      "InitialVaccineVeteranTotal" : "2039",
+      "CompletedVaccineVeteranTotal" : "493"
+   },
+   {
+      "Facility" : "Manchester, NH HCS",
+      "VA Confirmed Total_Display" : "530",
+      "Active" : "20",
+      "Convalescent" : "486",
+      "Known Deaths" : "24",
+      "InitialVaccineVeteranTotal" : "2903",
+      "CompletedVaccineVeteranTotal" : "573"
+   },
+   {
+      "Facility" : "Togus, ME HCS",
+      "VA Confirmed Total_Display" : "495",
+      "Active" : "25",
+      "Convalescent" : "450",
+      "Known Deaths" : "20",
+      "InitialVaccineVeteranTotal" : "3507",
+      "CompletedVaccineVeteranTotal" : "903"
+   },
+   {
+      "Facility" : "Butler, PA HCS",
+      "VA Confirmed Total_Display" : "486",
+      "Active" : "13",
+      "Convalescent" : "458",
+      "Known Deaths" : "15",
+      "InitialVaccineVeteranTotal" : "4104",
+      "CompletedVaccineVeteranTotal" : "1242"
+   },
+   {
+      "Facility" : "Clarksburg, WV HCS",
+      "VA Confirmed Total_Display" : "465",
+      "Active" : "36",
+      "Convalescent" : "404",
+      "Known Deaths" : "25",
+      "InitialVaccineVeteranTotal" : "3387",
+      "CompletedVaccineVeteranTotal" : "754"
+   },
+   {
+      "Facility" : "Grand Junction, CO HCS",
+      "VA Confirmed Total_Display" : "431",
+      "Active" : "16",
+      "Convalescent" : "394",
+      "Known Deaths" : "21",
+      "InitialVaccineVeteranTotal" : "2579",
+      "CompletedVaccineVeteranTotal" : "867"
+   },
+   {
+      "Facility" : "Coatesville, PA HCS",
+      "VA Confirmed Total_Display" : "427",
+      "Active" : "14",
+      "Convalescent" : "395",
+      "Known Deaths" : "18",
+      "InitialVaccineVeteranTotal" : "3799",
+      "CompletedVaccineVeteranTotal" : "1071"
+   },
+   {
+      "Facility" : "Walla Walla, WA HCS",
+      "VA Confirmed Total_Display" : "384",
+      "Active" : "13",
+      "Convalescent" : "348",
+      "Known Deaths" : "23",
+      "InitialVaccineVeteranTotal" : "2663",
+      "CompletedVaccineVeteranTotal" : "717"
+   },
+   {
+      "Facility" : "Sheridan, WY HCS",
+      "VA Confirmed Total_Display" : "342",
+      "Active" : "4",
+      "Convalescent" : "332",
+      "Known Deaths" : "6",
+      "InitialVaccineVeteranTotal" : "2294",
+      "CompletedVaccineVeteranTotal" : "492"
+   },
+   {
+      "Facility" : "Honolulu, HI HCS",
+      "VA Confirmed Total_Display" : "288",
+      "Active" : "3",
+      "Convalescent" : "272",
+      "Known Deaths" : "13",
+      "InitialVaccineVeteranTotal" : "4495",
+      "CompletedVaccineVeteranTotal" : "1017"
+   },
+   {
+      "Facility" : "Beckley, WV HCS",
+      "VA Confirmed Total_Display" : "273",
+      "Active" : "21",
+      "Convalescent" : "242",
+      "Known Deaths" : "10",
+      "InitialVaccineVeteranTotal" : "2123",
+      "CompletedVaccineVeteranTotal" : "377"
+   },
+   {
+      "Facility" : "Spokane, WA HCS",
+      "VA Confirmed Total_Display" : "264",
+      "Active" : "2",
+      "Convalescent" : "242",
+      "Known Deaths" : "20",
+      "InitialVaccineVeteranTotal" : "2266",
+      "CompletedVaccineVeteranTotal" : "0"
+   },
+   {
+      "Facility" : "Roseburg, OR HCS",
+      "VA Confirmed Total_Display" : "216",
+      "Active" : "20",
+      "Convalescent" : "189",
+      "Known Deaths" : "7",
+      "InitialVaccineVeteranTotal" : "2366",
+      "CompletedVaccineVeteranTotal" : "250"
+   },
+   {
+      "Facility" : "White City, OR HCS",
+      "VA Confirmed Total_Display" : "200",
+      "Active" : "12",
+      "Convalescent" : "168",
+      "Known Deaths" : "20",
+      "InitialVaccineVeteranTotal" : "2438",
+      "CompletedVaccineVeteranTotal" : "269"
+   },
+   {
+      "Facility" : "White River Junction, VT HCS",
+      "VA Confirmed Total_Display" : "198",
+      "Active" : "7",
+      "Convalescent" : "185",
+      "Known Deaths" : "6",
+      "InitialVaccineVeteranTotal" : "3211",
+      "CompletedVaccineVeteranTotal" : "258"
+   },
+   {
+      "Facility" : "Manila, PI HCS",
+      "VA Confirmed Total_Display" : "2",
+      "Active" : "0",
+      "Convalescent" : "2",
+      "Known Deaths" : "0",
+      "InitialVaccineVeteranTotal" : "0",
+      "CompletedVaccineVeteranTotal" : "0"
+   }
+]
