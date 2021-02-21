@@ -1,0 +1,6 @@
+URI,Facility,Inmates Positive,Staff Positive,Inmate Deaths,Staff Deaths,Inmates Recovered,Staff Recovered,City,State
+https://www.corecivic.com/facilities/James-River-Residential-Reentry-Center,Core Civic (RRC),0,0,0,0,1,0,Newport News,VA
+https://www.corecivic.com/facilities/Ghent-Residential-Reentry-Center,Corecivic (RRC),2,0,0,0,1,0,Norfolk,VA
+https://www.bop.gov/locations/institutions/lee/,Lee USP,20,23,0,0,526,121,Pennington Gap,VA
+https://www.bop.gov/locations/institutions/pet/,Petersburg Low FCI,11,9,0,0,303,25,Hopewell,VA
+https://www.bop.gov/locations/institutions/pem/,Petersburg Medium FCI,2,13,1,0,258,7,Hopewell,VA
