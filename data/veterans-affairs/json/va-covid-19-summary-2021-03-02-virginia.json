@@ -1,0 +1,29 @@
+[
+   {
+      "Facility" : "Richmond, VA HCS",
+      "VA Confirmed Total_Display" : "1743",
+      "Active" : "69",
+      "Convalescent" : "1595",
+      "Known Deaths" : "79",
+      "InitialVaccineVeteranTotal" : "11575",
+      "CompletedVaccineVeteranTotal" : "5019"
+   },
+   {
+      "Facility" : "Hampton, VA HCS",
+      "VA Confirmed Total_Display" : "1322",
+      "Active" : "34",
+      "Convalescent" : "1266",
+      "Known Deaths" : "22",
+      "InitialVaccineVeteranTotal" : "4624",
+      "CompletedVaccineVeteranTotal" : "1782"
+   },
+   {
+      "Facility" : "Salem, VA HCS",
+      "VA Confirmed Total_Display" : "1078",
+      "Active" : "38",
+      "Convalescent" : "971",
+      "Known Deaths" : "69",
+      "InitialVaccineVeteranTotal" : "4601",
+      "CompletedVaccineVeteranTotal" : "1703"
+   }
+]
