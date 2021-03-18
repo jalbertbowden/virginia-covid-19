@@ -26,7 +26,10 @@ VDH released a new [algorithm](https://www.vdh.virginia.gov/content/uploads/site
 
 ## cite: [COVID-19 Update for Virginia - Clinicians 2020-09-14](https://www.vdh.virginia.gov/clinicians/covid-19-update-for-virginia-7/)  
 
-
+## [Virginia Long Term Care Facility Task Force COVID Playbook](https://www.vdh.virginia.gov/content/uploads/sites/182/2020/05/VirginiaLongTermCareFacilityTaskForceCOVIDPlaybook.pdf)  
+[Long-Term Care Facility Playbook to Access Resources to Support COVID-19 Outbreak Responses (2021-01-21) (saved 2021-03-17)](https://web.archive.org/web/20210302200933/https://www.vdh.virginia.gov/content/uploads/sites/182/2020/05/VirginiaLongTermCareFacilityTaskForceCOVIDPlaybook.pdf)
+[Long-Term Care Facility Playbook to Access Resources to Support COVID-19 Outbreak Responses (saved 2020-05-21)](https://web.archive.org/web/20200521161642/https://www.vdh.virginia.gov/content/uploads/sites/182/2020/05/VirginiaLongTermCareFacilityTaskForceCOVIDPlaybook.pdf)  
+[Long-Term Care Facility Playbook to Access Resources to Support COVID-19 Outbreak Responses (2020-07-10) (saved 2020-07-13)](https://web.archive.org/web/20200713043743/https://www.vdh.virginia.gov/content/uploads/sites/182/2020/05/VirginiaLongTermCareFacilityTaskForceCOVIDPlaybook.pdf)  
 
 
 ## Miscellaneous  
