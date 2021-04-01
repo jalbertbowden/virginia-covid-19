@@ -1,0 +1,32 @@
+[
+   {
+      "Facility" : "Richmond, VA HCS",
+      "VA Confirmed Total_Display" : "1868",
+      "Active" : "34",
+      "Convalescent" : "1747",
+      "Known Deaths" : "87",
+      "Dose 1 of 2 (Pfizer or Moderna)" : "21527",
+      "Dose 2 of 2 (Pfizer or Moderna)" : "14087",
+      "Dose 1 of 1 (Janssen)" : "12"
+   },
+   {
+      "Facility" : "Hampton, VA HCS",
+      "VA Confirmed Total_Display" : "1435",
+      "Active" : "20",
+      "Convalescent" : "1389",
+      "Known Deaths" : "26",
+      "Dose 1 of 2 (Pfizer or Moderna)" : "8729",
+      "Dose 2 of 2 (Pfizer or Moderna)" : "5466",
+      "Dose 1 of 1 (Janssen)" : "428"
+   },
+   {
+      "Facility" : "Salem, VA HCS",
+      "VA Confirmed Total_Display" : "1122",
+      "Active" : "17",
+      "Convalescent" : "1034",
+      "Known Deaths" : "71",
+      "Dose 1 of 2 (Pfizer or Moderna)" : "9716",
+      "Dose 2 of 2 (Pfizer or Moderna)" : "5495",
+      "Dose 1 of 1 (Janssen)" : "465"
+   }
+]
