@@ -1,0 +1,4 @@
+Facility ID,Facility,Latitude,Longitude,VA Confirmed Total_Display,Active,Convalescent,Known Deaths,Dose 1 of 2 (Pfizer or Moderna),Dose 2 of 2 (Pfizer or Moderna),Dose 1 of 1 (Janssen)
+652,"Richmond, VA HCS",37.49796,-77.46681,1898,36,1775,87,23567,16969,443
+590,"Hampton, VA HCS",37.015768,-76.332371,1460,26,1407,27,10427,6404,734
+658,"Salem, VA HCS",37.276111,-80.023889,1133,16,1043,74,10713,6888,839
