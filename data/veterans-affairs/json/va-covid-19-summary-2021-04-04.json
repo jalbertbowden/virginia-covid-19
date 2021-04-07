@@ -1,0 +1,1402 @@
+[
+   {
+      "Facility" : "Columbia, SC HCS",
+      "VA Confirmed Total_Display" : "4480",
+      "Active" : "72",
+      "Convalescent" : "4209",
+      "Known Deaths" : "199",
+      "Dose 1 of 2 (Pfizer or Moderna)" : "18428",
+      "Dose 2 of 2 (Pfizer or Moderna)" : "11264",
+      "Dose 1 of 1 (Janssen)" : "1201"
+   },
+   {
+      "Facility" : "North Chicago, IL HCS",
+      "VA Confirmed Total_Display" : "4473",
+      "Active" : "75",
+      "Convalescent" : "4372",
+      "Known Deaths" : "26",
+      "Dose 1 of 2 (Pfizer or Moderna)" : "10436",
+      "Dose 2 of 2 (Pfizer or Moderna)" : "7865",
+      "Dose 1 of 1 (Janssen)" : "137"
+   },
+   {
+      "Facility" : "Phoenix, AZ HCS",
+      "VA Confirmed Total_Display" : "4377",
+      "Active" : "35",
+      "Convalescent" : "4110",
+      "Known Deaths" : "232",
+      "Dose 1 of 2 (Pfizer or Moderna)" : "30898",
+      "Dose 2 of 2 (Pfizer or Moderna)" : "21152",
+      "Dose 1 of 1 (Janssen)" : "412"
+   },
+   {
+      "Facility" : "Atlanta, GA HCS",
+      "VA Confirmed Total_Display" : "4356",
+      "Active" : "81",
+      "Convalescent" : "4128",
+      "Known Deaths" : "147",
+      "Dose 1 of 2 (Pfizer or Moderna)" : "25604",
+      "Dose 2 of 2 (Pfizer or Moderna)" : "14266",
+      "Dose 1 of 1 (Janssen)" : "1923"
+   },
+   {
+      "Facility" : "San Antonio, TX HCS",
+      "VA Confirmed Total_Display" : "4218",
+      "Active" : "59",
+      "Convalescent" : "4004",
+      "Known Deaths" : "155",
+      "Dose 1 of 2 (Pfizer or Moderna)" : "34698",
+      "Dose 2 of 2 (Pfizer or Moderna)" : "24454",
+      "Dose 1 of 1 (Janssen)" : "158"
+   },
+   {
+      "Facility" : "Orlando, FL HCS",
+      "VA Confirmed Total_Display" : "4060",
+      "Active" : "100",
+      "Convalescent" : "3880",
+      "Known Deaths" : "80",
+      "Dose 1 of 2 (Pfizer or Moderna)" : "50008",
+      "Dose 2 of 2 (Pfizer or Moderna)" : "40719",
+      "Dose 1 of 1 (Janssen)" : "1167"
+   },
+   {
+      "Facility" : "Dallas, TX HCS",
+      "VA Confirmed Total_Display" : "3925",
+      "Active" : "44",
+      "Convalescent" : "3718",
+      "Known Deaths" : "163",
+      "Dose 1 of 2 (Pfizer or Moderna)" : "31237",
+      "Dose 2 of 2 (Pfizer or Moderna)" : "21649",
+      "Dose 1 of 1 (Janssen)" : "53"
+   },
+   {
+      "Facility" : "Loma Linda, CA HCS",
+      "VA Confirmed Total_Display" : "3908",
+      "Active" : "26",
+      "Convalescent" : "3719",
+      "Known Deaths" : "163",
+      "Dose 1 of 2 (Pfizer or Moderna)" : "22808",
+      "Dose 2 of 2 (Pfizer or Moderna)" : "15487",
+      "Dose 1 of 1 (Janssen)" : "803"
+   },
+   {
+      "Facility" : "Houston, TX HCS",
+      "VA Confirmed Total_Display" : "3868",
+      "Active" : "61",
+      "Convalescent" : "3672",
+      "Known Deaths" : "135",
+      "Dose 1 of 2 (Pfizer or Moderna)" : "37710",
+      "Dose 2 of 2 (Pfizer or Moderna)" : "28192",
+      "Dose 1 of 1 (Janssen)" : "1071"
+   },
+   {
+      "Facility" : "Gainesville, FL HCS",
+      "VA Confirmed Total_Display" : "3795",
+      "Active" : "55",
+      "Convalescent" : "3585",
+      "Known Deaths" : "155",
+      "Dose 1 of 2 (Pfizer or Moderna)" : "42040",
+      "Dose 2 of 2 (Pfizer or Moderna)" : "34169",
+      "Dose 1 of 1 (Janssen)" : "1247"
+   },
+   {
+      "Facility" : "Middle Tennessee HCS",
+      "VA Confirmed Total_Display" : "3718",
+      "Active" : "77",
+      "Convalescent" : "3457",
+      "Known Deaths" : "184",
+      "Dose 1 of 2 (Pfizer or Moderna)" : "24950",
+      "Dose 2 of 2 (Pfizer or Moderna)" : "17277",
+      "Dose 1 of 1 (Janssen)" : "1150"
+   },
+   {
+      "Facility" : "Temple, TX HCS",
+      "VA Confirmed Total_Display" : "3596",
+      "Active" : "58",
+      "Convalescent" : "3424",
+      "Known Deaths" : "114",
+      "Dose 1 of 2 (Pfizer or Moderna)" : "26567",
+      "Dose 2 of 2 (Pfizer or Moderna)" : "14655",
+      "Dose 1 of 1 (Janssen)" : "1790"
+   },
+   {
+      "Facility" : "Minneapolis, MN HCS",
+      "VA Confirmed Total_Display" : "3233",
+      "Active" : "75",
+      "Convalescent" : "2974",
+      "Known Deaths" : "184",
+      "Dose 1 of 2 (Pfizer or Moderna)" : "50538",
+      "Dose 2 of 2 (Pfizer or Moderna)" : "38327",
+      "Dose 1 of 1 (Janssen)" : "312"
+   },
+   {
+      "Facility" : "Salisbury, NC HCS",
+      "VA Confirmed Total_Display" : "3037",
+      "Active" : "44",
+      "Convalescent" : "2857",
+      "Known Deaths" : "136",
+      "Dose 1 of 2 (Pfizer or Moderna)" : "27074",
+      "Dose 2 of 2 (Pfizer or Moderna)" : "19605",
+      "Dose 1 of 1 (Janssen)" : "460"
+   },
+   {
+      "Facility" : "Long Beach, CA HCS",
+      "VA Confirmed Total_Display" : "3033",
+      "Active" : "30",
+      "Convalescent" : "2892",
+      "Known Deaths" : "111",
+      "Dose 1 of 2 (Pfizer or Moderna)" : "25358",
+      "Dose 2 of 2 (Pfizer or Moderna)" : "18494",
+      "Dose 1 of 1 (Janssen)" : "612"
+   },
+   {
+      "Facility" : "Greater Los Angeles, CA HCS",
+      "VA Confirmed Total_Display" : "3031",
+      "Active" : "23",
+      "Convalescent" : "2875",
+      "Known Deaths" : "133",
+      "Dose 1 of 2 (Pfizer or Moderna)" : "31756",
+      "Dose 2 of 2 (Pfizer or Moderna)" : "23537",
+      "Dose 1 of 1 (Janssen)" : "799"
+   },
+   {
+      "Facility" : "Bay Pines, FL HCS",
+      "VA Confirmed Total_Display" : "3025",
+      "Active" : "79",
+      "Convalescent" : "2845",
+      "Known Deaths" : "101",
+      "Dose 1 of 2 (Pfizer or Moderna)" : "42571",
+      "Dose 2 of 2 (Pfizer or Moderna)" : "31919",
+      "Dose 1 of 1 (Janssen)" : "921"
+   },
+   {
+      "Facility" : "Tampa, FL HCS",
+      "VA Confirmed Total_Display" : "2992",
+      "Active" : "69",
+      "Convalescent" : "2795",
+      "Known Deaths" : "128",
+      "Dose 1 of 2 (Pfizer or Moderna)" : "43414",
+      "Dose 2 of 2 (Pfizer or Moderna)" : "35469",
+      "Dose 1 of 1 (Janssen)" : "1212"
+   },
+   {
+      "Facility" : "Aurora, CO HCS",
+      "VA Confirmed Total_Display" : "2903",
+      "Active" : "61",
+      "Convalescent" : "2750",
+      "Known Deaths" : "92",
+      "Dose 1 of 2 (Pfizer or Moderna)" : "26664",
+      "Dose 2 of 2 (Pfizer or Moderna)" : "18425",
+      "Dose 1 of 1 (Janssen)" : "195"
+   },
+   {
+      "Facility" : "Mountain Home, TN HCS",
+      "VA Confirmed Total_Display" : "2818",
+      "Active" : "46",
+      "Convalescent" : "2609",
+      "Known Deaths" : "163",
+      "Dose 1 of 2 (Pfizer or Moderna)" : "15973",
+      "Dose 2 of 2 (Pfizer or Moderna)" : "11953",
+      "Dose 1 of 1 (Janssen)" : "1068"
+   },
+   {
+      "Facility" : "Charleston, SC HCS",
+      "VA Confirmed Total_Display" : "2788",
+      "Active" : "47",
+      "Convalescent" : "2671",
+      "Known Deaths" : "70",
+      "Dose 1 of 2 (Pfizer or Moderna)" : "30623",
+      "Dose 2 of 2 (Pfizer or Moderna)" : "21443",
+      "Dose 1 of 1 (Janssen)" : "82"
+   },
+   {
+      "Facility" : "Milwaukee, WI HCS",
+      "VA Confirmed Total_Display" : "2761",
+      "Active" : "34",
+      "Convalescent" : "2638",
+      "Known Deaths" : "89",
+      "Dose 1 of 2 (Pfizer or Moderna)" : "29261",
+      "Dose 2 of 2 (Pfizer or Moderna)" : "23195",
+      "Dose 1 of 1 (Janssen)" : "424"
+   },
+   {
+      "Facility" : "Las Vegas, NV HCS",
+      "VA Confirmed Total_Display" : "2679",
+      "Active" : "44",
+      "Convalescent" : "2527",
+      "Known Deaths" : "108",
+      "Dose 1 of 2 (Pfizer or Moderna)" : "23237",
+      "Dose 2 of 2 (Pfizer or Moderna)" : "18253",
+      "Dose 1 of 1 (Janssen)" : "540"
+   },
+   {
+      "Facility" : "N. California HCS",
+      "VA Confirmed Total_Display" : "2609",
+      "Active" : "49",
+      "Convalescent" : "2437",
+      "Known Deaths" : "123",
+      "Dose 1 of 2 (Pfizer or Moderna)" : "36824",
+      "Dose 2 of 2 (Pfizer or Moderna)" : "27593",
+      "Dose 1 of 1 (Janssen)" : "584"
+   },
+   {
+      "Facility" : "San Diego, CA HCS",
+      "VA Confirmed Total_Display" : "2474",
+      "Active" : "27",
+      "Convalescent" : "2400",
+      "Known Deaths" : "47",
+      "Dose 1 of 2 (Pfizer or Moderna)" : "31974",
+      "Dose 2 of 2 (Pfizer or Moderna)" : "20846",
+      "Dose 1 of 1 (Janssen)" : "202"
+   },
+   {
+      "Facility" : "Little Rock, AR HCS",
+      "VA Confirmed Total_Display" : "2473",
+      "Active" : "11",
+      "Convalescent" : "2360",
+      "Known Deaths" : "102",
+      "Dose 1 of 2 (Pfizer or Moderna)" : "19013",
+      "Dose 2 of 2 (Pfizer or Moderna)" : "12007",
+      "Dose 1 of 1 (Janssen)" : "<10"
+   },
+   {
+      "Facility" : "Indianapolis, IN HCS",
+      "VA Confirmed Total_Display" : "2447",
+      "Active" : "30",
+      "Convalescent" : "2292",
+      "Known Deaths" : "125",
+      "Dose 1 of 2 (Pfizer or Moderna)" : "17081",
+      "Dose 2 of 2 (Pfizer or Moderna)" : "12970",
+      "Dose 1 of 1 (Janssen)" : "651"
+   },
+   {
+      "Facility" : "Birmingham, AL HCS",
+      "VA Confirmed Total_Display" : "2401",
+      "Active" : "17",
+      "Convalescent" : "2252",
+      "Known Deaths" : "132",
+      "Dose 1 of 2 (Pfizer or Moderna)" : "21285",
+      "Dose 2 of 2 (Pfizer or Moderna)" : "16899",
+      "Dose 1 of 1 (Janssen)" : "2012"
+   },
+   {
+      "Facility" : "Fayetteville, NC HCS",
+      "VA Confirmed Total_Display" : "2375",
+      "Active" : "45",
+      "Convalescent" : "2257",
+      "Known Deaths" : "73",
+      "Dose 1 of 2 (Pfizer or Moderna)" : "23171",
+      "Dose 2 of 2 (Pfizer or Moderna)" : "17732",
+      "Dose 1 of 1 (Janssen)" : "536"
+   },
+   {
+      "Facility" : "Hines, IL HCS",
+      "VA Confirmed Total_Display" : "2375",
+      "Active" : "53",
+      "Convalescent" : "2231",
+      "Known Deaths" : "91",
+      "Dose 1 of 2 (Pfizer or Moderna)" : "25069",
+      "Dose 2 of 2 (Pfizer or Moderna)" : "19000",
+      "Dose 1 of 1 (Janssen)" : "494"
+   },
+   {
+      "Facility" : "St. Louis, MO HCS",
+      "VA Confirmed Total_Display" : "2328",
+      "Active" : "34",
+      "Convalescent" : "2207",
+      "Known Deaths" : "87",
+      "Dose 1 of 2 (Pfizer or Moderna)" : "23936",
+      "Dose 2 of 2 (Pfizer or Moderna)" : "17371",
+      "Dose 1 of 1 (Janssen)" : "49"
+   },
+   {
+      "Facility" : "Durham, NC HCS",
+      "VA Confirmed Total_Display" : "2308",
+      "Active" : "38",
+      "Convalescent" : "2170",
+      "Known Deaths" : "100",
+      "Dose 1 of 2 (Pfizer or Moderna)" : "27820",
+      "Dose 2 of 2 (Pfizer or Moderna)" : "22072",
+      "Dose 1 of 1 (Janssen)" : "879"
+   },
+   {
+      "Facility" : "Texas Valley Coastal Bend HCS",
+      "VA Confirmed Total_Display" : "2298",
+      "Active" : "13",
+      "Convalescent" : "2132",
+      "Known Deaths" : "153",
+      "Dose 1 of 2 (Pfizer or Moderna)" : "12174",
+      "Dose 2 of 2 (Pfizer or Moderna)" : "8276",
+      "Dose 1 of 1 (Janssen)" : "558"
+   },
+   {
+      "Facility" : "Muskogee, OK HCS",
+      "VA Confirmed Total_Display" : "2255",
+      "Active" : "13",
+      "Convalescent" : "2093",
+      "Known Deaths" : "149",
+      "Dose 1 of 2 (Pfizer or Moderna)" : "11686",
+      "Dose 2 of 2 (Pfizer or Moderna)" : "8321",
+      "Dose 1 of 1 (Janssen)" : "467"
+   },
+   {
+      "Facility" : "Kansas City, MO HCS",
+      "VA Confirmed Total_Display" : "2246",
+      "Active" : "11",
+      "Convalescent" : "2138",
+      "Known Deaths" : "97",
+      "Dose 1 of 2 (Pfizer or Moderna)" : "20876",
+      "Dose 2 of 2 (Pfizer or Moderna)" : "17323",
+      "Dose 1 of 1 (Janssen)" : "1220"
+   },
+   {
+      "Facility" : "Washington, DC HCS",
+      "VA Confirmed Total_Display" : "2237",
+      "Active" : "52",
+      "Convalescent" : "2067",
+      "Known Deaths" : "118",
+      "Dose 1 of 2 (Pfizer or Moderna)" : "23201",
+      "Dose 2 of 2 (Pfizer or Moderna)" : "17678",
+      "Dose 1 of 1 (Janssen)" : "858"
+   },
+   {
+      "Facility" : "Nebraska-W Iowa HCS",
+      "VA Confirmed Total_Display" : "2215",
+      "Active" : "43",
+      "Convalescent" : "2047",
+      "Known Deaths" : "125",
+      "Dose 1 of 2 (Pfizer or Moderna)" : "32749",
+      "Dose 2 of 2 (Pfizer or Moderna)" : "27850",
+      "Dose 1 of 1 (Janssen)" : "462"
+   },
+   {
+      "Facility" : "New Jersey HCS",
+      "VA Confirmed Total_Display" : "2173",
+      "Active" : "65",
+      "Convalescent" : "1959",
+      "Known Deaths" : "149",
+      "Dose 1 of 2 (Pfizer or Moderna)" : "15339",
+      "Dose 2 of 2 (Pfizer or Moderna)" : "10310",
+      "Dose 1 of 1 (Janssen)" : "370"
+   },
+   {
+      "Facility" : "Miami, FL HCS",
+      "VA Confirmed Total_Display" : "2161",
+      "Active" : "41",
+      "Convalescent" : "2063",
+      "Known Deaths" : "57",
+      "Dose 1 of 2 (Pfizer or Moderna)" : "25441",
+      "Dose 2 of 2 (Pfizer or Moderna)" : "20305",
+      "Dose 1 of 1 (Janssen)" : "696"
+   },
+   {
+      "Facility" : "Philadelphia, PA HCS",
+      "VA Confirmed Total_Display" : "2118",
+      "Active" : "75",
+      "Convalescent" : "1943",
+      "Known Deaths" : "100",
+      "Dose 1 of 2 (Pfizer or Moderna)" : "24353",
+      "Dose 2 of 2 (Pfizer or Moderna)" : "18934",
+      "Dose 1 of 1 (Janssen)" : "597"
+   },
+   {
+      "Facility" : "Southern Arizona HCS",
+      "VA Confirmed Total_Display" : "2117",
+      "Active" : "23",
+      "Convalescent" : "1931",
+      "Known Deaths" : "163",
+      "Dose 1 of 2 (Pfizer or Moderna)" : "22108",
+      "Dose 2 of 2 (Pfizer or Moderna)" : "15646",
+      "Dose 1 of 1 (Janssen)" : "1015"
+   },
+   {
+      "Facility" : "Boston, MA HCS",
+      "VA Confirmed Total_Display" : "2093",
+      "Active" : "33",
+      "Convalescent" : "1929",
+      "Known Deaths" : "131",
+      "Dose 1 of 2 (Pfizer or Moderna)" : "20127",
+      "Dose 2 of 2 (Pfizer or Moderna)" : "15771",
+      "Dose 1 of 1 (Janssen)" : "243"
+   },
+   {
+      "Facility" : "Columbia, MO HCS",
+      "VA Confirmed Total_Display" : "2092",
+      "Active" : "18",
+      "Convalescent" : "1938",
+      "Known Deaths" : "136",
+      "Dose 1 of 2 (Pfizer or Moderna)" : "14151",
+      "Dose 2 of 2 (Pfizer or Moderna)" : "12448",
+      "Dose 1 of 1 (Janssen)" : "329"
+   },
+   {
+      "Facility" : "Oklahoma City, OK HCS",
+      "VA Confirmed Total_Display" : "2073",
+      "Active" : "25",
+      "Convalescent" : "1901",
+      "Known Deaths" : "147",
+      "Dose 1 of 2 (Pfizer or Moderna)" : "21163",
+      "Dose 2 of 2 (Pfizer or Moderna)" : "17136",
+      "Dose 1 of 1 (Janssen)" : "807"
+   },
+   {
+      "Facility" : "Gulf Coast, MS HCS",
+      "VA Confirmed Total_Display" : "2021",
+      "Active" : "24",
+      "Convalescent" : "1911",
+      "Known Deaths" : "86",
+      "Dose 1 of 2 (Pfizer or Moderna)" : "19877",
+      "Dose 2 of 2 (Pfizer or Moderna)" : "12572",
+      "Dose 1 of 1 (Janssen)" : "1028"
+   },
+   {
+      "Facility" : "Asheville, NC HCS",
+      "VA Confirmed Total_Display" : "2020",
+      "Active" : "32",
+      "Convalescent" : "1886",
+      "Known Deaths" : "102",
+      "Dose 1 of 2 (Pfizer or Moderna)" : "12566",
+      "Dose 2 of 2 (Pfizer or Moderna)" : "9434",
+      "Dose 1 of 1 (Janssen)" : "714"
+   },
+   {
+      "Facility" : "Connecticut HCS",
+      "VA Confirmed Total_Display" : "2011",
+      "Active" : "45",
+      "Convalescent" : "1869",
+      "Known Deaths" : "97",
+      "Dose 1 of 2 (Pfizer or Moderna)" : "26706",
+      "Dose 2 of 2 (Pfizer or Moderna)" : "23630",
+      "Dose 1 of 1 (Janssen)" : "14"
+   },
+   {
+      "Facility" : "New Orleans, LA HCS",
+      "VA Confirmed Total_Display" : "1982",
+      "Active" : "16",
+      "Convalescent" : "1862",
+      "Known Deaths" : "104",
+      "Dose 1 of 2 (Pfizer or Moderna)" : "28171",
+      "Dose 2 of 2 (Pfizer or Moderna)" : "25354",
+      "Dose 1 of 1 (Janssen)" : "128"
+   },
+   {
+      "Facility" : "Louisville, KY HCS",
+      "VA Confirmed Total_Display" : "1979",
+      "Active" : "27",
+      "Convalescent" : "1855",
+      "Known Deaths" : "97",
+      "Dose 1 of 2 (Pfizer or Moderna)" : "14415",
+      "Dose 2 of 2 (Pfizer or Moderna)" : "9928",
+      "Dose 1 of 1 (Janssen)" : "588"
+   },
+   {
+      "Facility" : "New York Harbor HCS",
+      "VA Confirmed Total_Display" : "1958",
+      "Active" : "58",
+      "Convalescent" : "1767",
+      "Known Deaths" : "133",
+      "Dose 1 of 2 (Pfizer or Moderna)" : "20675",
+      "Dose 2 of 2 (Pfizer or Moderna)" : "17258",
+      "Dose 1 of 1 (Janssen)" : "205"
+   },
+   {
+      "Facility" : "Fayetteville, AR HCS",
+      "VA Confirmed Total_Display" : "1947",
+      "Active" : "26",
+      "Convalescent" : "1811",
+      "Known Deaths" : "110",
+      "Dose 1 of 2 (Pfizer or Moderna)" : "14059",
+      "Dose 2 of 2 (Pfizer or Moderna)" : "9772",
+      "Dose 1 of 1 (Janssen)" : "1123"
+   },
+   {
+      "Facility" : "Richmond, VA HCS",
+      "VA Confirmed Total_Display" : "1906",
+      "Active" : "39",
+      "Convalescent" : "1779",
+      "Known Deaths" : "88",
+      "Dose 1 of 2 (Pfizer or Moderna)" : "23847",
+      "Dose 2 of 2 (Pfizer or Moderna)" : "17446",
+      "Dose 1 of 1 (Janssen)" : "443"
+   },
+   {
+      "Facility" : "Chicago, IL HCS",
+      "VA Confirmed Total_Display" : "1904",
+      "Active" : "26",
+      "Convalescent" : "1791",
+      "Known Deaths" : "87",
+      "Dose 1 of 2 (Pfizer or Moderna)" : "19275",
+      "Dose 2 of 2 (Pfizer or Moderna)" : "15222",
+      "Dose 1 of 1 (Janssen)" : "263"
+   },
+   {
+      "Facility" : "Lebanon, PA HCS",
+      "VA Confirmed Total_Display" : "1902",
+      "Active" : "52",
+      "Convalescent" : "1735",
+      "Known Deaths" : "115",
+      "Dose 1 of 2 (Pfizer or Moderna)" : "18562",
+      "Dose 2 of 2 (Pfizer or Moderna)" : "13070",
+      "Dose 1 of 1 (Janssen)" : "675"
+   },
+   {
+      "Facility" : "Augusta, GA HCS",
+      "VA Confirmed Total_Display" : "1815",
+      "Active" : "11",
+      "Convalescent" : "1718",
+      "Known Deaths" : "86",
+      "Dose 1 of 2 (Pfizer or Moderna)" : "16991",
+      "Dose 2 of 2 (Pfizer or Moderna)" : "14597",
+      "Dose 1 of 1 (Janssen)" : "<10"
+   },
+   {
+      "Facility" : "Palo Alto, CA HCS",
+      "VA Confirmed Total_Display" : "1787",
+      "Active" : "28",
+      "Convalescent" : "1664",
+      "Known Deaths" : "95",
+      "Dose 1 of 2 (Pfizer or Moderna)" : "24590",
+      "Dose 2 of 2 (Pfizer or Moderna)" : "18463",
+      "Dose 1 of 1 (Janssen)" : "664"
+   },
+   {
+      "Facility" : "Cincinnati, OH HCS",
+      "VA Confirmed Total_Display" : "1752",
+      "Active" : "27",
+      "Convalescent" : "1668",
+      "Known Deaths" : "57",
+      "Dose 1 of 2 (Pfizer or Moderna)" : "13326",
+      "Dose 2 of 2 (Pfizer or Moderna)" : "8973",
+      "Dose 1 of 1 (Janssen)" : "525"
+   },
+   {
+      "Facility" : "Central Alabama HCS",
+      "VA Confirmed Total_Display" : "1718",
+      "Active" : "27",
+      "Convalescent" : "1631",
+      "Known Deaths" : "60",
+      "Dose 1 of 2 (Pfizer or Moderna)" : "11848",
+      "Dose 2 of 2 (Pfizer or Moderna)" : "8031",
+      "Dose 1 of 1 (Janssen)" : "<10"
+   },
+   {
+      "Facility" : "West Palm Beach, FL HCS",
+      "VA Confirmed Total_Display" : "1714",
+      "Active" : "25",
+      "Convalescent" : "1618",
+      "Known Deaths" : "71",
+      "Dose 1 of 2 (Pfizer or Moderna)" : "25545",
+      "Dose 2 of 2 (Pfizer or Moderna)" : "21687",
+      "Dose 1 of 1 (Janssen)" : "534"
+   },
+   {
+      "Facility" : "Pittsburgh, PA HCS",
+      "VA Confirmed Total_Display" : "1707",
+      "Active" : "41",
+      "Convalescent" : "1577",
+      "Known Deaths" : "89",
+      "Dose 1 of 2 (Pfizer or Moderna)" : "25066",
+      "Dose 2 of 2 (Pfizer or Moderna)" : "20349",
+      "Dose 1 of 1 (Janssen)" : "215"
+   },
+   {
+      "Facility" : "Shreveport, LA HCS",
+      "VA Confirmed Total_Display" : "1694",
+      "Active" : "21",
+      "Convalescent" : "1571",
+      "Known Deaths" : "102",
+      "Dose 1 of 2 (Pfizer or Moderna)" : "11248",
+      "Dose 2 of 2 (Pfizer or Moderna)" : "8309",
+      "Dose 1 of 1 (Janssen)" : "731"
+   },
+   {
+      "Facility" : "Ann Arbor, MI HCS",
+      "VA Confirmed Total_Display" : "1644",
+      "Active" : "71",
+      "Convalescent" : "1509",
+      "Known Deaths" : "64",
+      "Dose 1 of 2 (Pfizer or Moderna)" : "29225",
+      "Dose 2 of 2 (Pfizer or Moderna)" : "26733",
+      "Dose 1 of 1 (Janssen)" : "<10"
+   },
+   {
+      "Facility" : "Salt Lake City, UT HCS",
+      "VA Confirmed Total_Display" : "1639",
+      "Active" : "31",
+      "Convalescent" : "1543",
+      "Known Deaths" : "65",
+      "Dose 1 of 2 (Pfizer or Moderna)" : "16006",
+      "Dose 2 of 2 (Pfizer or Moderna)" : "11171",
+      "Dose 1 of 1 (Janssen)" : "596"
+   },
+   {
+      "Facility" : "Bronx, NY HCS",
+      "VA Confirmed Total_Display" : "1633",
+      "Active" : "30",
+      "Convalescent" : "1484",
+      "Known Deaths" : "119",
+      "Dose 1 of 2 (Pfizer or Moderna)" : "8357",
+      "Dose 2 of 2 (Pfizer or Moderna)" : "6555",
+      "Dose 1 of 1 (Janssen)" : "116"
+   },
+   {
+      "Facility" : "Dayton, OH HCS",
+      "VA Confirmed Total_Display" : "1633",
+      "Active" : "30",
+      "Convalescent" : "1536",
+      "Known Deaths" : "67",
+      "Dose 1 of 2 (Pfizer or Moderna)" : "13255",
+      "Dose 2 of 2 (Pfizer or Moderna)" : "9330",
+      "Dose 1 of 1 (Janssen)" : "220"
+   },
+   {
+      "Facility" : "Fresno, CA HCS",
+      "VA Confirmed Total_Display" : "1621",
+      "Active" : "16",
+      "Convalescent" : "1519",
+      "Known Deaths" : "86",
+      "Dose 1 of 2 (Pfizer or Moderna)" : "12105",
+      "Dose 2 of 2 (Pfizer or Moderna)" : "8779",
+      "Dose 1 of 1 (Janssen)" : "638"
+   },
+   {
+      "Facility" : "Boise, ID HCS",
+      "VA Confirmed Total_Display" : "1618",
+      "Active" : "20",
+      "Convalescent" : "1536",
+      "Known Deaths" : "62",
+      "Dose 1 of 2 (Pfizer or Moderna)" : "11199",
+      "Dose 2 of 2 (Pfizer or Moderna)" : "8308",
+      "Dose 1 of 1 (Janssen)" : "710"
+   },
+   {
+      "Facility" : "Madison, WI HCS",
+      "VA Confirmed Total_Display" : "1617",
+      "Active" : "21",
+      "Convalescent" : "1517",
+      "Known Deaths" : "79",
+      "Dose 1 of 2 (Pfizer or Moderna)" : "17279",
+      "Dose 2 of 2 (Pfizer or Moderna)" : "13101",
+      "Dose 1 of 1 (Janssen)" : "700"
+   },
+   {
+      "Facility" : "Baltimore, MD HCS",
+      "VA Confirmed Total_Display" : "1612",
+      "Active" : "44",
+      "Convalescent" : "1500",
+      "Known Deaths" : "68",
+      "Dose 1 of 2 (Pfizer or Moderna)" : "22403",
+      "Dose 2 of 2 (Pfizer or Moderna)" : "17684",
+      "Dose 1 of 1 (Janssen)" : "12"
+   },
+   {
+      "Facility" : "Iowa City, IA HCS",
+      "VA Confirmed Total_Display" : "1566",
+      "Active" : "25",
+      "Convalescent" : "1461",
+      "Known Deaths" : "80",
+      "Dose 1 of 2 (Pfizer or Moderna)" : "11411",
+      "Dose 2 of 2 (Pfizer or Moderna)" : "8927",
+      "Dose 1 of 1 (Janssen)" : "494"
+   },
+   {
+      "Facility" : "Dublin, GA HCS",
+      "VA Confirmed Total_Display" : "1558",
+      "Active" : "13",
+      "Convalescent" : "1494",
+      "Known Deaths" : "51",
+      "Dose 1 of 2 (Pfizer or Moderna)" : "12799",
+      "Dose 2 of 2 (Pfizer or Moderna)" : "8840",
+      "Dose 1 of 1 (Janssen)" : "394"
+   },
+   {
+      "Facility" : "New Mexico HCS",
+      "VA Confirmed Total_Display" : "1511",
+      "Active" : "15",
+      "Convalescent" : "1406",
+      "Known Deaths" : "90",
+      "Dose 1 of 2 (Pfizer or Moderna)" : "22813",
+      "Dose 2 of 2 (Pfizer or Moderna)" : "17392",
+      "Dose 1 of 1 (Janssen)" : "866"
+   },
+   {
+      "Facility" : "El Paso, TX HCS",
+      "VA Confirmed Total_Display" : "1476",
+      "Active" : "22",
+      "Convalescent" : "1348",
+      "Known Deaths" : "106",
+      "Dose 1 of 2 (Pfizer or Moderna)" : "9455",
+      "Dose 2 of 2 (Pfizer or Moderna)" : "6146",
+      "Dose 1 of 1 (Janssen)" : "<10"
+   },
+   {
+      "Facility" : "Hampton, VA HCS",
+      "VA Confirmed Total_Display" : "1467",
+      "Active" : "27",
+      "Convalescent" : "1410",
+      "Known Deaths" : "30",
+      "Dose 1 of 2 (Pfizer or Moderna)" : "10668",
+      "Dose 2 of 2 (Pfizer or Moderna)" : "6497",
+      "Dose 1 of 1 (Janssen)" : "735"
+   },
+   {
+      "Facility" : "Columbus, OH HCS",
+      "VA Confirmed Total_Display" : "1464",
+      "Active" : "27",
+      "Convalescent" : "1364",
+      "Known Deaths" : "73",
+      "Dose 1 of 2 (Pfizer or Moderna)" : "11641",
+      "Dose 2 of 2 (Pfizer or Moderna)" : "8337",
+      "Dose 1 of 1 (Janssen)" : "441"
+   },
+   {
+      "Facility" : "Northern Indiana HCS",
+      "VA Confirmed Total_Display" : "1464",
+      "Active" : "32",
+      "Convalescent" : "1369",
+      "Known Deaths" : "63",
+      "Dose 1 of 2 (Pfizer or Moderna)" : "12270",
+      "Dose 2 of 2 (Pfizer or Moderna)" : "9743",
+      "Dose 1 of 1 (Janssen)" : "469"
+   },
+   {
+      "Facility" : "Western New York HCS",
+      "VA Confirmed Total_Display" : "1441",
+      "Active" : "42",
+      "Convalescent" : "1318",
+      "Known Deaths" : "81",
+      "Dose 1 of 2 (Pfizer or Moderna)" : "21144",
+      "Dose 2 of 2 (Pfizer or Moderna)" : "18668",
+      "Dose 1 of 1 (Janssen)" : "73"
+   },
+   {
+      "Facility" : "Puget Sound, WA HCS",
+      "VA Confirmed Total_Display" : "1417",
+      "Active" : "37",
+      "Convalescent" : "1323",
+      "Known Deaths" : "57",
+      "Dose 1 of 2 (Pfizer or Moderna)" : "34855",
+      "Dose 2 of 2 (Pfizer or Moderna)" : "26053",
+      "Dose 1 of 1 (Janssen)" : "556"
+   },
+   {
+      "Facility" : "Fargo, ND HCS",
+      "VA Confirmed Total_Display" : "1388",
+      "Active" : "22",
+      "Convalescent" : "1255",
+      "Known Deaths" : "111",
+      "Dose 1 of 2 (Pfizer or Moderna)" : "16835",
+      "Dose 2 of 2 (Pfizer or Moderna)" : "13914",
+      "Dose 1 of 1 (Janssen)" : "106"
+   },
+   {
+      "Facility" : "Lexington, KY HCS",
+      "VA Confirmed Total_Display" : "1383",
+      "Active" : "15",
+      "Convalescent" : "1273",
+      "Known Deaths" : "95",
+      "Dose 1 of 2 (Pfizer or Moderna)" : "14090",
+      "Dose 2 of 2 (Pfizer or Moderna)" : "12370",
+      "Dose 1 of 1 (Janssen)" : "271"
+   },
+   {
+      "Facility" : "Wichita, KS HCS",
+      "VA Confirmed Total_Display" : "1371",
+      "Active" : "16",
+      "Convalescent" : "1284",
+      "Known Deaths" : "71",
+      "Dose 1 of 2 (Pfizer or Moderna)" : "8616",
+      "Dose 2 of 2 (Pfizer or Moderna)" : "5984",
+      "Dose 1 of 1 (Janssen)" : "99"
+   },
+   {
+      "Facility" : "Sioux Falls, SD HCS",
+      "VA Confirmed Total_Display" : "1360",
+      "Active" : "39",
+      "Convalescent" : "1246",
+      "Known Deaths" : "75",
+      "Dose 1 of 2 (Pfizer or Moderna)" : "9226",
+      "Dose 2 of 2 (Pfizer or Moderna)" : "7623",
+      "Dose 1 of 1 (Janssen)" : "495"
+   },
+   {
+      "Facility" : "Memphis, TN HCS",
+      "VA Confirmed Total_Display" : "1343",
+      "Active" : "15",
+      "Convalescent" : "1251",
+      "Known Deaths" : "77",
+      "Dose 1 of 2 (Pfizer or Moderna)" : "15389",
+      "Dose 2 of 2 (Pfizer or Moderna)" : "12902",
+      "Dose 1 of 1 (Janssen)" : "411"
+   },
+   {
+      "Facility" : "St. Cloud, MN HCS",
+      "VA Confirmed Total_Display" : "1333",
+      "Active" : "34",
+      "Convalescent" : "1240",
+      "Known Deaths" : "59",
+      "Dose 1 of 2 (Pfizer or Moderna)" : "19296",
+      "Dose 2 of 2 (Pfizer or Moderna)" : "13848",
+      "Dose 1 of 1 (Janssen)" : "1146"
+   },
+   {
+      "Facility" : "Martinsburg, WV HCS",
+      "VA Confirmed Total_Display" : "1323",
+      "Active" : "46",
+      "Convalescent" : "1219",
+      "Known Deaths" : "58",
+      "Dose 1 of 2 (Pfizer or Moderna)" : "14471",
+      "Dose 2 of 2 (Pfizer or Moderna)" : "9589",
+      "Dose 1 of 1 (Janssen)" : "508"
+   },
+   {
+      "Facility" : "Eastern Kansas HCS",
+      "VA Confirmed Total_Display" : "1316",
+      "Active" : "14",
+      "Convalescent" : "1264",
+      "Known Deaths" : "38",
+      "Dose 1 of 2 (Pfizer or Moderna)" : "13508",
+      "Dose 2 of 2 (Pfizer or Moderna)" : "9232",
+      "Dose 1 of 1 (Janssen)" : "573"
+   },
+   {
+      "Facility" : "Amarillo, TX HCS",
+      "VA Confirmed Total_Display" : "1290",
+      "Active" : "13",
+      "Convalescent" : "1215",
+      "Known Deaths" : "62",
+      "Dose 1 of 2 (Pfizer or Moderna)" : "7097",
+      "Dose 2 of 2 (Pfizer or Moderna)" : "5802",
+      "Dose 1 of 1 (Janssen)" : "152"
+   },
+   {
+      "Facility" : "Central Iowa HCS",
+      "VA Confirmed Total_Display" : "1277",
+      "Active" : "22",
+      "Convalescent" : "1190",
+      "Known Deaths" : "65",
+      "Dose 1 of 2 (Pfizer or Moderna)" : "9822",
+      "Dose 2 of 2 (Pfizer or Moderna)" : "7174",
+      "Dose 1 of 1 (Janssen)" : "424"
+   },
+   {
+      "Facility" : "Montana HCS",
+      "VA Confirmed Total_Display" : "1231",
+      "Active" : "13",
+      "Convalescent" : "1165",
+      "Known Deaths" : "53",
+      "Dose 1 of 2 (Pfizer or Moderna)" : "10565",
+      "Dose 2 of 2 (Pfizer or Moderna)" : "7385",
+      "Dose 1 of 1 (Janssen)" : "295"
+   },
+   {
+      "Facility" : "Portland, OR HCS",
+      "VA Confirmed Total_Display" : "1210",
+      "Active" : "13",
+      "Convalescent" : "1147",
+      "Known Deaths" : "50",
+      "Dose 1 of 2 (Pfizer or Moderna)" : "31377",
+      "Dose 2 of 2 (Pfizer or Moderna)" : "25329",
+      "Dose 1 of 1 (Janssen)" : "574"
+   },
+   {
+      "Facility" : "Jackson, MS HCS",
+      "VA Confirmed Total_Display" : "1193",
+      "Active" : "12",
+      "Convalescent" : "1105",
+      "Known Deaths" : "76",
+      "Dose 1 of 2 (Pfizer or Moderna)" : "11112",
+      "Dose 2 of 2 (Pfizer or Moderna)" : "8672",
+      "Dose 1 of 1 (Janssen)" : "634"
+   },
+   {
+      "Facility" : "Providence, RI HCS",
+      "VA Confirmed Total_Display" : "1187",
+      "Active" : "34",
+      "Convalescent" : "1073",
+      "Known Deaths" : "80",
+      "Dose 1 of 2 (Pfizer or Moderna)" : "13998",
+      "Dose 2 of 2 (Pfizer or Moderna)" : "9911",
+      "Dose 1 of 1 (Janssen)" : "20"
+   },
+   {
+      "Facility" : "Poplar Bluff, MO HCS",
+      "VA Confirmed Total_Display" : "1158",
+      "Active" : "9",
+      "Convalescent" : "1068",
+      "Known Deaths" : "81",
+      "Dose 1 of 2 (Pfizer or Moderna)" : "3818",
+      "Dose 2 of 2 (Pfizer or Moderna)" : "2957",
+      "Dose 1 of 1 (Janssen)" : "329"
+   },
+   {
+      "Facility" : "Salem, VA HCS",
+      "VA Confirmed Total_Display" : "1136",
+      "Active" : "15",
+      "Convalescent" : "1047",
+      "Known Deaths" : "74",
+      "Dose 1 of 2 (Pfizer or Moderna)" : "10844",
+      "Dose 2 of 2 (Pfizer or Moderna)" : "7128",
+      "Dose 1 of 1 (Janssen)" : "841"
+   },
+   {
+      "Facility" : "Alexandria, LA HCS",
+      "VA Confirmed Total_Display" : "1130",
+      "Active" : "12",
+      "Convalescent" : "1069",
+      "Known Deaths" : "49",
+      "Dose 1 of 2 (Pfizer or Moderna)" : "8208",
+      "Dose 2 of 2 (Pfizer or Moderna)" : "5875",
+      "Dose 1 of 1 (Janssen)" : "104"
+   },
+   {
+      "Facility" : "San Juan, PR HCS",
+      "VA Confirmed Total_Display" : "1122",
+      "Active" : "63",
+      "Convalescent" : "1009",
+      "Known Deaths" : "50",
+      "Dose 1 of 2 (Pfizer or Moderna)" : "29535",
+      "Dose 2 of 2 (Pfizer or Moderna)" : "22579",
+      "Dose 1 of 1 (Janssen)" : "500"
+   },
+   {
+      "Facility" : "Battle Creek, MI HCS",
+      "VA Confirmed Total_Display" : "1104",
+      "Active" : "36",
+      "Convalescent" : "999",
+      "Known Deaths" : "69",
+      "Dose 1 of 2 (Pfizer or Moderna)" : "11962",
+      "Dose 2 of 2 (Pfizer or Moderna)" : "7950",
+      "Dose 1 of 1 (Janssen)" : "1051"
+   },
+   {
+      "Facility" : "Wilkes-Barre, PA HCS",
+      "VA Confirmed Total_Display" : "1084",
+      "Active" : "43",
+      "Convalescent" : "974",
+      "Known Deaths" : "67",
+      "Dose 1 of 2 (Pfizer or Moderna)" : "14215",
+      "Dose 2 of 2 (Pfizer or Moderna)" : "9420",
+      "Dose 1 of 1 (Janssen)" : "564"
+   },
+   {
+      "Facility" : "Reno, NV HCS",
+      "VA Confirmed Total_Display" : "1049",
+      "Active" : "9",
+      "Convalescent" : "973",
+      "Known Deaths" : "67",
+      "Dose 1 of 2 (Pfizer or Moderna)" : "10886",
+      "Dose 2 of 2 (Pfizer or Moderna)" : "7893",
+      "Dose 1 of 1 (Janssen)" : "538"
+   },
+   {
+      "Facility" : "Black Hills, SD HCS",
+      "VA Confirmed Total_Display" : "1040",
+      "Active" : "9",
+      "Convalescent" : "993",
+      "Known Deaths" : "38",
+      "Dose 1 of 2 (Pfizer or Moderna)" : "7854",
+      "Dose 2 of 2 (Pfizer or Moderna)" : "6972",
+      "Dose 1 of 1 (Janssen)" : "131"
+   },
+   {
+      "Facility" : "Northport, NY HCS",
+      "VA Confirmed Total_Display" : "1040",
+      "Active" : "47",
+      "Convalescent" : "926",
+      "Known Deaths" : "67",
+      "Dose 1 of 2 (Pfizer or Moderna)" : "12624",
+      "Dose 2 of 2 (Pfizer or Moderna)" : "10471",
+      "Dose 1 of 1 (Janssen)" : "<10"
+   },
+   {
+      "Facility" : "Altoona, PA HCS",
+      "VA Confirmed Total_Display" : "1034",
+      "Active" : "22",
+      "Convalescent" : "959",
+      "Known Deaths" : "53",
+      "Dose 1 of 2 (Pfizer or Moderna)" : "10109",
+      "Dose 2 of 2 (Pfizer or Moderna)" : "6915",
+      "Dose 1 of 1 (Janssen)" : "418"
+   },
+   {
+      "Facility" : "Marion, IL HCS",
+      "VA Confirmed Total_Display" : "1000",
+      "Active" : "10",
+      "Convalescent" : "934",
+      "Known Deaths" : "56",
+      "Dose 1 of 2 (Pfizer or Moderna)" : "6694",
+      "Dose 2 of 2 (Pfizer or Moderna)" : "4713",
+      "Dose 1 of 1 (Janssen)" : "508"
+   },
+   {
+      "Facility" : "Wilmington, DE HCS",
+      "VA Confirmed Total_Display" : "988",
+      "Active" : "23",
+      "Convalescent" : "926",
+      "Known Deaths" : "39",
+      "Dose 1 of 2 (Pfizer or Moderna)" : "15502",
+      "Dose 2 of 2 (Pfizer or Moderna)" : "12775",
+      "Dose 1 of 1 (Janssen)" : "562"
+   },
+   {
+      "Facility" : "Syracuse, NY HCS",
+      "VA Confirmed Total_Display" : "978",
+      "Active" : "18",
+      "Convalescent" : "898",
+      "Known Deaths" : "62",
+      "Dose 1 of 2 (Pfizer or Moderna)" : "12513",
+      "Dose 2 of 2 (Pfizer or Moderna)" : "8941",
+      "Dose 1 of 1 (Janssen)" : "76"
+   },
+   {
+      "Facility" : "Tomah, WI HCS",
+      "VA Confirmed Total_Display" : "938",
+      "Active" : "5",
+      "Convalescent" : "904",
+      "Known Deaths" : "29",
+      "Dose 1 of 2 (Pfizer or Moderna)" : "10353",
+      "Dose 2 of 2 (Pfizer or Moderna)" : "7370",
+      "Dose 1 of 1 (Janssen)" : "412"
+   },
+   {
+      "Facility" : "Detroit, MI HCS",
+      "VA Confirmed Total_Display" : "914",
+      "Active" : "54",
+      "Convalescent" : "775",
+      "Known Deaths" : "85",
+      "Dose 1 of 2 (Pfizer or Moderna)" : "11487",
+      "Dose 2 of 2 (Pfizer or Moderna)" : "7534",
+      "Dose 1 of 1 (Janssen)" : "69"
+   },
+   {
+      "Facility" : "Northern Arizona HCS",
+      "VA Confirmed Total_Display" : "873",
+      "Active" : "5",
+      "Convalescent" : "824",
+      "Known Deaths" : "44",
+      "Dose 1 of 2 (Pfizer or Moderna)" : "10144",
+      "Dose 2 of 2 (Pfizer or Moderna)" : "7133",
+      "Dose 1 of 1 (Janssen)" : "251"
+   },
+   {
+      "Facility" : "Huntington, WV HCS",
+      "VA Confirmed Total_Display" : "859",
+      "Active" : "13",
+      "Convalescent" : "777",
+      "Known Deaths" : "69",
+      "Dose 1 of 2 (Pfizer or Moderna)" : "10292",
+      "Dose 2 of 2 (Pfizer or Moderna)" : "7798",
+      "Dose 1 of 1 (Janssen)" : "264"
+   },
+   {
+      "Facility" : "Hudson Valley, NY HCS",
+      "VA Confirmed Total_Display" : "850",
+      "Active" : "19",
+      "Convalescent" : "796",
+      "Known Deaths" : "35",
+      "Dose 1 of 2 (Pfizer or Moderna)" : "11185",
+      "Dose 2 of 2 (Pfizer or Moderna)" : "9112",
+      "Dose 1 of 1 (Janssen)" : "516"
+   },
+   {
+      "Facility" : "Saginaw, MI HCS",
+      "VA Confirmed Total_Display" : "850",
+      "Active" : "56",
+      "Convalescent" : "744",
+      "Known Deaths" : "50",
+      "Dose 1 of 2 (Pfizer or Moderna)" : "10731",
+      "Dose 2 of 2 (Pfizer or Moderna)" : "7543",
+      "Dose 1 of 1 (Janssen)" : "521"
+   },
+   {
+      "Facility" : "Danville, IL HCS",
+      "VA Confirmed Total_Display" : "843",
+      "Active" : "10",
+      "Convalescent" : "782",
+      "Known Deaths" : "51",
+      "Dose 1 of 2 (Pfizer or Moderna)" : "7521",
+      "Dose 2 of 2 (Pfizer or Moderna)" : "6120",
+      "Dose 1 of 1 (Janssen)" : "206"
+   },
+   {
+      "Facility" : "Bedford, MA HCS",
+      "VA Confirmed Total_Display" : "804",
+      "Active" : "8",
+      "Convalescent" : "748",
+      "Known Deaths" : "48",
+      "Dose 1 of 2 (Pfizer or Moderna)" : "16647",
+      "Dose 2 of 2 (Pfizer or Moderna)" : "14620",
+      "Dose 1 of 1 (Janssen)" : "<10"
+   },
+   {
+      "Facility" : "Finger Lakes, NY HCS",
+      "VA Confirmed Total_Display" : "772",
+      "Active" : "14",
+      "Convalescent" : "723",
+      "Known Deaths" : "35",
+      "Dose 1 of 2 (Pfizer or Moderna)" : "11701",
+      "Dose 2 of 2 (Pfizer or Moderna)" : "8489",
+      "Dose 1 of 1 (Janssen)" : "446"
+   },
+   {
+      "Facility" : "Central Western Massachusetts HCS",
+      "VA Confirmed Total_Display" : "755",
+      "Active" : "14",
+      "Convalescent" : "688",
+      "Known Deaths" : "53",
+      "Dose 1 of 2 (Pfizer or Moderna)" : "10548",
+      "Dose 2 of 2 (Pfizer or Moderna)" : "7236",
+      "Dose 1 of 1 (Janssen)" : "624"
+   },
+   {
+      "Facility" : "Erie, PA HCS",
+      "VA Confirmed Total_Display" : "727",
+      "Active" : "9",
+      "Convalescent" : "684",
+      "Known Deaths" : "34",
+      "Dose 1 of 2 (Pfizer or Moderna)" : "7804",
+      "Dose 2 of 2 (Pfizer or Moderna)" : "5921",
+      "Dose 1 of 1 (Janssen)" : "415"
+   },
+   {
+      "Facility" : "Anchorage, AK HCS",
+      "VA Confirmed Total_Display" : "719",
+      "Active" : "16",
+      "Convalescent" : "690",
+      "Known Deaths" : "13",
+      "Dose 1 of 2 (Pfizer or Moderna)" : "5251",
+      "Dose 2 of 2 (Pfizer or Moderna)" : "4223",
+      "Dose 1 of 1 (Janssen)" : "621"
+   },
+   {
+      "Facility" : "Iron Mountain, MI HCS",
+      "VA Confirmed Total_Display" : "706",
+      "Active" : "7",
+      "Convalescent" : "669",
+      "Known Deaths" : "30",
+      "Dose 1 of 2 (Pfizer or Moderna)" : "8262",
+      "Dose 2 of 2 (Pfizer or Moderna)" : "7448",
+      "Dose 1 of 1 (Janssen)" : "386"
+   },
+   {
+      "Facility" : "Cheyenne, WY HCS",
+      "VA Confirmed Total_Display" : "695",
+      "Active" : "21",
+      "Convalescent" : "646",
+      "Known Deaths" : "28",
+      "Dose 1 of 2 (Pfizer or Moderna)" : "6978",
+      "Dose 2 of 2 (Pfizer or Moderna)" : "5132",
+      "Dose 1 of 1 (Janssen)" : "108"
+   },
+   {
+      "Facility" : "Tuscaloosa, AL HCS",
+      "VA Confirmed Total_Display" : "692",
+      "Active" : "4",
+      "Convalescent" : "650",
+      "Known Deaths" : "38",
+      "Dose 1 of 2 (Pfizer or Moderna)" : "5403",
+      "Dose 2 of 2 (Pfizer or Moderna)" : "3933",
+      "Dose 1 of 1 (Janssen)" : "22"
+   },
+   {
+      "Facility" : "San Francisco, CA HCS",
+      "VA Confirmed Total_Display" : "687",
+      "Active" : "7",
+      "Convalescent" : "643",
+      "Known Deaths" : "37",
+      "Dose 1 of 2 (Pfizer or Moderna)" : "14060",
+      "Dose 2 of 2 (Pfizer or Moderna)" : "11613",
+      "Dose 1 of 1 (Janssen)" : "699"
+   },
+   {
+      "Facility" : "Albany, NY HCS",
+      "VA Confirmed Total_Display" : "673",
+      "Active" : "24",
+      "Convalescent" : "606",
+      "Known Deaths" : "43",
+      "Dose 1 of 2 (Pfizer or Moderna)" : "10460",
+      "Dose 2 of 2 (Pfizer or Moderna)" : "7738",
+      "Dose 1 of 1 (Janssen)" : "446"
+   },
+   {
+      "Facility" : "Chillicothe, OH HCS",
+      "VA Confirmed Total_Display" : "646",
+      "Active" : "4",
+      "Convalescent" : "622",
+      "Known Deaths" : "20",
+      "Dose 1 of 2 (Pfizer or Moderna)" : "8739",
+      "Dose 2 of 2 (Pfizer or Moderna)" : "6978",
+      "Dose 1 of 1 (Janssen)" : "411"
+   },
+   {
+      "Facility" : "Manchester, NH HCS",
+      "VA Confirmed Total_Display" : "628",
+      "Active" : "21",
+      "Convalescent" : "576",
+      "Known Deaths" : "31",
+      "Dose 1 of 2 (Pfizer or Moderna)" : "8452",
+      "Dose 2 of 2 (Pfizer or Moderna)" : "5442",
+      "Dose 1 of 1 (Janssen)" : "512"
+   },
+   {
+      "Facility" : "Togus, ME HCS",
+      "VA Confirmed Total_Display" : "589",
+      "Active" : "20",
+      "Convalescent" : "543",
+      "Known Deaths" : "26",
+      "Dose 1 of 2 (Pfizer or Moderna)" : "13756",
+      "Dose 2 of 2 (Pfizer or Moderna)" : "8575",
+      "Dose 1 of 1 (Janssen)" : "1166"
+   },
+   {
+      "Facility" : "Big Spring, TX HCS",
+      "VA Confirmed Total_Display" : "573",
+      "Active" : "4",
+      "Convalescent" : "524",
+      "Known Deaths" : "45",
+      "Dose 1 of 2 (Pfizer or Moderna)" : "4066",
+      "Dose 2 of 2 (Pfizer or Moderna)" : "3325",
+      "Dose 1 of 1 (Janssen)" : "258"
+   },
+   {
+      "Facility" : "Clarksburg, WV HCS",
+      "VA Confirmed Total_Display" : "545",
+      "Active" : "15",
+      "Convalescent" : "491",
+      "Known Deaths" : "39",
+      "Dose 1 of 2 (Pfizer or Moderna)" : "6718",
+      "Dose 2 of 2 (Pfizer or Moderna)" : "5432",
+      "Dose 1 of 1 (Janssen)" : "137"
+   },
+   {
+      "Facility" : "Butler, PA HCS",
+      "VA Confirmed Total_Display" : "540",
+      "Active" : "12",
+      "Convalescent" : "512",
+      "Known Deaths" : "16",
+      "Dose 1 of 2 (Pfizer or Moderna)" : "7353",
+      "Dose 2 of 2 (Pfizer or Moderna)" : "5746",
+      "Dose 1 of 1 (Janssen)" : "264"
+   },
+   {
+      "Facility" : "Coatesville, PA HCS",
+      "VA Confirmed Total_Display" : "487",
+      "Active" : "10",
+      "Convalescent" : "455",
+      "Known Deaths" : "22",
+      "Dose 1 of 2 (Pfizer or Moderna)" : "7159",
+      "Dose 2 of 2 (Pfizer or Moderna)" : "5299",
+      "Dose 1 of 1 (Janssen)" : "309"
+   },
+   {
+      "Facility" : "Grand Junction, CO HCS",
+      "VA Confirmed Total_Display" : "471",
+      "Active" : "4",
+      "Convalescent" : "440",
+      "Known Deaths" : "27",
+      "Dose 1 of 2 (Pfizer or Moderna)" : "5567",
+      "Dose 2 of 2 (Pfizer or Moderna)" : "4780",
+      "Dose 1 of 1 (Janssen)" : "247"
+   },
+   {
+      "Facility" : "Walla Walla, WA HCS",
+      "VA Confirmed Total_Display" : "420",
+      "Active" : "4",
+      "Convalescent" : "390",
+      "Known Deaths" : "26",
+      "Dose 1 of 2 (Pfizer or Moderna)" : "5392",
+      "Dose 2 of 2 (Pfizer or Moderna)" : "3999",
+      "Dose 1 of 1 (Janssen)" : "454"
+   },
+   {
+      "Facility" : "Sheridan, WY HCS",
+      "VA Confirmed Total_Display" : "358",
+      "Active" : "5",
+      "Convalescent" : "347",
+      "Known Deaths" : "6",
+      "Dose 1 of 2 (Pfizer or Moderna)" : "3851",
+      "Dose 2 of 2 (Pfizer or Moderna)" : "3111",
+      "Dose 1 of 1 (Janssen)" : "65"
+   },
+   {
+      "Facility" : "Honolulu, HI HCS",
+      "VA Confirmed Total_Display" : "322",
+      "Active" : "12",
+      "Convalescent" : "296",
+      "Known Deaths" : "14",
+      "Dose 1 of 2 (Pfizer or Moderna)" : "12783",
+      "Dose 2 of 2 (Pfizer or Moderna)" : "9966",
+      "Dose 1 of 1 (Janssen)" : "605"
+   },
+   {
+      "Facility" : "Beckley, WV HCS",
+      "VA Confirmed Total_Display" : "313",
+      "Active" : "11",
+      "Convalescent" : "289",
+      "Known Deaths" : "13",
+      "Dose 1 of 2 (Pfizer or Moderna)" : "5243",
+      "Dose 2 of 2 (Pfizer or Moderna)" : "4053",
+      "Dose 1 of 1 (Janssen)" : "85"
+   },
+   {
+      "Facility" : "Spokane, WA HCS",
+      "VA Confirmed Total_Display" : "280",
+      "Active" : "1",
+      "Convalescent" : "258",
+      "Known Deaths" : "21",
+      "Dose 1 of 2 (Pfizer or Moderna)" : "8646",
+      "Dose 2 of 2 (Pfizer or Moderna)" : "5565",
+      "Dose 1 of 1 (Janssen)" : "524"
+   },
+   {
+      "Facility" : "Roseburg, OR HCS",
+      "VA Confirmed Total_Display" : "272",
+      "Active" : "8",
+      "Convalescent" : "254",
+      "Known Deaths" : "10",
+      "Dose 1 of 2 (Pfizer or Moderna)" : "8312",
+      "Dose 2 of 2 (Pfizer or Moderna)" : "4913",
+      "Dose 1 of 1 (Janssen)" : "47"
+   },
+   {
+      "Facility" : "White River Junction, VT HCS",
+      "VA Confirmed Total_Display" : "262",
+      "Active" : "14",
+      "Convalescent" : "237",
+      "Known Deaths" : "11",
+      "Dose 1 of 2 (Pfizer or Moderna)" : "8640",
+      "Dose 2 of 2 (Pfizer or Moderna)" : "5883",
+      "Dose 1 of 1 (Janssen)" : "483"
+   },
+   {
+      "Facility" : "White City, OR HCS",
+      "VA Confirmed Total_Display" : "243",
+      "Active" : "12",
+      "Convalescent" : "208",
+      "Known Deaths" : "23",
+      "Dose 1 of 2 (Pfizer or Moderna)" : "5807",
+      "Dose 2 of 2 (Pfizer or Moderna)" : "3984",
+      "Dose 1 of 1 (Janssen)" : "30"
+   },
+   {
+      "Facility" : "Manila, PI HCS",
+      "VA Confirmed Total_Display" : "3",
+      "Active" : "1",
+      "Convalescent" : "2",
+      "Known Deaths" : "0",
+      "Dose 1 of 2 (Pfizer or Moderna)" : "0",
+      "Dose 2 of 2 (Pfizer or Moderna)" : "0",
+      "Dose 1 of 1 (Janssen)" : "0"
+   },
+   {
+      "Facility" : "",
+      "VA Confirmed Total_Display" : "0",
+      "Active" : "0",
+      "Convalescent" : "0",
+      "Known Deaths" : "0",
+      "Dose 1 of 2 (Pfizer or Moderna)" : "781",
+      "Dose 2 of 2 (Pfizer or Moderna)" : "754",
+      "Dose 1 of 1 (Janssen)" : "0"
+   }
+]
